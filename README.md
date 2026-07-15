@@ -16,10 +16,11 @@ analysis and a qualitative error analysis.
 
 ![Knowledge acquisition framework: from unstructured group chat to structured decision-making data](figures/fig1_knowledge_acquisition.png)
 
-> 🖱️ **Try it:** [`docs/index.html`](docs/index.html) is an interactive walkthrough of one real
-> conversation — a chat-app-style view of the dialogue side by side with the Step 1.1 → 4 output
-> tables (ground truth vs. GPT-5), with per-step evidence highlighting. Open the file locally in a
-> browser, or serve it via GitHub Pages.
+> 🖱️ **Try it live:** **<https://syl9205.github.io/group-decision-llm/>** — an interactive
+> walkthrough of one real conversation: a chat-app-style view of the dialogue side by side with the
+> Step 1.1 → 4 output tables (ground truth vs. GPT-5 vs. GPT-4o), with per-step evidence
+> highlighting. (Source: [`docs/index.html`](docs/index.html); after cloning you can also open that
+> file directly in a browser.)
 
 ## The four-step framework
 
@@ -168,8 +169,26 @@ format, the gold-annotation schema, and the Step 4 factor codes.
 
 ## Citation
 
-If you use this code or data, please cite the associated paper. *(Add citation
-details upon publication.)*
+If you use this code or data, please cite:
+
+> Lim, S.Y., Sato, K., Takami, K., Parady, G., Kim, E.J.\* (2026). Can Large Language Models
+> Interpret Unstructured Chat Data on Dynamic Group Decision-Making Processes? Evidence on Joint
+> Destination Choice. *arXiv preprint* arXiv:2601.05582.
+> <https://arxiv.org/abs/2601.05582> — currently under revision in *Travel Behaviour and Society*.
+
+```bibtex
+@article{lim2026llmgroupdecision,
+  title   = {Can Large Language Models Interpret Unstructured Chat Data on Dynamic
+             Group Decision-Making Processes? Evidence on Joint Destination Choice},
+  author  = {Lim, S.Y. and Sato, K. and Takami, K. and Parady, G. and Kim, E.J.},
+  journal = {arXiv preprint arXiv:2601.05582},
+  year    = {2026},
+  url     = {https://arxiv.org/abs/2601.05582},
+  note    = {Under revision in Travel Behaviour and Society}
+}
+```
+
+*(This section will be updated with the journal citation upon publication.)*
 
 If you use the conversation data, please also cite the data-collection
 methodology:
