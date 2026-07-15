@@ -181,6 +181,7 @@ methodology:
 
 ## License
 
-No license has been set yet; by default all rights are reserved. Add a license
-before reuse, and confirm the terms for the conversation data before
-redistributing.
+The **code** is released under the [MIT License](LICENSE). The **conversation
+data** under `data/` is provided for research purposes only — see the Data
+Notice in [LICENSE](LICENSE) for the terms (cite the x-GDP paper, no separate
+redistribution, no re-identification attempts).
