@@ -1,0 +1,186 @@
+{
+  "preference_table": [
+    {
+      "participant": "A",
+      "restaurant": "一番餃子",
+      "preferences": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "ごはんがススム食堂",
+      "preferences": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "松好",
+      "preferences": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "焼き鳥＆肉寿司食べ放題 個室居酒屋 鳥物語 上野店",
+      "preferences": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "しゃぶしゃぶ温野菜 上野広小路店",
+      "preferences": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "完全個室居酒屋 九州蔵 上野駅前店",
+      "preferences": "A7"
+    },
+    {
+      "participant": "B",
+      "restaurant": "一番餃子",
+      "preferences": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "ごはんがススム食堂",
+      "preferences": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "松好",
+      "preferences": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "焼き鳥＆肉寿司食べ放題 個室居酒屋 鳥物語 上野店",
+      "preferences": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "しゃぶしゃぶ温野菜 上野広小路店",
+      "preferences": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "完全個室居酒屋 九州蔵 上野駅前店",
+      "preferences": "A7"
+    },
+    {
+      "participant": "C",
+      "restaurant": "一番餃子",
+      "preferences": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "ごはんがススム食堂",
+      "preferences": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "松好",
+      "preferences": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "焼き鳥＆肉寿司食べ放題 個室居酒屋 鳥物語 上野店",
+      "preferences": "A7"
+    },
+    {
+      "participant": "C",
+      "restaurant": "しゃぶしゃぶ温野菜 上野広小路店",
+      "preferences": "A1"
+    },
+    {
+      "participant": "C",
+      "restaurant": "完全個室居酒屋 九州蔵 上野駅前店",
+      "preferences": "A7"
+    }
+  ],
+  "constraint_table": [
+    {
+      "participant": "A",
+      "restaurant": "一番餃子",
+      "constraints": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "ごはんがススム食堂",
+      "constraints": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "松好",
+      "constraints": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "焼き鳥＆肉寿司食べ放題 個室居酒屋 鳥物語 上野店",
+      "constraints": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "しゃぶしゃぶ温野菜 上野広小路店",
+      "constraints": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "完全個室居酒屋 九州蔵 上野駅前店",
+      "constraints": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "一番餃子",
+      "constraints": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "ごはんがススム食堂",
+      "constraints": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "松好",
+      "constraints": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "焼き鳥＆肉寿司食べ放題 個室居酒屋 鳥物語 上野店",
+      "constraints": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "しゃぶしゃぶ温野菜 上野広小路店",
+      "constraints": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "完全個室居酒屋 九州蔵 上野駅前店",
+      "constraints": "A1"
+    },
+    {
+      "participant": "C",
+      "restaurant": "一番餃子",
+      "constraints": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "ごはんがススム食堂",
+      "constraints": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "松好",
+      "constraints": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "焼き鳥＆肉寿司食べ放題 個室居酒屋 鳥物語 上野店",
+      "constraints": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "しゃぶしゃぶ温野菜 上野広小路店",
+      "constraints": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "完全個室居酒屋 九州蔵 上野駅前店",
+      "constraints": "None"
+    }
+  ]
+}

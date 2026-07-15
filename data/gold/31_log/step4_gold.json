@@ -1,0 +1,326 @@
+{
+  "preference_table": [
+    {
+      "participant": "A",
+      "restaurant": "アークラウンジ 新宿西口駅前店（Ark Lounge）",
+      "preferences": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "ゴールデンバカン",
+      "preferences": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "Spring Revolution Restaurant（スプリング レボリューション レストラン）",
+      "preferences": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "ルビー（RUBY）",
+      "preferences": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "かしわ 渋谷ヒカリエ店",
+      "preferences": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "韓国料理 ホンデポチャ 渋谷店",
+      "preferences": "A1"
+    },
+    {
+      "participant": "A",
+      "restaurant": "サイゼリヤ 渋谷東急ハンズ前店",
+      "preferences": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "ブッチャー・リパブリック 品川 シカゴピザ&BBQステーキ",
+      "preferences": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "アークラウンジ 新宿西口駅前店（Ark Lounge）",
+      "preferences": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "ゴールデンバカン",
+      "preferences": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "Spring Revolution Restaurant（スプリング レボリューション レストラン）",
+      "preferences": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "ルビー（RUBY）",
+      "preferences": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "かしわ 渋谷ヒカリエ店",
+      "preferences": "A1"
+    },
+    {
+      "participant": "B",
+      "restaurant": "韓国料理 ホンデポチャ 渋谷店",
+      "preferences": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "サイゼリヤ 渋谷東急ハンズ前店",
+      "preferences": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "ブッチャー・リパブリック 品川 シカゴピザ&BBQステーキ",
+      "preferences": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "アークラウンジ 新宿西口駅前店（Ark Lounge）",
+      "preferences": "A1"
+    },
+    {
+      "participant": "C",
+      "restaurant": "ゴールデンバカン",
+      "preferences": "A7"
+    },
+    {
+      "participant": "C",
+      "restaurant": "Spring Revolution Restaurant（スプリング レボリューション レストラン）",
+      "preferences": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "ルビー（RUBY）",
+      "preferences": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "かしわ 渋谷ヒカリエ店",
+      "preferences": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "韓国料理 ホンデポチャ 渋谷店",
+      "preferences": "A7"
+    },
+    {
+      "participant": "C",
+      "restaurant": "サイゼリヤ 渋谷東急ハンズ前店",
+      "preferences": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "ブッチャー・リパブリック 品川 シカゴピザ&BBQステーキ",
+      "preferences": "A1"
+    },
+    {
+      "participant": "D",
+      "restaurant": "アークラウンジ 新宿西口駅前店（Ark Lounge）",
+      "preferences": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "ゴールデンバカン",
+      "preferences": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "Spring Revolution Restaurant（スプリング レボリューション レストラン）",
+      "preferences": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "ルビー（RUBY）",
+      "preferences": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "かしわ 渋谷ヒカリエ店",
+      "preferences": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "韓国料理 ホンデポチャ 渋谷店",
+      "preferences": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "サイゼリヤ 渋谷東急ハンズ前店",
+      "preferences": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "ブッチャー・リパブリック 品川 シカゴピザ&BBQステーキ",
+      "preferences": "A1"
+    }
+  ],
+  "constraint_table": [
+    {
+      "participant": "A",
+      "restaurant": "アークラウンジ 新宿西口駅前店（Ark Lounge）",
+      "constraints": "A6"
+    },
+    {
+      "participant": "A",
+      "restaurant": "ゴールデンバカン",
+      "constraints": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "Spring Revolution Restaurant（スプリング レボリューション レストラン）",
+      "constraints": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "ルビー（RUBY）",
+      "constraints": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "かしわ 渋谷ヒカリエ店",
+      "constraints": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "韓国料理 ホンデポチャ 渋谷店",
+      "constraints": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "サイゼリヤ 渋谷東急ハンズ前店",
+      "constraints": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "ブッチャー・リパブリック 品川 シカゴピザ&BBQステーキ",
+      "constraints": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "アークラウンジ 新宿西口駅前店（Ark Lounge）",
+      "constraints": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "ゴールデンバカン",
+      "constraints": "A7"
+    },
+    {
+      "participant": "B",
+      "restaurant": "Spring Revolution Restaurant（スプリング レボリューション レストラン）",
+      "constraints": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "ルビー（RUBY）",
+      "constraints": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "かしわ 渋谷ヒカリエ店",
+      "constraints": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "韓国料理 ホンデポチャ 渋谷店",
+      "constraints": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "サイゼリヤ 渋谷東急ハンズ前店",
+      "constraints": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "ブッチャー・リパブリック 品川 シカゴピザ&BBQステーキ",
+      "constraints": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "アークラウンジ 新宿西口駅前店（Ark Lounge）",
+      "constraints": "A2,A6"
+    },
+    {
+      "participant": "C",
+      "restaurant": "ゴールデンバカン",
+      "constraints": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "Spring Revolution Restaurant（スプリング レボリューション レストラン）",
+      "constraints": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "ルビー（RUBY）",
+      "constraints": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "かしわ 渋谷ヒカリエ店",
+      "constraints": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "韓国料理 ホンデポチャ 渋谷店",
+      "constraints": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "サイゼリヤ 渋谷東急ハンズ前店",
+      "constraints": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "ブッチャー・リパブリック 品川 シカゴピザ&BBQステーキ",
+      "constraints": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "アークラウンジ 新宿西口駅前店（Ark Lounge）",
+      "constraints": "A6"
+    },
+    {
+      "participant": "D",
+      "restaurant": "ゴールデンバカン",
+      "constraints": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "Spring Revolution Restaurant（スプリング レボリューション レストラン）",
+      "constraints": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "ルビー（RUBY）",
+      "constraints": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "かしわ 渋谷ヒカリエ店",
+      "constraints": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "韓国料理 ホンデポチャ 渋谷店",
+      "constraints": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "サイゼリヤ 渋谷東急ハンズ前店",
+      "constraints": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "ブッチャー・リパブリック 品川 シカゴピザ&BBQステーキ",
+      "constraints": "None"
+    }
+  ]
+}

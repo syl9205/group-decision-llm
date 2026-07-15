@@ -1,0 +1,179 @@
+{
+  "perception_table": [
+    {
+      "participant": "A",
+      "restaurant": "サイゼリヤ 本郷三丁目店",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "A",
+      "restaurant": "らーめん 鴨to葱",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "A",
+      "restaurant": "宮本（みやもと）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "A",
+      "restaurant": "ピッツェリア トラットリア ニッターナ（NITTANA）",
+      "perception": "Positive"
+    },
+    {
+      "participant": "A",
+      "restaurant": "もつ焼き おとんば 上野店",
+      "perception": "Positive"
+    },
+    {
+      "participant": "A",
+      "restaurant": "一番餃子",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "A",
+      "restaurant": "しゃぶしゃぶ 温野菜 上野駅前店",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "B",
+      "restaurant": "サイゼリヤ 本郷三丁目店",
+      "perception": "Negative"
+    },
+    {
+      "participant": "B",
+      "restaurant": "らーめん 鴨to葱",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "B",
+      "restaurant": "宮本（みやもと）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "B",
+      "restaurant": "ピッツェリア トラットリア ニッターナ（NITTANA）",
+      "perception": "Positive"
+    },
+    {
+      "participant": "B",
+      "restaurant": "もつ焼き おとんば 上野店",
+      "perception": "Negative"
+    },
+    {
+      "participant": "B",
+      "restaurant": "一番餃子",
+      "perception": "Negative"
+    },
+    {
+      "participant": "B",
+      "restaurant": "しゃぶしゃぶ 温野菜 上野駅前店",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "C",
+      "restaurant": "サイゼリヤ 本郷三丁目店",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "C",
+      "restaurant": "らーめん 鴨to葱",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "C",
+      "restaurant": "宮本（みやもと）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "C",
+      "restaurant": "ピッツェリア トラットリア ニッターナ（NITTANA）",
+      "perception": "Mix"
+    },
+    {
+      "participant": "C",
+      "restaurant": "もつ焼き おとんば 上野店",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "C",
+      "restaurant": "一番餃子",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "C",
+      "restaurant": "しゃぶしゃぶ 温野菜 上野駅前店",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "D",
+      "restaurant": "サイゼリヤ 本郷三丁目店",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "D",
+      "restaurant": "らーめん 鴨to葱",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "D",
+      "restaurant": "宮本（みやもと）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "D",
+      "restaurant": "ピッツェリア トラットリア ニッターナ（NITTANA）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "D",
+      "restaurant": "もつ焼き おとんば 上野店",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "D",
+      "restaurant": "一番餃子",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "D",
+      "restaurant": "しゃぶしゃぶ 温野菜 上野駅前店",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "E",
+      "restaurant": "サイゼリヤ 本郷三丁目店",
+      "perception": "Negative"
+    },
+    {
+      "participant": "E",
+      "restaurant": "らーめん 鴨to葱",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "E",
+      "restaurant": "宮本（みやもと）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "E",
+      "restaurant": "ピッツェリア トラットリア ニッターナ（NITTANA）",
+      "perception": "Mix"
+    },
+    {
+      "participant": "E",
+      "restaurant": "もつ焼き おとんば 上野店",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "E",
+      "restaurant": "一番餃子",
+      "perception": "Negative"
+    },
+    {
+      "participant": "E",
+      "restaurant": "しゃぶしゃぶ 温野菜 上野駅前店",
+      "perception": "Neutral"
+    }
+  ]
+}

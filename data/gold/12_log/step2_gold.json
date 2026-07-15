@@ -1,0 +1,94 @@
+{
+  "mentioned_table": [
+    {
+      "participant": "A",
+      "restaurant": "サーモンパンチ 渋谷店",
+      "mention": "Mentioned"
+    },
+    {
+      "participant": "A",
+      "restaurant": "北海道スープカレー Suage 渋谷店",
+      "mention": "Mentioned"
+    },
+    {
+      "participant": "A",
+      "restaurant": "アンコール・ワット",
+      "mention": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "麺散",
+      "mention": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "焼売酒場 道玄坂",
+      "mention": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "自然薯 tororo（ジネンジョ トロロ）",
+      "mention": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "サーモンパンチ 渋谷店",
+      "mention": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "北海道スープカレー Suage 渋谷店",
+      "mention": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "アンコール・ワット",
+      "mention": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "麺散",
+      "mention": "Mentioned"
+    },
+    {
+      "participant": "B",
+      "restaurant": "焼売酒場 道玄坂",
+      "mention": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "自然薯 tororo（ジネンジョ トロロ）",
+      "mention": "Mentioned"
+    },
+    {
+      "participant": "C",
+      "restaurant": "サーモンパンチ 渋谷店",
+      "mention": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "北海道スープカレー Suage 渋谷店",
+      "mention": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "アンコール・ワット",
+      "mention": "Mentioned"
+    },
+    {
+      "participant": "C",
+      "restaurant": "麺散",
+      "mention": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "焼売酒場 道玄坂",
+      "mention": "Mentioned"
+    },
+    {
+      "participant": "C",
+      "restaurant": "自然薯 tororo（ジネンジョ トロロ）",
+      "mention": "None"
+    }
+  ]
+}

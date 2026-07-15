@@ -1,0 +1,94 @@
+{
+  "perception_table": [
+    {
+      "participant": "A",
+      "restaurant": "サーモンパンチ 渋谷店",
+      "perception": "Positive"
+    },
+    {
+      "participant": "A",
+      "restaurant": "北海道スープカレー Suage 渋谷店",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "A",
+      "restaurant": "アンコール・ワット",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "A",
+      "restaurant": "麺散",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "A",
+      "restaurant": "焼売酒場 道玄坂",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "A",
+      "restaurant": "自然薯 tororo（ジネンジョ トロロ）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "B",
+      "restaurant": "サーモンパンチ 渋谷店",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "B",
+      "restaurant": "北海道スープカレー Suage 渋谷店",
+      "perception": "Positive"
+    },
+    {
+      "participant": "B",
+      "restaurant": "アンコール・ワット",
+      "perception": "Positive"
+    },
+    {
+      "participant": "B",
+      "restaurant": "麺散",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "B",
+      "restaurant": "焼売酒場 道玄坂",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "B",
+      "restaurant": "自然薯 tororo（ジネンジョ トロロ）",
+      "perception": "Positive"
+    },
+    {
+      "participant": "C",
+      "restaurant": "サーモンパンチ 渋谷店",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "C",
+      "restaurant": "北海道スープカレー Suage 渋谷店",
+      "perception": "Positive"
+    },
+    {
+      "participant": "C",
+      "restaurant": "アンコール・ワット",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "C",
+      "restaurant": "麺散",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "C",
+      "restaurant": "焼売酒場 道玄坂",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "C",
+      "restaurant": "自然薯 tororo（ジネンジョ トロロ）",
+      "perception": "Positive"
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "perception_table": [
+    {
+      "participant": "A",
+      "restaurant": "餃子の王将 下北沢店",
+      "perception": "Positive"
+    },
+    {
+      "participant": "A",
+      "restaurant": "ムスカン（MUSKAN）",
+      "perception": "Mix"
+    },
+    {
+      "participant": "A",
+      "restaurant": "NAN STATION（ナンステーション）",
+      "perception": "Positive"
+    },
+    {
+      "participant": "A",
+      "restaurant": "丸亀製麺 下北沢店",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "A",
+      "restaurant": "油そば 東京油組総本店 下北沢組",
+      "perception": "Negative"
+    },
+    {
+      "participant": "A",
+      "restaurant": "スタン サンドイッチストア（STAN sandwich store）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "A",
+      "restaurant": "黒川食堂",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "B",
+      "restaurant": "餃子の王将 下北沢店",
+      "perception": "Negative"
+    },
+    {
+      "participant": "B",
+      "restaurant": "ムスカン（MUSKAN）",
+      "perception": "Positive"
+    },
+    {
+      "participant": "B",
+      "restaurant": "NAN STATION（ナンステーション）",
+      "perception": "Positive"
+    },
+    {
+      "participant": "B",
+      "restaurant": "丸亀製麺 下北沢店",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "B",
+      "restaurant": "油そば 東京油組総本店 下北沢組",
+      "perception": "Negative"
+    },
+    {
+      "participant": "B",
+      "restaurant": "スタン サンドイッチストア（STAN sandwich store）",
+      "perception": "Positive"
+    },
+    {
+      "participant": "B",
+      "restaurant": "黒川食堂",
+      "perception": "Positive"
+    },
+    {
+      "participant": "C",
+      "restaurant": "餃子の王将 下北沢店",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "C",
+      "restaurant": "ムスカン（MUSKAN）",
+      "perception": "Positive"
+    },
+    {
+      "participant": "C",
+      "restaurant": "NAN STATION（ナンステーション）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "C",
+      "restaurant": "丸亀製麺 下北沢店",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "C",
+      "restaurant": "油そば 東京油組総本店 下北沢組",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "C",
+      "restaurant": "スタン サンドイッチストア（STAN sandwich store）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "C",
+      "restaurant": "黒川食堂",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "D",
+      "restaurant": "餃子の王将 下北沢店",
+      "perception": "Positive"
+    },
+    {
+      "participant": "D",
+      "restaurant": "ムスカン（MUSKAN）",
+      "perception": "Mix"
+    },
+    {
+      "participant": "D",
+      "restaurant": "NAN STATION（ナンステーション）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "D",
+      "restaurant": "丸亀製麺 下北沢店",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "D",
+      "restaurant": "油そば 東京油組総本店 下北沢組",
+      "perception": "Negative"
+    },
+    {
+      "participant": "D",
+      "restaurant": "スタン サンドイッチストア（STAN sandwich store）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "D",
+      "restaurant": "黒川食堂",
+      "perception": "Neutral"
+    }
+  ]
+}

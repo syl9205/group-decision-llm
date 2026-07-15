@@ -1,0 +1,126 @@
+{
+  "preference_table": [
+    {
+      "participant": "A",
+      "restaurant": "ニューヨック中野",
+      "preferences": "A7"
+    },
+    {
+      "participant": "A",
+      "restaurant": "豚とバラの日々",
+      "preferences": "A1"
+    },
+    {
+      "participant": "A",
+      "restaurant": "たまには焼肉 高円寺店",
+      "preferences": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "ニューヨック中野",
+      "preferences": "A7,A1"
+    },
+    {
+      "participant": "B",
+      "restaurant": "豚とバラの日々",
+      "preferences": "A1"
+    },
+    {
+      "participant": "B",
+      "restaurant": "たまには焼肉 高円寺店",
+      "preferences": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "ニューヨック中野",
+      "preferences": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "豚とバラの日々",
+      "preferences": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "たまには焼肉 高円寺店",
+      "preferences": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "ニューヨック中野",
+      "preferences": "A1"
+    },
+    {
+      "participant": "D",
+      "restaurant": "豚とバラの日々",
+      "preferences": "A1"
+    },
+    {
+      "participant": "D",
+      "restaurant": "たまには焼肉 高円寺店",
+      "preferences": "None"
+    }
+  ],
+  "constraint_table": [
+    {
+      "participant": "A",
+      "restaurant": "ニューヨック中野",
+      "constraints": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "豚とバラの日々",
+      "constraints": "A2"
+    },
+    {
+      "participant": "A",
+      "restaurant": "たまには焼肉 高円寺店",
+      "constraints": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "ニューヨック中野",
+      "constraints": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "豚とバラの日々",
+      "constraints": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "たまには焼肉 高円寺店",
+      "constraints": "A1"
+    },
+    {
+      "participant": "C",
+      "restaurant": "ニューヨック中野",
+      "constraints": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "豚とバラの日々",
+      "constraints": "A2"
+    },
+    {
+      "participant": "C",
+      "restaurant": "たまには焼肉 高円寺店",
+      "constraints": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "ニューヨック中野",
+      "constraints": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "豚とバラの日々",
+      "constraints": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "たまには焼肉 高円寺店",
+      "constraints": "None"
+    }
+  ]
+}

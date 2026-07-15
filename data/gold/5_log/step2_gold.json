@@ -1,0 +1,64 @@
+{
+  "mentioned_table": [
+    {
+      "participant": "A",
+      "restaurant": "バルバッコア 虎ノ門ヒルズ店",
+      "mention": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "本格中華ダイニング 豫園小籠包 新橋・銀座店",
+      "mention": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "天然居（テンネンキョ）",
+      "mention": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "分店　なかむら食堂",
+      "mention": "Mentioned"
+    },
+    {
+      "participant": "B",
+      "restaurant": "バルバッコア 虎ノ門ヒルズ店",
+      "mention": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "本格中華ダイニング 豫園小籠包 新橋・銀座店",
+      "mention": "Mentioned"
+    },
+    {
+      "participant": "B",
+      "restaurant": "天然居（テンネンキョ）",
+      "mention": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "分店　なかむら食堂",
+      "mention": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "バルバッコア 虎ノ門ヒルズ店",
+      "mention": "Mentioned"
+    },
+    {
+      "participant": "C",
+      "restaurant": "本格中華ダイニング 豫園小籠包 新橋・銀座店",
+      "mention": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "天然居（テンネンキョ）",
+      "mention": "Mentioned"
+    },
+    {
+      "participant": "C",
+      "restaurant": "分店　なかむら食堂",
+      "mention": "None"
+    }
+  ]
+}

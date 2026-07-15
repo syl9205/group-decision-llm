@@ -1,0 +1,94 @@
+{
+  "perception_table": [
+    {
+      "participant": "A",
+      "restaurant": "叙々苑",
+      "perception": "Negative"
+    },
+    {
+      "participant": "A",
+      "restaurant": "とらふぐ亭 渋谷店（とらふぐてい）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "A",
+      "restaurant": "グスタヴォ 神楽坂店",
+      "perception": "Positive"
+    },
+    {
+      "participant": "A",
+      "restaurant": "九州居酒屋 博多天神もつ鍋 永山本店 炎の陣 上野新館",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "A",
+      "restaurant": "牛タン専門店 タン治郎",
+      "perception": "Negative"
+    },
+    {
+      "participant": "A",
+      "restaurant": "とらふぐ亭 駒込店（とらふぐてい）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "B",
+      "restaurant": "叙々苑",
+      "perception": "Negative"
+    },
+    {
+      "participant": "B",
+      "restaurant": "とらふぐ亭 渋谷店（とらふぐてい）",
+      "perception": "Positive"
+    },
+    {
+      "participant": "B",
+      "restaurant": "グスタヴォ 神楽坂店",
+      "perception": "Positive"
+    },
+    {
+      "participant": "B",
+      "restaurant": "九州居酒屋 博多天神もつ鍋 永山本店 炎の陣 上野新館",
+      "perception": "Negative"
+    },
+    {
+      "participant": "B",
+      "restaurant": "牛タン専門店 タン治郎",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "B",
+      "restaurant": "とらふぐ亭 駒込店（とらふぐてい）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "C",
+      "restaurant": "叙々苑",
+      "perception": "Mix"
+    },
+    {
+      "participant": "C",
+      "restaurant": "とらふぐ亭 渋谷店（とらふぐてい）",
+      "perception": "Positive"
+    },
+    {
+      "participant": "C",
+      "restaurant": "グスタヴォ 神楽坂店",
+      "perception": "Positive"
+    },
+    {
+      "participant": "C",
+      "restaurant": "九州居酒屋 博多天神もつ鍋 永山本店 炎の陣 上野新館",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "C",
+      "restaurant": "牛タン専門店 タン治郎",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "C",
+      "restaurant": "とらふぐ亭 駒込店（とらふぐてい）",
+      "perception": "Neutral"
+    }
+  ]
+}

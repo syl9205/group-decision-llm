@@ -1,0 +1,475 @@
+{
+  "conversation_id": "4",
+  "conversation": [
+    {
+      "speaker": "A",
+      "utterance": "まず空いてる日をそれぞれあげていく感じにする……？"
+    },
+    {
+      "speaker": "B",
+      "utterance": "そうだね"
+    },
+    {
+      "speaker": "C",
+      "utterance": "おｋ"
+    },
+    {
+      "speaker": "B",
+      "utterance": "多分、日調僕がとりあえずあげた方がいいよね...?\n（余裕の無さを考える限り）"
+    },
+    {
+      "speaker": "A",
+      "utterance": "よろしく〜"
+    },
+    {
+      "speaker": "B",
+      "utterance": "はーい"
+    },
+    {
+      "speaker": "A",
+      "utterance": "ちなみに僕もバカなので対面授業ない日単発バイト申請しまくってしまっている"
+    },
+    {
+      "speaker": "B",
+      "utterance": "気づいたんだけど、夜は12/1と12/5くらいしか空いてない..."
+    },
+    {
+      "speaker": "A",
+      "utterance": "Oh"
+    },
+    {
+      "speaker": "B",
+      "utterance": "ダンスの引退イベの前だからかなり絞られてて...ごめんよ\nイベント前日だけど12/10は行けなくもない"
+    },
+    {
+      "speaker": "C",
+      "utterance": "7日にテストあるので1日のほうが嬉しいかもしれない……"
+    },
+    {
+      "speaker": "B",
+      "utterance": "12/1は理想すぎる"
+    },
+    {
+      "speaker": "A",
+      "utterance": "5はディズニー行くから絶対無理なんよな、1は昼から東京に行く予定があるから都合はいいかml\nも"
+    },
+    {
+      "speaker": "D",
+      "utterance": "私はその２日はどっちでもいけるよ~~10日はバイトあるからきついかも"
+    },
+    {
+      "speaker": "B",
+      "utterance": "おっこれは12/1の機運じゃない？"
+    },
+    {
+      "speaker": "A",
+      "utterance": "12/1が丸そう"
+    },
+    {
+      "speaker": "D",
+      "utterance": "おん"
+    },
+    {
+      "speaker": "C",
+      "utterance": "(スタンプ)"
+    },
+    {
+      "speaker": "B",
+      "utterance": "あとは時間か"
+    },
+    {
+      "speaker": "A",
+      "utterance": "じゃあ次は場所だな"
+    },
+    {
+      "speaker": "B",
+      "utterance": "場所か\nそらそう"
+    },
+    {
+      "speaker": "A",
+      "utterance": "時間は夜だからそんなに前後しないんじゃ"
+    },
+    {
+      "speaker": "B",
+      "utterance": "確かに？\n時間か"
+    },
+    {
+      "speaker": "A",
+      "utterance": "期間でした"
+    },
+    {
+      "speaker": "B",
+      "utterance": "いつでもいいよ"
+    },
+    {
+      "speaker": "D",
+      "utterance": "Aくんの東京での用事はどれくらいまであるの？"
+    },
+    {
+      "speaker": "C",
+      "utterance": "時間いつでもいいよ"
+    },
+    {
+      "speaker": "A",
+      "utterance": "少々お待ちを、"
+    },
+    {
+      "speaker": "B",
+      "utterance": "はーい"
+    },
+    {
+      "speaker": "A",
+      "utterance": "新宿で12時からTRPGってのをやりに行くんだけど一応所要時間3時間ってなってた\nから早過ぎなければ"
+    },
+    {
+      "speaker": "C",
+      "utterance": "なるほど"
+    },
+    {
+      "speaker": "D",
+      "utterance": "ほ〜"
+    },
+    {
+      "speaker": "B",
+      "utterance": "エリア：東京か千葉か\n東京の東京側（伝われ）が真ん中あたりかな"
+    },
+    {
+      "speaker": "A",
+      "utterance": "僕は一旦東京に行くからD次第かも"
+    },
+    {
+      "speaker": "C",
+      "utterance": "家が新小岩なのでどっちでも行けるよ"
+    },
+    {
+      "speaker": "D",
+      "utterance": "Aくんも丁度そっちにいるんだし東京のがよさそう感はある"
+    },
+    {
+      "speaker": "A",
+      "utterance": "じゃあ18時とか？"
+    },
+    {
+      "speaker": "B",
+      "utterance": "が、まるそう"
+    },
+    {
+      "speaker": "D",
+      "utterance": "わたしは丸一日なんもないので美術館とかプラつきついでにいければ丁度いいかな\nおけ"
+    },
+    {
+      "speaker": "B",
+      "utterance": "ただ、店によっては17時だと"
+    },
+    {
+      "speaker": "A",
+      "utterance": "あー"
+    },
+    {
+      "speaker": "D",
+      "utterance": "んあ"
+    },
+    {
+      "speaker": "B",
+      "utterance": "安くなるみたいなものもあるからそれには寄り添う"
+    },
+    {
+      "speaker": "A",
+      "utterance": "混み合う前に、みたいな？"
+    },
+    {
+      "speaker": "B",
+      "utterance": "それもある"
+    },
+    {
+      "speaker": "D",
+      "utterance": "まあなんにせよ先んじて決まってれば予約とかすればよさそう"
+    },
+    {
+      "speaker": "C",
+      "utterance": "そんなのあるんだ"
+    },
+    {
+      "speaker": "B",
+      "utterance": "そうだね"
+    },
+    {
+      "speaker": "A",
+      "utterance": "僕は初めて行くやつでちょっと終わりが分からないから余裕もって18時とかがいいかも\n一応所要時間3時間とかはなってたけど"
+    },
+    {
+      "speaker": "B",
+      "utterance": "おっけ！じゃあそうしよう、みんなそれでいい？"
+    },
+    {
+      "speaker": "C",
+      "utterance": "いいよ～"
+    },
+    {
+      "speaker": "B",
+      "utterance": "https://tabelog.com/tokyo/A1301/A130102/13233779/"
+    },
+    {
+      "speaker": "D",
+      "utterance": "https://tabelog.com/tokyo/A1303/A130301/13114720/"
+    },
+    {
+      "speaker": "C",
+      "utterance": "https://tabelog.com/tokyo/A1312/A131204/13190665/\nhttps://tabelog.com/tokyo/A1311/A131101/13028111/"
+    },
+    {
+      "speaker": "D",
+      "utterance": "https://tabelog.com/tokyo/A1301/A130101/13239443/"
+    },
+    {
+      "speaker": "B",
+      "utterance": "https://tabelog.com/tokyo/A1310/A131004/13003538/\nhttps://tabelog.com/tokyo/A1309/A130902/13189090/"
+    },
+    {
+      "speaker": "D",
+      "utterance": "https://tabelog.com/tokyo/A1304/A130401/13166157/"
+    },
+    {
+      "speaker": "A",
+      "utterance": "\"伊達の牛たん本舗 キッテグランシェ店\n03-6256-0810"
+    },
+    {
+      "speaker": "https",
+      "utterance": "//maps.app.goo.gl/SNYEaV145vxTyxhD9\""
+    },
+    {
+      "speaker": "C",
+      "utterance": "https://tabelog.com/tokyo/A1307/A130701/13171784/"
+    },
+    {
+      "speaker": "D",
+      "utterance": "https://tabelog.com/tokyo/A1303/A130301/13220928/"
+    },
+    {
+      "speaker": "C",
+      "utterance": "第三希望くらいまで出す？"
+    },
+    {
+      "speaker": "A",
+      "utterance": "OK！"
+    },
+    {
+      "speaker": "B",
+      "utterance": "\"とりあえずみんなここがいいな〜って言うのでざっとまとめて出そう〜\n（何食べるのがいいな、とか場所ここだったからこれ選んだとかそう言うのでまとめて出してもらっても）\""
+    },
+    {
+      "speaker": "A",
+      "utterance": "\"店名書くと分からなそうだから上からナンバリングしない……？\nさっき順位付けする時に自分でそうやってメモとってたんだけど\""
+    },
+    {
+      "speaker": "D",
+      "utterance": "私はシカゴピザが食べたいの気持ちのみで店を出していました"
+    },
+    {
+      "speaker": "B",
+      "utterance": "てんさいすぎん？"
+    },
+    {
+      "speaker": "A",
+      "utterance": "わからなそう→長くなりそう\n11候補あります(下からも数えやすいように)"
+    },
+    {
+      "speaker": "B",
+      "utterance": "あっじゃあ今わかんなくなりそうだからノートにまとめるわ"
+    },
+    {
+      "speaker": "A",
+      "utterance": "たすかります"
+    },
+    {
+      "speaker": "B",
+      "utterance": "っと思ったらノートなかった（）"
+    },
+    {
+      "speaker": "A",
+      "utterance": "あら"
+    },
+    {
+      "speaker": "B",
+      "utterance": "LINEWorksノート機能ないんか..."
+    },
+    {
+      "speaker": "A",
+      "utterance": "ちょいまち"
+    },
+    {
+      "speaker": "B",
+      "utterance": "7, 9, 11, 4かなあ"
+    },
+    {
+      "speaker": "C",
+      "utterance": "\"1.マリン（六本木）（C）（10）\n2.Ue CONA（渋谷）（D）（2）\n3.CRAFT CHEESE MARKET 渋谷駅前店（D）（11）\""
+    },
+    {
+      "speaker": "D",
+      "utterance": "汚い手書きだけどこの認識であってる？"
+    },
+    {
+      "speaker": "A",
+      "utterance": "あてます"
+    },
+    {
+      "speaker": "B",
+      "utterance": "神か？\nそう言うことです"
+    },
+    {
+      "speaker": "C",
+      "utterance": "ありがとー！！"
+    },
+    {
+      "speaker": "D",
+      "utterance": "4、11、8あたりかな~~~"
+    },
+    {
+      "speaker": "A",
+      "utterance": "11, 1, 4, 2あたりに惹かれてる\n一応11が全員あげてる感じか"
+    },
+    {
+      "speaker": "B",
+      "utterance": "3票以上が11と4かな"
+    },
+    {
+      "speaker": "A",
+      "utterance": "そうね"
+    },
+    {
+      "speaker": "D",
+      "utterance": "んだ"
+    },
+    {
+      "speaker": "C",
+      "utterance": "ね"
+    },
+    {
+      "speaker": "B",
+      "utterance": "場所的には4の方がみんな集まりやすそう"
+    },
+    {
+      "speaker": "C",
+      "utterance": "上野か渋谷？\n合ってる？"
+    },
+    {
+      "speaker": "A",
+      "utterance": "たしかに"
+    },
+    {
+      "speaker": "B",
+      "utterance": "合ってる！"
+    },
+    {
+      "speaker": "A",
+      "utterance": "僕は新宿に行くのでどっちも遠くはならないし御三方に合わせるよ"
+    },
+    {
+      "speaker": "B",
+      "utterance": "僕は授業を本郷で受けるか駒場で受けるかでさほど距離変わらないのでどっちでもいいよ"
+    },
+    {
+      "speaker": "C",
+      "utterance": "どちらでもいいよ！"
+    },
+    {
+      "speaker": "A",
+      "utterance": "決まらないやつだ"
+    },
+    {
+      "speaker": "B",
+      "utterance": "Dの仰せのままに"
+    },
+    {
+      "speaker": "C",
+      "utterance": "Dが博物館とか行くなら上野の方が都合よかったりする？"
+    },
+    {
+      "speaker": "D",
+      "utterance": "私は原宿の美術館寄ろうかな〜て思ってるから渋谷の方が行きやすいかも？て感じだけど多分どっちでもいけるよん"
+    },
+    {
+      "speaker": "A",
+      "utterance": "たしかに"
+    },
+    {
+      "speaker": "C",
+      "utterance": "原宿か1\n！"
+    },
+    {
+      "speaker": "B",
+      "utterance": "おっじゃあ11でいきましょうか？"
+    },
+    {
+      "speaker": "C",
+      "utterance": "うん"
+    },
+    {
+      "speaker": "B",
+      "utterance": "ハンバーガーかチーズかの視点で見てないけど、それで大丈夫なら！"
+    },
+    {
+      "speaker": "A",
+      "utterance": "じゃあ1番最後に出たやつで"
+    },
+    {
+      "speaker": "D",
+      "utterance": "わ~い"
+    },
+    {
+      "speaker": "A",
+      "utterance": "\"伊達の牛たん本舗 KITTE グランシェ店\n03-6256-0810\n東京都千代田区丸の内2-7-2 KITTE B1F"
+    },
+    {
+      "speaker": "https",
+      "utterance": "//tabelog.com/tokyo/A1302/A130201/13153926/\""
+    }
+  ],
+  "info": [
+    {
+      "website": "https://tabelog.com/tokyo/A1303/A130301/13220928/",
+      "restaurant": "CRAFT CHEESE MARKET 渋谷駅前店（クラフトチーズマーケット【旧店名】北海道チーズフォンデュファクトリー 炭リッチ）"
+    },
+    {
+      "website": "https://tabelog.com/tokyo/A1301/A130102/13233779/",
+      "restaurant": "SCHMATZ 有楽町"
+    },
+    {
+      "website": "https://tabelog.com/tokyo/A1303/A130301/13114720/",
+      "restaurant": "Ue CONA 渋谷道玄坂離れ（ウエコナ）"
+    },
+    {
+      "website": "https://tabelog.com/tokyo/A1312/A131204/13190665/",
+      "restaurant": "窯焼きピザとワインのお店 ROMAE 炉前（ロマエ）"
+    },
+    {
+      "website": "https://tabelog.com/tokyo/A1311/A131101/13028111/",
+      "restaurant": "TGIフライデーズ 上野中央通り店（ティージーアイ フライデーズ）"
+    },
+    {
+      "website": "https://tabelog.com/tokyo/A1301/A130101/13239443/",
+      "restaurant": "ファンケル ブラウンライス ミイルズ（FANCL BROWN RICE MEALS）"
+    },
+    {
+      "website": "https://tabelog.com/tokyo/A1310/A131004/13003538/",
+      "restaurant": "ファイヤーハウス（FIRE HOUSE）"
+    },
+    {
+      "website": "https://tabelog.com/tokyo/A1304/A130401/13166157/",
+      "restaurant": "アークラウンジ 新宿西口駅前店（Ark Lounge）"
+    },
+    {
+      "website": "https://tabelog.com/tokyo/A1302/A130201/13153926/",
+      "restaurant": "伊達の牛たん本舗 KITTE グランシェ店"
+    },
+    {
+      "website": "https://tabelog.com/tokyo/A1307/A130701/13171784/",
+      "restaurant": "フィッシュ＆チップス マリン（FISH & CHIPS MALINS）"
+    },
+    {
+      "website": "https://tabelog.com/tokyo/A1309/A130902/13189090/",
+      "restaurant": "CRUZ BURGERS & CRAFT BEERS（クルズバーガーズ アンド クラフトビア）"
+    }
+  ]
+}

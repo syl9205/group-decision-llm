@@ -1,0 +1,147 @@
+{
+  "conversation_id": "49",
+  "conversation": [
+    {
+      "speaker": "A",
+      "utterance": "15か19がいいかも"
+    },
+    {
+      "speaker": "B",
+      "utterance": "俺今週全埋まりだわ来週なら\nいつでもいける"
+    },
+    {
+      "speaker": "A",
+      "utterance": "19とかは"
+    },
+    {
+      "speaker": "B",
+      "utterance": "いける\nけってー"
+    },
+    {
+      "speaker": "C",
+      "utterance": "19のしよ"
+    },
+    {
+      "speaker": "A",
+      "utterance": "おっけー\n19や\n5元あるから"
+    },
+    {
+      "speaker": "B",
+      "utterance": "いつでもいいよ俺は"
+    },
+    {
+      "speaker": "A",
+      "utterance": "19字とかがいいかも"
+    },
+    {
+      "speaker": "B",
+      "utterance": "おけまる"
+    },
+    {
+      "speaker": "C",
+      "utterance": "おけおけ\nhttps://tabelog.com/tokyo/A1303/A130301/13161444/"
+    },
+    {
+      "speaker": "A",
+      "utterance": "\"串若丸 本店\n03-3715-9292\n東京都目黒区上目黒1-19-2"
+    },
+    {
+      "speaker": "https",
+      "utterance": "//tabelog.com/tokyo/A1317/A131701/13003193/\""
+    },
+    {
+      "speaker": "B",
+      "utterance": "\"牛角 渋谷店\n03-5456-4129\n東京都渋谷区宇田川町31-9 ハナテイビル　２Ｆ"
+    },
+    {
+      "speaker": "https",
+      "utterance": "//tabelog.com/tokyo/A1303/A130301/13027634/\""
+    },
+    {
+      "speaker": "B",
+      "utterance": "どっちかやな"
+    },
+    {
+      "speaker": "A",
+      "utterance": "牛角は昨日いったからやだ"
+    },
+    {
+      "speaker": "B",
+      "utterance": "俺も嫌"
+    },
+    {
+      "speaker": "C",
+      "utterance": "いや"
+    },
+    {
+      "speaker": "A",
+      "utterance": "そしたらどっちでもいいわ\nあみだみたいなのできめね"
+    },
+    {
+      "speaker": "C",
+      "utterance": "くしがいいわ"
+    },
+    {
+      "speaker": "A",
+      "utterance": "うまいかはわからん\n昨日ながれてきた"
+    },
+    {
+      "speaker": "C",
+      "utterance": "いいんじゃね"
+    },
+    {
+      "speaker": "B",
+      "utterance": "串ってうめーよ\n前串行ったからCのでもいいが"
+    },
+    {
+      "speaker": "C",
+      "utterance": "いやそこのくしいったことないからいきたいわ"
+    },
+    {
+      "speaker": "A",
+      "utterance": "おっけ\nじゃあそこにしよ"
+    },
+    {
+      "speaker": "B",
+      "utterance": "おけー"
+    },
+    {
+      "speaker": "C",
+      "utterance": "おけ"
+    },
+    {
+      "speaker": "A",
+      "utterance": "中目黒なら19時前くらいがいいわ"
+    },
+    {
+      "speaker": "B",
+      "utterance": "りょ"
+    },
+    {
+      "speaker": "C",
+      "utterance": "おけ"
+    },
+    {
+      "speaker": "B",
+      "utterance": "ん？これ最初の位置をこのお店にしたらいいんよね？"
+    },
+    {
+      "speaker": "A",
+      "utterance": "家からスタート"
+    }
+  ],
+  "info": [
+    {
+      "website": "https://tabelog.com/tokyo/A1303/A130301/13161444/",
+      "restaurant": "ウダガワ 成ル"
+    },
+    {
+      "website": "https://tabelog.com/tokyo/A1317/A131701/13003193/",
+      "restaurant": "串若丸 本店（くしわかまる）"
+    },
+    {
+      "website": "https://tabelog.com/tokyo/A1303/A130301/13027634/",
+      "restaurant": "牛角 渋谷店（ギュウカク）"
+    }
+  ]
+}

@@ -1,0 +1,224 @@
+{
+  "perception_table": [
+    {
+      "participant": "A",
+      "restaurant": "博多串焼き・野菜巻き工房  渋谷宮益坂のごりょんさん",
+      "perception": "Positive"
+    },
+    {
+      "participant": "A",
+      "restaurant": "赤から 新宿東口店",
+      "perception": "Positive"
+    },
+    {
+      "participant": "A",
+      "restaurant": "純米酒専門YATA 新宿三丁目店（ヤタ）",
+      "perception": "Mix"
+    },
+    {
+      "participant": "A",
+      "restaurant": "居酒屋 四谷 なごみ",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "A",
+      "restaurant": "赤から 渋谷本店",
+      "perception": "Positive"
+    },
+    {
+      "participant": "A",
+      "restaurant": "おでんやden（おでんやでん）",
+      "perception": "Positive"
+    },
+    {
+      "participant": "A",
+      "restaurant": "Nihonbashi 1-1-1",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "A",
+      "restaurant": "餃子専門店 藤井屋",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "A",
+      "restaurant": "北丸 新宿南口店 （きたまる）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "A",
+      "restaurant": "牛たん酒場 たん之助 COMORE四谷店",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "A",
+      "restaurant": "赤から 赤坂TBS通り店",
+      "perception": "Positive"
+    },
+    {
+      "participant": "B",
+      "restaurant": "博多串焼き・野菜巻き工房  渋谷宮益坂のごりょんさん",
+      "perception": "Positive"
+    },
+    {
+      "participant": "B",
+      "restaurant": "赤から 新宿東口店",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "B",
+      "restaurant": "純米酒専門YATA 新宿三丁目店（ヤタ）",
+      "perception": "Negative"
+    },
+    {
+      "participant": "B",
+      "restaurant": "居酒屋 四谷 なごみ",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "B",
+      "restaurant": "赤から 渋谷本店",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "B",
+      "restaurant": "おでんやden（おでんやでん）",
+      "perception": "Positive"
+    },
+    {
+      "participant": "B",
+      "restaurant": "Nihonbashi 1-1-1",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "B",
+      "restaurant": "餃子専門店 藤井屋",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "B",
+      "restaurant": "北丸 新宿南口店 （きたまる）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "B",
+      "restaurant": "牛たん酒場 たん之助 COMORE四谷店",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "B",
+      "restaurant": "赤から 赤坂TBS通り店",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "C",
+      "restaurant": "博多串焼き・野菜巻き工房  渋谷宮益坂のごりょんさん",
+      "perception": "Negative"
+    },
+    {
+      "participant": "C",
+      "restaurant": "赤から 新宿東口店",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "C",
+      "restaurant": "純米酒専門YATA 新宿三丁目店（ヤタ）",
+      "perception": "Positive"
+    },
+    {
+      "participant": "C",
+      "restaurant": "居酒屋 四谷 なごみ",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "C",
+      "restaurant": "赤から 渋谷本店",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "C",
+      "restaurant": "おでんやden（おでんやでん）",
+      "perception": "Positive"
+    },
+    {
+      "participant": "C",
+      "restaurant": "Nihonbashi 1-1-1",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "C",
+      "restaurant": "餃子専門店 藤井屋",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "C",
+      "restaurant": "北丸 新宿南口店 （きたまる）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "C",
+      "restaurant": "牛たん酒場 たん之助 COMORE四谷店",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "C",
+      "restaurant": "赤から 赤坂TBS通り店",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "D",
+      "restaurant": "博多串焼き・野菜巻き工房  渋谷宮益坂のごりょんさん",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "D",
+      "restaurant": "赤から 新宿東口店",
+      "perception": "Mix"
+    },
+    {
+      "participant": "D",
+      "restaurant": "純米酒専門YATA 新宿三丁目店（ヤタ）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "D",
+      "restaurant": "居酒屋 四谷 なごみ",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "D",
+      "restaurant": "赤から 渋谷本店",
+      "perception": "Mix"
+    },
+    {
+      "participant": "D",
+      "restaurant": "おでんやden（おでんやでん）",
+      "perception": "Positive"
+    },
+    {
+      "participant": "D",
+      "restaurant": "Nihonbashi 1-1-1",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "D",
+      "restaurant": "餃子専門店 藤井屋",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "D",
+      "restaurant": "北丸 新宿南口店 （きたまる）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "D",
+      "restaurant": "牛たん酒場 たん之助 COMORE四谷店",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "D",
+      "restaurant": "赤から 赤坂TBS通り店",
+      "perception": "Mix"
+    }
+  ]
+}

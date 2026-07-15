@@ -1,0 +1,423 @@
+{
+  "conversation_id": "77",
+  "conversation": [
+    {
+      "speaker": "A",
+      "utterance": "12/6より前か\n水金はバイトです"
+    },
+    {
+      "speaker": "B",
+      "utterance": "いつにする？いつも言いがちだけど割といつでも良いけど月〜水だとなお良い"
+    },
+    {
+      "speaker": "C",
+      "utterance": "\"空いてる日\n今週 25(金)\n来週 28〜2どこも大丈夫\n再来週 6(火)\"\n来週月火の夜が良さそう？"
+    },
+    {
+      "speaker": "B",
+      "utterance": "28か29かなそしたら"
+    },
+    {
+      "speaker": "A",
+      "utterance": "どちらかといえば28かなあ\n月夜"
+    },
+    {
+      "speaker": "C",
+      "utterance": "おけ"
+    },
+    {
+      "speaker": "B",
+      "utterance": "じゃあ28で\nオサレ"
+    },
+    {
+      "speaker": "A",
+      "utterance": "あちょいまって"
+    },
+    {
+      "speaker": "B",
+      "utterance": "おっと？"
+    },
+    {
+      "speaker": "A",
+      "utterance": "いややっぱ大丈夫だった"
+    },
+    {
+      "speaker": "B",
+      "utterance": "\"おけ\nじゃあ時間も決めとこう\""
+    },
+    {
+      "speaker": "A",
+      "utterance": "予定入ってた気がしたので確認しました"
+    },
+    {
+      "speaker": "B",
+      "utterance": "大事"
+    },
+    {
+      "speaker": "A",
+      "utterance": "何時でも、19:00～とか？"
+    },
+    {
+      "speaker": "B",
+      "utterance": "いいんじゃない？"
+    },
+    {
+      "speaker": "C",
+      "utterance": "もーちょい早めだと少し嬉しい"
+    },
+    {
+      "speaker": "A",
+      "utterance": "早め遅めでもいいよ"
+    },
+    {
+      "speaker": "C",
+      "utterance": "18:00ははやすぎか"
+    },
+    {
+      "speaker": "B",
+      "utterance": "大丈夫だよ"
+    },
+    {
+      "speaker": "A",
+      "utterance": "まあいいんじゃない？"
+    },
+    {
+      "speaker": "C",
+      "utterance": "あざす"
+    },
+    {
+      "speaker": "B",
+      "utterance": "可決\nhttps://tabelog.com/tokyo/A1310/A131004/13160169/"
+    },
+    {
+      "speaker": "C",
+      "utterance": "ちょっとまってな"
+    },
+    {
+      "speaker": "A",
+      "utterance": "安牌やな笑\nたまには根津に降りてもいいが"
+    },
+    {
+      "speaker": "B",
+      "utterance": "https://tabelog.com/tokyo/A1311/A131106/13248085/"
+    },
+    {
+      "speaker": "A",
+      "utterance": "食い終わった後ラボ戻る？"
+    },
+    {
+      "speaker": "B",
+      "utterance": "こっちは根津の方にある割と気に入ってる店"
+    },
+    {
+      "speaker": "C",
+      "utterance": "\"高いとこだけど"
+    },
+    {
+      "speaker": "https",
+      "utterance": "//tabelog.com/tokyo/A1311/A131106/13008474/\""
+    },
+    {
+      "speaker": "A",
+      "utterance": "忘年会を兼ねるなら上野あたりまで出てもいい気もするし"
+    },
+    {
+      "speaker": "C",
+      "utterance": "俺はラボには戻らず帰る予定"
+    },
+    {
+      "speaker": "B",
+      "utterance": "多分戻らないし上野もアリ"
+    },
+    {
+      "speaker": "C",
+      "utterance": "移動全然ありやね"
+    },
+    {
+      "speaker": "B",
+      "utterance": "Aがよければ"
+    },
+    {
+      "speaker": "A",
+      "utterance": "鍋/粉物/しゃぶしゃぶとか\n俺はラボに住んでるようなもんだから()"
+    },
+    {
+      "speaker": "B",
+      "utterance": "鍋とかいいね\nこの後記入する行程が面白いことになってそう"
+    },
+    {
+      "speaker": "A",
+      "utterance": "じゃあ上野に使用\nしよう"
+    },
+    {
+      "speaker": "B",
+      "utterance": "じゃあそっちも探してみるわ"
+    },
+    {
+      "speaker": "A",
+      "utterance": "大手だと鍋ぞうか温野菜ならどこにでもある"
+    },
+    {
+      "speaker": "B",
+      "utterance": "普通に美味しいしね\n一応どっちか君がURL貼ってくれると話が早い（各々一個以上のリンクが必要なので）"
+    },
+    {
+      "speaker": "A",
+      "utterance": "ちょいまちね"
+    },
+    {
+      "speaker": "B",
+      "utterance": "(スタンプ)"
+    },
+    {
+      "speaker": "C",
+      "utterance": "https://s.tabelog.com/tokyo/A1311/A131101/13264534/"
+    },
+    {
+      "speaker": "A",
+      "utterance": "食べログ縛りだっけ"
+    },
+    {
+      "speaker": "C",
+      "utterance": "鍋で探して鍋要素無いんだけどなんかうまそうだしあげとく"
+    },
+    {
+      "speaker": "B",
+      "utterance": "なければ他のでも良い\n推奨は食べログ"
+    },
+    {
+      "speaker": "A",
+      "utterance": "https://tabelog.com/tokyo/A1311/A131101/13020701/"
+    },
+    {
+      "speaker": "B",
+      "utterance": "確かにうまそう"
+    },
+    {
+      "speaker": "A",
+      "utterance": "鳥物語って大手やっけ？\n上野の創作居酒屋系は当たりはずれデカい"
+    },
+    {
+      "speaker": "C",
+      "utterance": "チェーンやね"
+    },
+    {
+      "speaker": "A",
+      "utterance": "あーまあチェーンなら問題ないか"
+    },
+    {
+      "speaker": "C",
+      "utterance": "上野新宿渋谷etc.に存在"
+    },
+    {
+      "speaker": "B",
+      "utterance": "（知らんかった）"
+    },
+    {
+      "speaker": "C",
+      "utterance": "(調べてる)"
+    },
+    {
+      "speaker": "B",
+      "utterance": "でもそれもアリだと思う"
+    },
+    {
+      "speaker": "A",
+      "utterance": "まあじゃあCのでいいんじゃない？\nおいしそうだし"
+    },
+    {
+      "speaker": "C",
+      "utterance": "もう一個だけあげてもいい？"
+    },
+    {
+      "speaker": "A",
+      "utterance": "いいよ"
+    },
+    {
+      "speaker": "B",
+      "utterance": "\"貼らないんかい\nいいよ\""
+    },
+    {
+      "speaker": "C",
+      "utterance": "https://s.tabelog.com/tokyo/A1311/A131101/13253492/"
+    },
+    {
+      "speaker": "B",
+      "utterance": "ちなみに店を一個に絞るのはまだだよ、念のため"
+    },
+    {
+      "speaker": "C",
+      "utterance": "こっちはもつなべ"
+    },
+    {
+      "speaker": "B",
+      "utterance": "なるほど"
+    },
+    {
+      "speaker": "A",
+      "utterance": "候補はこんなところか"
+    },
+    {
+      "speaker": "B",
+      "utterance": "おk"
+    },
+    {
+      "speaker": "C",
+      "utterance": "どこ第一志望にした？"
+    },
+    {
+      "speaker": "A",
+      "utterance": "この実験おもろいな"
+    },
+    {
+      "speaker": "C",
+      "utterance": "わかる"
+    },
+    {
+      "speaker": "B",
+      "utterance": "終わった雰囲気になってる、、、"
+    },
+    {
+      "speaker": "A",
+      "utterance": "何が実験になるんだ？と思ってたけど理解したわ\n見せ決めないとだなｗ\n店"
+    },
+    {
+      "speaker": "C",
+      "utterance": "おーい"
+    },
+    {
+      "speaker": "A",
+      "utterance": "まあ寒くなってきたのでもつ鍋はあり\nもつの好みが人によるからまあってかんじだけど"
+    },
+    {
+      "speaker": "B",
+      "utterance": "\"ここいいかなって\n鍋も全然あり\""
+    },
+    {
+      "speaker": "C",
+      "utterance": "自分は九州蔵→鳥物語の順"
+    },
+    {
+      "speaker": "A",
+      "utterance": "肉寿司もおいしそうだけど肉寿司って提供早かった試しがないんだよな"
+    },
+    {
+      "speaker": "B",
+      "utterance": "もつだけだと私はちょっと厳しいっちゃ厳しいけど"
+    },
+    {
+      "speaker": "C",
+      "utterance": "モツがどんくらい好きか次第"
+    },
+    {
+      "speaker": "B",
+      "utterance": "つつくぶんには好き"
+    },
+    {
+      "speaker": "C",
+      "utterance": "一応コースまで見た方が良さげか"
+    },
+    {
+      "speaker": "B",
+      "utterance": "\"なるほどね\n平日なことに賭けるしかないのか\""
+    },
+    {
+      "speaker": "A",
+      "utterance": "特に肉寿司食べ放題系はね"
+    },
+    {
+      "speaker": "C",
+      "utterance": "鳥物語だと\nメニュー・コースの1番上が気になる"
+    },
+    {
+      "speaker": "B",
+      "utterance": "もつ鍋見たけどなんでもあるね"
+    },
+    {
+      "speaker": "A",
+      "utterance": "まあコースなら普通にちゃんと出てくると思うよ"
+    },
+    {
+      "speaker": "C",
+      "utterance": "3時間飲み+17品コース"
+    },
+    {
+      "speaker": "B",
+      "utterance": "鳥物語のリンクてどこ？"
+    },
+    {
+      "speaker": "C",
+      "utterance": "モツ鍋の店、別になんでもあるな"
+    },
+    {
+      "speaker": "A",
+      "utterance": "https://tabelog.com/tokyo/A1311/A131101/13264534/party/179931981"
+    },
+    {
+      "speaker": "B",
+      "utterance": "\"これか\n店名認識してなかった、ありがとう\""
+    },
+    {
+      "speaker": "C",
+      "utterance": "黒豚しゃぶしゃぶ、アリやな...\n(写真)\nこれは九州蔵の方。モツ鍋コースだと5品目がモツ鍋"
+    },
+    {
+      "speaker": "A",
+      "utterance": "まあご時世的にも個室居酒屋の方が丸いか\n鳥のとこだとバルだもんね"
+    },
+    {
+      "speaker": "C",
+      "utterance": "一応どっちも個室"
+    },
+    {
+      "speaker": "A",
+      "utterance": "完全個室もあるのね\nまあほんとに俺はどっちでもいいよ"
+    },
+    {
+      "speaker": "C",
+      "utterance": "僕これが一番いいかなって"
+    },
+    {
+      "speaker": "B",
+      "utterance": "いいんじゃないか"
+    },
+    {
+      "speaker": "A",
+      "utterance": "豚しゃぶね\n決定で"
+    },
+    {
+      "speaker": "C",
+      "utterance": "おけ"
+    },
+    {
+      "speaker": "A",
+      "utterance": "これ予約撮るとこまでやるん？"
+    },
+    {
+      "speaker": "B",
+      "utterance": "(スタンプ)\n予約はどっちでも"
+    }
+  ],
+  "info": [
+    {
+      "website": "https://tabelog.com/tokyo/A1310/A131004/13160169/",
+      "restaurant": "一番餃子"
+    },
+    {
+      "website": "https://tabelog.com/tokyo/A1311/A131106/13248085/",
+      "restaurant": "ごはんがススム食堂"
+    },
+    {
+      "website": "https://tabelog.com/tokyo/A1311/A131101/13264534/",
+      "restaurant": "松好"
+    },
+    {
+      "website": "https://tabelog.com/tokyo/A1311/A131101/13020701/",
+      "restaurant": "しゃぶしゃぶ温野菜 上野広小路店"
+    },
+    {
+      "website": "https://tabelog.com/tokyo/A1311/A131106/13008474/",
+      "restaurant": "完全個室居酒屋 九州蔵 上野駅前店"
+    }
+  ]
+}

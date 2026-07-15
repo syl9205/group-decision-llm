@@ -1,0 +1,455 @@
+{
+  "conversation_id": "55",
+  "conversation": [
+    {
+      "speaker": "A",
+      "utterance": "何曜日が空いてる？？"
+    },
+    {
+      "speaker": "B",
+      "utterance": "C金曜日厳しいの？"
+    },
+    {
+      "speaker": "A",
+      "utterance": "本郷やね"
+    },
+    {
+      "speaker": "C",
+      "utterance": "金曜日はできればやめてほしい部活あるから\n他になかったら大丈夫だけど"
+    },
+    {
+      "speaker": "A",
+      "utterance": "なるほどなるほど！"
+    },
+    {
+      "speaker": "D",
+      "utterance": "あれ、下北で飯食うんやっけ？"
+    },
+    {
+      "speaker": "A",
+      "utterance": "そうなん？\nそういう話してたっけ？"
+    },
+    {
+      "speaker": "C",
+      "utterance": "場所は一旦おいとこ"
+    },
+    {
+      "speaker": "A",
+      "utterance": "せやな\nじゃあ他の曜日いつがあいてる？"
+    },
+    {
+      "speaker": "C",
+      "utterance": "僕は火曜から木曜ならなんもない\n４限以降ならいける"
+    },
+    {
+      "speaker": "A",
+      "utterance": "その中ならいつでも大丈夫ー！\nおけ！"
+    },
+    {
+      "speaker": "B",
+      "utterance": "来週の今日か火曜は？\n火木なら駒場周辺がいいけど"
+    },
+    {
+      "speaker": "A",
+      "utterance": "いけるはず！"
+    },
+    {
+      "speaker": "D",
+      "utterance": "いけるも思う"
+    },
+    {
+      "speaker": "B",
+      "utterance": "どっちがいい？"
+    },
+    {
+      "speaker": "A",
+      "utterance": "木曜日は5限まであって\n駒場まで行くと遅くなるかも\nわたしとDが"
+    },
+    {
+      "speaker": "B",
+      "utterance": "火曜は？"
+    },
+    {
+      "speaker": "D",
+      "utterance": "確かに"
+    },
+    {
+      "speaker": "A",
+      "utterance": "4限まで"
+    },
+    {
+      "speaker": "C",
+      "utterance": "僕も同じ"
+    },
+    {
+      "speaker": "A",
+      "utterance": "お"
+    },
+    {
+      "speaker": "B",
+      "utterance": "じゃあ火曜にしよう"
+    },
+    {
+      "speaker": "A",
+      "utterance": "やね！"
+    },
+    {
+      "speaker": "D",
+      "utterance": "来週の火曜日でいい？"
+    },
+    {
+      "speaker": "B",
+      "utterance": "火曜の19時ちょっと前くらいかな\nうん"
+    },
+    {
+      "speaker": "A",
+      "utterance": "うんうん\nはーい"
+    },
+    {
+      "speaker": "B",
+      "utterance": "18:35まで授業だから"
+    },
+    {
+      "speaker": "A",
+      "utterance": "わかった"
+    },
+    {
+      "speaker": "C",
+      "utterance": "おっけい"
+    },
+    {
+      "speaker": "D",
+      "utterance": "り\nhttps://s.tabelog.com/tokyo/A1318/A131802/13053832/"
+    },
+    {
+      "speaker": "B",
+      "utterance": "https://s.tabelog.com/tokyo/A1318/A131801/13151514/\nムスカンかナンステーション\nhttps://s.tabelog.com/tokyo/A1318/A131802/13111701/"
+    },
+    {
+      "speaker": "D",
+      "utterance": "もう下北の王将で決まってたはず"
+    },
+    {
+      "speaker": "B",
+      "utterance": "安く済ませるなら丸亀\nhttps://s.tabelog.com/tokyo/A1318/A131802/13124639/"
+    },
+    {
+      "speaker": "C",
+      "utterance": "https://tabelog.com/tokyo/A1318/A131802/13203593/\n最近の推しです"
+    },
+    {
+      "speaker": "A",
+      "utterance": "https://s.tabelog.com/tokyo/A1318/A131801/13220331/\n行ってみたいところ"
+    },
+    {
+      "speaker": "B",
+      "utterance": "おっけ？\n候補出すの"
+    },
+    {
+      "speaker": "C",
+      "utterance": "僕はだいじょぶ"
+    },
+    {
+      "speaker": "D",
+      "utterance": "うんおっけ"
+    },
+    {
+      "speaker": "B",
+      "utterance": "Aまだある？"
+    },
+    {
+      "speaker": "A",
+      "utterance": "https://s.tabelog.com/tokyo/A1318/A131802/13116881/\nここもすき\n以上！\nお待たせしました"
+    },
+    {
+      "speaker": "B",
+      "utterance": "終わりました。"
+    },
+    {
+      "speaker": "A",
+      "utterance": "みんな一番推しはどこ？"
+    },
+    {
+      "speaker": "D",
+      "utterance": "王将がいいけど、それが無理ならもう諦める。"
+    },
+    {
+      "speaker": "B",
+      "utterance": "ムスカン\n王将はダメ"
+    },
+    {
+      "speaker": "D",
+      "utterance": "ムスカんはあかん"
+    },
+    {
+      "speaker": "C",
+      "utterance": "笑笑"
+    },
+    {
+      "speaker": "B",
+      "utterance": "前回も却下した"
+    },
+    {
+      "speaker": "A",
+      "utterance": "王将そんな好きなんやっけ笑笑"
+    },
+    {
+      "speaker": "D",
+      "utterance": "王将しか勝たん"
+    },
+    {
+      "speaker": "A",
+      "utterance": "ムスカンは、行き過ぎちゃう"
+    },
+    {
+      "speaker": "D",
+      "utterance": "それな"
+    },
+    {
+      "speaker": "A",
+      "utterance": "笑笑"
+    },
+    {
+      "speaker": "B",
+      "utterance": "(スタンプ)"
+    },
+    {
+      "speaker": "A",
+      "utterance": "Cっちは？"
+    },
+    {
+      "speaker": "B",
+      "utterance": "油そばがいいけど4人でカウンターは喋りにくそう"
+    },
+    {
+      "speaker": "D",
+      "utterance": "確かに、それはそう"
+    },
+    {
+      "speaker": "A",
+      "utterance": "確かにねえ\nせっかくなら喋りたいしな"
+    },
+    {
+      "speaker": "D",
+      "utterance": "せっかく会食するんやからテーブルがええ"
+    },
+    {
+      "speaker": "A",
+      "utterance": "最近なかなか会えんし\nうんうん"
+    },
+    {
+      "speaker": "C",
+      "utterance": "ぼくはムスカン最近行ってないから"
+    },
+    {
+      "speaker": "A",
+      "utterance": "うんうん"
+    },
+    {
+      "speaker": "D",
+      "utterance": "ここ行ってみたい"
+    },
+    {
+      "speaker": "B",
+      "utterance": "Cの言うことが絶対だぞ！"
+    },
+    {
+      "speaker": "C",
+      "utterance": "ムスカンがいいかも"
+    },
+    {
+      "speaker": "B",
+      "utterance": "今まであんだけお世話になったのに"
+    },
+    {
+      "speaker": "C",
+      "utterance": "そんなことはない"
+    },
+    {
+      "speaker": "D",
+      "utterance": "ムスカんはあかん"
+    },
+    {
+      "speaker": "C",
+      "utterance": "ええ…"
+    },
+    {
+      "speaker": "A",
+      "utterance": "なんステーションは！？"
+    },
+    {
+      "speaker": "B",
+      "utterance": "今頃Cを捨てるのか！"
+    },
+    {
+      "speaker": "D",
+      "utterance": "なんのはなしをしてんねん\nなんだけに"
+    },
+    {
+      "speaker": "A",
+      "utterance": "笑笑\nお"
+    },
+    {
+      "speaker": "B",
+      "utterance": "(スタンプ)"
+    },
+    {
+      "speaker": "D",
+      "utterance": "はて、どうするん"
+    },
+    {
+      "speaker": "B",
+      "utterance": "\"ムスカン\nナンステーション\n定食屋\nサンドイッチ\nかな\""
+    },
+    {
+      "speaker": "A",
+      "utterance": "Aもここ好きだけど、ナン食べたい気持ちもある\n順位？"
+    },
+    {
+      "speaker": "B",
+      "utterance": "違う候補として"
+    },
+    {
+      "speaker": "A",
+      "utterance": "あーね！"
+    },
+    {
+      "speaker": "D",
+      "utterance": "\"王将>>定食屋\nかなぁ\""
+    },
+    {
+      "speaker": "A",
+      "utterance": "王将強いなあ笑"
+    },
+    {
+      "speaker": "B",
+      "utterance": "D以外王将推してないよ\nCどう？"
+    },
+    {
+      "speaker": "D",
+      "utterance": "つんだ"
+    },
+    {
+      "speaker": "A",
+      "utterance": "意外とムスカンが2票だから\nムスカンかも、、？"
+    },
+    {
+      "speaker": "C",
+      "utterance": "王将でも全然いいけど"
+    },
+    {
+      "speaker": "B",
+      "utterance": "実際ナンステーションでも良いよ"
+    },
+    {
+      "speaker": "C",
+      "utterance": "ムスカン推しではある"
+    },
+    {
+      "speaker": "A",
+      "utterance": "うんうん"
+    },
+    {
+      "speaker": "D",
+      "utterance": "ムスカんでも別にいいよ"
+    },
+    {
+      "speaker": "A",
+      "utterance": "なんステーション推しではある！"
+    },
+    {
+      "speaker": "B",
+      "utterance": "ムスカン！ムスカン！ムスカン！ムスカン！"
+    },
+    {
+      "speaker": "C",
+      "utterance": "ごめんて"
+    },
+    {
+      "speaker": "A",
+      "utterance": "笑笑\nじゃあムスカンにしよっか！\nよさそう？"
+    },
+    {
+      "speaker": "D",
+      "utterance": "よさげ"
+    },
+    {
+      "speaker": "B",
+      "utterance": "言うて、AとD全然行ってないでしょ"
+    },
+    {
+      "speaker": "C",
+      "utterance": "おk"
+    },
+    {
+      "speaker": "D",
+      "utterance": "結局金子の勢いに負ける"
+    },
+    {
+      "speaker": "A",
+      "utterance": "こないだ実は行った笑笑"
+    },
+    {
+      "speaker": "D",
+      "utterance": "そんなことはない"
+    },
+    {
+      "speaker": "A",
+      "utterance": "こないだの土曜日"
+    },
+    {
+      "speaker": "B",
+      "utterance": "(スタンプ)"
+    },
+    {
+      "speaker": "D",
+      "utterance": "僕は最近いってなあけと"
+    },
+    {
+      "speaker": "A",
+      "utterance": "うん"
+    },
+    {
+      "speaker": "B",
+      "utterance": "いってなあか"
+    },
+    {
+      "speaker": "A",
+      "utterance": "いってなあ"
+    },
+    {
+      "speaker": "D",
+      "utterance": "僕は行ってないけど"
+    }
+  ],
+  "info": [
+    {
+      "website": "https://s.tabelog.com/tokyo/A1318/A131802/13053832/",
+      "restaurant": "餃子の王将 下北沢店"
+    },
+    {
+      "website": "https://tabelog.com/tokyo/A1318/A131801/13151514/",
+      "restaurant": "ムスカン（MUSKAN）"
+    },
+    {
+      "website": "https://s.tabelog.com/tokyo/A1318/A131802/13111701/",
+      "restaurant": "NAN STATION（ナンステーション）"
+    },
+    {
+      "website": "https://s.tabelog.com/tokyo/A1318/A131802/13124639/",
+      "restaurant": "丸亀製麺 下北沢店"
+    },
+    {
+      "website": "https://tabelog.com/tokyo/A1318/A131802/13203593/",
+      "restaurant": "油そば 東京油組総本店 下北沢組"
+    },
+    {
+      "website": "https://s.tabelog.com/tokyo/A1318/A131801/13220331/",
+      "restaurant": "スタン サンドイッチストア（STAN sandwich store）"
+    },
+    {
+      "website": "https://s.tabelog.com/tokyo/A1318/A131802/13116881/",
+      "restaurant": "黒川食堂"
+    }
+  ]
+}

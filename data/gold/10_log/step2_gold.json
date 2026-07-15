@@ -1,0 +1,94 @@
+{
+  "mentioned_table": [
+    {
+      "participant": "A",
+      "restaurant": "叙々苑",
+      "mention": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "とらふぐ亭 渋谷店（とらふぐてい）",
+      "mention": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "グスタヴォ 神楽坂店",
+      "mention": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "九州居酒屋 博多天神もつ鍋 永山本店 炎の陣 上野新館",
+      "mention": "Mentioned"
+    },
+    {
+      "participant": "A",
+      "restaurant": "牛タン専門店 タン治郎",
+      "mention": "Mentioned"
+    },
+    {
+      "participant": "A",
+      "restaurant": "とらふぐ亭 駒込店（とらふぐてい）",
+      "mention": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "叙々苑",
+      "mention": "Mentioned"
+    },
+    {
+      "participant": "B",
+      "restaurant": "とらふぐ亭 渋谷店（とらふぐてい）",
+      "mention": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "グスタヴォ 神楽坂店",
+      "mention": "Mentioned"
+    },
+    {
+      "participant": "B",
+      "restaurant": "九州居酒屋 博多天神もつ鍋 永山本店 炎の陣 上野新館",
+      "mention": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "牛タン専門店 タン治郎",
+      "mention": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "とらふぐ亭 駒込店（とらふぐてい）",
+      "mention": "Mentioned"
+    },
+    {
+      "participant": "C",
+      "restaurant": "叙々苑",
+      "mention": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "とらふぐ亭 渋谷店（とらふぐてい）",
+      "mention": "Mentioned"
+    },
+    {
+      "participant": "C",
+      "restaurant": "グスタヴォ 神楽坂店",
+      "mention": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "九州居酒屋 博多天神もつ鍋 永山本店 炎の陣 上野新館",
+      "mention": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "牛タン専門店 タン治郎",
+      "mention": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "とらふぐ亭 駒込店（とらふぐてい）",
+      "mention": "None"
+    }
+  ]
+}

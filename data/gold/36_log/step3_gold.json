@@ -1,0 +1,179 @@
+{
+  "perception_table": [
+    {
+      "participant": "A",
+      "restaurant": "IZAKAYA P/man（居酒屋ピーマン）",
+      "perception": "Positive"
+    },
+    {
+      "participant": "A",
+      "restaurant": "韓の台所 別邸（ハンノダイドコロベッテイ）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "A",
+      "restaurant": "USHIHACHI 渋谷店（ウシハチ/牛8）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "A",
+      "restaurant": "CRAFT CHEESE MARKET 渋谷駅前店（クラフトチーズマーケット【旧店名】北海道チーズフォンデュファクトリー 炭リッチ）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "A",
+      "restaurant": "もんごろーや",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "A",
+      "restaurant": "魚真 渋谷店（うおしん）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "A",
+      "restaurant": "クラフトビールタップ グリル＆キッチン 渋谷",
+      "perception": "Positive"
+    },
+    {
+      "participant": "B",
+      "restaurant": "IZAKAYA P/man（居酒屋ピーマン）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "B",
+      "restaurant": "韓の台所 別邸（ハンノダイドコロベッテイ）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "B",
+      "restaurant": "USHIHACHI 渋谷店（ウシハチ/牛8）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "B",
+      "restaurant": "CRAFT CHEESE MARKET 渋谷駅前店（クラフトチーズマーケット【旧店名】北海道チーズフォンデュファクトリー 炭リッチ）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "B",
+      "restaurant": "もんごろーや",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "B",
+      "restaurant": "魚真 渋谷店（うおしん）",
+      "perception": "Positive"
+    },
+    {
+      "participant": "B",
+      "restaurant": "クラフトビールタップ グリル＆キッチン 渋谷",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "C",
+      "restaurant": "IZAKAYA P/man（居酒屋ピーマン）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "C",
+      "restaurant": "韓の台所 別邸（ハンノダイドコロベッテイ）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "C",
+      "restaurant": "USHIHACHI 渋谷店（ウシハチ/牛8）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "C",
+      "restaurant": "CRAFT CHEESE MARKET 渋谷駅前店（クラフトチーズマーケット【旧店名】北海道チーズフォンデュファクトリー 炭リッチ）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "C",
+      "restaurant": "もんごろーや",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "C",
+      "restaurant": "魚真 渋谷店（うおしん）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "C",
+      "restaurant": "クラフトビールタップ グリル＆キッチン 渋谷",
+      "perception": "Positive"
+    },
+    {
+      "participant": "D",
+      "restaurant": "IZAKAYA P/man（居酒屋ピーマン）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "D",
+      "restaurant": "韓の台所 別邸（ハンノダイドコロベッテイ）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "D",
+      "restaurant": "USHIHACHI 渋谷店（ウシハチ/牛8）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "D",
+      "restaurant": "CRAFT CHEESE MARKET 渋谷駅前店（クラフトチーズマーケット【旧店名】北海道チーズフォンデュファクトリー 炭リッチ）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "D",
+      "restaurant": "もんごろーや",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "D",
+      "restaurant": "魚真 渋谷店（うおしん）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "D",
+      "restaurant": "クラフトビールタップ グリル＆キッチン 渋谷",
+      "perception": "Positive"
+    },
+    {
+      "participant": "E",
+      "restaurant": "IZAKAYA P/man（居酒屋ピーマン）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "E",
+      "restaurant": "韓の台所 別邸（ハンノダイドコロベッテイ）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "E",
+      "restaurant": "USHIHACHI 渋谷店（ウシハチ/牛8）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "E",
+      "restaurant": "CRAFT CHEESE MARKET 渋谷駅前店（クラフトチーズマーケット【旧店名】北海道チーズフォンデュファクトリー 炭リッチ）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "E",
+      "restaurant": "もんごろーや",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "E",
+      "restaurant": "魚真 渋谷店（うおしん）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "E",
+      "restaurant": "クラフトビールタップ グリル＆キッチン 渋谷",
+      "perception": "Positive"
+    }
+  ]
+}

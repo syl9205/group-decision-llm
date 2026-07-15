@@ -1,0 +1,166 @@
+{
+  "preference_table": [
+    {
+      "participant": "A",
+      "restaurant": "海底撈火鍋 新宿店（カイテイロウヒナベ）",
+      "preferences": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "もんじゃ 蔵（くら）",
+      "preferences": "A1"
+    },
+    {
+      "participant": "A",
+      "restaurant": "チェルシー マーケット 秋葉原（CHELSEA MARKET）",
+      "preferences": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "ファイヤーハウス（FIRE HOUSE）",
+      "preferences": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "海底撈火鍋 新宿店（カイテイロウヒナベ）",
+      "preferences": "A1"
+    },
+    {
+      "participant": "B",
+      "restaurant": "もんじゃ 蔵（くら）",
+      "preferences": "A1"
+    },
+    {
+      "participant": "B",
+      "restaurant": "チェルシー マーケット 秋葉原（CHELSEA MARKET）",
+      "preferences": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "ファイヤーハウス（FIRE HOUSE）",
+      "preferences": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "海底撈火鍋 新宿店（カイテイロウヒナベ）",
+      "preferences": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "もんじゃ 蔵（くら）",
+      "preferences": "A7"
+    },
+    {
+      "participant": "C",
+      "restaurant": "チェルシー マーケット 秋葉原（CHELSEA MARKET）",
+      "preferences": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "ファイヤーハウス（FIRE HOUSE）",
+      "preferences": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "海底撈火鍋 新宿店（カイテイロウヒナベ）",
+      "preferences": "A1"
+    },
+    {
+      "participant": "D",
+      "restaurant": "もんじゃ 蔵（くら）",
+      "preferences": "A1"
+    },
+    {
+      "participant": "D",
+      "restaurant": "チェルシー マーケット 秋葉原（CHELSEA MARKET）",
+      "preferences": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "ファイヤーハウス（FIRE HOUSE）",
+      "preferences": "None"
+    }
+  ],
+  "constraint_table": [
+    {
+      "participant": "A",
+      "restaurant": "海底撈火鍋 新宿店（カイテイロウヒナベ）",
+      "constraints": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "もんじゃ 蔵（くら）",
+      "constraints": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "チェルシー マーケット 秋葉原（CHELSEA MARKET）",
+      "constraints": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "ファイヤーハウス（FIRE HOUSE）",
+      "constraints": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "海底撈火鍋 新宿店（カイテイロウヒナベ）",
+      "constraints": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "もんじゃ 蔵（くら）",
+      "constraints": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "チェルシー マーケット 秋葉原（CHELSEA MARKET）",
+      "constraints": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "ファイヤーハウス（FIRE HOUSE）",
+      "constraints": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "海底撈火鍋 新宿店（カイテイロウヒナベ）",
+      "constraints": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "もんじゃ 蔵（くら）",
+      "constraints": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "チェルシー マーケット 秋葉原（CHELSEA MARKET）",
+      "constraints": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "ファイヤーハウス（FIRE HOUSE）",
+      "constraints": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "海底撈火鍋 新宿店（カイテイロウヒナベ）",
+      "constraints": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "もんじゃ 蔵（くら）",
+      "constraints": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "チェルシー マーケット 秋葉原（CHELSEA MARKET）",
+      "constraints": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "ファイヤーハウス（FIRE HOUSE）",
+      "constraints": "None"
+    }
+  ]
+}

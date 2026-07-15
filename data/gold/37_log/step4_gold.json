@@ -1,0 +1,206 @@
+{
+  "preference_table": [
+    {
+      "participant": "A",
+      "restaurant": "和食ごはんと酒 縁 本郷三丁目店（yukari）",
+      "preferences": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "松好（まつよし）",
+      "preferences": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "RISE & WIN Brewing Co. KAMIKATZ TAPROOM（ライズアンドウィンブルーイングカンパニー カミカツタップルーム）",
+      "preferences": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "新龍門",
+      "preferences": "A7"
+    },
+    {
+      "participant": "A",
+      "restaurant": "羅針盤",
+      "preferences": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "和食ごはんと酒 縁 本郷三丁目店（yukari）",
+      "preferences": "A7,A1"
+    },
+    {
+      "participant": "B",
+      "restaurant": "松好（まつよし）",
+      "preferences": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "RISE & WIN Brewing Co. KAMIKATZ TAPROOM（ライズアンドウィンブルーイングカンパニー カミカツタップルーム）",
+      "preferences": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "新龍門",
+      "preferences": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "羅針盤",
+      "preferences": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "和食ごはんと酒 縁 本郷三丁目店（yukari）",
+      "preferences": "A7"
+    },
+    {
+      "participant": "C",
+      "restaurant": "松好（まつよし）",
+      "preferences": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "RISE & WIN Brewing Co. KAMIKATZ TAPROOM（ライズアンドウィンブルーイングカンパニー カミカツタップルーム）",
+      "preferences": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "新龍門",
+      "preferences": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "羅針盤",
+      "preferences": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "和食ごはんと酒 縁 本郷三丁目店（yukari）",
+      "preferences": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "松好（まつよし）",
+      "preferences": "A7"
+    },
+    {
+      "participant": "D",
+      "restaurant": "RISE & WIN Brewing Co. KAMIKATZ TAPROOM（ライズアンドウィンブルーイングカンパニー カミカツタップルーム）",
+      "preferences": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "新龍門",
+      "preferences": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "羅針盤",
+      "preferences": "None"
+    }
+  ],
+  "constraint_table": [
+    {
+      "participant": "A",
+      "restaurant": "和食ごはんと酒 縁 本郷三丁目店（yukari）",
+      "constraints": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "松好（まつよし）",
+      "constraints": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "RISE & WIN Brewing Co. KAMIKATZ TAPROOM（ライズアンドウィンブルーイングカンパニー カミカツタップルーム）",
+      "constraints": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "新龍門",
+      "constraints": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "羅針盤",
+      "constraints": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "和食ごはんと酒 縁 本郷三丁目店（yukari）",
+      "constraints": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "松好（まつよし）",
+      "constraints": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "RISE & WIN Brewing Co. KAMIKATZ TAPROOM（ライズアンドウィンブルーイングカンパニー カミカツタップルーム）",
+      "constraints": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "新龍門",
+      "constraints": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "羅針盤",
+      "constraints": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "和食ごはんと酒 縁 本郷三丁目店（yukari）",
+      "constraints": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "松好（まつよし）",
+      "constraints": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "RISE & WIN Brewing Co. KAMIKATZ TAPROOM（ライズアンドウィンブルーイングカンパニー カミカツタップルーム）",
+      "constraints": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "新龍門",
+      "constraints": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "羅針盤",
+      "constraints": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "和食ごはんと酒 縁 本郷三丁目店（yukari）",
+      "constraints": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "松好（まつよし）",
+      "constraints": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "RISE & WIN Brewing Co. KAMIKATZ TAPROOM（ライズアンドウィンブルーイングカンパニー カミカツタップルーム）",
+      "constraints": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "新龍門",
+      "constraints": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "羅針盤",
+      "constraints": "None"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "mentioned_table": [
+    {
+      "participant": "A",
+      "restaurant": "座135 神保町店（ザイサゴ）",
+      "mention": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "ちゃらりちゃらり 九段店",
+      "mention": "Mentioned"
+    },
+    {
+      "participant": "A",
+      "restaurant": "ブラッセルズ 神田神保町",
+      "mention": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "座135 神保町店（ザイサゴ）",
+      "mention": "Mentioned"
+    },
+    {
+      "participant": "B",
+      "restaurant": "ちゃらりちゃらり 九段店",
+      "mention": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "ブラッセルズ 神田神保町",
+      "mention": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "座135 神保町店（ザイサゴ）",
+      "mention": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "ちゃらりちゃらり 九段店",
+      "mention": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "ブラッセルズ 神田神保町",
+      "mention": "Mentioned"
+    }
+  ]
+}

@@ -1,0 +1,246 @@
+{
+  "preference_table": [
+    {
+      "participant": "A",
+      "restaurant": "フランス大衆食堂ブイヨン本郷3",
+      "preferences": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "上野 アクアリウムレストラン Nautilus（ノーチラス）",
+      "preferences": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "希和味（KIWAMI）",
+      "preferences": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "伊勢ろく 本店（いせろく）",
+      "preferences": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "アクアリウムダイニングバー銀座ライム（LIME）",
+      "preferences": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "小岩井農場TOKYO （【旧店名】小岩井フレミナール）",
+      "preferences": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "フランス大衆食堂ブイヨン本郷3",
+      "preferences": "A7"
+    },
+    {
+      "participant": "B",
+      "restaurant": "上野 アクアリウムレストラン Nautilus（ノーチラス）",
+      "preferences": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "希和味（KIWAMI）",
+      "preferences": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "伊勢ろく 本店（いせろく）",
+      "preferences": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "アクアリウムダイニングバー銀座ライム（LIME）",
+      "preferences": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "小岩井農場TOKYO （【旧店名】小岩井フレミナール）",
+      "preferences": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "フランス大衆食堂ブイヨン本郷3",
+      "preferences": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "上野 アクアリウムレストラン Nautilus（ノーチラス）",
+      "preferences": "A7"
+    },
+    {
+      "participant": "C",
+      "restaurant": "希和味（KIWAMI）",
+      "preferences": "A7"
+    },
+    {
+      "participant": "C",
+      "restaurant": "伊勢ろく 本店（いせろく）",
+      "preferences": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "アクアリウムダイニングバー銀座ライム（LIME）",
+      "preferences": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "小岩井農場TOKYO （【旧店名】小岩井フレミナール）",
+      "preferences": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "フランス大衆食堂ブイヨン本郷3",
+      "preferences": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "上野 アクアリウムレストラン Nautilus（ノーチラス）",
+      "preferences": "A7"
+    },
+    {
+      "participant": "D",
+      "restaurant": "希和味（KIWAMI）",
+      "preferences": "A7"
+    },
+    {
+      "participant": "D",
+      "restaurant": "伊勢ろく 本店（いせろく）",
+      "preferences": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "アクアリウムダイニングバー銀座ライム（LIME）",
+      "preferences": "A7"
+    },
+    {
+      "participant": "D",
+      "restaurant": "小岩井農場TOKYO （【旧店名】小岩井フレミナール）",
+      "preferences": "None"
+    }
+  ],
+  "constraint_table": [
+    {
+      "participant": "A",
+      "restaurant": "フランス大衆食堂ブイヨン本郷3",
+      "constraints": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "上野 アクアリウムレストラン Nautilus（ノーチラス）",
+      "constraints": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "希和味（KIWAMI）",
+      "constraints": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "伊勢ろく 本店（いせろく）",
+      "constraints": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "アクアリウムダイニングバー銀座ライム（LIME）",
+      "constraints": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "小岩井農場TOKYO （【旧店名】小岩井フレミナール）",
+      "constraints": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "フランス大衆食堂ブイヨン本郷3",
+      "constraints": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "上野 アクアリウムレストラン Nautilus（ノーチラス）",
+      "constraints": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "希和味（KIWAMI）",
+      "constraints": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "伊勢ろく 本店（いせろく）",
+      "constraints": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "アクアリウムダイニングバー銀座ライム（LIME）",
+      "constraints": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "小岩井農場TOKYO （【旧店名】小岩井フレミナール）",
+      "constraints": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "フランス大衆食堂ブイヨン本郷3",
+      "constraints": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "上野 アクアリウムレストラン Nautilus（ノーチラス）",
+      "constraints": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "希和味（KIWAMI）",
+      "constraints": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "伊勢ろく 本店（いせろく）",
+      "constraints": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "アクアリウムダイニングバー銀座ライム（LIME）",
+      "constraints": "A1"
+    },
+    {
+      "participant": "C",
+      "restaurant": "小岩井農場TOKYO （【旧店名】小岩井フレミナール）",
+      "constraints": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "フランス大衆食堂ブイヨン本郷3",
+      "constraints": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "上野 アクアリウムレストラン Nautilus（ノーチラス）",
+      "constraints": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "希和味（KIWAMI）",
+      "constraints": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "伊勢ろく 本店（いせろく）",
+      "constraints": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "アクアリウムダイニングバー銀座ライム（LIME）",
+      "constraints": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "小岩井農場TOKYO （【旧店名】小岩井フレミナール）",
+      "constraints": "None"
+    }
+  ]
+}

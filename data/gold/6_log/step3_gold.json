@@ -1,0 +1,124 @@
+{
+  "perception_table": [
+    {
+      "participant": "A",
+      "restaurant": "フランス大衆食堂ブイヨン本郷3",
+      "perception": "Positive"
+    },
+    {
+      "participant": "A",
+      "restaurant": "神田 焼肉 まるたけ",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "A",
+      "restaurant": "ベトナムビストロ バンフィールド 小石川後楽園（Vang Field）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "A",
+      "restaurant": "榎本ハンバーグ研究所 春日後楽園店",
+      "perception": "Mix"
+    },
+    {
+      "participant": "A",
+      "restaurant": "ファイヤーハウス（FIRE HOUSE）",
+      "perception": "Positive"
+    },
+    {
+      "participant": "A",
+      "restaurant": "本郷ダイニング&バー きがる（本郷ダイニング&バー KIGARU）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "B",
+      "restaurant": "フランス大衆食堂ブイヨン本郷3",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "B",
+      "restaurant": "神田 焼肉 まるたけ",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "B",
+      "restaurant": "ベトナムビストロ バンフィールド 小石川後楽園（Vang Field）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "B",
+      "restaurant": "榎本ハンバーグ研究所 春日後楽園店",
+      "perception": "Positive"
+    },
+    {
+      "participant": "B",
+      "restaurant": "ファイヤーハウス（FIRE HOUSE）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "B",
+      "restaurant": "本郷ダイニング&バー きがる（本郷ダイニング&バー KIGARU）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "C",
+      "restaurant": "フランス大衆食堂ブイヨン本郷3",
+      "perception": "Positive"
+    },
+    {
+      "participant": "C",
+      "restaurant": "神田 焼肉 まるたけ",
+      "perception": "Positive"
+    },
+    {
+      "participant": "C",
+      "restaurant": "ベトナムビストロ バンフィールド 小石川後楽園（Vang Field）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "C",
+      "restaurant": "榎本ハンバーグ研究所 春日後楽園店",
+      "perception": "Positive"
+    },
+    {
+      "participant": "C",
+      "restaurant": "ファイヤーハウス（FIRE HOUSE）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "C",
+      "restaurant": "本郷ダイニング&バー きがる（本郷ダイニング&バー KIGARU）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "D",
+      "restaurant": "フランス大衆食堂ブイヨン本郷3",
+      "perception": "Positive"
+    },
+    {
+      "participant": "D",
+      "restaurant": "神田 焼肉 まるたけ",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "D",
+      "restaurant": "ベトナムビストロ バンフィールド 小石川後楽園（Vang Field）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "D",
+      "restaurant": "榎本ハンバーグ研究所 春日後楽園店",
+      "perception": "Positive"
+    },
+    {
+      "participant": "D",
+      "restaurant": "ファイヤーハウス（FIRE HOUSE）",
+      "perception": "Negative"
+    },
+    {
+      "participant": "D",
+      "restaurant": "本郷ダイニング&バー きがる（本郷ダイニング&バー KIGARU）",
+      "perception": "Neutral"
+    }
+  ]
+}

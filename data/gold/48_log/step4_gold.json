@@ -1,0 +1,246 @@
+{
+  "preference_table": [
+    {
+      "participant": "A",
+      "restaurant": "波の",
+      "preferences": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "渋谷カオマンガイ",
+      "preferences": "A7"
+    },
+    {
+      "participant": "A",
+      "restaurant": "ごちとん",
+      "preferences": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "トムボーイ 106 モアイカフェ 渋谷道玄坂店（TOM BOY 106）",
+      "preferences": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "麗郷 渋谷店（レイキョウ）",
+      "preferences": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "はやし",
+      "preferences": "A7"
+    },
+    {
+      "participant": "B",
+      "restaurant": "波の",
+      "preferences": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "渋谷カオマンガイ",
+      "preferences": "A7"
+    },
+    {
+      "participant": "B",
+      "restaurant": "ごちとん",
+      "preferences": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "トムボーイ 106 モアイカフェ 渋谷道玄坂店（TOM BOY 106）",
+      "preferences": "A7"
+    },
+    {
+      "participant": "B",
+      "restaurant": "麗郷 渋谷店（レイキョウ）",
+      "preferences": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "はやし",
+      "preferences": "A7"
+    },
+    {
+      "participant": "C",
+      "restaurant": "波の",
+      "preferences": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "渋谷カオマンガイ",
+      "preferences": "A7"
+    },
+    {
+      "participant": "C",
+      "restaurant": "ごちとん",
+      "preferences": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "トムボーイ 106 モアイカフェ 渋谷道玄坂店（TOM BOY 106）",
+      "preferences": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "麗郷 渋谷店（レイキョウ）",
+      "preferences": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "はやし",
+      "preferences": "A1"
+    },
+    {
+      "participant": "D",
+      "restaurant": "波の",
+      "preferences": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "渋谷カオマンガイ",
+      "preferences": "A1"
+    },
+    {
+      "participant": "D",
+      "restaurant": "ごちとん",
+      "preferences": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "トムボーイ 106 モアイカフェ 渋谷道玄坂店（TOM BOY 106）",
+      "preferences": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "麗郷 渋谷店（レイキョウ）",
+      "preferences": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "はやし",
+      "preferences": "None"
+    }
+  ],
+  "constraint_table": [
+    {
+      "participant": "A",
+      "restaurant": "波の",
+      "constraints": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "渋谷カオマンガイ",
+      "constraints": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "ごちとん",
+      "constraints": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "トムボーイ 106 モアイカフェ 渋谷道玄坂店（TOM BOY 106）",
+      "constraints": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "麗郷 渋谷店（レイキョウ）",
+      "constraints": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "はやし",
+      "constraints": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "波の",
+      "constraints": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "渋谷カオマンガイ",
+      "constraints": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "ごちとん",
+      "constraints": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "トムボーイ 106 モアイカフェ 渋谷道玄坂店（TOM BOY 106）",
+      "constraints": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "麗郷 渋谷店（レイキョウ）",
+      "constraints": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "はやし",
+      "constraints": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "波の",
+      "constraints": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "渋谷カオマンガイ",
+      "constraints": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "ごちとん",
+      "constraints": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "トムボーイ 106 モアイカフェ 渋谷道玄坂店（TOM BOY 106）",
+      "constraints": "A6"
+    },
+    {
+      "participant": "C",
+      "restaurant": "麗郷 渋谷店（レイキョウ）",
+      "constraints": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "はやし",
+      "constraints": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "波の",
+      "constraints": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "渋谷カオマンガイ",
+      "constraints": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "ごちとん",
+      "constraints": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "トムボーイ 106 モアイカフェ 渋谷道玄坂店（TOM BOY 106）",
+      "constraints": "A6"
+    },
+    {
+      "participant": "D",
+      "restaurant": "麗郷 渋谷店（レイキョウ）",
+      "constraints": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "はやし",
+      "constraints": "A1"
+    }
+  ]
+}

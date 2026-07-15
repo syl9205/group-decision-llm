@@ -1,0 +1,223 @@
+{
+  "conversation_id": "1",
+  "conversation": [
+    {
+      "speaker": "A",
+      "utterance": "11/26あいてる？"
+    },
+    {
+      "speaker": "B",
+      "utterance": "私は水、金がわりと厳しくて火木だとわりといける"
+    },
+    {
+      "speaker": "C",
+      "utterance": "私も同じく"
+    },
+    {
+      "speaker": "B",
+      "utterance": "26無理だわ〜ごめん、、\n27は？\nそれか、12/3,4"
+    },
+    {
+      "speaker": "A",
+      "utterance": "2週間以内だと思う！"
+    },
+    {
+      "speaker": "B",
+      "utterance": "そうじゃん"
+    },
+    {
+      "speaker": "C",
+      "utterance": "笑\nわんちゃん今日の夜"
+    },
+    {
+      "speaker": "B",
+      "utterance": "それはありよりだけど、ちょっと今日何時にいけるかわかんないからビミョいかも"
+    },
+    {
+      "speaker": "A",
+      "utterance": "わたし厳しいや"
+    },
+    {
+      "speaker": "C",
+      "utterance": "あそか"
+    },
+    {
+      "speaker": "A",
+      "utterance": "29の予定ならずらせそう"
+    },
+    {
+      "speaker": "B",
+      "utterance": "\"取り敢えず、\n11/22,24,12/1ならいけるよ平日\""
+    },
+    {
+      "speaker": "A",
+      "utterance": "12/1が1番よい"
+    },
+    {
+      "speaker": "C",
+      "utterance": "12/11日空いてる！"
+    },
+    {
+      "speaker": "B",
+      "utterance": "じゃあ12/1にしましょ"
+    },
+    {
+      "speaker": "C",
+      "utterance": "\"2023/12/01\n終日って意味ね\""
+    },
+    {
+      "speaker": "A",
+      "utterance": "おけみ！\nパウで良いかな？"
+    },
+    {
+      "speaker": "B",
+      "utterance": "おけおけ〜"
+    },
+    {
+      "speaker": "A",
+      "utterance": "横浜パウ？"
+    },
+    {
+      "speaker": "B",
+      "utterance": "横浜でも渋谷でも"
+    },
+    {
+      "speaker": "A",
+      "utterance": "いつも通り横浜だとありがたい！\n19時とか？？"
+    },
+    {
+      "speaker": "C",
+      "utterance": "うんいいね"
+    },
+    {
+      "speaker": "B",
+      "utterance": "いける！"
+    },
+    {
+      "speaker": "A",
+      "utterance": "(スタンプ)\n小籠包食べたい"
+    },
+    {
+      "speaker": "B",
+      "utterance": "じゃあ取り敢えず横浜近辺で小籠包系のお店探すわ\nで、良さげなところで"
+    },
+    {
+      "speaker": "A",
+      "utterance": "うん！そうしよ！"
+    },
+    {
+      "speaker": "C",
+      "utterance": "おっけ"
+    },
+    {
+      "speaker": "A",
+      "utterance": "\"京鼎樓 そごう横浜店\n050-5869-9290\n神奈川県横浜市西区高島2-18-1 そごう横浜店 10F"
+    },
+    {
+      "speaker": "https",
+      "utterance": "//tabelog.com/kanagawa/A1401/A140101/14009182/\""
+    },
+    {
+      "speaker": "A",
+      "utterance": "こんなとこあったよ"
+    },
+    {
+      "speaker": "C",
+      "utterance": "\"鼎泰豐 高島屋横浜店\n045-321-0036\n神奈川県横浜市西区南幸1-6-31 横浜タカシマヤ 8F"
+    },
+    {
+      "speaker": "https",
+      "utterance": "//tabelog.com/kanagawa/A1401/A140101/14000058/\""
+    },
+    {
+      "speaker": "A",
+      "utterance": "えーよい！"
+    },
+    {
+      "speaker": "B",
+      "utterance": "これ前私が間違て行きかけたとこだわ、ここも良さげ"
+    },
+    {
+      "speaker": "C",
+      "utterance": "ここ美味しいの！"
+    },
+    {
+      "speaker": "A",
+      "utterance": "気になる！！"
+    },
+    {
+      "speaker": "B",
+      "utterance": "https://tabelog.com/kanagawa/A1401/A140101/14088108/\n前行ったのここだっけ？"
+    },
+    {
+      "speaker": "C",
+      "utterance": "行ったね"
+    },
+    {
+      "speaker": "B",
+      "utterance": "美食家のCがいうの気になる"
+    },
+    {
+      "speaker": "C",
+      "utterance": "あんま美味しくなかった気がする"
+    },
+    {
+      "speaker": "B",
+      "utterance": "えじゃあやめよ"
+    },
+    {
+      "speaker": "C",
+      "utterance": "笑"
+    },
+    {
+      "speaker": "A",
+      "utterance": "うん、そうだったよ！"
+    },
+    {
+      "speaker": "C",
+      "utterance": "Aのも気になるけど"
+    },
+    {
+      "speaker": "A",
+      "utterance": "今回はCのほうにしよ！\n駅から行きやすいし"
+    },
+    {
+      "speaker": "B",
+      "utterance": "確かに、！"
+    },
+    {
+      "speaker": "C",
+      "utterance": "ありがとう〜\nじゃ決まりで"
+    },
+    {
+      "speaker": "B",
+      "utterance": "賛成〜"
+    },
+    {
+      "speaker": "C",
+      "utterance": "21時ぐらいに解散？"
+    },
+    {
+      "speaker": "A",
+      "utterance": "23時にしちゃった！"
+    },
+    {
+      "speaker": "C",
+      "utterance": "おっけー"
+    }
+  ],
+  "info": [
+    {
+      "website": "https://tabelog.com/kanagawa/A1401/A140101/14000058/",
+      "restaurant": "鼎泰豐 高島屋横浜店（ディンタイフォン）"
+    },
+    {
+      "website": "https://tabelog.com/kanagawa/A1401/A140101/14088108/",
+      "restaurant": "横濱小籠包マニア"
+    },
+    {
+      "website": "https://tabelog.com/kanagawa/A1401/A140101/14009182/",
+      "restaurant": "京鼎樓 そごう横浜店（京鼎楼　ジンディンロウ）"
+    }
+  ]
+}

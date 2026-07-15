@@ -1,0 +1,85 @@
+CONVERSATION PART
+A	20, 23, 24, 25, 26, 27, 28
+B	19、20、26
+C	26まで学校andテストあるから厳しい
+A	終わった
+B	くさ
+C	26の夜なら譲歩
+B	譲歩しろ
+B	26の19時以降可
+D	26大丈夫
+A	ちなみに26ならモリスは行けるのか？
+B	いけますね
+A	じゃあそっちでいっか
+C	おけ
+A	決まり！
+B	はいけえってい
+C	頑張る
+B	19時以降でおねがいしたい
+A	19:00~でよければそれで
+D	オッケー
+B	@C ?
+C	場所によるけど17:00くらいまでテスト（ワンチャン伸びるかも）
+C	遠すぎなければ行ける！
+B	19時で大丈夫だろう
+A	行けるね
+B	決定で
+A	決まり
+B	横浜駅周辺を希望しています
+A	"かつみどり（寿司）
+https://tabelog.com/kanagawa/A1401/A140101/14041492/"
+C	自分も横浜駅周辺ありがたいわ
+A	"串揚げ（ヨドバシちか）
+https://tabelog.com/kanagawa/A1401/A140101/14062853/"
+D	https://www.gyukatsu-motomura.com
+C	https://r.gnavi.co.jp/g046203/?utm_id=bnk2022rktn_tenpodsa_undercv11_g_lis&gclid=Cj0KCQiAqOucBhDrARIsAPCQL1YrB5iiGm3tyMd2BE8UpBTIe6qDtga1VAr3IbjeWGGsiRTE7Q-TbAUaAlrPEALw_wcB
+B	https://hungrytiger.co.jp/location/mores.html
+C	https://s.tabelog.com/kanagawa/A1401/A140307/14001013/?cid=yo_g_dsa_shop&gclid=Cj0KCQiAqOucBhDrARIsAPCQL1Y8ddnAwx1R9ZZSSYJHRL0nk93YaWA4wBn4vYQkMgbh2rHlfda9pGwaAk7NEALw_wcB
+B	https://www.ebisu-toraji.com/shop/kanagawa/yokohama-kawasaki/yokohama_mores/
+B	https://tabelog.com/kanagawa/A1401/A140101/14041492/
+C	http://www.morismoris.com/
+D	https://tabelog.com/kanagawa/A1401/A140212/14031548/
+B	こんなもん？
+A	おけ
+B	以上で
+C	おけ
+B	横浜駅は確定？
+B	でよいい？
+C	おけ
+D	よい
+B	肉がいい感じっすかね？
+C	まあ、肉の方が多いな
+A	割とどれでも嬉しい
+C	これ5000円超えてくる
+B	しゃぶしゃぶかこれ
+A	もとむらいこうぜ
+C	"すき焼きしゃぶしゃぶ
+コース料理"
+B	やすくね？
+B	2000円くらいだよなここ
+A	じゃあくしや
+D	まあまあ安い
+D	安めがいい？
+D	揚げ物？
+C	まあ、正直どっちでも
+D	同じく
+A	じゃあもとむらで豪遊したい感じはする
+B	おけ
+B	承諾
+C	本村いったことないからあり
+D	決まり
+A	あざす
+B	もとむら
+C	おけ
+
+INFORMATION PART
+`Website Link`	`Restaurant`
+https://tabelog.com/kanagawa/A1401/A140101/14062853/	串揚げ
+https://tabelog.com/kanagawa/A1401/A140101/14077543/	牛かつ もと村 横浜ジョイナス店
+https://r.gnavi.co.jp/g046203/				季彩膳 酔心横浜スカイビル店
+https://hungrytiger.co.jp/location/mores.html		ハングリータイガー 横浜モアーズ店
+https://tabelog.com/kanagawa/A1401/A140307/14001013/?cid=yo_g_dsa_shop&gclid=Cj0KCQiAqOucBhDrARIsAPCQL1Y8ddnAwx1R9ZZSSYJHRL0nk93YaWA4wBn4vYQkMgbh2rHlfda9pGwaAk7NEALw_wcB					炭火焼鳥　まるざ
+https://tabelog.com/kanagawa/A1401/A140101/14061465/	焼肉トラジ 横浜モアーズ店
+https://tabelog.com/kanagawa/A1401/A140101/14041492/	回し寿司 活 活美登利 横浜スカイビル店
+https://www.morismoris.com/				kitchen&bar MORIS
+https://tabelog.com/kanagawa/A1401/A140212/14031548/	カネセイ

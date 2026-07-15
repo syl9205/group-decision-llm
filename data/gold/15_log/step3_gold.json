@@ -1,0 +1,49 @@
+{
+  "perception_table": [
+    {
+      "participant": "A",
+      "restaurant": "木村屋本店 北千住",
+      "perception": "Negative"
+    },
+    {
+      "participant": "A",
+      "restaurant": "牛太 プラーレ松戸店",
+      "perception": "Mix"
+    },
+    {
+      "participant": "A",
+      "restaurant": "串かつ でんがな 松戸店",
+      "perception": "Positive"
+    },
+    {
+      "participant": "B",
+      "restaurant": "木村屋本店 北千住",
+      "perception": "Negative"
+    },
+    {
+      "participant": "B",
+      "restaurant": "牛太 プラーレ松戸店",
+      "perception": "Mix"
+    },
+    {
+      "participant": "B",
+      "restaurant": "串かつ でんがな 松戸店",
+      "perception": "Positive"
+    },
+    {
+      "participant": "C",
+      "restaurant": "木村屋本店 北千住",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "C",
+      "restaurant": "牛太 プラーレ松戸店",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "C",
+      "restaurant": "串かつ でんがな 松戸店",
+      "perception": "Neutral"
+    }
+  ]
+}

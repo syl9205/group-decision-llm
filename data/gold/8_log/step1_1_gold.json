@@ -1,0 +1,16 @@
+{
+  "participants": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "restaurant_brands": [
+    "トンテジ 本郷店",
+    "た喜ち（takichi）",
+    "炭火串焼 やき龍 本郷店（やきたつ）",
+    "大衆食堂ゆしまホール",
+    "ババ・ガンプ・シュリンプ 東京（BUBBA GUMP SHRIMP TOKYO）"
+  ],
+  "final_restaurant": "トンテジ 本郷店"
+}

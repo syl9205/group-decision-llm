@@ -1,0 +1,451 @@
+{
+  "conversation_id": "10",
+  "conversation": [
+    {
+      "speaker": "A",
+      "utterance": "いつが空いてますか"
+    },
+    {
+      "speaker": "B",
+      "utterance": "12/6までってこと?"
+    },
+    {
+      "speaker": "C",
+      "utterance": "そうじゃない？"
+    },
+    {
+      "speaker": "A",
+      "utterance": "12/5jane"
+    },
+    {
+      "speaker": "B",
+      "utterance": "ｷｯﾂｩｲ"
+    },
+    {
+      "speaker": "A",
+      "utterance": "12/6ka\nか"
+    },
+    {
+      "speaker": "B",
+      "utterance": "最終レポの締切が12/6🥹"
+    },
+    {
+      "speaker": "A",
+      "utterance": "じゃあ早い方がいいか"
+    },
+    {
+      "speaker": "C",
+      "utterance": "たしかに"
+    },
+    {
+      "speaker": "B",
+      "utterance": "あでも12/6の17:00なんよな"
+    },
+    {
+      "speaker": "C",
+      "utterance": "12/6の夜なら清々しい気持ちで食べにいけるってこと？"
+    },
+    {
+      "speaker": "B",
+      "utterance": "だとしたら全部終わった12/6の夜だと完璧"
+    },
+    {
+      "speaker": "C",
+      "utterance": "なるほどね"
+    },
+    {
+      "speaker": "B",
+      "utterance": "ってｺﾄ"
+    },
+    {
+      "speaker": "C",
+      "utterance": "12/6の夜は普通に空いてる"
+    },
+    {
+      "speaker": "A",
+      "utterance": "なるほど\n5限以降になるけどあいてる\nじゃあ確定でいい？"
+    },
+    {
+      "speaker": "B",
+      "utterance": "🆗"
+    },
+    {
+      "speaker": "C",
+      "utterance": "oK"
+    },
+    {
+      "speaker": "A",
+      "utterance": "ちとまつて\nおk"
+    },
+    {
+      "speaker": "B",
+      "utterance": "19:00-21:00?"
+    },
+    {
+      "speaker": "C",
+      "utterance": "そうだね"
+    },
+    {
+      "speaker": "A",
+      "utterance": "場所によるけど"
+    },
+    {
+      "speaker": "B",
+      "utterance": "目安だしまあ"
+    },
+    {
+      "speaker": "A",
+      "utterance": "そうね"
+    },
+    {
+      "speaker": "B",
+      "utterance": "叙々苑"
+    },
+    {
+      "speaker": "C",
+      "utterance": "https://tabelog.com/tokyo/A1303/A130301/13012506/\n駒場から渋谷まで歩く道にあるふぐ"
+    },
+    {
+      "speaker": "B",
+      "utterance": "ww\n\"店名：グスタヴォ　神楽坂店"
+    },
+    {
+      "speaker": "URL：https",
+      "utterance": "//www.hotpepper.jp/strJ001041317/"
+    },
+    {
+      "speaker": "電話",
+      "utterance": "03-6228-1073"
+    },
+    {
+      "speaker": "住所",
+      "utterance": "東京都新宿区神楽坂３－２ 木村屋ビル3F\""
+    },
+    {
+      "speaker": "B",
+      "utterance": "あれこれ4000円がどうこうってあったよねなんだっけ\n4000は出してもらえる?"
+    },
+    {
+      "speaker": "C",
+      "utterance": "支払われるのは会食後だけど4000円はもらえる\nたぶん"
+    },
+    {
+      "speaker": "B",
+      "utterance": "理解"
+    },
+    {
+      "speaker": "A",
+      "utterance": "https://tabelog.com/tokyo/A1311/A131101/13210409/"
+    },
+    {
+      "speaker": "B",
+      "utterance": "もつ鍋はいいよBの家でやろうよ"
+    },
+    {
+      "speaker": "A",
+      "utterance": "肉食いたい"
+    },
+    {
+      "speaker": "C",
+      "utterance": "↑食べログでこのお店は現在閉店しておりますって表示されてる"
+    },
+    {
+      "speaker": "B",
+      "utterance": "😁"
+    },
+    {
+      "speaker": "C",
+      "utterance": "本当かは知らんけど"
+    },
+    {
+      "speaker": "A",
+      "utterance": "まじだ\nhttps://tabelog.com/tokyo/A1311/A131101/13252480/\n候補出切った？"
+    },
+    {
+      "speaker": "B",
+      "utterance": "done"
+    },
+    {
+      "speaker": "C",
+      "utterance": "me too"
+    },
+    {
+      "speaker": "B",
+      "utterance": "https://www.jojoen.co.jp/shop/jojoen/ueno-shinobazu/\n叙々苑のリンク"
+    },
+    {
+      "speaker": "C",
+      "utterance": "もう叙々苑抜きで回答しちゃった😭"
+    },
+    {
+      "speaker": "B",
+      "utterance": "🙃🙃🙃"
+    },
+    {
+      "speaker": "A",
+      "utterance": "叙々苑いいな"
+    },
+    {
+      "speaker": "B",
+      "utterance": "叙々苑を候補に含めて許されるのか問題"
+    },
+    {
+      "speaker": "A",
+      "utterance": "あー2個目か"
+    },
+    {
+      "speaker": "B",
+      "utterance": "✌️"
+    },
+    {
+      "speaker": "C",
+      "utterance": "叙々苑いいな"
+    },
+    {
+      "speaker": "B",
+      "utterance": "(えっなんかもっと議論っぽいのしたほうがいいんじゃないの...?)"
+    },
+    {
+      "speaker": "C",
+      "utterance": "でも叙々苑めちゃ高いね、4000円あるとはいえ\n4000円あるからこそ？"
+    },
+    {
+      "speaker": "A",
+      "utterance": "まじ。まだよそうがくみてない"
+    },
+    {
+      "speaker": "B",
+      "utterance": "見てない"
+    },
+    {
+      "speaker": "A",
+      "utterance": "おー高い\n一人10000くらい？"
+    },
+    {
+      "speaker": "C",
+      "utterance": "そう…"
+    },
+    {
+      "speaker": "B",
+      "utterance": "たっけ"
+    },
+    {
+      "speaker": "A",
+      "utterance": "とらふぐ行くとしたら3人前のやつ？\nなんか牛タンは余所で食うからいいや"
+    },
+    {
+      "speaker": "C",
+      "utterance": "\"てっさ・てっちりセット3人前　鍋野菜付き\n16,200円？\""
+    },
+    {
+      "speaker": "B",
+      "utterance": "スクショ貼って追いつかない🥲"
+    },
+    {
+      "speaker": "C",
+      "utterance": "肉食べたいのはいいんか"
+    },
+    {
+      "speaker": "A",
+      "utterance": "それかおよぎてっちり9000円とか\nぐすたゔぉってどんなん\n生ハムおいしそう"
+    },
+    {
+      "speaker": "C",
+      "utterance": "(写真)"
+    },
+    {
+      "speaker": "B",
+      "utterance": "へー\nでしょ"
+    },
+    {
+      "speaker": "A",
+      "utterance": "肉はもっと安い焼肉とかでもいいかも。Bの家で焼いてもいいし"
+    },
+    {
+      "speaker": "C",
+      "utterance": "たしかにね\nこれお持ち帰りかも\n\"いや、お持ち帰りにはお持ち帰りって書いてあるのかな\nわからん🙃\""
+    },
+    {
+      "speaker": "B",
+      "utterance": "笑笑\n渋谷遠いし"
+    },
+    {
+      "speaker": "A",
+      "utterance": "それはある"
+    },
+    {
+      "speaker": "B",
+      "utterance": "銀座にもあるからそっちがいいな\n話がややこしくなってまいりました"
+    },
+    {
+      "speaker": "A",
+      "utterance": "フグの方向？"
+    },
+    {
+      "speaker": "B",
+      "utterance": "ふぐの方向?"
+    },
+    {
+      "speaker": "C",
+      "utterance": "グスタヴォは？"
+    },
+    {
+      "speaker": "B",
+      "utterance": "場所?\n文京区"
+    },
+    {
+      "speaker": "C",
+      "utterance": "いや、一応候補にあげてるからには何か気に入ったポイントがあるのかなと思って"
+    },
+    {
+      "speaker": "B",
+      "utterance": "ちがうわ新宿区\nああ\nワインのんでみたい\nワインが無理でも生ハムがあれば耐えそう"
+    },
+    {
+      "speaker": "A",
+      "utterance": "いいな"
+    },
+    {
+      "speaker": "B",
+      "utterance": "それくらい"
+    },
+    {
+      "speaker": "C",
+      "utterance": "おいしいワイン飲んでみたい\nフグorワイン　って感じ？"
+    },
+    {
+      "speaker": "B",
+      "utterance": "感じ"
+    },
+    {
+      "speaker": "A",
+      "utterance": "距離もそんな遠くないのね"
+    },
+    {
+      "speaker": "C",
+      "utterance": "フグは自分たちじゃ用意できないしやっぱりフグ派で"
+    },
+    {
+      "speaker": "B",
+      "utterance": "強固な主張"
+    },
+    {
+      "speaker": "A",
+      "utterance": "俺は美味しい生ハム食べたい"
+    },
+    {
+      "speaker": "C",
+      "utterance": "お、意見が割れている\nBは？"
+    },
+    {
+      "speaker": "B",
+      "utterance": "🙃"
+    },
+    {
+      "speaker": "C",
+      "utterance": "Bがどっちでもいいなら生ハムにしよう"
+    },
+    {
+      "speaker": "B",
+      "utterance": "ふぐ行くなら駒込店がいいな近いから"
+    },
+    {
+      "speaker": "A",
+      "utterance": "ふぐか\n？？？\nBはふぐ推し？"
+    },
+    {
+      "speaker": "C",
+      "utterance": "自己主張がんばれ"
+    },
+    {
+      "speaker": "B",
+      "utterance": "ふぐは準備できないって言われると確かにねーってなる"
+    },
+    {
+      "speaker": "A",
+      "utterance": "じゃあとらふぐ亭にするか"
+    },
+    {
+      "speaker": "B",
+      "utterance": "@A ふぐたべたことある、\n?"
+    },
+    {
+      "speaker": "A",
+      "utterance": "あるけどてっちりはない"
+    },
+    {
+      "speaker": "B",
+      "utterance": "へー"
+    },
+    {
+      "speaker": "A",
+      "utterance": "とらふぐ亭でおけ？"
+    },
+    {
+      "speaker": "B",
+      "utterance": "おけ！"
+    },
+    {
+      "speaker": "A",
+      "utterance": "うい！"
+    },
+    {
+      "speaker": "C",
+      "utterance": "おk"
+    },
+    {
+      "speaker": "A",
+      "utterance": "場所は駒込？"
+    },
+    {
+      "speaker": "C",
+      "utterance": "いいと思う"
+    },
+    {
+      "speaker": "B",
+      "utterance": "駒込!"
+    },
+    {
+      "speaker": "A",
+      "utterance": "本郷から確かに近いな"
+    },
+    {
+      "speaker": "B",
+      "utterance": "\"店名：とらふぐ亭　駒込店"
+    },
+    {
+      "speaker": "URL：https",
+      "utterance": "//www.hotpepper.jp/strJ000060961/"
+    },
+    {
+      "speaker": "電話",
+      "utterance": "050-5281-3539"
+    },
+    {
+      "speaker": "住所",
+      "utterance": "東京都豊島区駒込２－５－１　藤和シティホームズ１・２Ｆ\""
+    }
+  ],
+  "info": [
+    {
+      "website": "https://tabelog.com/tokyo/A1323/A132301/13027026/",
+      "restaurant": "とらふぐ亭 駒込店（とらふぐてい）"
+    },
+    {
+      "website": "https://tabelog.com/tokyo/A1303/A130301/13012506/",
+      "restaurant": "とらふぐ亭 渋谷店（とらふぐてい）"
+    },
+    {
+      "website": "https://tabelog.com/tokyo/A1311/A131101/13210409/",
+      "restaurant": "九州居酒屋 博多天神もつ鍋 永山本店 炎の陣 上野新館"
+    },
+    {
+      "website": "https://tabelog.com/tokyo/A1311/A131101/13252480/",
+      "restaurant": "牛タン専門店 タン治郎"
+    },
+    {
+      "website": "https://tabelog.com/tokyo/A1309/A130905/13159717/",
+      "restaurant": "グスタヴォ 神楽坂店"
+    }
+  ]
+}

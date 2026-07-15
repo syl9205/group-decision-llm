@@ -1,0 +1,399 @@
+{
+  "conversation_id": "39",
+  "conversation": [
+    {
+      "speaker": "A",
+      "utterance": "Cがいける日いく？"
+    },
+    {
+      "speaker": "B",
+      "utterance": "日程調整投げる？\nCがまず行ける日出すのが早そう"
+    },
+    {
+      "speaker": "C",
+      "utterance": "投げるほども無いかも"
+    },
+    {
+      "speaker": "A",
+      "utterance": "じゃあ出して"
+    },
+    {
+      "speaker": "B",
+      "utterance": "夜なら平日が良いな"
+    },
+    {
+      "speaker": "C",
+      "utterance": "22、23、29、30\n死んだ笑"
+    },
+    {
+      "speaker": "D",
+      "utterance": "おお、少ない"
+    },
+    {
+      "speaker": "C",
+      "utterance": "土日がいいな🙄"
+    },
+    {
+      "speaker": "B",
+      "utterance": "23って学年会の日じゃね？"
+    },
+    {
+      "speaker": "D",
+      "utterance": "2930は2週間オーバーしてそう"
+    },
+    {
+      "speaker": "B",
+      "utterance": "28までだね\n22しかなくね"
+    },
+    {
+      "speaker": "D",
+      "utterance": "じゃあ22"
+    },
+    {
+      "speaker": "A",
+      "utterance": "じゃあもう22確定じゃん"
+    },
+    {
+      "speaker": "C",
+      "utterance": "22こましょう行くかも"
+    },
+    {
+      "speaker": "A",
+      "utterance": "ちょうどいいじゃん"
+    },
+    {
+      "speaker": "B",
+      "utterance": "じゃあ22で"
+    },
+    {
+      "speaker": "C",
+      "utterance": "18の夜も"
+    },
+    {
+      "speaker": "B",
+      "utterance": "18の夜はむり"
+    },
+    {
+      "speaker": "C",
+      "utterance": "OK"
+    },
+    {
+      "speaker": "A",
+      "utterance": "やっぱ22だ"
+    },
+    {
+      "speaker": "C",
+      "utterance": "何時にする"
+    },
+    {
+      "speaker": "A",
+      "utterance": "22の9時ですね"
+    },
+    {
+      "speaker": "B",
+      "utterance": "駒小後だから21時かな\n後は場所\n\"三島\n03-3460-7544\n東京都目黒区駒場1-33-6"
+    },
+    {
+      "speaker": "https",
+      "utterance": "//tabelog.com/tokyo/A1318/A131801/13007232/\""
+    },
+    {
+      "speaker": "B",
+      "utterance": "\"陳家私菜 渋谷店\n050-5869-6496\n東京都渋谷区神南1-16-3 ブルーヴァールビルB1"
+    },
+    {
+      "speaker": "https",
+      "utterance": "//tabelog.com/tokyo/A1303/A130301/13128819/\""
+    },
+    {
+      "speaker": "A",
+      "utterance": "\"つるとんたん UDON NOODLE Brasserie 渋谷店\n050-5456-2055\n東京都渋谷区渋谷2-24-12 渋谷スクランブルスクエア 13F"
+    },
+    {
+      "speaker": "https",
+      "utterance": "//tabelog.com/tokyo/A1303/A130301/13240100/\""
+    },
+    {
+      "speaker": "C",
+      "utterance": "\"タイ料理 シブカーオ 宮下公園前店\n080-7683-3698\n東京都渋谷区神南1-11-1 渋谷市野ビル B1F"
+    },
+    {
+      "speaker": "https",
+      "utterance": "//tabelog.com/tokyo/A1303/A130301/13244560/\""
+    },
+    {
+      "speaker": "B",
+      "utterance": "\"山下本気うどん 渋谷並木橋\n050-5594-5741\n東京都渋谷区渋谷3-15-8 並木橋ビル 1F"
+    },
+    {
+      "speaker": "https",
+      "utterance": "//tabelog.com/tokyo/A1303/A130301/13213686/\""
+    },
+    {
+      "speaker": "B",
+      "utterance": "\"横浜家系 侍 池尻店\n03-3487-8638\n東京都世田谷区池尻4-12-14"
+    },
+    {
+      "speaker": "https",
+      "utterance": "//tabelog.com/tokyo/A1318/A131801/13019928/\""
+    },
+    {
+      "speaker": "D",
+      "utterance": "https://s.tabelog.com/tokyo/A1318/A131801/13010480/"
+    },
+    {
+      "speaker": "C",
+      "utterance": "\"ムスカン\n03-3469-3686\n東京都目黒区駒場1-9-4 山形屋ビル 1F"
+    },
+    {
+      "speaker": "https",
+      "utterance": "//tabelog.com/tokyo/A1318/A131801/13151514/\""
+    },
+    {
+      "speaker": "A",
+      "utterance": "三島は営業時間外だと思います！"
+    },
+    {
+      "speaker": "B",
+      "utterance": "つるとんたん行ってみたい気持ちが昔からある\nけど多分並んでる\n三島は早く行かないと潰れちゃう"
+    },
+    {
+      "speaker": "C",
+      "utterance": "三島行きたいな"
+    },
+    {
+      "speaker": "B",
+      "utterance": "けどまた今度でいいか"
+    },
+    {
+      "speaker": "C",
+      "utterance": "こましょう前説(今更)"
+    },
+    {
+      "speaker": "B",
+      "utterance": "駒小前だと時間があれじゃね\n駒小前に三島は三島で行くか？"
+    },
+    {
+      "speaker": "C",
+      "utterance": "おけ(行けたら行く)"
+    },
+    {
+      "speaker": "D",
+      "utterance": "それもある"
+    },
+    {
+      "speaker": "B",
+      "utterance": "てか21時にちゃんとやってる店を探そう"
+    },
+    {
+      "speaker": "D",
+      "utterance": "まずそこの確認ね"
+    },
+    {
+      "speaker": "A",
+      "utterance": "侍と菱田屋は営業終了リスクあり"
+    },
+    {
+      "speaker": "C",
+      "utterance": "ムスカンは23時まで"
+    },
+    {
+      "speaker": "B",
+      "utterance": "むすかんはくそ"
+    },
+    {
+      "speaker": "A",
+      "utterance": "ムスカンはいつでも空いてるけどクソ"
+    },
+    {
+      "speaker": "D",
+      "utterance": "ひでえ"
+    },
+    {
+      "speaker": "A",
+      "utterance": "山下本気うどん興味はある"
+    },
+    {
+      "speaker": "C",
+      "utterance": "😂\n何の恨みが\n菱田屋21:30LO"
+    },
+    {
+      "speaker": "B",
+      "utterance": "(写真)\n侍は21:50ラストオーダー"
+    },
+    {
+      "speaker": "D",
+      "utterance": "せっかくだしある程度ゆっくりしたさはある"
+    },
+    {
+      "speaker": "B",
+      "utterance": "多分23時くらいまでやってる\nじゃあ侍はなしかな"
+    },
+    {
+      "speaker": "D",
+      "utterance": "菱田屋もなしで"
+    },
+    {
+      "speaker": "C",
+      "utterance": "うどん2択か"
+    },
+    {
+      "speaker": "B",
+      "utterance": "陳家はこの前Dと行ったからなしかな"
+    },
+    {
+      "speaker": "D",
+      "utterance": "俺はもう一回もありだと思ってた"
+    },
+    {
+      "speaker": "B",
+      "utterance": "つるとんたんって21時もいけるん？\nありではある\n復活演出"
+    },
+    {
+      "speaker": "D",
+      "utterance": "陳家私菜とつるとんたん推し"
+    },
+    {
+      "speaker": "B",
+      "utterance": "並ばずに"
+    },
+    {
+      "speaker": "A",
+      "utterance": "土曜夜に行ったことないからわからん"
+    },
+    {
+      "speaker": "D",
+      "utterance": "前いったときは並んでなかった記憶\nたしかに"
+    },
+    {
+      "speaker": "C",
+      "utterance": "予約できん？"
+    },
+    {
+      "speaker": "B",
+      "utterance": "予約できるの"
+    },
+    {
+      "speaker": "A",
+      "utterance": "そういやつるとんたんって予約できるっけ"
+    },
+    {
+      "speaker": "C",
+      "utterance": "つるとんたんいいよ🙆‍♂️"
+    },
+    {
+      "speaker": "B",
+      "utterance": "なんだかんだあそこ行ったことない"
+    },
+    {
+      "speaker": "C",
+      "utterance": "(写真)"
+    },
+    {
+      "speaker": "B",
+      "utterance": "山下本気うどんは何回かいってるから"
+    },
+    {
+      "speaker": "A",
+      "utterance": "予約はできるけど、コース強要だった"
+    },
+    {
+      "speaker": "C",
+      "utterance": "ネット予約承っておりますなのに電話しかない"
+    },
+    {
+      "speaker": "B",
+      "utterance": "あーね"
+    },
+    {
+      "speaker": "D",
+      "utterance": "コースあるんだ（興味）"
+    },
+    {
+      "speaker": "B",
+      "utterance": "冷静に、うどんのコースってなんだ？"
+    },
+    {
+      "speaker": "D",
+      "utterance": "ね"
+    },
+    {
+      "speaker": "A",
+      "utterance": "5000円からのお求めやすい価格となっております！！"
+    },
+    {
+      "speaker": "C",
+      "utterance": "コースってなんだ"
+    },
+    {
+      "speaker": "D",
+      "utterance": "予算オーバー"
+    },
+    {
+      "speaker": "B",
+      "utterance": "コースは無しだろ"
+    },
+    {
+      "speaker": "D",
+      "utterance": "きびいね"
+    },
+    {
+      "speaker": "A",
+      "utterance": "うどん単体なら1000円ちょいなのにね"
+    },
+    {
+      "speaker": "B",
+      "utterance": "つるとんたん行ってみて、混んでたら山下本気うどん行くとか？\nそういうのってありなのかわからないけど"
+    },
+    {
+      "speaker": "A",
+      "utterance": "それがありならそれでよろし"
+    },
+    {
+      "speaker": "C",
+      "utterance": "おっけ\nいったんつるとんたんでいいんじゃない"
+    },
+    {
+      "speaker": "D",
+      "utterance": "よさそう"
+    },
+    {
+      "speaker": "B",
+      "utterance": "せやな"
+    }
+  ],
+  "info": [
+    {
+      "website": "https://tabelog.com/tokyo/A1318/A131801/13007232/",
+      "restaurant": "三島（みしま）"
+    },
+    {
+      "website": "https://tabelog.com/tokyo/A1303/A130301/13128819/",
+      "restaurant": "陳家私菜 渋谷店"
+    },
+    {
+      "website": "https://tabelog.com/tokyo/A1303/A130301/13240100/",
+      "restaurant": "つるとんたん UDON NOODLE Brasserie 渋谷店"
+    },
+    {
+      "website": "https://tabelog.com/tokyo/A1303/A130301/13244560/",
+      "restaurant": "掲載保留  タイ料理 シブカーオ 宮下公園前店"
+    },
+    {
+      "website": "https://tabelog.com/tokyo/A1303/A130301/13213686/",
+      "restaurant": "山下本気うどん 渋谷並木橋"
+    },
+    {
+      "website": "https://tabelog.com/tokyo/A1318/A131801/13019928/",
+      "restaurant": "横浜家系 侍 池尻店（さむらい）"
+    },
+    {
+      "website": "https://s.tabelog.com/tokyo/A1318/A131801/13010480/",
+      "restaurant": "菱田屋（ヒシダヤ）"
+    },
+    {
+      "website": "https://tabelog.com/tokyo/A1318/A131801/13151514/",
+      "restaurant": "ムスカン（MUSKAN）"
+    }
+  ]
+}

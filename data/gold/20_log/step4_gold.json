@@ -1,0 +1,446 @@
+{
+  "preference_table": [
+    {
+      "participant": "A",
+      "restaurant": "菱田屋（ヒシダヤ）",
+      "preferences": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "魚学マニア スシンジュク新宿3丁目",
+      "preferences": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "シノバズブルワリー ひつじあいす",
+      "preferences": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "大ウ邨（だうつん）",
+      "preferences": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "Sake Fun　ぞっこん。",
+      "preferences": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "魚と酒 つりや",
+      "preferences": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "川治",
+      "preferences": "A7"
+    },
+    {
+      "participant": "A",
+      "restaurant": "シュラスコレストランALEGRIA shibuya （アレグリア渋谷）",
+      "preferences": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "なるきよ",
+      "preferences": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "ファイヤーホール4000 麻布十番店",
+      "preferences": "A7, A5"
+    },
+    {
+      "participant": "A",
+      "restaurant": "バルバッコア 渋谷店",
+      "preferences": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "菱田屋（ヒシダヤ）",
+      "preferences": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "魚学マニア スシンジュク新宿3丁目",
+      "preferences": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "シノバズブルワリー ひつじあいす",
+      "preferences": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "大ウ邨（だうつん）",
+      "preferences": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "Sake Fun　ぞっこん。",
+      "preferences": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "魚と酒 つりや",
+      "preferences": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "川治",
+      "preferences": "A7"
+    },
+    {
+      "participant": "B",
+      "restaurant": "シュラスコレストランALEGRIA shibuya （アレグリア渋谷）",
+      "preferences": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "なるきよ",
+      "preferences": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "ファイヤーホール4000 麻布十番店",
+      "preferences": "A7"
+    },
+    {
+      "participant": "B",
+      "restaurant": "バルバッコア 渋谷店",
+      "preferences": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "菱田屋（ヒシダヤ）",
+      "preferences": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "魚学マニア スシンジュク新宿3丁目",
+      "preferences": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "シノバズブルワリー ひつじあいす",
+      "preferences": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "大ウ邨（だうつん）",
+      "preferences": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "Sake Fun　ぞっこん。",
+      "preferences": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "魚と酒 つりや",
+      "preferences": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "川治",
+      "preferences": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "シュラスコレストランALEGRIA shibuya （アレグリア渋谷）",
+      "preferences": "A7"
+    },
+    {
+      "participant": "C",
+      "restaurant": "なるきよ",
+      "preferences": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "ファイヤーホール4000 麻布十番店",
+      "preferences": "A7"
+    },
+    {
+      "participant": "C",
+      "restaurant": "バルバッコア 渋谷店",
+      "preferences": "A7"
+    },
+    {
+      "participant": "D",
+      "restaurant": "菱田屋（ヒシダヤ）",
+      "preferences": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "魚学マニア スシンジュク新宿3丁目",
+      "preferences": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "シノバズブルワリー ひつじあいす",
+      "preferences": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "大ウ邨（だうつん）",
+      "preferences": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "Sake Fun　ぞっこん。",
+      "preferences": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "魚と酒 つりや",
+      "preferences": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "川治",
+      "preferences": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "シュラスコレストランALEGRIA shibuya （アレグリア渋谷）",
+      "preferences": "A7"
+    },
+    {
+      "participant": "D",
+      "restaurant": "なるきよ",
+      "preferences": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "ファイヤーホール4000 麻布十番店",
+      "preferences": "A1"
+    },
+    {
+      "participant": "D",
+      "restaurant": "バルバッコア 渋谷店",
+      "preferences": "A7"
+    }
+  ],
+  "constraint_table": [
+    {
+      "participant": "A",
+      "restaurant": "菱田屋（ヒシダヤ）",
+      "constraints": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "魚学マニア スシンジュク新宿3丁目",
+      "constraints": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "シノバズブルワリー ひつじあいす",
+      "constraints": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "大ウ邨（だうつん）",
+      "constraints": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "Sake Fun　ぞっこん。",
+      "constraints": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "魚と酒 つりや",
+      "constraints": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "川治",
+      "constraints": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "シュラスコレストランALEGRIA shibuya （アレグリア渋谷）",
+      "constraints": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "なるきよ",
+      "constraints": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "ファイヤーホール4000 麻布十番店",
+      "constraints": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "バルバッコア 渋谷店",
+      "constraints": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "菱田屋（ヒシダヤ）",
+      "constraints": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "魚学マニア スシンジュク新宿3丁目",
+      "constraints": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "シノバズブルワリー ひつじあいす",
+      "constraints": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "大ウ邨（だうつん）",
+      "constraints": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "Sake Fun　ぞっこん。",
+      "constraints": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "魚と酒 つりや",
+      "constraints": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "川治",
+      "constraints": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "シュラスコレストランALEGRIA shibuya （アレグリア渋谷）",
+      "constraints": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "なるきよ",
+      "constraints": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "ファイヤーホール4000 麻布十番店",
+      "constraints": "A6"
+    },
+    {
+      "participant": "B",
+      "restaurant": "バルバッコア 渋谷店",
+      "constraints": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "菱田屋（ヒシダヤ）",
+      "constraints": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "魚学マニア スシンジュク新宿3丁目",
+      "constraints": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "シノバズブルワリー ひつじあいす",
+      "constraints": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "大ウ邨（だうつん）",
+      "constraints": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "Sake Fun　ぞっこん。",
+      "constraints": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "魚と酒 つりや",
+      "constraints": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "川治",
+      "constraints": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "シュラスコレストランALEGRIA shibuya （アレグリア渋谷）",
+      "constraints": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "なるきよ",
+      "constraints": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "ファイヤーホール4000 麻布十番店",
+      "constraints": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "バルバッコア 渋谷店",
+      "constraints": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "菱田屋（ヒシダヤ）",
+      "constraints": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "魚学マニア スシンジュク新宿3丁目",
+      "constraints": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "シノバズブルワリー ひつじあいす",
+      "constraints": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "大ウ邨（だうつん）",
+      "constraints": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "Sake Fun　ぞっこん。",
+      "constraints": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "魚と酒 つりや",
+      "constraints": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "川治",
+      "constraints": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "シュラスコレストランALEGRIA shibuya （アレグリア渋谷）",
+      "constraints": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "なるきよ",
+      "constraints": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "ファイヤーホール4000 麻布十番店",
+      "constraints": "A6"
+    },
+    {
+      "participant": "D",
+      "restaurant": "バルバッコア 渋谷店",
+      "constraints": "A6"
+    }
+  ]
+}

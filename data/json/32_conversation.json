@@ -1,0 +1,255 @@
+{
+  "conversation_id": "32",
+  "conversation": [
+    {
+      "speaker": "A",
+      "utterance": "来週空いてる日とかありますか"
+    },
+    {
+      "speaker": "B",
+      "utterance": "月曜"
+    },
+    {
+      "speaker": "A",
+      "utterance": "月曜俺も空いてる！"
+    },
+    {
+      "speaker": "B",
+      "utterance": "Cはどう？"
+    },
+    {
+      "speaker": "A",
+      "utterance": "(写真)"
+    },
+    {
+      "speaker": "C",
+      "utterance": "ちょいまち\n月曜日大丈夫そう〜"
+    },
+    {
+      "speaker": "A",
+      "utterance": "じゃあ12/26月曜で！"
+    },
+    {
+      "speaker": "C",
+      "utterance": "おけまる"
+    },
+    {
+      "speaker": "B",
+      "utterance": "おっけー"
+    },
+    {
+      "speaker": "A",
+      "utterance": "時間何時からがいいですか"
+    },
+    {
+      "speaker": "B",
+      "utterance": "夕方くらいか？遅すぎず"
+    },
+    {
+      "speaker": "C",
+      "utterance": "ゴーストミーティングあるけどガン無視決めていいのか？"
+    },
+    {
+      "speaker": "A",
+      "utterance": "18か19とかかな？"
+    },
+    {
+      "speaker": "B",
+      "utterance": "おれは大丈夫　笑"
+    },
+    {
+      "speaker": "A",
+      "utterance": "あー\n大丈夫🙆‍♂️"
+    },
+    {
+      "speaker": "C",
+      "utterance": "18じくらいが丸いんかな"
+    },
+    {
+      "speaker": "B",
+      "utterance": "じゃあ18時にしましょう"
+    },
+    {
+      "speaker": "A",
+      "utterance": "おけい"
+    },
+    {
+      "speaker": "B",
+      "utterance": "https://tabelog.com/tokyo/A1311/A131101/13197983/\nhttps://tabelog.com/tokyo/A1311/A131101/13035264/"
+    },
+    {
+      "speaker": "A",
+      "utterance": "https://tabelog.com/tokyo/A1311/A131101/13093277/party/\nhttps://tabelog.com/tokyo/A1311/A131101/13168054/party/"
+    },
+    {
+      "speaker": "C",
+      "utterance": "https://s.tabelog.com/tokyo/A1304/A130401/13196445/party/162485235/"
+    },
+    {
+      "speaker": "A",
+      "utterance": "https://tabelog.com/tokyo/A1310/A131004/13030239/party/"
+    },
+    {
+      "speaker": "C",
+      "utterance": "いかが致しましょう"
+    },
+    {
+      "speaker": "B",
+      "utterance": "肉か牡蠣かイタリアンかってことか"
+    },
+    {
+      "speaker": "A",
+      "utterance": "そうねw\n場所みんなどこがいいんだろ"
+    },
+    {
+      "speaker": "B",
+      "utterance": "場所は本三か上野だと行きやすいよね"
+    },
+    {
+      "speaker": "C",
+      "utterance": "本三から近いのが良さそう"
+    },
+    {
+      "speaker": "B",
+      "utterance": "大学から近いし"
+    },
+    {
+      "speaker": "A",
+      "utterance": "新宿も本三からだと近いのか"
+    },
+    {
+      "speaker": "B",
+      "utterance": "なるほど"
+    },
+    {
+      "speaker": "C",
+      "utterance": "うーーん大江戸線でピッと行く感じか？"
+    },
+    {
+      "speaker": "A",
+      "utterance": "俺とかBは多分上野とかがありがたい"
+    },
+    {
+      "speaker": "B",
+      "utterance": "そうね　笑"
+    },
+    {
+      "speaker": "C",
+      "utterance": "上野でええんちゃう？"
+    },
+    {
+      "speaker": "B",
+      "utterance": "ってことは，肉・肉・肉・牡蠣の4店舗のどれかね"
+    },
+    {
+      "speaker": "A",
+      "utterance": "自分であげといてなんだけど、牡蠣はまあなしでいいかも笑"
+    },
+    {
+      "speaker": "B",
+      "utterance": "おけ　笑\n食あたり怖い"
+    },
+    {
+      "speaker": "A",
+      "utterance": "4000円内で食べたいし笑"
+    },
+    {
+      "speaker": "C",
+      "utterance": "そんな当たらんやろ笑"
+    },
+    {
+      "speaker": "B",
+      "utterance": "焼き鳥かしゃぶしゃぶか焼肉か\n食べ飲み放題にしたらどこも値段同じぐらいよね"
+    },
+    {
+      "speaker": "A",
+      "utterance": "そうだね"
+    },
+    {
+      "speaker": "C",
+      "utterance": "そうね"
+    },
+    {
+      "speaker": "A",
+      "utterance": "んーどーしよ\nなんか希望ある人いますか？"
+    },
+    {
+      "speaker": "C",
+      "utterance": "トリキしゃぶしゃぶは良くも悪くも無難だよなぁと感じたりはする"
+    },
+    {
+      "speaker": "A",
+      "utterance": "わかる"
+    },
+    {
+      "speaker": "B",
+      "utterance": "韓国居酒屋は，食べ放題の肉のレパートリーが不明だった"
+    },
+    {
+      "speaker": "A",
+      "utterance": "トリキは割といつでも行けるからしゃぶしゃぶ寄りではある\nそれな、ちょっと怖い"
+    },
+    {
+      "speaker": "C",
+      "utterance": "なるほど"
+    },
+    {
+      "speaker": "B",
+      "utterance": "それはそう\nじゃーしゃぶしゃぶか？"
+    },
+    {
+      "speaker": "A",
+      "utterance": "まあでも食べ放題ってなるといつもと違いのかなーと思って悩む"
+    },
+    {
+      "speaker": "B",
+      "utterance": "なるほど　笑"
+    },
+    {
+      "speaker": "A",
+      "utterance": "まあ俺はじゃあしゃぶしゃぶ押しで！"
+    },
+    {
+      "speaker": "B",
+      "utterance": "しゃぶあり\n野菜も取れる"
+    },
+    {
+      "speaker": "C",
+      "utterance": "シャブでええんちゃう"
+    },
+    {
+      "speaker": "A",
+      "utterance": "おけ\n決まり！"
+    },
+    {
+      "speaker": "B",
+      "utterance": "しゃぶろう"
+    }
+  ],
+  "info": [
+    {
+      "website": "https://tabelog.com/tokyo/A1311/A131101/13197983/",
+      "restaurant": "鳥貴族 上野中央通り店"
+    },
+    {
+      "website": "https://tabelog.com/tokyo/A1311/A131101/13035264/",
+      "restaurant": "しゃぶしゃぶ 温野菜 上野駅前店"
+    },
+    {
+      "website": "https://tabelog.com/tokyo/A1311/A131101/13093277/party/",
+      "restaurant": "韓国式居酒屋 トンマッコル 上野店"
+    },
+    {
+      "website": "https://tabelog.com/tokyo/A1311/A131101/13168054/party/",
+      "restaurant": "オイスターテーブル 上野さくらテラス店（OysterTable）"
+    },
+    {
+      "website": "https://s.tabelog.com/tokyo/A1304/A130401/13196445/party/162485235/",
+      "restaurant": "本格シュラスコ×肉バル Gabutto 新宿本店"
+    },
+    {
+      "website": "https://tabelog.com/tokyo/A1310/A131004/13030239/party/",
+      "restaurant": "ピアンタモッチ（【旧店名】コッコピア）"
+    }
+  ]
+}

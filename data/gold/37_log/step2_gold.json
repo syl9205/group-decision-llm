@@ -1,0 +1,104 @@
+{
+  "mentioned_table": [
+    {
+      "participant": "A",
+      "restaurant": "和食ごはんと酒 縁 本郷三丁目店（yukari）",
+      "mention": "Mentioned"
+    },
+    {
+      "participant": "A",
+      "restaurant": "松好（まつよし）",
+      "mention": "Mentioned"
+    },
+    {
+      "participant": "A",
+      "restaurant": "RISE & WIN Brewing Co. KAMIKATZ TAPROOM（ライズアンドウィンブルーイングカンパニー カミカツタップルーム）",
+      "mention": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "新龍門",
+      "mention": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "羅針盤",
+      "mention": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "和食ごはんと酒 縁 本郷三丁目店（yukari）",
+      "mention": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "松好（まつよし）",
+      "mention": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "RISE & WIN Brewing Co. KAMIKATZ TAPROOM（ライズアンドウィンブルーイングカンパニー カミカツタップルーム）",
+      "mention": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "新龍門",
+      "mention": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "羅針盤",
+      "mention": "Mentioned"
+    },
+    {
+      "participant": "C",
+      "restaurant": "和食ごはんと酒 縁 本郷三丁目店（yukari）",
+      "mention": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "松好（まつよし）",
+      "mention": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "RISE & WIN Brewing Co. KAMIKATZ TAPROOM（ライズアンドウィンブルーイングカンパニー カミカツタップルーム）",
+      "mention": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "新龍門",
+      "mention": "Mentioned"
+    },
+    {
+      "participant": "C",
+      "restaurant": "羅針盤",
+      "mention": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "和食ごはんと酒 縁 本郷三丁目店（yukari）",
+      "mention": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "松好（まつよし）",
+      "mention": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "RISE & WIN Brewing Co. KAMIKATZ TAPROOM（ライズアンドウィンブルーイングカンパニー カミカツタップルーム）",
+      "mention": "Mentioned"
+    },
+    {
+      "participant": "D",
+      "restaurant": "新龍門",
+      "mention": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "羅針盤",
+      "mention": "None"
+    }
+  ]
+}

@@ -1,0 +1,286 @@
+{
+  "preference_table": [
+    {
+      "participant": "A",
+      "restaurant": "餃子の王将 下北沢店",
+      "preferences": "A7"
+    },
+    {
+      "participant": "A",
+      "restaurant": "ムスカン（MUSKAN）",
+      "preferences": "A4"
+    },
+    {
+      "participant": "A",
+      "restaurant": "NAN STATION（ナンステーション）",
+      "preferences": "A7"
+    },
+    {
+      "participant": "A",
+      "restaurant": "丸亀製麺 下北沢店",
+      "preferences": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "油そば 東京油組総本店 下北沢組",
+      "preferences": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "スタン サンドイッチストア（STAN sandwich store）",
+      "preferences": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "黒川食堂",
+      "preferences": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "餃子の王将 下北沢店",
+      "preferences": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "ムスカン（MUSKAN）",
+      "preferences": "A7"
+    },
+    {
+      "participant": "B",
+      "restaurant": "NAN STATION（ナンステーション）",
+      "preferences": "A7"
+    },
+    {
+      "participant": "B",
+      "restaurant": "丸亀製麺 下北沢店",
+      "preferences": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "油そば 東京油組総本店 下北沢組",
+      "preferences": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "スタン サンドイッチストア（STAN sandwich store）",
+      "preferences": "A7"
+    },
+    {
+      "participant": "B",
+      "restaurant": "黒川食堂",
+      "preferences": "A7"
+    },
+    {
+      "participant": "C",
+      "restaurant": "餃子の王将 下北沢店",
+      "preferences": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "ムスカン（MUSKAN）",
+      "preferences": "A5"
+    },
+    {
+      "participant": "C",
+      "restaurant": "NAN STATION（ナンステーション）",
+      "preferences": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "丸亀製麺 下北沢店",
+      "preferences": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "油そば 東京油組総本店 下北沢組",
+      "preferences": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "スタン サンドイッチストア（STAN sandwich store）",
+      "preferences": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "黒川食堂",
+      "preferences": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "餃子の王将 下北沢店",
+      "preferences": "A7"
+    },
+    {
+      "participant": "D",
+      "restaurant": "ムスカン（MUSKAN）",
+      "preferences": "A4"
+    },
+    {
+      "participant": "D",
+      "restaurant": "NAN STATION（ナンステーション）",
+      "preferences": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "丸亀製麺 下北沢店",
+      "preferences": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "油そば 東京油組総本店 下北沢組",
+      "preferences": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "スタン サンドイッチストア（STAN sandwich store）",
+      "preferences": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "黒川食堂",
+      "preferences": "None"
+    }
+  ],
+  "constraint_table": [
+    {
+      "participant": "A",
+      "restaurant": "餃子の王将 下北沢店",
+      "constraints": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "ムスカン（MUSKAN）",
+      "constraints": "A5"
+    },
+    {
+      "participant": "A",
+      "restaurant": "NAN STATION（ナンステーション）",
+      "constraints": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "丸亀製麺 下北沢店",
+      "constraints": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "油そば 東京油組総本店 下北沢組",
+      "constraints": "A1"
+    },
+    {
+      "participant": "A",
+      "restaurant": "スタン サンドイッチストア（STAN sandwich store）",
+      "constraints": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "黒川食堂",
+      "constraints": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "餃子の王将 下北沢店",
+      "constraints": "A7"
+    },
+    {
+      "participant": "B",
+      "restaurant": "ムスカン（MUSKAN）",
+      "constraints": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "NAN STATION（ナンステーション）",
+      "constraints": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "丸亀製麺 下北沢店",
+      "constraints": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "油そば 東京油組総本店 下北沢組",
+      "constraints": "A1"
+    },
+    {
+      "participant": "B",
+      "restaurant": "スタン サンドイッチストア（STAN sandwich store）",
+      "constraints": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "黒川食堂",
+      "constraints": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "餃子の王将 下北沢店",
+      "constraints": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "ムスカン（MUSKAN）",
+      "constraints": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "NAN STATION（ナンステーション）",
+      "constraints": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "丸亀製麺 下北沢店",
+      "constraints": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "油そば 東京油組総本店 下北沢組",
+      "constraints": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "スタン サンドイッチストア（STAN sandwich store）",
+      "constraints": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "黒川食堂",
+      "constraints": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "餃子の王将 下北沢店",
+      "constraints": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "ムスカン（MUSKAN）",
+      "constraints": "A7"
+    },
+    {
+      "participant": "D",
+      "restaurant": "NAN STATION（ナンステーション）",
+      "constraints": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "丸亀製麺 下北沢店",
+      "constraints": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "油そば 東京油組総本店 下北沢組",
+      "constraints": "A1"
+    },
+    {
+      "participant": "D",
+      "restaurant": "スタン サンドイッチストア（STAN sandwich store）",
+      "constraints": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "黒川食堂",
+      "constraints": "None"
+    }
+  ]
+}

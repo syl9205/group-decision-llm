@@ -1,0 +1,15 @@
+{
+  "participants": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "restaurant_brands": [
+    "ジョーズ シャンハイ ニューヨーク 池袋店（JOE'S SHANGHAI NEWYORK）",
+    "味ちゃん 2号店（マッチャン）",
+    "和食 個室居酒屋 美味か 新宿南口店（UMAKA【旧店名】うまかばる）",
+    "焼肉ホルモンたけ田 高田馬場店"
+  ],
+  "final_restaurant": "ジョーズ シャンハイ ニューヨーク 池袋店（JOE'S SHANGHAI NEWYORK）"
+}

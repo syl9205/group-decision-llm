@@ -1,0 +1,244 @@
+{
+  "perception_table": [
+    {
+      "participant": "A",
+      "restaurant": "フランス大衆食堂ブイヨン本郷3",
+      "perception": "Negative"
+    },
+    {
+      "participant": "A",
+      "restaurant": "トンテジ 本郷店",
+      "perception": "Positive"
+    },
+    {
+      "participant": "A",
+      "restaurant": "焼肉 ジャンボ 本郷店",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "A",
+      "restaurant": "ねぎま 三ぞう 本郷三丁目店（【旧店名】俺の居酒屋 三蔵）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "A",
+      "restaurant": "御殿（ごてん）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "A",
+      "restaurant": "あじこい庵",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "A",
+      "restaurant": "ハードロックカフェ 上野駅（Hard Rock CAFE）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "A",
+      "restaurant": "HUB 上野しのばず通り店（ハブ）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "A",
+      "restaurant": "風来坊 大宮店（ふうらいぼう）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "A",
+      "restaurant": "日本酒キッチン YODARE 湯島・御徒町店",
+      "perception": "Positive"
+    },
+    {
+      "participant": "A",
+      "restaurant": "アブルボア 東京大学",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "A",
+      "restaurant": "和食ごはんと酒 縁 本郷三丁目店",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "B",
+      "restaurant": "フランス大衆食堂ブイヨン本郷3",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "B",
+      "restaurant": "トンテジ 本郷店",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "B",
+      "restaurant": "焼肉 ジャンボ 本郷店",
+      "perception": "Negative"
+    },
+    {
+      "participant": "B",
+      "restaurant": "ねぎま 三ぞう 本郷三丁目店（【旧店名】俺の居酒屋 三蔵）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "B",
+      "restaurant": "御殿（ごてん）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "B",
+      "restaurant": "あじこい庵",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "B",
+      "restaurant": "ハードロックカフェ 上野駅（Hard Rock CAFE）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "B",
+      "restaurant": "HUB 上野しのばず通り店（ハブ）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "B",
+      "restaurant": "風来坊 大宮店（ふうらいぼう）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "B",
+      "restaurant": "日本酒キッチン YODARE 湯島・御徒町店",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "B",
+      "restaurant": "アブルボア 東京大学",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "B",
+      "restaurant": "和食ごはんと酒 縁 本郷三丁目店",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "C",
+      "restaurant": "フランス大衆食堂ブイヨン本郷3",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "C",
+      "restaurant": "トンテジ 本郷店",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "C",
+      "restaurant": "焼肉 ジャンボ 本郷店",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "C",
+      "restaurant": "ねぎま 三ぞう 本郷三丁目店（【旧店名】俺の居酒屋 三蔵）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "C",
+      "restaurant": "御殿（ごてん）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "C",
+      "restaurant": "あじこい庵",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "C",
+      "restaurant": "ハードロックカフェ 上野駅（Hard Rock CAFE）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "C",
+      "restaurant": "HUB 上野しのばず通り店（ハブ）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "C",
+      "restaurant": "風来坊 大宮店（ふうらいぼう）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "C",
+      "restaurant": "日本酒キッチン YODARE 湯島・御徒町店",
+      "perception": "Positive"
+    },
+    {
+      "participant": "C",
+      "restaurant": "アブルボア 東京大学",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "C",
+      "restaurant": "和食ごはんと酒 縁 本郷三丁目店",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "D",
+      "restaurant": "フランス大衆食堂ブイヨン本郷3",
+      "perception": "Negative"
+    },
+    {
+      "participant": "D",
+      "restaurant": "トンテジ 本郷店",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "D",
+      "restaurant": "焼肉 ジャンボ 本郷店",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "D",
+      "restaurant": "ねぎま 三ぞう 本郷三丁目店（【旧店名】俺の居酒屋 三蔵）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "D",
+      "restaurant": "御殿（ごてん）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "D",
+      "restaurant": "あじこい庵",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "D",
+      "restaurant": "ハードロックカフェ 上野駅（Hard Rock CAFE）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "D",
+      "restaurant": "HUB 上野しのばず通り店（ハブ）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "D",
+      "restaurant": "風来坊 大宮店（ふうらいぼう）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "D",
+      "restaurant": "日本酒キッチン YODARE 湯島・御徒町店",
+      "perception": "Positive"
+    },
+    {
+      "participant": "D",
+      "restaurant": "アブルボア 東京大学",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "D",
+      "restaurant": "和食ごはんと酒 縁 本郷三丁目店",
+      "perception": "Neutral"
+    }
+  ]
+}

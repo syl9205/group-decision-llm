@@ -1,0 +1,14 @@
+{
+  "participants": [
+    "A",
+    "B",
+    "C"
+  ],
+  "restaurant_brands": [
+    "BOILING POINT（ボイリングポイント）",
+    "シェーキーズ 渋谷店（Shakey's）",
+    "ハヌリ 渋谷",
+    "小割烹おはし 渋谷"
+  ],
+  "final_restaurant": "シェーキーズ 渋谷店（Shakey's）"
+}

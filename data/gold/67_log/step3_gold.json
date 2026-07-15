@@ -1,0 +1,64 @@
+{
+  "perception_table": [
+    {
+      "participant": "A",
+      "restaurant": "ニューヨック中野",
+      "perception": "Positive"
+    },
+    {
+      "participant": "A",
+      "restaurant": "豚とバラの日々",
+      "perception": "Mix"
+    },
+    {
+      "participant": "A",
+      "restaurant": "たまには焼肉 高円寺店",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "B",
+      "restaurant": "ニューヨック中野",
+      "perception": "Positive"
+    },
+    {
+      "participant": "B",
+      "restaurant": "豚とバラの日々",
+      "perception": "Positive"
+    },
+    {
+      "participant": "B",
+      "restaurant": "たまには焼肉 高円寺店",
+      "perception": "Negative"
+    },
+    {
+      "participant": "C",
+      "restaurant": "ニューヨック中野",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "C",
+      "restaurant": "豚とバラの日々",
+      "perception": "Negative"
+    },
+    {
+      "participant": "C",
+      "restaurant": "たまには焼肉 高円寺店",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "D",
+      "restaurant": "ニューヨック中野",
+      "perception": "Positive"
+    },
+    {
+      "participant": "D",
+      "restaurant": "豚とバラの日々",
+      "perception": "Positive"
+    },
+    {
+      "participant": "D",
+      "restaurant": "たまには焼肉 高円寺店",
+      "perception": "Neutral"
+    }
+  ]
+}

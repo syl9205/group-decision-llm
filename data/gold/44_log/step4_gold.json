@@ -1,0 +1,306 @@
+{
+  "preference_table": [
+    {
+      "participant": "A",
+      "restaurant": "沖縄そば やんばる 新宿本店（おきなわそば・やんばる）",
+      "preferences": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "焼肉牛星 白山店",
+      "preferences": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "はま寿司 駒込白山店",
+      "preferences": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "和来路（わらじ）",
+      "preferences": "A7"
+    },
+    {
+      "participant": "A",
+      "restaurant": "ファイヤーハウス（FIRE HOUSE）",
+      "preferences": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "元祖めんたい煮こみつけ麺",
+      "preferences": "A7"
+    },
+    {
+      "participant": "B",
+      "restaurant": "沖縄そば やんばる 新宿本店（おきなわそば・やんばる）",
+      "preferences": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "焼肉牛星 白山店",
+      "preferences": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "はま寿司 駒込白山店",
+      "preferences": "A7"
+    },
+    {
+      "participant": "B",
+      "restaurant": "和来路（わらじ）",
+      "preferences": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "ファイヤーハウス（FIRE HOUSE）",
+      "preferences": "A7"
+    },
+    {
+      "participant": "B",
+      "restaurant": "元祖めんたい煮こみつけ麺",
+      "preferences": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "沖縄そば やんばる 新宿本店（おきなわそば・やんばる）",
+      "preferences": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "焼肉牛星 白山店",
+      "preferences": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "はま寿司 駒込白山店",
+      "preferences": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "和来路（わらじ）",
+      "preferences": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "ファイヤーハウス（FIRE HOUSE）",
+      "preferences": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "元祖めんたい煮こみつけ麺",
+      "preferences": "A7"
+    },
+    {
+      "participant": "D",
+      "restaurant": "沖縄そば やんばる 新宿本店（おきなわそば・やんばる）",
+      "preferences": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "焼肉牛星 白山店",
+      "preferences": "A7"
+    },
+    {
+      "participant": "D",
+      "restaurant": "はま寿司 駒込白山店",
+      "preferences": "A7"
+    },
+    {
+      "participant": "D",
+      "restaurant": "和来路（わらじ）",
+      "preferences": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "ファイヤーハウス（FIRE HOUSE）",
+      "preferences": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "元祖めんたい煮こみつけ麺",
+      "preferences": "None"
+    },
+    {
+      "participant": "E",
+      "restaurant": "沖縄そば やんばる 新宿本店（おきなわそば・やんばる）",
+      "preferences": "None"
+    },
+    {
+      "participant": "E",
+      "restaurant": "焼肉牛星 白山店",
+      "preferences": "None"
+    },
+    {
+      "participant": "E",
+      "restaurant": "はま寿司 駒込白山店",
+      "preferences": "A7"
+    },
+    {
+      "participant": "E",
+      "restaurant": "和来路（わらじ）",
+      "preferences": "None"
+    },
+    {
+      "participant": "E",
+      "restaurant": "ファイヤーハウス（FIRE HOUSE）",
+      "preferences": "None"
+    },
+    {
+      "participant": "E",
+      "restaurant": "元祖めんたい煮こみつけ麺",
+      "preferences": "None"
+    }
+  ],
+  "constraint_table": [
+    {
+      "participant": "A",
+      "restaurant": "沖縄そば やんばる 新宿本店（おきなわそば・やんばる）",
+      "constraints": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "焼肉牛星 白山店",
+      "constraints": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "はま寿司 駒込白山店",
+      "constraints": "A5"
+    },
+    {
+      "participant": "A",
+      "restaurant": "和来路（わらじ）",
+      "constraints": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "ファイヤーハウス（FIRE HOUSE）",
+      "constraints": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "元祖めんたい煮こみつけ麺",
+      "constraints": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "沖縄そば やんばる 新宿本店（おきなわそば・やんばる）",
+      "constraints": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "焼肉牛星 白山店",
+      "constraints": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "はま寿司 駒込白山店",
+      "constraints": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "和来路（わらじ）",
+      "constraints": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "ファイヤーハウス（FIRE HOUSE）",
+      "constraints": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "元祖めんたい煮こみつけ麺",
+      "constraints": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "沖縄そば やんばる 新宿本店（おきなわそば・やんばる）",
+      "constraints": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "焼肉牛星 白山店",
+      "constraints": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "はま寿司 駒込白山店",
+      "constraints": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "和来路（わらじ）",
+      "constraints": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "ファイヤーハウス（FIRE HOUSE）",
+      "constraints": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "元祖めんたい煮こみつけ麺",
+      "constraints": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "沖縄そば やんばる 新宿本店（おきなわそば・やんばる）",
+      "constraints": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "焼肉牛星 白山店",
+      "constraints": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "はま寿司 駒込白山店",
+      "constraints": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "和来路（わらじ）",
+      "constraints": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "ファイヤーハウス（FIRE HOUSE）",
+      "constraints": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "元祖めんたい煮こみつけ麺",
+      "constraints": "None"
+    },
+    {
+      "participant": "E",
+      "restaurant": "沖縄そば やんばる 新宿本店（おきなわそば・やんばる）",
+      "constraints": "None"
+    },
+    {
+      "participant": "E",
+      "restaurant": "焼肉牛星 白山店",
+      "constraints": "None"
+    },
+    {
+      "participant": "E",
+      "restaurant": "はま寿司 駒込白山店",
+      "constraints": "None"
+    },
+    {
+      "participant": "E",
+      "restaurant": "和来路（わらじ）",
+      "constraints": "None"
+    },
+    {
+      "participant": "E",
+      "restaurant": "ファイヤーハウス（FIRE HOUSE）",
+      "constraints": "None"
+    },
+    {
+      "participant": "E",
+      "restaurant": "元祖めんたい煮こみつけ麺",
+      "constraints": "None"
+    }
+  ]
+}

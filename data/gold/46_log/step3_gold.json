@@ -1,0 +1,64 @@
+{
+  "perception_table": [
+    {
+      "participant": "A",
+      "restaurant": "アルデバラン",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "A",
+      "restaurant": "ハヌリ 渋谷",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "A",
+      "restaurant": "牛タン 夏火鉢（ナツヒバチ）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "A",
+      "restaurant": "PIZZA BORSA（ピッツァ ボルサ）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "B",
+      "restaurant": "アルデバラン",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "B",
+      "restaurant": "ハヌリ 渋谷",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "B",
+      "restaurant": "牛タン 夏火鉢（ナツヒバチ）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "B",
+      "restaurant": "PIZZA BORSA（ピッツァ ボルサ）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "C",
+      "restaurant": "アルデバラン",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "C",
+      "restaurant": "ハヌリ 渋谷",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "C",
+      "restaurant": "牛タン 夏火鉢（ナツヒバチ）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "C",
+      "restaurant": "PIZZA BORSA（ピッツァ ボルサ）",
+      "perception": "Neutral"
+    }
+  ]
+}

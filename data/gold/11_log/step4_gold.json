@@ -1,0 +1,856 @@
+{
+  "preference_table": [
+    {
+      "participant": "A",
+      "restaurant": "マクドナルド 駒場東大前店",
+      "preferences": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "武蔵野アブラ学会 吉祥寺店",
+      "preferences": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "一㐂",
+      "preferences": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "フィッシュ＆オイスターバー 西武渋谷店",
+      "preferences": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "レストラン ラタン",
+      "preferences": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "うさぎ",
+      "preferences": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "CONA BACCA 府中店",
+      "preferences": "A1"
+    },
+    {
+      "participant": "A",
+      "restaurant": "焼肉ホルモン 新井屋 渋谷",
+      "preferences": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "府中肉流通センター",
+      "preferences": "A7"
+    },
+    {
+      "participant": "A",
+      "restaurant": "パリのワイン食堂",
+      "preferences": "A7"
+    },
+    {
+      "participant": "A",
+      "restaurant": "カルーアクイーン",
+      "preferences": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "スパイスラーメン 点と線",
+      "preferences": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "千里眼",
+      "preferences": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "麺屋 蕃茄",
+      "preferences": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "麺ダイニング ととこ",
+      "preferences": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "貝麺 みかわ",
+      "preferences": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "ビストロ炭焼肉酒場 チキンレッグ 吉祥寺店",
+      "preferences": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "マクドナルド 駒場東大前店",
+      "preferences": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "武蔵野アブラ学会 吉祥寺店",
+      "preferences": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "一㐂",
+      "preferences": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "フィッシュ＆オイスターバー 西武渋谷店",
+      "preferences": "A7"
+    },
+    {
+      "participant": "B",
+      "restaurant": "レストラン ラタン",
+      "preferences": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "うさぎ",
+      "preferences": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "CONA BACCA 府中店",
+      "preferences": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "焼肉ホルモン 新井屋 渋谷",
+      "preferences": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "府中肉流通センター",
+      "preferences": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "パリのワイン食堂",
+      "preferences": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "カルーアクイーン",
+      "preferences": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "スパイスラーメン 点と線",
+      "preferences": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "千里眼",
+      "preferences": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "麺屋 蕃茄",
+      "preferences": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "麺ダイニング ととこ",
+      "preferences": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "貝麺 みかわ",
+      "preferences": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "ビストロ炭焼肉酒場 チキンレッグ 吉祥寺店",
+      "preferences": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "マクドナルド 駒場東大前店",
+      "preferences": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "武蔵野アブラ学会 吉祥寺店",
+      "preferences": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "一㐂",
+      "preferences": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "フィッシュ＆オイスターバー 西武渋谷店",
+      "preferences": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "レストラン ラタン",
+      "preferences": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "うさぎ",
+      "preferences": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "CONA BACCA 府中店",
+      "preferences": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "焼肉ホルモン 新井屋 渋谷",
+      "preferences": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "府中肉流通センター",
+      "preferences": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "パリのワイン食堂",
+      "preferences": "A7"
+    },
+    {
+      "participant": "C",
+      "restaurant": "カルーアクイーン",
+      "preferences": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "スパイスラーメン 点と線",
+      "preferences": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "千里眼",
+      "preferences": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "麺屋 蕃茄",
+      "preferences": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "麺ダイニング ととこ",
+      "preferences": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "貝麺 みかわ",
+      "preferences": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "ビストロ炭焼肉酒場 チキンレッグ 吉祥寺店",
+      "preferences": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "マクドナルド 駒場東大前店",
+      "preferences": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "武蔵野アブラ学会 吉祥寺店",
+      "preferences": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "一㐂",
+      "preferences": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "フィッシュ＆オイスターバー 西武渋谷店",
+      "preferences": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "レストラン ラタン",
+      "preferences": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "うさぎ",
+      "preferences": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "CONA BACCA 府中店",
+      "preferences": "A7"
+    },
+    {
+      "participant": "D",
+      "restaurant": "焼肉ホルモン 新井屋 渋谷",
+      "preferences": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "府中肉流通センター",
+      "preferences": "A7"
+    },
+    {
+      "participant": "D",
+      "restaurant": "パリのワイン食堂",
+      "preferences": "A4"
+    },
+    {
+      "participant": "D",
+      "restaurant": "カルーアクイーン",
+      "preferences": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "スパイスラーメン 点と線",
+      "preferences": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "千里眼",
+      "preferences": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "麺屋 蕃茄",
+      "preferences": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "麺ダイニング ととこ",
+      "preferences": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "貝麺 みかわ",
+      "preferences": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "ビストロ炭焼肉酒場 チキンレッグ 吉祥寺店",
+      "preferences": "None"
+    },
+    {
+      "participant": "E",
+      "restaurant": "マクドナルド 駒場東大前店",
+      "preferences": "None"
+    },
+    {
+      "participant": "E",
+      "restaurant": "武蔵野アブラ学会 吉祥寺店",
+      "preferences": "None"
+    },
+    {
+      "participant": "E",
+      "restaurant": "一㐂",
+      "preferences": "None"
+    },
+    {
+      "participant": "E",
+      "restaurant": "フィッシュ＆オイスターバー 西武渋谷店",
+      "preferences": "A7"
+    },
+    {
+      "participant": "E",
+      "restaurant": "レストラン ラタン",
+      "preferences": "None"
+    },
+    {
+      "participant": "E",
+      "restaurant": "うさぎ",
+      "preferences": "None"
+    },
+    {
+      "participant": "E",
+      "restaurant": "CONA BACCA 府中店",
+      "preferences": "None"
+    },
+    {
+      "participant": "E",
+      "restaurant": "焼肉ホルモン 新井屋 渋谷",
+      "preferences": "A7"
+    },
+    {
+      "participant": "E",
+      "restaurant": "府中肉流通センター",
+      "preferences": "None"
+    },
+    {
+      "participant": "E",
+      "restaurant": "パリのワイン食堂",
+      "preferences": "A7"
+    },
+    {
+      "participant": "E",
+      "restaurant": "カルーアクイーン",
+      "preferences": "None"
+    },
+    {
+      "participant": "E",
+      "restaurant": "スパイスラーメン 点と線",
+      "preferences": "None"
+    },
+    {
+      "participant": "E",
+      "restaurant": "千里眼",
+      "preferences": "None"
+    },
+    {
+      "participant": "E",
+      "restaurant": "麺屋 蕃茄",
+      "preferences": "None"
+    },
+    {
+      "participant": "E",
+      "restaurant": "麺ダイニング ととこ",
+      "preferences": "None"
+    },
+    {
+      "participant": "E",
+      "restaurant": "貝麺 みかわ",
+      "preferences": "None"
+    },
+    {
+      "participant": "E",
+      "restaurant": "ビストロ炭焼肉酒場 チキンレッグ 吉祥寺店",
+      "preferences": "None"
+    }
+  ],
+  "constraint_table": [
+    {
+      "participant": "A",
+      "restaurant": "マクドナルド 駒場東大前店",
+      "constraints": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "武蔵野アブラ学会 吉祥寺店",
+      "constraints": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "一㐂",
+      "constraints": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "フィッシュ＆オイスターバー 西武渋谷店",
+      "constraints": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "レストラン ラタン",
+      "constraints": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "うさぎ",
+      "constraints": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "CONA BACCA 府中店",
+      "constraints": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "焼肉ホルモン 新井屋 渋谷",
+      "constraints": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "府中肉流通センター",
+      "constraints": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "パリのワイン食堂",
+      "constraints": "A2"
+    },
+    {
+      "participant": "A",
+      "restaurant": "カルーアクイーン",
+      "constraints": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "スパイスラーメン 点と線",
+      "constraints": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "千里眼",
+      "constraints": "A7"
+    },
+    {
+      "participant": "A",
+      "restaurant": "麺屋 蕃茄",
+      "constraints": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "麺ダイニング ととこ",
+      "constraints": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "貝麺 みかわ",
+      "constraints": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "ビストロ炭焼肉酒場 チキンレッグ 吉祥寺店",
+      "constraints": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "マクドナルド 駒場東大前店",
+      "constraints": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "武蔵野アブラ学会 吉祥寺店",
+      "constraints": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "一㐂",
+      "constraints": "A1,A7"
+    },
+    {
+      "participant": "B",
+      "restaurant": "フィッシュ＆オイスターバー 西武渋谷店",
+      "constraints": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "レストラン ラタン",
+      "constraints": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "うさぎ",
+      "constraints": "A2"
+    },
+    {
+      "participant": "B",
+      "restaurant": "CONA BACCA 府中店",
+      "constraints": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "焼肉ホルモン 新井屋 渋谷",
+      "constraints": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "府中肉流通センター",
+      "constraints": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "パリのワイン食堂",
+      "constraints": "A7"
+    },
+    {
+      "participant": "B",
+      "restaurant": "カルーアクイーン",
+      "constraints": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "スパイスラーメン 点と線",
+      "constraints": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "千里眼",
+      "constraints": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "麺屋 蕃茄",
+      "constraints": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "麺ダイニング ととこ",
+      "constraints": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "貝麺 みかわ",
+      "constraints": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "ビストロ炭焼肉酒場 チキンレッグ 吉祥寺店",
+      "constraints": "A7"
+    },
+    {
+      "participant": "C",
+      "restaurant": "マクドナルド 駒場東大前店",
+      "constraints": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "武蔵野アブラ学会 吉祥寺店",
+      "constraints": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "一㐂",
+      "constraints": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "フィッシュ＆オイスターバー 西武渋谷店",
+      "constraints": "A7"
+    },
+    {
+      "participant": "C",
+      "restaurant": "レストラン ラタン",
+      "constraints": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "うさぎ",
+      "constraints": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "CONA BACCA 府中店",
+      "constraints": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "焼肉ホルモン 新井屋 渋谷",
+      "constraints": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "府中肉流通センター",
+      "constraints": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "パリのワイン食堂",
+      "constraints": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "カルーアクイーン",
+      "constraints": "A7"
+    },
+    {
+      "participant": "C",
+      "restaurant": "スパイスラーメン 点と線",
+      "constraints": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "千里眼",
+      "constraints": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "麺屋 蕃茄",
+      "constraints": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "麺ダイニング ととこ",
+      "constraints": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "貝麺 みかわ",
+      "constraints": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "ビストロ炭焼肉酒場 チキンレッグ 吉祥寺店",
+      "constraints": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "マクドナルド 駒場東大前店",
+      "constraints": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "武蔵野アブラ学会 吉祥寺店",
+      "constraints": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "一㐂",
+      "constraints": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "フィッシュ＆オイスターバー 西武渋谷店",
+      "constraints": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "レストラン ラタン",
+      "constraints": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "うさぎ",
+      "constraints": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "CONA BACCA 府中店",
+      "constraints": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "焼肉ホルモン 新井屋 渋谷",
+      "constraints": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "府中肉流通センター",
+      "constraints": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "パリのワイン食堂",
+      "constraints": "A2"
+    },
+    {
+      "participant": "D",
+      "restaurant": "カルーアクイーン",
+      "constraints": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "スパイスラーメン 点と線",
+      "constraints": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "千里眼",
+      "constraints": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "麺屋 蕃茄",
+      "constraints": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "麺ダイニング ととこ",
+      "constraints": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "貝麺 みかわ",
+      "constraints": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "ビストロ炭焼肉酒場 チキンレッグ 吉祥寺店",
+      "constraints": "None"
+    },
+    {
+      "participant": "E",
+      "restaurant": "マクドナルド 駒場東大前店",
+      "constraints": "None"
+    },
+    {
+      "participant": "E",
+      "restaurant": "武蔵野アブラ学会 吉祥寺店",
+      "constraints": "None"
+    },
+    {
+      "participant": "E",
+      "restaurant": "一㐂",
+      "constraints": "None"
+    },
+    {
+      "participant": "E",
+      "restaurant": "フィッシュ＆オイスターバー 西武渋谷店",
+      "constraints": "None"
+    },
+    {
+      "participant": "E",
+      "restaurant": "レストラン ラタン",
+      "constraints": "None"
+    },
+    {
+      "participant": "E",
+      "restaurant": "うさぎ",
+      "constraints": "None"
+    },
+    {
+      "participant": "E",
+      "restaurant": "CONA BACCA 府中店",
+      "constraints": "None"
+    },
+    {
+      "participant": "E",
+      "restaurant": "焼肉ホルモン 新井屋 渋谷",
+      "constraints": "None"
+    },
+    {
+      "participant": "E",
+      "restaurant": "府中肉流通センター",
+      "constraints": "None"
+    },
+    {
+      "participant": "E",
+      "restaurant": "パリのワイン食堂",
+      "constraints": "None"
+    },
+    {
+      "participant": "E",
+      "restaurant": "カルーアクイーン",
+      "constraints": "None"
+    },
+    {
+      "participant": "E",
+      "restaurant": "スパイスラーメン 点と線",
+      "constraints": "None"
+    },
+    {
+      "participant": "E",
+      "restaurant": "千里眼",
+      "constraints": "None"
+    },
+    {
+      "participant": "E",
+      "restaurant": "麺屋 蕃茄",
+      "constraints": "None"
+    },
+    {
+      "participant": "E",
+      "restaurant": "麺ダイニング ととこ",
+      "constraints": "None"
+    },
+    {
+      "participant": "E",
+      "restaurant": "貝麺 みかわ",
+      "constraints": "None"
+    },
+    {
+      "participant": "E",
+      "restaurant": "ビストロ炭焼肉酒場 チキンレッグ 吉祥寺店",
+      "constraints": "None"
+    }
+  ]
+}

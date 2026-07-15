@@ -1,0 +1,366 @@
+{
+  "preference_table": [
+    {
+      "participant": "A",
+      "restaurant": "串揚げ",
+      "preferences": "A7"
+    },
+    {
+      "participant": "A",
+      "restaurant": "牛かつ もと村 横浜ジョイナス店",
+      "preferences": "A7"
+    },
+    {
+      "participant": "A",
+      "restaurant": "季彩膳 酔心横浜スカイビル店",
+      "preferences": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "ハングリータイガー 横浜モアーズ店",
+      "preferences": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "炭火焼鳥 まるざ",
+      "preferences": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "焼肉トラジ 横浜モアーズ店",
+      "preferences": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "回し寿司 活 活美登利 横浜スカイビル店",
+      "preferences": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "kitchen&bar MORIS",
+      "preferences": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "カネセイ",
+      "preferences": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "串揚げ",
+      "preferences": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "牛かつ もと村 横浜ジョイナス店",
+      "preferences": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "季彩膳 酔心横浜スカイビル店",
+      "preferences": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "ハングリータイガー 横浜モアーズ店",
+      "preferences": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "炭火焼鳥 まるざ",
+      "preferences": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "焼肉トラジ 横浜モアーズ店",
+      "preferences": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "回し寿司 活 活美登利 横浜スカイビル店",
+      "preferences": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "kitchen&bar MORIS",
+      "preferences": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "カネセイ",
+      "preferences": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "串揚げ",
+      "preferences": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "牛かつ もと村 横浜ジョイナス店",
+      "preferences": "A5"
+    },
+    {
+      "participant": "C",
+      "restaurant": "季彩膳 酔心横浜スカイビル店",
+      "preferences": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "ハングリータイガー 横浜モアーズ店",
+      "preferences": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "炭火焼鳥 まるざ",
+      "preferences": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "焼肉トラジ 横浜モアーズ店",
+      "preferences": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "回し寿司 活 活美登利 横浜スカイビル店",
+      "preferences": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "kitchen&bar MORIS",
+      "preferences": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "カネセイ",
+      "preferences": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "串揚げ",
+      "preferences": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "牛かつ もと村 横浜ジョイナス店",
+      "preferences": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "季彩膳 酔心横浜スカイビル店",
+      "preferences": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "ハングリータイガー 横浜モアーズ店",
+      "preferences": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "炭火焼鳥 まるざ",
+      "preferences": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "焼肉トラジ 横浜モアーズ店",
+      "preferences": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "回し寿司 活 活美登利 横浜スカイビル店",
+      "preferences": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "kitchen&bar MORIS",
+      "preferences": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "カネセイ",
+      "preferences": "None"
+    }
+  ],
+  "constraint_table": [
+    {
+      "participant": "A",
+      "restaurant": "串揚げ",
+      "constraints": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "牛かつ もと村 横浜ジョイナス店",
+      "constraints": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "季彩膳 酔心横浜スカイビル店",
+      "constraints": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "ハングリータイガー 横浜モアーズ店",
+      "constraints": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "炭火焼鳥 まるざ",
+      "constraints": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "焼肉トラジ 横浜モアーズ店",
+      "constraints": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "回し寿司 活 活美登利 横浜スカイビル店",
+      "constraints": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "kitchen&bar MORIS",
+      "constraints": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "カネセイ",
+      "constraints": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "串揚げ",
+      "constraints": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "牛かつ もと村 横浜ジョイナス店",
+      "constraints": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "季彩膳 酔心横浜スカイビル店",
+      "constraints": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "ハングリータイガー 横浜モアーズ店",
+      "constraints": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "炭火焼鳥 まるざ",
+      "constraints": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "焼肉トラジ 横浜モアーズ店",
+      "constraints": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "回し寿司 活 活美登利 横浜スカイビル店",
+      "constraints": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "kitchen&bar MORIS",
+      "constraints": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "カネセイ",
+      "constraints": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "串揚げ",
+      "constraints": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "牛かつ もと村 横浜ジョイナス店",
+      "constraints": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "季彩膳 酔心横浜スカイビル店",
+      "constraints": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "ハングリータイガー 横浜モアーズ店",
+      "constraints": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "炭火焼鳥 まるざ",
+      "constraints": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "焼肉トラジ 横浜モアーズ店",
+      "constraints": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "回し寿司 活 活美登利 横浜スカイビル店",
+      "constraints": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "kitchen&bar MORIS",
+      "constraints": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "カネセイ",
+      "constraints": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "串揚げ",
+      "constraints": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "牛かつ もと村 横浜ジョイナス店",
+      "constraints": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "季彩膳 酔心横浜スカイビル店",
+      "constraints": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "ハングリータイガー 横浜モアーズ店",
+      "constraints": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "炭火焼鳥 まるざ",
+      "constraints": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "焼肉トラジ 横浜モアーズ店",
+      "constraints": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "回し寿司 活 活美登利 横浜スカイビル店",
+      "constraints": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "kitchen&bar MORIS",
+      "constraints": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "カネセイ",
+      "constraints": "None"
+    }
+  ]
+}

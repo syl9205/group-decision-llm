@@ -1,0 +1,96 @@
+{
+  "preference_table": [
+    {
+      "participant": "A",
+      "restaurant": "京鼎樓 そごう横浜店（京鼎楼　ジンディンロウ）",
+      "preferences": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "横濱小籠包マニア",
+      "preferences": "A7"
+    },
+    {
+      "participant": "A",
+      "restaurant": "鼎泰豐 高島屋横浜店（ディンタイフォン）",
+      "preferences": "A7"
+    },
+    {
+      "participant": "B",
+      "restaurant": "京鼎樓 そごう横浜店（京鼎楼　ジンディンロウ）",
+      "preferences": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "横濱小籠包マニア",
+      "preferences": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "鼎泰豐 高島屋横浜店（ディンタイフォン）",
+      "preferences": "A4"
+    },
+    {
+      "participant": "C",
+      "restaurant": "京鼎樓 そごう横浜店（京鼎楼　ジンディンロウ）",
+      "preferences": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "横濱小籠包マニア",
+      "preferences": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "鼎泰豐 高島屋横浜店（ディンタイフォン）",
+      "preferences": "A4"
+    }
+  ],
+  "constraint_table": [
+    {
+      "participant": "A",
+      "restaurant": "京鼎樓 そごう横浜店（京鼎楼　ジンディンロウ）",
+      "constraints": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "横濱小籠包マニア",
+      "constraints": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "鼎泰豐 高島屋横浜店（ディンタイフォン）",
+      "constraints": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "京鼎樓 そごう横浜店（京鼎楼　ジンディンロウ）",
+      "constraints": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "横濱小籠包マニア",
+      "constraints": "A4"
+    },
+    {
+      "participant": "B",
+      "restaurant": "鼎泰豐 高島屋横浜店（ディンタイフォン）",
+      "constraints": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "京鼎樓 そごう横浜店（京鼎楼　ジンディンロウ）",
+      "constraints": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "横濱小籠包マニア",
+      "constraints": "A1"
+    },
+    {
+      "participant": "C",
+      "restaurant": "鼎泰豐 高島屋横浜店（ディンタイフォン）",
+      "constraints": "None"
+    }
+  ]
+}

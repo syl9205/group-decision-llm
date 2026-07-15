@@ -1,0 +1,49 @@
+{
+  "perception_table": [
+    {
+      "participant": "A",
+      "restaurant": "座135 神保町店（ザイサゴ）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "A",
+      "restaurant": "ちゃらりちゃらり 九段店",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "A",
+      "restaurant": "ブラッセルズ 神田神保町",
+      "perception": "Positive"
+    },
+    {
+      "participant": "B",
+      "restaurant": "座135 神保町店（ザイサゴ）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "B",
+      "restaurant": "ちゃらりちゃらり 九段店",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "B",
+      "restaurant": "ブラッセルズ 神田神保町",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "C",
+      "restaurant": "座135 神保町店（ザイサゴ）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "C",
+      "restaurant": "ちゃらりちゃらり 九段店",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "C",
+      "restaurant": "ブラッセルズ 神田神保町",
+      "perception": "Positive"
+    }
+  ]
+}

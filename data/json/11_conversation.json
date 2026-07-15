@@ -1,0 +1,967 @@
+{
+  "conversation_id": "11",
+  "conversation": [
+    {
+      "speaker": "A",
+      "utterance": "明日以外は空いてます"
+    },
+    {
+      "speaker": "B",
+      "utterance": "おはようございます"
+    },
+    {
+      "speaker": "C",
+      "utterance": "(スタンプ)"
+    },
+    {
+      "speaker": "A",
+      "utterance": "挨拶わかりました"
+    },
+    {
+      "speaker": "D",
+      "utterance": "(スタンプ)"
+    },
+    {
+      "speaker": "E",
+      "utterance": "どうする"
+    },
+    {
+      "speaker": "A",
+      "utterance": "(スタンプ)"
+    },
+    {
+      "speaker": "D",
+      "utterance": "2週間後っていつだ"
+    },
+    {
+      "speaker": "B",
+      "utterance": "どうする"
+    },
+    {
+      "speaker": "A",
+      "utterance": "どうする"
+    },
+    {
+      "speaker": "D",
+      "utterance": "どうする"
+    },
+    {
+      "speaker": "C",
+      "utterance": "どうする"
+    },
+    {
+      "speaker": "B",
+      "utterance": "12/6らしい"
+    },
+    {
+      "speaker": "A",
+      "utterance": "近ければ近いほど、よい"
+    },
+    {
+      "speaker": "E",
+      "utterance": "普通に、明日などが休みであるため、明日などが最も望ましい"
+    },
+    {
+      "speaker": "B",
+      "utterance": "遠ければ遠いほどみなさまはコミケの原稿に苦しめられる"
+    },
+    {
+      "speaker": "D",
+      "utterance": "今週はぼくかなり無理です\n明日はアリ"
+    },
+    {
+      "speaker": "A",
+      "utterance": "明日は外語祭に行くため……"
+    },
+    {
+      "speaker": "D",
+      "utterance": "行くんか　行こうかな"
+    },
+    {
+      "speaker": "E",
+      "utterance": "そういえばそれがあった"
+    },
+    {
+      "speaker": "B",
+      "utterance": "ゆうて夜でしょ"
+    },
+    {
+      "speaker": "A",
+      "utterance": "あそうか\n夜なら空いてる"
+    },
+    {
+      "speaker": "B",
+      "utterance": "いい話"
+    },
+    {
+      "speaker": "C",
+      "utterance": "明日？いいですよ"
+    },
+    {
+      "speaker": "D",
+      "utterance": "外語祭の帰りにどっか寄るとか"
+    },
+    {
+      "speaker": "A",
+      "utterance": "いいね"
+    },
+    {
+      "speaker": "E",
+      "utterance": "それもあり"
+    },
+    {
+      "speaker": "A",
+      "utterance": "じゃあ明日かな"
+    },
+    {
+      "speaker": "D",
+      "utterance": "明日でいこうか"
+    },
+    {
+      "speaker": "B",
+      "utterance": "これは店の候補に入っちゃうので一旦決めて、明日にしましょう"
+    },
+    {
+      "speaker": "E",
+      "utterance": "はい"
+    },
+    {
+      "speaker": "D",
+      "utterance": "良いと思います"
+    },
+    {
+      "speaker": "B",
+      "utterance": "時刻"
+    },
+    {
+      "speaker": "A",
+      "utterance": "遅ければ遅いほどよい"
+    },
+    {
+      "speaker": "D",
+      "utterance": "外語祭について無知であり、何時までやってる？"
+    },
+    {
+      "speaker": "B",
+      "utterance": "深夜4時ということ１？"
+    },
+    {
+      "speaker": "E",
+      "utterance": "そうなのか"
+    },
+    {
+      "speaker": "B",
+      "utterance": "深夜食堂ということか"
+    },
+    {
+      "speaker": "A",
+      "utterance": "そんなことはないと思います"
+    },
+    {
+      "speaker": "D",
+      "utterance": "日付を超えるから明後日扱いになる！？"
+    },
+    {
+      "speaker": "C",
+      "utterance": "7時30分でしかない"
+    },
+    {
+      "speaker": "B",
+      "utterance": "でしかない　→　どゆこと"
+    },
+    {
+      "speaker": "A",
+      "utterance": "19時30分か"
+    },
+    {
+      "speaker": "D",
+      "utterance": "19時30分までってことか、外語祭"
+    },
+    {
+      "speaker": "A",
+      "utterance": "そうではないと思うけど"
+    },
+    {
+      "speaker": "D",
+      "utterance": "それ以降なら基本いつでも良いということにはなるのかな"
+    },
+    {
+      "speaker": "C",
+      "utterance": "18時終わりらしいよ"
+    },
+    {
+      "speaker": "D",
+      "utterance": "え、まって、bad-communicationが起こっている？"
+    },
+    {
+      "speaker": "A",
+      "utterance": "1時間半あれば移動し放題だね"
+    },
+    {
+      "speaker": "C",
+      "utterance": "1830のほうがいいかも\nどうする"
+    },
+    {
+      "speaker": "A",
+      "utterance": "そうすると外大のだいぶ近くになりそうだが\n場所になってしまうな！"
+    },
+    {
+      "speaker": "C",
+      "utterance": "どっちてもよし"
+    },
+    {
+      "speaker": "D",
+      "utterance": "場所に依ってしまう"
+    },
+    {
+      "speaker": "B",
+      "utterance": "18時半以降で、場所次第ということはどうだろう"
+    },
+    {
+      "speaker": "A",
+      "utterance": "それでよいならそれで"
+    },
+    {
+      "speaker": "D",
+      "utterance": "良いと思います"
+    },
+    {
+      "speaker": "B",
+      "utterance": "場所次第というのはありなのだろうか"
+    },
+    {
+      "speaker": "E",
+      "utterance": "はい"
+    },
+    {
+      "speaker": "C",
+      "utterance": "時間と空間の関係性！？"
+    },
+    {
+      "speaker": "A",
+      "utterance": "わかりました"
+    },
+    {
+      "speaker": "B",
+      "utterance": "わかりました２"
+    },
+    {
+      "speaker": "E",
+      "utterance": "わかりました3"
+    },
+    {
+      "speaker": "A",
+      "utterance": "19時とかにしとくか"
+    },
+    {
+      "speaker": "E",
+      "utterance": "そうですね"
+    },
+    {
+      "speaker": "A",
+      "utterance": "間をとりまくり"
+    },
+    {
+      "speaker": "C",
+      "utterance": "(スタンプ)"
+    },
+    {
+      "speaker": "D",
+      "utterance": "ZoomとLINEで会話が成立しているの面白い\n19時　良いと思います"
+    },
+    {
+      "speaker": "A",
+      "utterance": "明日19時、メモ1"
+    },
+    {
+      "speaker": "B",
+      "utterance": "いいんじゃないでしょうか\n大丈夫です"
+    },
+    {
+      "speaker": "E",
+      "utterance": "はい"
+    },
+    {
+      "speaker": "D",
+      "utterance": "予定表に書いておきます"
+    },
+    {
+      "speaker": "B",
+      "utterance": "https://tabelog.com/tokyo/A1318/A131801/13120752/\nこれを貼ると議論が活性化するらしいね"
+    },
+    {
+      "speaker": "C",
+      "utterance": "https://s.tabelog.com/tokyo/A1320/A132001/13215733/\nこれを貼ると議論が活性化するらしいね2\nもうちょっといいとこいこうさすがに"
+    },
+    {
+      "speaker": "D",
+      "utterance": "え、今日こういう感じなん？と思って逆に硬直しちゃった"
+    },
+    {
+      "speaker": "A",
+      "utterance": "https://s.tabelog.com/tokyo/A1301/A130101/13258242/\nsuo\nsup"
+    },
+    {
+      "speaker": "B",
+      "utterance": "https://tabelog.com/tokyo/A1303/A130301/13039684/\n寿司はない\nhttps://tabelog.com/tokyo/A1310/A131003/13011617/"
+    },
+    {
+      "speaker": "A",
+      "utterance": "このままではダメだと思う\nもう少し何か出したい"
+    },
+    {
+      "speaker": "E",
+      "utterance": "https://tabelog.com/tokyo/A1303/A130301/13041115/"
+    },
+    {
+      "speaker": "D",
+      "utterance": "外大の近くという話はどうなったんですか"
+    },
+    {
+      "speaker": "E",
+      "utterance": "ラーメン屋しか知らない………………\nその手もある"
+    },
+    {
+      "speaker": "B",
+      "utterance": "やーい味の貧困\n外大ってどこにあるっけ外国？"
+    },
+    {
+      "speaker": "E",
+      "utterance": "うさぎはnujabesの弟が経営してるらしいっすよ"
+    },
+    {
+      "speaker": "A",
+      "utterance": "白糸台\nhttps://tabelog.com/tokyo/A1326/A132602/13224301/\nピザ食べたい"
+    },
+    {
+      "speaker": "B",
+      "utterance": "ど田舎ということ……？"
+    },
+    {
+      "speaker": "A",
+      "utterance": "は！？！？？？？？？？？？？？？？\n国府やぞ"
+    },
+    {
+      "speaker": "D",
+      "utterance": "三鷹寮って実は東大の任意のキャンパスより外大の方が近いらしい\nたぶん"
+    },
+    {
+      "speaker": "B",
+      "utterance": "ちょっとそんな田舎に行くのは……"
+    },
+    {
+      "speaker": "D",
+      "utterance": "ヘイトスピーチ！？"
+    },
+    {
+      "speaker": "B",
+      "utterance": "(写真)"
+    },
+    {
+      "speaker": "D",
+      "utterance": "間を取りまくり戦法と言うのはどうだろう"
+    },
+    {
+      "speaker": "A",
+      "utterance": "てかとりあえず案だそう"
+    },
+    {
+      "speaker": "B",
+      "utterance": "ゼノンの矢ということ！？"
+    },
+    {
+      "speaker": "A",
+      "utterance": "もう1人1つ以上出てる？"
+    },
+    {
+      "speaker": "C",
+      "utterance": "どうするかなあ"
+    },
+    {
+      "speaker": "D",
+      "utterance": "罠で、自分から飲食店を提案したことがないので困窮が極まっている"
+    },
+    {
+      "speaker": "B",
+      "utterance": "神保町の学士会館に泊まるというのはどうだろう"
+    },
+    {
+      "speaker": "E",
+      "utterance": "https://tabelog.com/tokyo/A1303/A130301/13237382/"
+    },
+    {
+      "speaker": "A",
+      "utterance": "泊まりは、違うと思う"
+    },
+    {
+      "speaker": "C",
+      "utterance": "まだいけます、まだいけます"
+    },
+    {
+      "speaker": "A",
+      "utterance": "てかみなさん渋谷に戻りたがりますねえ"
+    },
+    {
+      "speaker": "B",
+      "utterance": "5000円で結構いい部屋に泊まれ、宿泊者限定ディナーが食える"
+    },
+    {
+      "speaker": "E",
+      "utterance": "本題と違うので帰ってください"
+    },
+    {
+      "speaker": "B",
+      "utterance": "本来1万円相当のところ、国の怪しい補助が降りて6000円、さらに宿泊で4000円ですよ"
+    },
+    {
+      "speaker": "A",
+      "utterance": "https://tabelog.com/tokyo/A1326/A132602/13248225/\nこれ店名おもしろい"
+    },
+    {
+      "speaker": "E",
+      "utterance": "それはそれとして学士会館で合宿してみたくはあるが"
+    },
+    {
+      "speaker": "C",
+      "utterance": "https://s.tabelog.com/tokyo/A1301/A130101/13120134/table"
+    },
+    {
+      "speaker": "B",
+      "utterance": "合宿して食事するというのはアリでは？"
+    },
+    {
+      "speaker": "C",
+      "utterance": "ザギンでフレンチ食いたすぎ"
+    },
+    {
+      "speaker": "D",
+      "utterance": "出してないです　頑張って探しています"
+    },
+    {
+      "speaker": "B",
+      "utterance": "@A お前じゃい"
+    },
+    {
+      "speaker": "A",
+      "utterance": "ザギンでフレンチ普通にあり"
+    },
+    {
+      "speaker": "B",
+      "utterance": "https://tabelog.com/tokyo/A1301/A130101/13273969/\n最近銀座にできたカルーアミルクの専門店"
+    },
+    {
+      "speaker": "E",
+      "utterance": "https://tabelog.com/tokyo/A1318/A131802/13211061/"
+    },
+    {
+      "speaker": "A",
+      "utterance": "カルーアミルクってコーヒーリキュールのやつでしたっけ"
+    },
+    {
+      "speaker": "C",
+      "utterance": "https://s.tabelog.com/tokyo/A1318/A131811/13099150/"
+    },
+    {
+      "speaker": "A",
+      "utterance": "却下"
+    },
+    {
+      "speaker": "C",
+      "utterance": "とりあえず貼っとこ……"
+    },
+    {
+      "speaker": "D",
+      "utterance": "誰か出してくるであろうとは思った"
+    },
+    {
+      "speaker": "E",
+      "utterance": "人々が行きつけのラーメン屋を貼り始めた"
+    },
+    {
+      "speaker": "B",
+      "utterance": "@A の出番をとるのは悪質"
+    },
+    {
+      "speaker": "A",
+      "utterance": "https://tabelog.com/tokyo/A1321/A132103/13104201/"
+    },
+    {
+      "speaker": "B",
+      "utterance": "早く案を出す（しなさい）"
+    },
+    {
+      "speaker": "A",
+      "utterance": "行きつけの麺屋をpost……\n麺の上にトマト乗ってるのアドバンテージですよ"
+    },
+    {
+      "speaker": "B",
+      "utterance": "https://tabelog.com/tokyo/A1310/A131003/13144370/"
+    },
+    {
+      "speaker": "E",
+      "utterance": "https://tabelog.com/tokyo/A1318/A131802/13258958/"
+    },
+    {
+      "speaker": "B",
+      "utterance": "行きつけの麺屋をpost……"
+    },
+    {
+      "speaker": "C",
+      "utterance": "今日のラーメンスレ始まってもうてる"
+    },
+    {
+      "speaker": "D",
+      "utterance": "https://tabelog.com/tokyo/A1320/A132001/13175711/"
+    },
+    {
+      "speaker": "C",
+      "utterance": "うお"
+    },
+    {
+      "speaker": "D",
+      "utterance": "距離的に間を取ることにしました"
+    },
+    {
+      "speaker": "B",
+      "utterance": "highsence……"
+    },
+    {
+      "speaker": "D",
+      "utterance": "写真が旨そうだったの一点張り"
+    },
+    {
+      "speaker": "A",
+      "utterance": "なるほどね(？)"
+    },
+    {
+      "speaker": "B",
+      "utterance": "あー、全席喫煙……"
+    },
+    {
+      "speaker": "A",
+      "utterance": "逆にラベンダーとかの香焚こう\nこんなもん？"
+    },
+    {
+      "speaker": "B",
+      "utterance": "そうね"
+    },
+    {
+      "speaker": "D",
+      "utterance": "とりあえずこれで"
+    },
+    {
+      "speaker": "C",
+      "utterance": "(スタンプ)"
+    },
+    {
+      "speaker": "E",
+      "utterance": "会長便利スタンプ多すぎる"
+    },
+    {
+      "speaker": "A",
+      "utterance": "それはそれとして合宿もしたいよね"
+    },
+    {
+      "speaker": "E",
+      "utterance": "うん\nやろう"
+    },
+    {
+      "speaker": "D",
+      "utterance": "わかる\nこれとは別件で予定立てよう"
+    },
+    {
+      "speaker": "C",
+      "utterance": "さて\nどうするどうする"
+    },
+    {
+      "speaker": "B",
+      "utterance": "ライアーゲームが始まります"
+    },
+    {
+      "speaker": "A",
+      "utterance": "いかにす"
+    },
+    {
+      "speaker": "E",
+      "utterance": "どうす　　る"
+    },
+    {
+      "speaker": "A",
+      "utterance": "ザギンでフレンチ推してmす"
+    },
+    {
+      "speaker": "C",
+      "utterance": "ザギンでフレンチ行きたすぎなんですが"
+    },
+    {
+      "speaker": "E",
+      "utterance": "いい話"
+    },
+    {
+      "speaker": "C",
+      "utterance": "ザギンフレンチ軍です"
+    },
+    {
+      "speaker": "D",
+      "utterance": "自分で出した希望順忘れちゃったねぇ"
+    },
+    {
+      "speaker": "B",
+      "utterance": "ザギンでフレンチインディアン戦争をします\nインド料理ということ！？"
+    },
+    {
+      "speaker": "A",
+      "utterance": "自分でつっこまないでください"
+    },
+    {
+      "speaker": "D",
+      "utterance": "普通に、府中で肉を喰うで1～3希望固めた覚えがあります"
+    },
+    {
+      "speaker": "A",
+      "utterance": "ピザ食べでもよい\n府中肉でも良い"
+    },
+    {
+      "speaker": "D",
+      "utterance": "ピザ第1希望だったそうだった\n記憶喪失者！？"
+    },
+    {
+      "speaker": "A",
+      "utterance": "自分でつっこまないでください"
+    },
+    {
+      "speaker": "B",
+      "utterance": "パイツァダストで時間を遡っていて……"
+    },
+    {
+      "speaker": "D",
+      "utterance": "ザギンフレンチ推しが多いのなら自分は迎合しても一向に構いません"
+    },
+    {
+      "speaker": "B",
+      "utterance": "私の第一志望は、なんだったろう、渋谷のオイスターバー\n秋のコースが4000円でちょうどよかったんだよね"
+    },
+    {
+      "speaker": "E",
+      "utterance": "私は普通に渋谷で焼肉にした\n2位が銀座フレンチで3位が牡蠣だっけ"
+    },
+    {
+      "speaker": "A",
+      "utterance": "フレンチ食った次の日には肉食いたいって言ってそうだし、肉食った次の日にはフレンチ食いたいって言ってそう\nおれ"
+    },
+    {
+      "speaker": "D",
+      "utterance": "あ、そうそう　自分 まだ酒が飲めないから酒が売りのところは外したいって思ってたんだった"
+    },
+    {
+      "speaker": "B",
+      "utterance": "逆張りがすぎる"
+    },
+    {
+      "speaker": "C",
+      "utterance": "\"当店人気のカジュアルフレンチコース♪\nオードブル・メイン・デザートをそれぞれお好みでお選びいただけます。\nリーズナブルなのに大満足いただけます！\nアミューズ＋前菜＋メイン＋デザートです。\nアミューズ以外はプリフィックス形式で、お好きなお料理をお選びいただけます！\n※追加料金を頂くお料理もございます。\n※仕入れ状況によってメニュー内容が変わります。詳しくは店舗までご連絡ください。\n―――――――――――――――\n◇前菜◇以下からお一つお選びください。\n***おすすめ***\n宮城県産ムール貝の白ワイン蒸し(250ｇ)（+660税込）\n・夏野菜の冷たいラタトゥイユ　生ハムとポーチドエッグとともに\n******\n・甘エビのタルタル ライムの香り（+220税込）\n・赤ワインで酔わせた アンガス牛しきんぼう肉のカルパッチョ\n・スペイン産 ハモンセラーノ生ハムとミモレットチーズの山盛りサラダ\n・ノルウェーサーモンのカルパッチョ イタリア産 カラスミとともに\n・オホーツク産 ズワイガニとアボカドのディル風味 ガトー仕立て\n赤ワインヴィネガーの効いたクーリ･ド･トマトで(+330税込)\n・自家製 田舎風お肉のパテ サラダ添え\n・夏野菜のガスパチョ　天使のえびとコンソメのジュレを添えて(+330)\nご追加に！！\n・ごぼうの食べるポタージュ （+￥660）\n―――――――――――――――\n◇メイン料理◇お好みの一品をお選びください\n***おすすめ***\n・バジルの香草クルートをまとったカナダ産 オマール海老(120g)のロースト\n爽やかなオレンジ香る甲殻類のエミュルションソース（+￥1760）\n※ー1/2サイズ（+￥880）でも承っております。\n・長崎県産 サワラの高温ロースト　甲殻類のエマルジョンソース\n***)\n北海道産 仔牛シャクシのロースト　ソース アルビュフェラ（+￥1650）\n・エゾ鹿外もも肉のロースト ソース シャリュキュティエール(+990)\n・青森県産 バルバリー種鴨むね肉(140ｇ)のロースト\nバニラ風味（+￥880）\n・千葉県産 豚肩ロース肉のステーキ 粒マスタードソース\n・オーストラリア産 麦黒牛内もも肉ののステーキ(+¥550)\nフレンチフライ添え\n・超・希・少！！ 和牛 牛ミミ(150g)のロースト\nペドロヒメネスのエッセンス（+￥2200）\n―――――――――――――――\nデザート\n※仕入れ状況によりメニューが異なります。何卒ご了承下さいませ。\""
+    },
+    {
+      "speaker": "B",
+      "utterance": "そうなのか"
+    },
+    {
+      "speaker": "A",
+      "utterance": "なるほどね"
+    },
+    {
+      "speaker": "C",
+      "utterance": "みなさんにザギンフレンチがいかなるものになるか想像していただこうかな"
+    },
+    {
+      "speaker": "B",
+      "utterance": "じゃあオイスターバーは選外だなあ"
+    },
+    {
+      "speaker": "A",
+      "utterance": "そういう荒らしかと思った"
+    },
+    {
+      "speaker": "C",
+      "utterance": "酒飲めず2"
+    },
+    {
+      "speaker": "B",
+      "utterance": "ワイン飲めないオイスターバーは悲しみしかないので"
+    },
+    {
+      "speaker": "D",
+      "utterance": "突然の長文で会話途切れちゃったねぇ\n悲しみ"
+    },
+    {
+      "speaker": "B",
+      "utterance": "カルーアミルクも同様に選外か"
+    },
+    {
+      "speaker": "C",
+      "utterance": "敗北"
+    },
+    {
+      "speaker": "A",
+      "utterance": "牡蠣ジュルジュル"
+    },
+    {
+      "speaker": "D",
+      "utterance": "誕生日が来たらぜひまたひとびとで行きたい"
+    },
+    {
+      "speaker": "E",
+      "utterance": "カルーアミルクって何"
+    },
+    {
+      "speaker": "D",
+      "utterance": "調べたけど酒らしい"
+    },
+    {
+      "speaker": "E",
+      "utterance": "さうなんだ"
+    },
+    {
+      "speaker": "B",
+      "utterance": "コーヒーリキュールとミルクで作った甘いカクテル\nアルコールの入ったコーヒー牛乳みたいなもの"
+    },
+    {
+      "speaker": "E",
+      "utterance": "いい話"
+    },
+    {
+      "speaker": "D",
+      "utterance": "普通に美味しそうと思っていたが法律には勝てなかったよ…"
+    },
+    {
+      "speaker": "B",
+      "utterance": "ザギンのフレンチ最有力！！？？"
+    },
+    {
+      "speaker": "E",
+      "utterance": "私もフレンチがいいかな"
+    },
+    {
+      "speaker": "B",
+      "utterance": "デッカい携帯電話持ってティラミス食べなきゃ"
+    },
+    {
+      "speaker": "E",
+      "utterance": "？"
+    },
+    {
+      "speaker": "D",
+      "utterance": "いつの時代のひと？"
+    },
+    {
+      "speaker": "A",
+      "utterance": "さっきベッケンバウアーって言わなくてよかった"
+    },
+    {
+      "speaker": "D",
+      "utterance": "全員の第1希望がバラバラで、第2希望がザギンフレンチ みたいな構図だと思っている"
+    },
+    {
+      "speaker": "A",
+      "utterance": "ザギン遠いんだよな、府中から"
+    },
+    {
+      "speaker": "B",
+      "utterance": "馬に乗って走ってきてください"
+    },
+    {
+      "speaker": "D",
+      "utterance": "時間的にキツイものがあるのはそう"
+    },
+    {
+      "speaker": "E",
+      "utterance": "わかる　皆さんにとっては実にそこがネック"
+    },
+    {
+      "speaker": "A",
+      "utterance": "わたくしめの愛馬が！\nザギンフレンチ軍首魁の会長さんから何か弁明はありますか"
+    },
+    {
+      "speaker": "B",
+      "utterance": "ディナー21時半までだね"
+    },
+    {
+      "speaker": "A",
+      "utterance": "まあ間に合いはしますね"
+    },
+    {
+      "speaker": "C",
+      "utterance": "おれは吉祥寺から行くので府中から行くのと大して時間差はないです"
+    },
+    {
+      "speaker": "D",
+      "utterance": "外語祭を諦めるか、Aを無理矢理引き摺り回すかの2択？"
+    },
+    {
+      "speaker": "A",
+      "utterance": "いや別に諦めなくてもいいとは思うけど……"
+    },
+    {
+      "speaker": "D",
+      "utterance": "それは、そう\n早めに切り上げて最速で向かえば全然行けるし、"
+    },
+    {
+      "speaker": "A",
+      "utterance": "そんな急がなくても間に合いはする"
+    },
+    {
+      "speaker": "D",
+      "utterance": "自分は23区内の方が帰りの時うれしいのでどちらでも良いです\n時間の量感が死んでおります"
+    },
+    {
+      "speaker": "E",
+      "utterance": "https://www.navitime.co.jp/transfer/searchlist?orvStationName=%E7%99%BD%E7%B3%B8%E5%8F%B0&orvStationCode=00008359&dnvStationName=%E9%8A%80%E5%BA%A7&dnvStationCode=00001908&defaultCondition=0\n1hか"
+    },
+    {
+      "speaker": "C",
+      "utterance": "18時に終わるなら1時間くらいでつくので19時には間に合わなくても20時には着きますよ"
+    },
+    {
+      "speaker": "D",
+      "utterance": "意外と早い"
+    },
+    {
+      "speaker": "B",
+      "utterance": "我々はバブル人なのでもちろんタクシーで行く"
+    },
+    {
+      "speaker": "E",
+      "utterance": "まぁ集合は遅れて当然なので……"
+    },
+    {
+      "speaker": "C",
+      "utterance": "アッシーではなく？"
+    },
+    {
+      "speaker": "A",
+      "utterance": "アッシー君に……\n言われた！"
+    },
+    {
+      "speaker": "C",
+      "utterance": "勝ちました"
+    },
+    {
+      "speaker": "A",
+      "utterance": "その意識はあらためた方がいいと思います"
+    },
+    {
+      "speaker": "D",
+      "utterance": "キミはこの件に何を求めているの"
+    },
+    {
+      "speaker": "C",
+      "utterance": "分かりました"
+    },
+    {
+      "speaker": "B",
+      "utterance": "ではザギンのチーフレンで？"
+    },
+    {
+      "speaker": "D",
+      "utterance": "ぼくからは特に異論はありません"
+    },
+    {
+      "speaker": "A",
+      "utterance": "いろんな死"
+    },
+    {
+      "speaker": "C",
+      "utterance": "(スタンプ)"
+    },
+    {
+      "speaker": "D",
+      "utterance": "詠了"
+    },
+    {
+      "speaker": "E",
+      "utterance": "かわいい"
+    },
+    {
+      "speaker": "D",
+      "utterance": "かわいい"
+    },
+    {
+      "speaker": "B",
+      "utterance": "決定しました"
+    },
+    {
+      "speaker": "E",
+      "utterance": "はい"
+    }
+  ],
+  "info": [
+    {
+      "website": "https://tabelog.com/tokyo/A1318/A131801/13120752/",
+      "restaurant": "マクドナルド 駒場東大前店"
+    },
+    {
+      "website": "https://s.tabelog.com/tokyo/A1320/A132001/13215733/",
+      "restaurant": "武蔵野アブラ学会 吉祥寺店"
+    },
+    {
+      "website": "https://s.tabelog.com/tokyo/A1301/A130101/13258242/",
+      "restaurant": "一㐂"
+    },
+    {
+      "website": "https://tabelog.com/tokyo/A1303/A130301/13039684/",
+      "restaurant": "フィッシュ＆オイスターバー 西武渋谷店"
+    },
+    {
+      "website": "https://tabelog.com/tokyo/A1310/A131003/13011617/",
+      "restaurant": "レストラン ラタン"
+    },
+    {
+      "website": "https://tabelog.com/tokyo/A1303/A130301/13041115/",
+      "restaurant": "うさぎ"
+    },
+    {
+      "website": "https://tabelog.com/tokyo/A1326/A132602/13224301/",
+      "restaurant": "CONA BACCA 府中店"
+    },
+    {
+      "website": "https://tabelog.com/tokyo/A1303/A130301/13237382/",
+      "restaurant": "焼肉ホルモン 新井屋 渋谷"
+    },
+    {
+      "website": "https://tabelog.com/tokyo/A1326/A132602/13248225/",
+      "restaurant": "府中肉流通センター"
+    },
+    {
+      "website": "https://s.tabelog.com/tokyo/A1301/A130101/13120134/table",
+      "restaurant": "パリのワイン食堂"
+    },
+    {
+      "website": "https://tabelog.com/tokyo/A1301/A130101/13273969/",
+      "restaurant": "カルーアクイーン"
+    },
+    {
+      "website": "https://tabelog.com/tokyo/A1318/A131802/13211061/",
+      "restaurant": "スパイスラーメン 点と線"
+    },
+    {
+      "website": "https://s.tabelog.com/tokyo/A1318/A131811/13099150/",
+      "restaurant": "千里眼"
+    },
+    {
+      "website": "https://tabelog.com/tokyo/A1321/A132103/13104201/",
+      "restaurant": "麺屋 蕃茄"
+    },
+    {
+      "website": "https://tabelog.com/tokyo/A1310/A131003/13144370/",
+      "restaurant": "麺ダイニング ととこ"
+    },
+    {
+      "website": "https://tabelog.com/tokyo/A1318/A131802/13258958/",
+      "restaurant": "貝麺 みかわ"
+    },
+    {
+      "website": "https://tabelog.com/tokyo/A1320/A132001/13175711/",
+      "restaurant": "ビストロ炭焼肉酒場 チキンレッグ 吉祥寺店"
+    }
+  ]
+}

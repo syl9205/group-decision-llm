@@ -1,0 +1,135 @@
+{
+  "conversation_id": "42",
+  "conversation": [
+    {
+      "speaker": "A",
+      "utterance": "\"日程、夜だと\n19か21か25か26か27か28\nかな\"\nあ、待って26空いてない"
+    },
+    {
+      "speaker": "B",
+      "utterance": "27行ける"
+    },
+    {
+      "speaker": "C",
+      "utterance": "19,21,22,24,25,26かな"
+    },
+    {
+      "speaker": "A",
+      "utterance": "27行けないんかい"
+    },
+    {
+      "speaker": "C",
+      "utterance": "27ちょいきびいけど21時以降でいいなら"
+    },
+    {
+      "speaker": "A",
+      "utterance": "おれはOKす"
+    },
+    {
+      "speaker": "B",
+      "utterance": "おれも"
+    },
+    {
+      "speaker": "C",
+      "utterance": "じゃあ27かな"
+    },
+    {
+      "speaker": "A",
+      "utterance": "じゃあ27の21時やな"
+    },
+    {
+      "speaker": "B",
+      "utterance": "おけです"
+    },
+    {
+      "speaker": "C",
+      "utterance": "おけおけ\n用事終わるのが2030だから30分以内に行けるとこがいいです"
+    },
+    {
+      "speaker": "A",
+      "utterance": "どこ？\n本郷？"
+    },
+    {
+      "speaker": "B",
+      "utterance": "\"座135 神保町店\n050-5872-4476\n東京都千代田区神田小川町3-10 2F"
+    },
+    {
+      "speaker": "https",
+      "utterance": "//tabelog.com/tokyo/A1310/A131003/13255328/\""
+    },
+    {
+      "speaker": "C",
+      "utterance": "神保町以北"
+    },
+    {
+      "speaker": "A",
+      "utterance": "\"ちゃらりちゃらり 九段店\n050-5868-7427\n東京都千代田区九段北1-2-11 エイム東京九段ビル　Ｂ１"
+    },
+    {
+      "speaker": "https",
+      "utterance": "//tabelog.com/tokyo/A1309/A130906/13006236/\""
+    },
+    {
+      "speaker": "C",
+      "utterance": "前行ったとこ？"
+    },
+    {
+      "speaker": "A",
+      "utterance": "ここはそうやな"
+    },
+    {
+      "speaker": "C",
+      "utterance": "\"ブラッセルズ神田神保町\n03-3233-4247"
+    },
+    {
+      "speaker": "https",
+      "utterance": "//maps.app.goo.gl/WHKHdbFEbMknoWMUA?g_st=ic\""
+    },
+    {
+      "speaker": "C",
+      "utterance": "クラフトビールの店"
+    },
+    {
+      "speaker": "A",
+      "utterance": "ここ一択じゃね"
+    },
+    {
+      "speaker": "C",
+      "utterance": "わろた"
+    },
+    {
+      "speaker": "A",
+      "utterance": "🤤\n(写真)"
+    },
+    {
+      "speaker": "C",
+      "utterance": "おいしかったよ"
+    },
+    {
+      "speaker": "B",
+      "utterance": "あ、じゃあそこで"
+    },
+    {
+      "speaker": "C",
+      "utterance": "はやい"
+    },
+    {
+      "speaker": "A",
+      "utterance": "けっていーー"
+    }
+  ],
+  "info": [
+    {
+      "website": "https://tabelog.com/tokyo/A1310/A131003/13255328/",
+      "restaurant": "座135 神保町店（ザイサゴ）"
+    },
+    {
+      "website": "https://tabelog.com/tokyo/A1309/A130906/13006236/",
+      "restaurant": "ちゃらりちゃらり 九段店"
+    },
+    {
+      "website": "https://tabelog.com/tokyo/A1310/A131003/13000242/",
+      "restaurant": "ブラッセルズ 神田神保町"
+    }
+  ]
+}

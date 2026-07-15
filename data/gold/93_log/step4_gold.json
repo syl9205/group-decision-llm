@@ -1,0 +1,506 @@
+{
+  "preference_table": [
+    {
+      "participant": "A",
+      "restaurant": "牛だし おでん酒場 COZAKURA",
+      "preferences": "A7"
+    },
+    {
+      "participant": "A",
+      "restaurant": "もつ吉 渋谷店（モツキチ）",
+      "preferences": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "海底撈火鍋 新宿店（カイテイロウヒナベ）",
+      "preferences": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "恵比寿焼肉 kintan（エビスヤキニクキンタン）",
+      "preferences": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "大阪焼肉・ホルモン ふたご 渋谷南口店",
+      "preferences": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "ニクアザブ 二子玉川店",
+      "preferences": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "sio",
+      "preferences": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "TGIフライデーズ 渋谷神南店",
+      "preferences": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "バルバッコア 渋谷店",
+      "preferences": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "Cafe RUSSIA 吉祥寺",
+      "preferences": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "牛だし おでん酒場 COZAKURA",
+      "preferences": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "もつ吉 渋谷店（モツキチ）",
+      "preferences": "A7"
+    },
+    {
+      "participant": "B",
+      "restaurant": "海底撈火鍋 新宿店（カイテイロウヒナベ）",
+      "preferences": "A7"
+    },
+    {
+      "participant": "B",
+      "restaurant": "恵比寿焼肉 kintan（エビスヤキニクキンタン）",
+      "preferences": "A7"
+    },
+    {
+      "participant": "B",
+      "restaurant": "大阪焼肉・ホルモン ふたご 渋谷南口店",
+      "preferences": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "ニクアザブ 二子玉川店",
+      "preferences": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "sio",
+      "preferences": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "TGIフライデーズ 渋谷神南店",
+      "preferences": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "バルバッコア 渋谷店",
+      "preferences": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "Cafe RUSSIA 吉祥寺",
+      "preferences": "A7"
+    },
+    {
+      "participant": "C",
+      "restaurant": "牛だし おでん酒場 COZAKURA",
+      "preferences": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "もつ吉 渋谷店（モツキチ）",
+      "preferences": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "海底撈火鍋 新宿店（カイテイロウヒナベ）",
+      "preferences": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "恵比寿焼肉 kintan（エビスヤキニクキンタン）",
+      "preferences": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "大阪焼肉・ホルモン ふたご 渋谷南口店",
+      "preferences": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "ニクアザブ 二子玉川店",
+      "preferences": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "sio",
+      "preferences": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "TGIフライデーズ 渋谷神南店",
+      "preferences": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "バルバッコア 渋谷店",
+      "preferences": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "Cafe RUSSIA 吉祥寺",
+      "preferences": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "牛だし おでん酒場 COZAKURA",
+      "preferences": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "もつ吉 渋谷店（モツキチ）",
+      "preferences": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "海底撈火鍋 新宿店（カイテイロウヒナベ）",
+      "preferences": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "恵比寿焼肉 kintan（エビスヤキニクキンタン）",
+      "preferences": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "大阪焼肉・ホルモン ふたご 渋谷南口店",
+      "preferences": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "ニクアザブ 二子玉川店",
+      "preferences": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "sio",
+      "preferences": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "TGIフライデーズ 渋谷神南店",
+      "preferences": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "バルバッコア 渋谷店",
+      "preferences": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "Cafe RUSSIA 吉祥寺",
+      "preferences": "None"
+    },
+    {
+      "participant": "E",
+      "restaurant": "牛だし おでん酒場 COZAKURA",
+      "preferences": "None"
+    },
+    {
+      "participant": "E",
+      "restaurant": "もつ吉 渋谷店（モツキチ）",
+      "preferences": "None"
+    },
+    {
+      "participant": "E",
+      "restaurant": "海底撈火鍋 新宿店（カイテイロウヒナベ）",
+      "preferences": "None"
+    },
+    {
+      "participant": "E",
+      "restaurant": "恵比寿焼肉 kintan（エビスヤキニクキンタン）",
+      "preferences": "None"
+    },
+    {
+      "participant": "E",
+      "restaurant": "大阪焼肉・ホルモン ふたご 渋谷南口店",
+      "preferences": "None"
+    },
+    {
+      "participant": "E",
+      "restaurant": "ニクアザブ 二子玉川店",
+      "preferences": "None"
+    },
+    {
+      "participant": "E",
+      "restaurant": "sio",
+      "preferences": "None"
+    },
+    {
+      "participant": "E",
+      "restaurant": "TGIフライデーズ 渋谷神南店",
+      "preferences": "None"
+    },
+    {
+      "participant": "E",
+      "restaurant": "バルバッコア 渋谷店",
+      "preferences": "None"
+    },
+    {
+      "participant": "E",
+      "restaurant": "Cafe RUSSIA 吉祥寺",
+      "preferences": "None"
+    }
+  ],
+  "constraint_table": [
+    {
+      "participant": "A",
+      "restaurant": "牛だし おでん酒場 COZAKURA",
+      "constraints": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "もつ吉 渋谷店（モツキチ）",
+      "constraints": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "海底撈火鍋 新宿店（カイテイロウヒナベ）",
+      "constraints": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "恵比寿焼肉 kintan（エビスヤキニクキンタン）",
+      "constraints": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "大阪焼肉・ホルモン ふたご 渋谷南口店",
+      "constraints": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "ニクアザブ 二子玉川店",
+      "constraints": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "sio",
+      "constraints": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "TGIフライデーズ 渋谷神南店",
+      "constraints": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "バルバッコア 渋谷店",
+      "constraints": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "Cafe RUSSIA 吉祥寺",
+      "constraints": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "牛だし おでん酒場 COZAKURA",
+      "constraints": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "もつ吉 渋谷店（モツキチ）",
+      "constraints": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "海底撈火鍋 新宿店（カイテイロウヒナベ）",
+      "constraints": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "恵比寿焼肉 kintan（エビスヤキニクキンタン）",
+      "constraints": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "大阪焼肉・ホルモン ふたご 渋谷南口店",
+      "constraints": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "ニクアザブ 二子玉川店",
+      "constraints": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "sio",
+      "constraints": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "TGIフライデーズ 渋谷神南店",
+      "constraints": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "バルバッコア 渋谷店",
+      "constraints": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "Cafe RUSSIA 吉祥寺",
+      "constraints": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "牛だし おでん酒場 COZAKURA",
+      "constraints": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "もつ吉 渋谷店（モツキチ）",
+      "constraints": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "海底撈火鍋 新宿店（カイテイロウヒナベ）",
+      "constraints": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "恵比寿焼肉 kintan（エビスヤキニクキンタン）",
+      "constraints": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "大阪焼肉・ホルモン ふたご 渋谷南口店",
+      "constraints": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "ニクアザブ 二子玉川店",
+      "constraints": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "sio",
+      "constraints": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "TGIフライデーズ 渋谷神南店",
+      "constraints": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "バルバッコア 渋谷店",
+      "constraints": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "Cafe RUSSIA 吉祥寺",
+      "constraints": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "牛だし おでん酒場 COZAKURA",
+      "constraints": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "もつ吉 渋谷店（モツキチ）",
+      "constraints": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "海底撈火鍋 新宿店（カイテイロウヒナベ）",
+      "constraints": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "恵比寿焼肉 kintan（エビスヤキニクキンタン）",
+      "constraints": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "大阪焼肉・ホルモン ふたご 渋谷南口店",
+      "constraints": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "ニクアザブ 二子玉川店",
+      "constraints": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "sio",
+      "constraints": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "TGIフライデーズ 渋谷神南店",
+      "constraints": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "バルバッコア 渋谷店",
+      "constraints": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "Cafe RUSSIA 吉祥寺",
+      "constraints": "None"
+    },
+    {
+      "participant": "E",
+      "restaurant": "牛だし おでん酒場 COZAKURA",
+      "constraints": "None"
+    },
+    {
+      "participant": "E",
+      "restaurant": "もつ吉 渋谷店（モツキチ）",
+      "constraints": "None"
+    },
+    {
+      "participant": "E",
+      "restaurant": "海底撈火鍋 新宿店（カイテイロウヒナベ）",
+      "constraints": "None"
+    },
+    {
+      "participant": "E",
+      "restaurant": "恵比寿焼肉 kintan（エビスヤキニクキンタン）",
+      "constraints": "None"
+    },
+    {
+      "participant": "E",
+      "restaurant": "大阪焼肉・ホルモン ふたご 渋谷南口店",
+      "constraints": "None"
+    },
+    {
+      "participant": "E",
+      "restaurant": "ニクアザブ 二子玉川店",
+      "constraints": "None"
+    },
+    {
+      "participant": "E",
+      "restaurant": "sio",
+      "constraints": "None"
+    },
+    {
+      "participant": "E",
+      "restaurant": "TGIフライデーズ 渋谷神南店",
+      "constraints": "None"
+    },
+    {
+      "participant": "E",
+      "restaurant": "バルバッコア 渋谷店",
+      "constraints": "None"
+    },
+    {
+      "participant": "E",
+      "restaurant": "Cafe RUSSIA 吉祥寺",
+      "constraints": "None"
+    }
+  ]
+}

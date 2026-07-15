@@ -1,0 +1,164 @@
+{
+  "perception_table": [
+    {
+      "participant": "A",
+      "restaurant": "三島（みしま）",
+      "perception": "Negative"
+    },
+    {
+      "participant": "A",
+      "restaurant": "陳家私菜 渋谷店",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "A",
+      "restaurant": "つるとんたん UDON NOODLE Brasserie 渋谷店",
+      "perception": "Negative"
+    },
+    {
+      "participant": "A",
+      "restaurant": "タイ料理 シブカーオ 宮下公園前店",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "A",
+      "restaurant": "山下本気うどん 渋谷並木橋",
+      "perception": "Negative"
+    },
+    {
+      "participant": "A",
+      "restaurant": "横浜家系 侍 池尻店（さむらい）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "A",
+      "restaurant": "菱田屋（ヒシダヤ）",
+      "perception": "Negative"
+    },
+    {
+      "participant": "A",
+      "restaurant": "ムスカン（MUSKAN）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "B",
+      "restaurant": "三島（みしま）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "B",
+      "restaurant": "陳家私菜 渋谷店",
+      "perception": "Negative"
+    },
+    {
+      "participant": "B",
+      "restaurant": "つるとんたん UDON NOODLE Brasserie 渋谷店",
+      "perception": "Positive"
+    },
+    {
+      "participant": "B",
+      "restaurant": "タイ料理 シブカーオ 宮下公園前店",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "B",
+      "restaurant": "山下本気うどん 渋谷並木橋",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "B",
+      "restaurant": "横浜家系 侍 池尻店（さむらい）",
+      "perception": "Negative"
+    },
+    {
+      "participant": "B",
+      "restaurant": "菱田屋（ヒシダヤ）",
+      "perception": "Negative"
+    },
+    {
+      "participant": "B",
+      "restaurant": "ムスカン（MUSKAN）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "C",
+      "restaurant": "三島（みしま）",
+      "perception": "Positive"
+    },
+    {
+      "participant": "C",
+      "restaurant": "陳家私菜 渋谷店",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "C",
+      "restaurant": "つるとんたん UDON NOODLE Brasserie 渋谷店",
+      "perception": "Positive"
+    },
+    {
+      "participant": "C",
+      "restaurant": "タイ料理 シブカーオ 宮下公園前店",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "C",
+      "restaurant": "山下本気うどん 渋谷並木橋",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "C",
+      "restaurant": "横浜家系 侍 池尻店（さむらい）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "C",
+      "restaurant": "菱田屋（ヒシダヤ）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "C",
+      "restaurant": "ムスカン（MUSKAN）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "D",
+      "restaurant": "三島（みしま）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "D",
+      "restaurant": "陳家私菜 渋谷店",
+      "perception": "Positive"
+    },
+    {
+      "participant": "D",
+      "restaurant": "つるとんたん UDON NOODLE Brasserie 渋谷店",
+      "perception": "Mix"
+    },
+    {
+      "participant": "D",
+      "restaurant": "タイ料理 シブカーオ 宮下公園前店",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "D",
+      "restaurant": "山下本気うどん 渋谷並木橋",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "D",
+      "restaurant": "横浜家系 侍 池尻店（さむらい）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "D",
+      "restaurant": "菱田屋（ヒシダヤ）",
+      "perception": "Negative"
+    },
+    {
+      "participant": "D",
+      "restaurant": "ムスカン（MUSKAN）",
+      "perception": "Neutral"
+    }
+  ]
+}

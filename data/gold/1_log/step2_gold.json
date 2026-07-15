@@ -1,0 +1,49 @@
+{
+  "mentioned_table": [
+    {
+      "participant": "A",
+      "restaurant": "京鼎樓 そごう横浜店（京鼎楼　ジンディンロウ）",
+      "mention": "Mentioned"
+    },
+    {
+      "participant": "A",
+      "restaurant": "横濱小籠包マニア",
+      "mention": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "鼎泰豐 高島屋横浜店（ディンタイフォン）",
+      "mention": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "京鼎樓 そごう横浜店（京鼎楼　ジンディンロウ）",
+      "mention": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "横濱小籠包マニア",
+      "mention": "Mentioned"
+    },
+    {
+      "participant": "B",
+      "restaurant": "鼎泰豐 高島屋横浜店（ディンタイフォン）",
+      "mention": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "京鼎樓 そごう横浜店（京鼎楼　ジンディンロウ）",
+      "mention": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "横濱小籠包マニア",
+      "mention": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "鼎泰豐 高島屋横浜店（ディンタイフォン）",
+      "mention": "Mentioned"
+    }
+  ]
+}

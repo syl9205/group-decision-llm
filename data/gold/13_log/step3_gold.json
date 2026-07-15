@@ -1,0 +1,79 @@
+{
+  "perception_table": [
+    {
+      "participant": "A",
+      "restaurant": "下北しずる",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "A",
+      "restaurant": "餃子の王将 下北沢店",
+      "perception": "Positive"
+    },
+    {
+      "participant": "A",
+      "restaurant": "ステーキ屋 松 下北沢店",
+      "perception": "Negative"
+    },
+    {
+      "participant": "A",
+      "restaurant": "鶏肉食堂 ザ・トリフターズ ミカン下北店",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "A",
+      "restaurant": "ピッツェリアエイト 下北沢",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "B",
+      "restaurant": "下北しずる",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "B",
+      "restaurant": "餃子の王将 下北沢店",
+      "perception": "Positive"
+    },
+    {
+      "participant": "B",
+      "restaurant": "ステーキ屋 松 下北沢店",
+      "perception": "Negative"
+    },
+    {
+      "participant": "B",
+      "restaurant": "鶏肉食堂 ザ・トリフターズ ミカン下北店",
+      "perception": "Positive"
+    },
+    {
+      "participant": "B",
+      "restaurant": "ピッツェリアエイト 下北沢",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "C",
+      "restaurant": "下北しずる",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "C",
+      "restaurant": "餃子の王将 下北沢店",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "C",
+      "restaurant": "ステーキ屋 松 下北沢店",
+      "perception": "Positive"
+    },
+    {
+      "participant": "C",
+      "restaurant": "鶏肉食堂 ザ・トリフターズ ミカン下北店",
+      "perception": "Positive"
+    },
+    {
+      "participant": "C",
+      "restaurant": "ピッツェリアエイト 下北沢",
+      "perception": "Negative"
+    }
+  ]
+}

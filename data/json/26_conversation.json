@@ -1,0 +1,683 @@
+{
+  "conversation_id": "26",
+  "conversation": [
+    {
+      "speaker": "A",
+      "utterance": "先に日程を決めますか？"
+    },
+    {
+      "speaker": "B",
+      "utterance": "まず日程という話だと"
+    },
+    {
+      "speaker": "C",
+      "utterance": "18,22,29しかあいてません！！27も空いてるけど試験前"
+    },
+    {
+      "speaker": "D",
+      "utterance": "毎日21時に測定なので時間は早い方がありがたいです！日程はいつでもいいー"
+    },
+    {
+      "speaker": "A",
+      "utterance": "www"
+    },
+    {
+      "speaker": "B",
+      "utterance": "29はミスド会だ"
+    },
+    {
+      "speaker": "D",
+      "utterance": "18は駒場祭行くから難しい……"
+    },
+    {
+      "speaker": "A",
+      "utterance": "ほんとだ"
+    },
+    {
+      "speaker": "B",
+      "utterance": "18,22はおけまる、23も18:00なら大丈夫か\n全部いけるぜ"
+    },
+    {
+      "speaker": "A",
+      "utterance": "じゃあ22かな？"
+    },
+    {
+      "speaker": "E",
+      "utterance": "22，29はおっけ"
+    },
+    {
+      "speaker": "D",
+      "utterance": "22いけるー"
+    },
+    {
+      "speaker": "C",
+      "utterance": "22！"
+    },
+    {
+      "speaker": "B",
+      "utterance": "22おけ"
+    },
+    {
+      "speaker": "A",
+      "utterance": "時間はどうします、早い方がいいんだよね"
+    },
+    {
+      "speaker": "B",
+      "utterance": "18:00?"
+    },
+    {
+      "speaker": "D",
+      "utterance": "そのくらいだと嬉しい〜"
+    },
+    {
+      "speaker": "A",
+      "utterance": "かな。本郷で測定なら本郷近くにすればいい感じ？"
+    },
+    {
+      "speaker": "B",
+      "utterance": "本郷17:00まで授業でした"
+    },
+    {
+      "speaker": "D",
+      "utterance": "だと大変ありがたい"
+    },
+    {
+      "speaker": "A",
+      "utterance": "わたくし本郷詳しくないので、何かいいお店あったらそこにしよう()"
+    },
+    {
+      "speaker": "C",
+      "utterance": "18時おっけー"
+    },
+    {
+      "speaker": "A",
+      "utterance": "店後だったw"
+    },
+    {
+      "speaker": "B",
+      "utterance": "場所が決まらないと時間は結構厳しくないでしょうか？"
+    },
+    {
+      "speaker": "C",
+      "utterance": "11/22 18時〜20時とかでいいんじゃない"
+    },
+    {
+      "speaker": "A",
+      "utterance": "本郷ならいけるのでは？"
+    },
+    {
+      "speaker": "B",
+      "utterance": "おけまる"
+    },
+    {
+      "speaker": "A",
+      "utterance": "本郷近辺"
+    },
+    {
+      "speaker": "D",
+      "utterance": "本郷なら基本大丈夫！自転車ある！！(お酒飲めなくなるけど)"
+    },
+    {
+      "speaker": "E",
+      "utterance": "よさそう"
+    },
+    {
+      "speaker": "A",
+      "utterance": "おけです"
+    },
+    {
+      "speaker": "C",
+      "utterance": "食べたいものとかありますか\n苦手なものもあれば"
+    },
+    {
+      "speaker": "A",
+      "utterance": "苦手なもの、特になし"
+    },
+    {
+      "speaker": "B",
+      "utterance": "パッとナン食べたいなって思った、本郷ならルムーランみたいなところあったよね"
+    },
+    {
+      "speaker": "D",
+      "utterance": "特にないかな、内臓系はちょっと苦手"
+    },
+    {
+      "speaker": "C",
+      "utterance": "あとお酒飲むかどうか"
+    },
+    {
+      "speaker": "E",
+      "utterance": "ラーメンじゃなければ"
+    },
+    {
+      "speaker": "A",
+      "utterance": "ラーメンじゃなければw"
+    },
+    {
+      "speaker": "B",
+      "utterance": "僕も内蔵系は苦手、お酒もいやかな"
+    },
+    {
+      "speaker": "E",
+      "utterance": "飲みません"
+    },
+    {
+      "speaker": "C",
+      "utterance": "これナンの店ではない気がする()"
+    },
+    {
+      "speaker": "B",
+      "utterance": "ナン……"
+    },
+    {
+      "speaker": "A",
+      "utterance": "最近できたらしいフランス料理屋？行って見たいかも"
+    },
+    {
+      "speaker": "D",
+      "utterance": "まあナン食べられるところはあるでしょう……()\nどこどこ？"
+    },
+    {
+      "speaker": "A",
+      "utterance": "前誰かが言ってた。○○か○○か"
+    },
+    {
+      "speaker": "B",
+      "utterance": "ブイヨン本郷3"
+    },
+    {
+      "speaker": "A",
+      "utterance": "そこそこ"
+    },
+    {
+      "speaker": "B",
+      "utterance": "ほんさんからしばらく歩いたとこ"
+    },
+    {
+      "speaker": "C",
+      "utterance": "https://s.tabelog.com/tokyo/A1310/A131004/13273207/\nこれか"
+    },
+    {
+      "speaker": "A",
+      "utterance": "\"https://bouillon.jp"
+    },
+    {
+      "speaker": "https",
+      "utterance": "//s.tabelog.com/tokyo/A1310/A131004/13273207/\""
+    },
+    {
+      "speaker": "A",
+      "utterance": "イエス\n候補1"
+    },
+    {
+      "speaker": "B",
+      "utterance": "同じ系統だったら東大の中にあるところも行ってみたい\nディナーやってるのかな"
+    },
+    {
+      "speaker": "A",
+      "utterance": "どこどこ"
+    },
+    {
+      "speaker": "D",
+      "utterance": "るべそんべーるみたいなやつ？\nあれ駒場か？"
+    },
+    {
+      "speaker": "A",
+      "utterance": "駒場やね"
+    },
+    {
+      "speaker": "B",
+      "utterance": "https://leversonverre-tokyo.com/restaurant/hongo.html"
+    },
+    {
+      "speaker": "A",
+      "utterance": "本郷にもあるのか！"
+    },
+    {
+      "speaker": "B",
+      "utterance": "いや、まって、夜めちゃ格式高そう()"
+    },
+    {
+      "speaker": "D",
+      "utterance": "わかる()"
+    },
+    {
+      "speaker": "C",
+      "utterance": "根津の方全然行かんから開拓したさあるけど"
+    },
+    {
+      "speaker": "D",
+      "utterance": "https://tabelog.com/tokyo/A1311/A131106/13272159/"
+    },
+    {
+      "speaker": "E",
+      "utterance": "キャンパス内他にも店あるけどね〜"
+    },
+    {
+      "speaker": "D",
+      "utterance": "ねづ"
+    },
+    {
+      "speaker": "A",
+      "utterance": "美味しそう\n行ったことあるん？"
+    },
+    {
+      "speaker": "D",
+      "utterance": "あるー！"
+    },
+    {
+      "speaker": "B",
+      "utterance": "高知いいな"
+    },
+    {
+      "speaker": "A",
+      "utterance": "究極の卵かけごはんが気になるw"
+    },
+    {
+      "speaker": "D",
+      "utterance": "きびなごのからあげ食べて懐かしさで泣いてた(泣いてない)"
+    },
+    {
+      "speaker": "A",
+      "utterance": "これで候補3？"
+    },
+    {
+      "speaker": "B",
+      "utterance": "\"https://tabelog.com/tokyo/A1311/A131106/13253841/\nパッと根津、夜で調べたらここ良さげ\"\n(良さげっていうか、なんか勝手にここの人異国料理好きだと思っているので)\n3だと思う"
+    },
+    {
+      "speaker": "A",
+      "utterance": "これも美味しそう"
+    },
+    {
+      "speaker": "D",
+      "utterance": "おいしそう〜〜"
+    },
+    {
+      "speaker": "A",
+      "utterance": "ほか二人は何か行きたいところあるー？"
+    },
+    {
+      "speaker": "E",
+      "utterance": "どれもよさそうだなーと"
+    },
+    {
+      "speaker": "C",
+      "utterance": "いまこれ言ってないの誰ってことになってる？"
+    },
+    {
+      "speaker": "B",
+      "utterance": "あげた！"
+    },
+    {
+      "speaker": "E",
+      "utterance": "候補なら近々閉店らしいtorinosuも挙げとく\nhttps://www.google.com/maps/place/torinosu/@35.7193949,139.7567245,19z/data=!3m1!4b1!4m5!3m4!1s0x60188dcb54729155:0xb914cc933c94d6ef!8m2!3d35.7193949!4d139.7572717"
+    },
+    {
+      "speaker": "C",
+      "utterance": "\"レストランMOMO\n050-5593-9524\n東京都文京区根津2-15-15"
+    },
+    {
+      "speaker": "https",
+      "utterance": "//tabelog.com/tokyo/A1311/A131106/13024769/\""
+    },
+    {
+      "speaker": "C",
+      "utterance": "これで全員一個あげた？"
+    },
+    {
+      "speaker": "A",
+      "utterance": "だと思う！"
+    },
+    {
+      "speaker": "B",
+      "utterance": "うぇい"
+    },
+    {
+      "speaker": "C",
+      "utterance": "ブイヨンのやつ分かりにくかったのでAさんのリンクで統一してください"
+    },
+    {
+      "speaker": "D",
+      "utterance": "ぜんぶでいくつですか><"
+    },
+    {
+      "speaker": "B",
+      "utterance": "6"
+    },
+    {
+      "speaker": "D",
+      "utterance": "ありがとう＞＜"
+    },
+    {
+      "speaker": "A",
+      "utterance": "私は5にしたよ"
+    },
+    {
+      "speaker": "E",
+      "utterance": "6にした"
+    },
+    {
+      "speaker": "B",
+      "utterance": "ごめんねー><\n僕がるゔぇとタコスいれたから……"
+    },
+    {
+      "speaker": "A",
+      "utterance": "るべそんを却下するかどうかやなw"
+    },
+    {
+      "speaker": "B",
+      "utterance": "るゔぇ？\n知らない子ですね……"
+    },
+    {
+      "speaker": "A",
+      "utterance": "www\n格式高いからなしになったのかと思ったw"
+    },
+    {
+      "speaker": "B",
+      "utterance": "ごめんなさーい……"
+    },
+    {
+      "speaker": "A",
+      "utterance": "いやいや大丈夫よ！\n一番行きたいところどこにしたかから始めます？"
+    },
+    {
+      "speaker": "D",
+      "utterance": "よさそう！"
+    },
+    {
+      "speaker": "B",
+      "utterance": "(ごめん、確認できていないんだけど、torinosuってしまったんじゃなかった？僕が勘違いしてただけ？)"
+    },
+    {
+      "speaker": "E",
+      "utterance": "今日見たら29に閉店するって書いてあった"
+    },
+    {
+      "speaker": "B",
+      "utterance": "すみませんでした、ありがとう"
+    },
+    {
+      "speaker": "A",
+      "utterance": "閉店前滑り込みって感じか\nあ、私は高知のとこ気になったので１番にしました"
+    },
+    {
+      "speaker": "E",
+      "utterance": "ブイヨンにした〜"
+    },
+    {
+      "speaker": "B",
+      "utterance": "タコスにした"
+    },
+    {
+      "speaker": "C",
+      "utterance": "順位に入れ忘れたけどるゔぇ"
+    },
+    {
+      "speaker": "D",
+      "utterance": "なんだっけ、さいしょのやつ"
+    },
+    {
+      "speaker": "A",
+      "utterance": "最初のはブイヨンかな？"
+    },
+    {
+      "speaker": "D",
+      "utterance": "ぶいよんだ"
+    },
+    {
+      "speaker": "E",
+      "utterance": "結構ばらけたね"
+    },
+    {
+      "speaker": "A",
+      "utterance": "ねw"
+    },
+    {
+      "speaker": "B",
+      "utterance": "ブイヨン2番目にしたー"
+    },
+    {
+      "speaker": "A",
+      "utterance": "私もブイヨン2ばんめー"
+    },
+    {
+      "speaker": "B",
+      "utterance": "その後高知かも(記憶に自信がなくなってきた)"
+    },
+    {
+      "speaker": "A",
+      "utterance": "ブイヨンにする？　場所も近そうやし"
+    },
+    {
+      "speaker": "D",
+      "utterance": "(っ ॑꒳ ॑c)"
+    },
+    {
+      "speaker": "B",
+      "utterance": "僕はあり(っ ॑꒳ ॑c)"
+    },
+    {
+      "speaker": "C",
+      "utterance": "僕は23高知ブイヨンなのでどちらでも〜\n逆だったかもしれねぇ…"
+    },
+    {
+      "speaker": "A",
+      "utterance": "www\nじゃあブイヨンにしますかw"
+    },
+    {
+      "speaker": "B",
+      "utterance": "賛成、高知はまたいこう"
+    },
+    {
+      "speaker": "C",
+      "utterance": "@E ？"
+    },
+    {
+      "speaker": "E",
+      "utterance": "もちろんいいよー"
+    },
+    {
+      "speaker": "C",
+      "utterance": "調べたら22日5人で入れる席ないけど"
+    },
+    {
+      "speaker": "B",
+      "utterance": "マジで、それは、やばい"
+    },
+    {
+      "speaker": "C",
+      "utterance": "(写真)"
+    },
+    {
+      "speaker": "A",
+      "utterance": "www"
+    },
+    {
+      "speaker": "E",
+      "utterance": "え"
+    },
+    {
+      "speaker": "A",
+      "utterance": "これは延期パターンですかね()"
+    },
+    {
+      "speaker": "C",
+      "utterance": "高知の方にする？"
+    },
+    {
+      "speaker": "B",
+      "utterance": "19:00ならいけそうだけど\n嘘だった\nごめん><"
+    },
+    {
+      "speaker": "A",
+      "utterance": "www"
+    },
+    {
+      "speaker": "C",
+      "utterance": "次点どうしますか"
+    },
+    {
+      "speaker": "E",
+      "utterance": "じゃあ高知？タコス？"
+    },
+    {
+      "speaker": "B",
+      "utterance": "高知にする？1.2.3.?.?の希望だから(伝われ！)別のお店でもいいと思うけど"
+    },
+    {
+      "speaker": "D",
+      "utterance": "高知2番目にしたし高知でも！"
+    },
+    {
+      "speaker": "C",
+      "utterance": "高知は予約取れそう"
+    },
+    {
+      "speaker": "A",
+      "utterance": "高知良いと思うー"
+    },
+    {
+      "speaker": "B",
+      "utterance": "天才"
+    },
+    {
+      "speaker": "C",
+      "utterance": "全席喫煙可らしいけど"
+    },
+    {
+      "speaker": "E",
+      "utterance": "予約取れるならそうしますか"
+    },
+    {
+      "speaker": "C",
+      "utterance": "いい？"
+    },
+    {
+      "speaker": "B",
+      "utterance": "おけ"
+    },
+    {
+      "speaker": "A",
+      "utterance": "いいよん"
+    },
+    {
+      "speaker": "D",
+      "utterance": "だいじょうぶ〜"
+    },
+    {
+      "speaker": "E",
+      "utterance": "うい"
+    },
+    {
+      "speaker": "C",
+      "utterance": "予約した"
+    },
+    {
+      "speaker": "B",
+      "utterance": "神様"
+    },
+    {
+      "speaker": "A",
+      "utterance": "ありがとう！"
+    },
+    {
+      "speaker": "B",
+      "utterance": "ありがとう"
+    },
+    {
+      "speaker": "D",
+      "utterance": "ありがとう〜！！"
+    },
+    {
+      "speaker": "C",
+      "utterance": "\"トリノス\n03-3830-0326\n東京都文京区向丘2-8-6 ヴェルデュール本郷壱番館 1F"
+    },
+    {
+      "speaker": "https",
+      "utterance": "//tabelog.com/tokyo/A1310/A131004/13157588/\""
+    },
+    {
+      "speaker": "C",
+      "utterance": "\"フランス料理 ルヴェ ソン ヴェール 本郷\n03-5840-8088\n東京都文京区本郷6-16-4 フォーレスト本郷 1F"
+    },
+    {
+      "speaker": "https",
+      "utterance": "//tabelog.com/tokyo/A1310/A131004/13025804/\""
+    },
+    {
+      "speaker": "E",
+      "utterance": "ありがと"
+    },
+    {
+      "speaker": "C",
+      "utterance": "\"店の住所\n東京都文京区根津2-19-4 逢初2号館A 1F\""
+    },
+    {
+      "speaker": "B",
+      "utterance": "本郷集合？\n18:00に本郷出るのでいいのかな"
+    },
+    {
+      "speaker": "C",
+      "utterance": "18時に店"
+    },
+    {
+      "speaker": "A",
+      "utterance": "根津だと本郷に集まるよりは現地集合の方が良いかも？"
+    },
+    {
+      "speaker": "E",
+      "utterance": "どっちでも"
+    },
+    {
+      "speaker": "B",
+      "utterance": "とりあえず18:00にお店、了解ですー"
+    },
+    {
+      "speaker": "A",
+      "utterance": "あとこれ、解散時刻？もいる気がする"
+    },
+    {
+      "speaker": "E",
+      "utterance": "20時にした"
+    },
+    {
+      "speaker": "C",
+      "utterance": "滞在時川2時間になってるから20時過ぎ解散くらい"
+    },
+    {
+      "speaker": "B",
+      "utterance": "2時間までだから20:00でいいんじゃないかしら"
+    },
+    {
+      "speaker": "A",
+      "utterance": "おけおけ"
+    }
+  ],
+  "info": [
+    {
+      "website": "https://tabelog.com/tokyo/A1311/A131106/13272159",
+      "restaurant": "巡りや 根津店"
+    },
+    {
+      "website": "https://tabelog.com/tokyo/A1311/A131106/13024769",
+      "restaurant": "レストランMOMO（モモ）"
+    },
+    {
+      "website": "https://tabelog.com/tokyo/A1311/A131106/13253841",
+      "restaurant": "ビンゴ タコス キッチン（BINGO TACOS KITCHEN）"
+    },
+    {
+      "website": "https://tabelog.com/tokyo/A1310/A131004/13157588",
+      "restaurant": "トリノス（torinosu）"
+    },
+    {
+      "website": "https://s.tabelog.com/tokyo/A1310/A131004/13273207",
+      "restaurant": "フランス大衆食堂ブイヨン本郷3"
+    },
+    {
+      "website": "https://tabelog.com/tokyo/A1310/A131004/13025804",
+      "restaurant": "フランス料理 ルヴェ ソン ヴェール 本郷（Lever son Verre）"
+    }
+  ]
+}

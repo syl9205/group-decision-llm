@@ -1,0 +1,18 @@
+{
+  "participants": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E"
+  ],
+  "restaurant_brands": [
+    "フランス大衆食堂ブイヨン本郷3",
+    "フランス料理 ルヴェ ソン ヴェール 本郷（Lever son Verre）",
+    "巡りや 根津店",
+    "ビンゴ タコス キッチン（BINGO TACOS KITCHEN）",
+    "トリノス（torinosu）",
+    "レストランMOMO（モモ）"
+  ],
+  "final_restaurant": "巡りや 根津店"
+}

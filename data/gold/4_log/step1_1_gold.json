@@ -1,0 +1,22 @@
+{
+  "participants": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "restaurant_brands": [
+    "SCHMATZ 有楽町",
+    "Ue CONA 渋谷道玄坂離れ（ウエコナ）",
+    "窯焼きピザとワインのお店 ROMAE 炉前（ロマエ）",
+    "TGIフライデーズ 上野中央通り店（ティージーアイ フライデーズ）",
+    "ファンケル ブラウンライス ミイルズ（FANCL BROWN RICE MEALS）",
+    "ファイヤーハウス（FIRE HOUSE）",
+    "CRUZ BURGERS & CRAFT BEERS（クルズバーガーズ アンド クラフトビア）",
+    "アークラウンジ 新宿西口駅前店（Ark Lounge）",
+    "伊達の牛たん本舗 KITTE グランシェ店",
+    "フィッシュ＆チップス マリン（FISH & CHIPS MALINS）",
+    "CRAFT CHEESE MARKET 渋谷駅前店（クラフトチーズマーケット【旧店名】北海道チーズフォンデュファクトリー 炭リッチ）"
+  ],
+  "final_restaurant": "CRAFT CHEESE MARKET 渋谷駅前店（クラフトチーズマーケット【旧店名】北海道チーズフォンデュファクトリー 炭リッチ）"
+}

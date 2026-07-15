@@ -1,0 +1,831 @@
+{
+  "conversation_id": "17",
+  "conversation": [
+    {
+      "speaker": "A",
+      "utterance": "淡青祭後だな"
+    },
+    {
+      "speaker": "B",
+      "utterance": "それはそう\n夜かな？"
+    },
+    {
+      "speaker": "C",
+      "utterance": "うんうん"
+    },
+    {
+      "speaker": "A",
+      "utterance": "水金夜空いてる？"
+    },
+    {
+      "speaker": "B",
+      "utterance": "あ、水曜日ありだね、部活オフの日\nTDK無くなったし😇\n金曜もオフなの？！"
+    },
+    {
+      "speaker": "C",
+      "utterance": "ふむふみ"
+    },
+    {
+      "speaker": "A",
+      "utterance": "A原宿で18時くらいまで用事あるかも\nあ、ちがったっけ"
+    },
+    {
+      "speaker": "B",
+      "utterance": "水曜までだと思ってた\nみてくる\nえ、オフなんだけどwwww"
+    },
+    {
+      "speaker": "A",
+      "utterance": "金曜日オフっぽい"
+    },
+    {
+      "speaker": "B",
+      "utterance": "えぐwwww"
+    },
+    {
+      "speaker": "A",
+      "utterance": "(スタンプ)"
+    },
+    {
+      "speaker": "C",
+      "utterance": "あぶなあああ"
+    },
+    {
+      "speaker": "A",
+      "utterance": "けど土曜日朝からじゃけん\n水曜日がよさそう"
+    },
+    {
+      "speaker": "C",
+      "utterance": "剣道場って書いてあってあせったである"
+    },
+    {
+      "speaker": "B",
+      "utterance": "それな"
+    },
+    {
+      "speaker": "C",
+      "utterance": "たしかに"
+    },
+    {
+      "speaker": "B",
+      "utterance": "水曜夜にするか！"
+    },
+    {
+      "speaker": "A",
+      "utterance": "水曜日予定は〜？"
+    },
+    {
+      "speaker": "C",
+      "utterance": "いけるよん"
+    },
+    {
+      "speaker": "B",
+      "utterance": "なかった気がする"
+    },
+    {
+      "speaker": "C",
+      "utterance": "18時以降とかなら"
+    },
+    {
+      "speaker": "B",
+      "utterance": "ない\n次の日朝早朝なの渋い　まあ良いかみんなも学校だよね❤️"
+    },
+    {
+      "speaker": "A",
+      "utterance": "早め解散だな"
+    },
+    {
+      "speaker": "C",
+      "utterance": "しょうがない"
+    },
+    {
+      "speaker": "B",
+      "utterance": "何系が良い？飲み？それともなんか普通に夜ご飯みたいな感じ？"
+    },
+    {
+      "speaker": "A",
+      "utterance": "A18時だとちょい厳しいかも🥺"
+    },
+    {
+      "speaker": "C",
+      "utterance": "まあ沢山食べれば一緒"
+    },
+    {
+      "speaker": "A",
+      "utterance": "とりあえず日調笑笑"
+    },
+    {
+      "speaker": "B",
+      "utterance": "全然大丈夫\nあ、そうだったwww"
+    },
+    {
+      "speaker": "A",
+      "utterance": "19時だと絶対行ける！"
+    },
+    {
+      "speaker": "B",
+      "utterance": "18時半とか19時とかで全然良いよ"
+    },
+    {
+      "speaker": "C",
+      "utterance": "じゃあそうするか！\nうんうん"
+    },
+    {
+      "speaker": "B",
+      "utterance": "とりあえず淡青祭の総括をしたい"
+    },
+    {
+      "speaker": "A",
+      "utterance": "11/9 19時！\nわくわく！"
+    },
+    {
+      "speaker": "B",
+      "utterance": "決定〜！！！！楽しみ💖"
+    },
+    {
+      "speaker": "C",
+      "utterance": "ひとりひとつ"
+    },
+    {
+      "speaker": "A",
+      "utterance": "夜だからな〜"
+    },
+    {
+      "speaker": "C",
+      "utterance": "あげなきゃである"
+    },
+    {
+      "speaker": "A",
+      "utterance": "飲むかだよな"
+    },
+    {
+      "speaker": "C",
+      "utterance": "それはそう"
+    },
+    {
+      "speaker": "B",
+      "utterance": "一人一つハードル高くて草"
+    },
+    {
+      "speaker": "C",
+      "utterance": "4000えんなので"
+    },
+    {
+      "speaker": "B",
+      "utterance": "まじでこれ"
+    },
+    {
+      "speaker": "A",
+      "utterance": "飲みたいな"
+    },
+    {
+      "speaker": "B",
+      "utterance": "私酒入れても変わらない人だから正直どっちでも良い"
+    },
+    {
+      "speaker": "A",
+      "utterance": "原宿か渋谷がいい"
+    },
+    {
+      "speaker": "B",
+      "utterance": "個人的に渋谷ありがたいけどC遠いよな🥺"
+    },
+    {
+      "speaker": "A",
+      "utterance": "ああそっか"
+    },
+    {
+      "speaker": "C",
+      "utterance": "え、いやべつに\nかわらないよ"
+    },
+    {
+      "speaker": "A",
+      "utterance": "新宿？下北？"
+    },
+    {
+      "speaker": "B",
+      "utterance": "あ、確かに"
+    },
+    {
+      "speaker": "C",
+      "utterance": "渋谷定期けんないだし"
+    },
+    {
+      "speaker": "A",
+      "utterance": "お"
+    },
+    {
+      "speaker": "C",
+      "utterance": "その日本郷からだから\nどうせ通るである"
+    },
+    {
+      "speaker": "B",
+      "utterance": "渋谷がいい！！下北だと帰りが少し終電危なそう（よく知らないけど）"
+    },
+    {
+      "speaker": "A",
+      "utterance": "おけおけ\n渋谷で"
+    },
+    {
+      "speaker": "B",
+      "utterance": "渋谷でいっか"
+    },
+    {
+      "speaker": "C",
+      "utterance": "うんうん"
+    },
+    {
+      "speaker": "B",
+      "utterance": "なんか渋谷で行きたい店とかある？"
+    },
+    {
+      "speaker": "A",
+      "utterance": "ちょっと保存してるのみてくる\nとりあえずとりきはあり"
+    },
+    {
+      "speaker": "B",
+      "utterance": "普通にこの3人でオシャンティズムな店はあんまり想像つかない"
+    },
+    {
+      "speaker": "A",
+      "utterance": "それな〜\nのみたいな\n(n回目)"
+    },
+    {
+      "speaker": "C",
+      "utterance": "スシローかくら寿司かとりきか"
+    },
+    {
+      "speaker": "B",
+      "utterance": "あり"
+    },
+    {
+      "speaker": "A",
+      "utterance": "寿司ならくら寿司だな"
+    },
+    {
+      "speaker": "B",
+      "utterance": "行かないと思うけどここ美味しかった\nhttps://tabelog.com/tokyo/A1303/A130301/13133728/\n絶対行かないけどw"
+    },
+    {
+      "speaker": "A",
+      "utterance": "行かないと思うけど笑\nピザは大好物"
+    },
+    {
+      "speaker": "B",
+      "utterance": "ピザ楽しそう\nいやでも寿司\n結局www\n寿司ってさ、人によって食べる量調整できるから好き"
+    },
+    {
+      "speaker": "C",
+      "utterance": "おいしそう\nたしかに"
+    },
+    {
+      "speaker": "A",
+      "utterance": "たしかに"
+    },
+    {
+      "speaker": "B",
+      "utterance": "なんか寿司の気分の日もさ、揚げ物の気分の日も対応出来るやん"
+    },
+    {
+      "speaker": "A",
+      "utterance": "ちょっと待ってAも探してくる笑\nそれはそう肉もある"
+    },
+    {
+      "speaker": "C",
+      "utterance": "うんうん"
+    },
+    {
+      "speaker": "B",
+      "utterance": "結局ファミレスしか勝たんと思ってる"
+    },
+    {
+      "speaker": "C",
+      "utterance": "うどんもあるので\nそれはある"
+    },
+    {
+      "speaker": "B",
+      "utterance": "俺はファミレスが好きすぎるだけだけど\nちょっと贅沢して渋谷のロイホでも良いよ💖"
+    },
+    {
+      "speaker": "C",
+      "utterance": "あーそれは贅沢"
+    },
+    {
+      "speaker": "A",
+      "utterance": "ロイホは贅沢\n空間が笑"
+    },
+    {
+      "speaker": "C",
+      "utterance": "ロイホは平常時にはいかないよね"
+    },
+    {
+      "speaker": "A",
+      "utterance": "ロイホの下の焼売の居酒屋も美味しかった"
+    },
+    {
+      "speaker": "C",
+      "utterance": "ww"
+    },
+    {
+      "speaker": "B",
+      "utterance": "制覇してて好き\n実は渋谷のタイ料理や、スポット3人でいった"
+    },
+    {
+      "speaker": "A",
+      "utterance": "お洒落なところだったら\nあのなんかビーハウスみたいな\nのも美味しかった(お洒落)"
+    },
+    {
+      "speaker": "B",
+      "utterance": "行ったことある？気になってんだよね！！！"
+    },
+    {
+      "speaker": "A",
+      "utterance": "行ったことある！"
+    },
+    {
+      "speaker": "C",
+      "utterance": "はちみつカフェ？"
+    },
+    {
+      "speaker": "A",
+      "utterance": "なんかチーズと\nそうそう"
+    },
+    {
+      "speaker": "B",
+      "utterance": "うまそう"
+    },
+    {
+      "speaker": "C",
+      "utterance": "おいしそう"
+    },
+    {
+      "speaker": "B",
+      "utterance": "寿司ならくら寿司がいいんだっけ？"
+    },
+    {
+      "speaker": "A",
+      "utterance": "なんかガチャあるから()"
+    },
+    {
+      "speaker": "C",
+      "utterance": "わくわくがね"
+    },
+    {
+      "speaker": "B",
+      "utterance": "寿司チェーン圧倒的に制覇したいマンB、ちょっと魚べいチャレンジしてみたい"
+    },
+    {
+      "speaker": "C",
+      "utterance": "おまけでね"
+    },
+    {
+      "speaker": "A",
+      "utterance": "けどスシロー行ったことない笑笑"
+    },
+    {
+      "speaker": "C",
+      "utterance": "あー魚べいは美味しいよ"
+    },
+    {
+      "speaker": "A",
+      "utterance": "さかなべい"
+    },
+    {
+      "speaker": "C",
+      "utterance": "Cちゃん常連だった昔\nさかなじゃないなのじつは"
+    },
+    {
+      "speaker": "A",
+      "utterance": "うお\nぎょ？\nなんでもいい笑笑"
+    },
+    {
+      "speaker": "B",
+      "utterance": "\"くら寿司→家族総合楽しめる型エンタ\nスシロー→寿司がうまい、デザートもうまい\nはま寿司→売り付け方がうまい、商売戦略上手\nかっぱ寿司→😇\n銚子丸→本格的！ちょっと値段高いけどたまに行きたい\nがってん寿司→埼玉県民大好き\""
+    },
+    {
+      "speaker": "C",
+      "utterance": "それはそう笑"
+    },
+    {
+      "speaker": "A",
+      "utterance": "デザート美味しそうだった(寿司屋はデザート)\nやめて笑笑"
+    },
+    {
+      "speaker": "B",
+      "utterance": "これ寿司チェーンの私の評価ね"
+    },
+    {
+      "speaker": "A",
+      "utterance": "おたくじゃん笑笑"
+    },
+    {
+      "speaker": "C",
+      "utterance": "がってんずしww"
+    },
+    {
+      "speaker": "B",
+      "utterance": "対よろ"
+    },
+    {
+      "speaker": "C",
+      "utterance": "はじめてみたである"
+    },
+    {
+      "speaker": "A",
+      "utterance": "岡山にはまりんぽりすってのがあった\nどうでもよい"
+    },
+    {
+      "speaker": "B",
+      "utterance": "ハマリンポリスガチで草"
+    },
+    {
+      "speaker": "A",
+      "utterance": "スシローきになる"
+    },
+    {
+      "speaker": "B",
+      "utterance": "やば決めよw"
+    },
+    {
+      "speaker": "A",
+      "utterance": "いや、笑笑\nマリンポリス笑笑"
+    },
+    {
+      "speaker": "B",
+      "utterance": "スシローいいよ！アプリあるっけ？"
+    },
+    {
+      "speaker": "A",
+      "utterance": "海都って書く(いらん)"
+    },
+    {
+      "speaker": "B",
+      "utterance": "勝手に寿司化させててごめん\nhttps://tabelog.com/tokyo/A1303/A130301/13144109/\nここ魚べい！"
+    },
+    {
+      "speaker": "A",
+      "utterance": "\"BEE HOUSE 渋谷本店\n050-5570-0611\n東京都渋谷区道玄坂1-5-2 SEDEビル B1F"
+    },
+    {
+      "speaker": "https",
+      "utterance": "//tabelog.com/tokyo/A1303/A130301/13045373/\""
+    },
+    {
+      "speaker": "A",
+      "utterance": "コースあるからご褒美感出る"
+    },
+    {
+      "speaker": "B",
+      "utterance": "Cくら寿司行ける？スシローでも！"
+    },
+    {
+      "speaker": "C",
+      "utterance": "\"スシロー 渋谷駅前店\n03-5784-2357\n東京都渋谷区宇田川町23-5 ハイマンテン渋谷ビル 6F"
+    },
+    {
+      "speaker": "https",
+      "utterance": "//tabelog.com/tokyo/A1303/A130301/13259267/\""
+    },
+    {
+      "speaker": "A",
+      "utterance": "\"鳥貴族 渋谷センター街店\n050-3623-5819\n東京都渋谷区宇田川町25-5"
+    },
+    {
+      "speaker": "https",
+      "utterance": "//tabelog.com/tokyo/A1303/A130301/13172511/\""
+    },
+    {
+      "speaker": "B",
+      "utterance": "チーズフォンデュ絶対楽しいじゃん"
+    },
+    {
+      "speaker": "A",
+      "utterance": "だいすきとりき"
+    },
+    {
+      "speaker": "B",
+      "utterance": "たべほしてもいいよね3500円だよ"
+    },
+    {
+      "speaker": "C",
+      "utterance": "\"無添くら寿司 渋谷駅前店\n03-6277-5601\n東京都渋谷区宇田川町23-3 渋谷第一勧銀共同ビル 7F"
+    },
+    {
+      "speaker": "https",
+      "utterance": "//tabelog.com/tokyo/A1303/A130301/13254942/\""
+    },
+    {
+      "speaker": "A",
+      "utterance": "たべほ\nどうしよう〜"
+    },
+    {
+      "speaker": "B",
+      "utterance": "寿司かとりき"
+    },
+    {
+      "speaker": "A",
+      "utterance": "お"
+    },
+    {
+      "speaker": "B",
+      "utterance": "しかイメージできない人になった\nみんなは？"
+    },
+    {
+      "speaker": "A",
+      "utterance": "とりきはねだいすき"
+    },
+    {
+      "speaker": "B",
+      "utterance": "とりきはみんな好きなのよ"
+    },
+    {
+      "speaker": "C",
+      "utterance": "うんうん"
+    },
+    {
+      "speaker": "B",
+      "utterance": "とりきと寿司で迷うな〜（個人の迷い）"
+    },
+    {
+      "speaker": "A",
+      "utterance": "すし\n迷うな"
+    },
+    {
+      "speaker": "B",
+      "utterance": "でもとりきでも全然いいのよ"
+    },
+    {
+      "speaker": "C",
+      "utterance": "\"まあ打ち上げなので\nすしというご褒美感というのも\""
+    },
+    {
+      "speaker": "B",
+      "utterance": "二次会とりきとかいう悪魔のささやき"
+    },
+    {
+      "speaker": "A",
+      "utterance": "やめてそれしか想像できなくなった笑\n寿司ならどこ？"
+    },
+    {
+      "speaker": "B",
+      "utterance": "🌝"
+    },
+    {
+      "speaker": "C",
+      "utterance": "あー－－－－\nそれは"
+    },
+    {
+      "speaker": "B",
+      "utterance": "\"寿司どこかは特に私はない！！！\nもうコンプ済みなので！！！\""
+    },
+    {
+      "speaker": "A",
+      "utterance": "魚べいについての\n情報が足りてない笑"
+    },
+    {
+      "speaker": "B",
+      "utterance": "なんか店構え見たらファスト感があった"
+    },
+    {
+      "speaker": "A",
+      "utterance": "笑笑"
+    },
+    {
+      "speaker": "C",
+      "utterance": "コンプ済みなの（驚愕）"
+    },
+    {
+      "speaker": "B",
+      "utterance": "全然知らんけど笑"
+    },
+    {
+      "speaker": "C",
+      "utterance": "ふむ"
+    },
+    {
+      "speaker": "B",
+      "utterance": "くらかスシロー！←クソ無難"
+    },
+    {
+      "speaker": "A",
+      "utterance": "Aスシロー行ってみたい"
+    },
+    {
+      "speaker": "B",
+      "utterance": "いやでもとりきもいいんだよな"
+    },
+    {
+      "speaker": "A",
+      "utterance": "デザートが美味しいとのことなので"
+    },
+    {
+      "speaker": "C",
+      "utterance": "なるほど"
+    },
+    {
+      "speaker": "B",
+      "utterance": "スシローはねなんかデザートがまじででかい"
+    },
+    {
+      "speaker": "A",
+      "utterance": "とりきはね素晴らしいよ"
+    },
+    {
+      "speaker": "B",
+      "utterance": "くら寿司はデザートはまあ波がある"
+    },
+    {
+      "speaker": "A",
+      "utterance": "ちょっとスシローのメニュー見てくる"
+    },
+    {
+      "speaker": "B",
+      "utterance": "けど楽しいよ\nスシローは企業研究がすごいよ\n尊敬してる"
+    },
+    {
+      "speaker": "C",
+      "utterance": "スシローはがしゃぽんはない？"
+    },
+    {
+      "speaker": "A",
+      "utterance": "えやばい"
+    },
+    {
+      "speaker": "C",
+      "utterance": "え"
+    },
+    {
+      "speaker": "A",
+      "utterance": "パフェとかある"
+    },
+    {
+      "speaker": "C",
+      "utterance": "ww"
+    },
+    {
+      "speaker": "B",
+      "utterance": "ガ【チャ】ポンでお願いします\nちな、ない"
+    },
+    {
+      "speaker": "C",
+      "utterance": "ごめんなさい"
+    },
+    {
+      "speaker": "A",
+      "utterance": "がしゃぽんどーせちゃちいのじゃしいいよ笑笑"
+    },
+    {
+      "speaker": "B",
+      "utterance": "だからチャね"
+    },
+    {
+      "speaker": "A",
+      "utterance": "めっちゃおいしそう"
+    },
+    {
+      "speaker": "B",
+      "utterance": "一番やりたがってたやないか"
+    },
+    {
+      "speaker": "A",
+      "utterance": "とびっこ"
+    },
+    {
+      "speaker": "B",
+      "utterance": "どこにでもあるやつですこ"
+    },
+    {
+      "speaker": "A",
+      "utterance": "え\nメニューみてみ"
+    },
+    {
+      "speaker": "B",
+      "utterance": "スシローにする？\nロケーション確認したい"
+    },
+    {
+      "speaker": "A",
+      "utterance": "絶対スシローの気持ちになった"
+    },
+    {
+      "speaker": "C",
+      "utterance": "(写真)"
+    },
+    {
+      "speaker": "A",
+      "utterance": "今日行きたい"
+    },
+    {
+      "speaker": "B",
+      "utterance": "くら寿司もうどーーんって感じやん"
+    },
+    {
+      "speaker": "A",
+      "utterance": "うどん？笑"
+    },
+    {
+      "speaker": "B",
+      "utterance": "まじで期間限定のパフェデカすぎてビビった前\n\"もう、どーーん\nつまり駅前にあるということ\""
+    },
+    {
+      "speaker": "C",
+      "utterance": "これくら寿司"
+    },
+    {
+      "speaker": "A",
+      "utterance": "あーロケーションか"
+    },
+    {
+      "speaker": "C",
+      "utterance": "うどーん、かと思った"
+    },
+    {
+      "speaker": "B",
+      "utterance": "揚げたて豆乳ドーナツオススメ\nくら寿司はミルクレープかこれだな"
+    },
+    {
+      "speaker": "C",
+      "utterance": "ふむふむ"
+    },
+    {
+      "speaker": "A",
+      "utterance": "くら寿司は\nサイドが良いな"
+    },
+    {
+      "speaker": "B",
+      "utterance": "デザートははまorスシロー\n待ってでもめっちゃスシロー行きたい\nなんか200円くらいでかぼちゃの天ぷらあって\n今あるか知らんけど\nこれがまじで一番うまい"
+    },
+    {
+      "speaker": "A",
+      "utterance": "私もスシローのきもち"
+    },
+    {
+      "speaker": "C",
+      "utterance": "それはいいな"
+    },
+    {
+      "speaker": "B",
+      "utterance": "セルフで抹茶塩作って味わう"
+    },
+    {
+      "speaker": "C",
+      "utterance": "私も北海道ミルクレープ食べたい"
+    },
+    {
+      "speaker": "B",
+      "utterance": "場所だけモッカイ見てくる！"
+    },
+    {
+      "speaker": "A",
+      "utterance": "かぼちゃの天ぷらあったよ！\nたこからもある(たべたい)"
+    },
+    {
+      "speaker": "B",
+      "utterance": "一人一個でお願いしたい"
+    },
+    {
+      "speaker": "A",
+      "utterance": "かぼちゃ笑笑"
+    },
+    {
+      "speaker": "B",
+      "utterance": "場所優勝してたわ\nそこにしよ！！！予約できるといいね"
+    },
+    {
+      "speaker": "C",
+      "utterance": "あー予約という概念"
+    },
+    {
+      "speaker": "A",
+      "utterance": "サーモンバジルモッツァレラ絶対食べたい"
+    },
+    {
+      "speaker": "B",
+      "utterance": "渋谷のスシロー　来週水曜日の19時ね！"
+    }
+  ],
+  "info": [
+    {
+      "website": "https://tabelog.com/tokyo/A1303/A130301/13172511/",
+      "restaurant": "鳥貴族 渋谷センター街店"
+    },
+    {
+      "website": "https://tabelog.com/tokyo/A1303/A130301/13259267/",
+      "restaurant": "スシロー 渋谷駅前店"
+    },
+    {
+      "website": "https://tabelog.com/tokyo/A1303/A130301/13254942/",
+      "restaurant": "無添くら寿司 渋谷駅前店"
+    },
+    {
+      "website": "https://tabelog.com/tokyo/A1303/A130301/13133728/",
+      "restaurant": "goo ITALIANO 渋谷本店（グーイタリアーノ）"
+    },
+    {
+      "website": "https://tabelog.com/tokyo/A1303/A130301/13045373/",
+      "restaurant": "BEE HOUSE 渋谷本店（ビーハウス 【旧店名】Piatto）"
+    },
+    {
+      "website": "https://tabelog.com/tokyo/A1303/A130301/13144109/",
+      "restaurant": "魚べい 渋谷道玄坂店（魚米）"
+    }
+  ]
+}

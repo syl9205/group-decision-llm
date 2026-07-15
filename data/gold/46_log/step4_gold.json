@@ -1,0 +1,126 @@
+{
+  "preference_table": [
+    {
+      "participant": "A",
+      "restaurant": "アルデバラン",
+      "preferences": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "ハヌリ 渋谷",
+      "preferences": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "牛タン 夏火鉢（ナツヒバチ）",
+      "preferences": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "PIZZA BORSA（ピッツァ ボルサ）",
+      "preferences": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "アルデバラン",
+      "preferences": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "ハヌリ 渋谷",
+      "preferences": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "牛タン 夏火鉢（ナツヒバチ）",
+      "preferences": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "PIZZA BORSA（ピッツァ ボルサ）",
+      "preferences": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "アルデバラン",
+      "preferences": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "ハヌリ 渋谷",
+      "preferences": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "牛タン 夏火鉢（ナツヒバチ）",
+      "preferences": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "PIZZA BORSA（ピッツァ ボルサ）",
+      "preferences": "None"
+    }
+  ],
+  "constraint_table": [
+    {
+      "participant": "A",
+      "restaurant": "アルデバラン",
+      "constraints": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "ハヌリ 渋谷",
+      "constraints": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "牛タン 夏火鉢（ナツヒバチ）",
+      "constraints": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "PIZZA BORSA（ピッツァ ボルサ）",
+      "constraints": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "アルデバラン",
+      "constraints": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "ハヌリ 渋谷",
+      "constraints": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "牛タン 夏火鉢（ナツヒバチ）",
+      "constraints": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "PIZZA BORSA（ピッツァ ボルサ）",
+      "constraints": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "アルデバラン",
+      "constraints": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "ハヌリ 渋谷",
+      "constraints": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "牛タン 夏火鉢（ナツヒバチ）",
+      "constraints": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "PIZZA BORSA（ピッツァ ボルサ）",
+      "constraints": "None"
+    }
+  ]
+}

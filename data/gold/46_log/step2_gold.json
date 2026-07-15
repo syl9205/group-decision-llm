@@ -1,0 +1,64 @@
+{
+  "mentioned_table": [
+    {
+      "participant": "A",
+      "restaurant": "アルデバラン",
+      "mention": "Mentioned"
+    },
+    {
+      "participant": "A",
+      "restaurant": "ハヌリ 渋谷",
+      "mention": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "牛タン 夏火鉢（ナツヒバチ）",
+      "mention": "Mentioned"
+    },
+    {
+      "participant": "A",
+      "restaurant": "PIZZA BORSA（ピッツァ ボルサ）",
+      "mention": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "アルデバラン",
+      "mention": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "ハヌリ 渋谷",
+      "mention": "Mentioned"
+    },
+    {
+      "participant": "B",
+      "restaurant": "牛タン 夏火鉢（ナツヒバチ）",
+      "mention": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "PIZZA BORSA（ピッツァ ボルサ）",
+      "mention": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "アルデバラン",
+      "mention": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "ハヌリ 渋谷",
+      "mention": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "牛タン 夏火鉢（ナツヒバチ）",
+      "mention": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "PIZZA BORSA（ピッツァ ボルサ）",
+      "mention": "Mentioned"
+    }
+  ]
+}

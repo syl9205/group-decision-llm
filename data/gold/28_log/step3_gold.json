@@ -1,0 +1,64 @@
+{
+  "perception_table": [
+    {
+      "participant": "A",
+      "restaurant": "沸騰小吃城",
+      "perception": "Positive"
+    },
+    {
+      "participant": "A",
+      "restaurant": "SAMARKAND TERRACE（サマルカンド テラス）",
+      "perception": "Positive"
+    },
+    {
+      "participant": "A",
+      "restaurant": "焼肉 鶯谷園（ウグイスダニエン）",
+      "perception": "Negative"
+    },
+    {
+      "participant": "A",
+      "restaurant": "博多もつ鍋 やまや 池袋店",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "B",
+      "restaurant": "沸騰小吃城",
+      "perception": "Positive"
+    },
+    {
+      "participant": "B",
+      "restaurant": "SAMARKAND TERRACE（サマルカンド テラス）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "B",
+      "restaurant": "焼肉 鶯谷園（ウグイスダニエン）",
+      "perception": "Negative"
+    },
+    {
+      "participant": "B",
+      "restaurant": "博多もつ鍋 やまや 池袋店",
+      "perception": "Positive"
+    },
+    {
+      "participant": "C",
+      "restaurant": "沸騰小吃城",
+      "perception": "Positive"
+    },
+    {
+      "participant": "C",
+      "restaurant": "SAMARKAND TERRACE（サマルカンド テラス）",
+      "perception": "Mix"
+    },
+    {
+      "participant": "C",
+      "restaurant": "焼肉 鶯谷園（ウグイスダニエン）",
+      "perception": "Negative"
+    },
+    {
+      "participant": "C",
+      "restaurant": "博多もつ鍋 やまや 池袋店",
+      "perception": "Neutral"
+    }
+  ]
+}

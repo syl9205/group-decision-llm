@@ -1,0 +1,223 @@
+{
+  "conversation_id": "6",
+  "conversation": [
+    {
+      "speaker": "A",
+      "utterance": "俺は6,8,12,13,15,18が空いている"
+    },
+    {
+      "speaker": "B",
+      "utterance": "5 10 12 15以外は空いてる\n平日の方がありがたい"
+    },
+    {
+      "speaker": "C",
+      "utterance": "僕6と15は厳しい、他ならオッケーだと"
+    },
+    {
+      "speaker": "D",
+      "utterance": "18金でどう？\n二週間後"
+    },
+    {
+      "speaker": "B",
+      "utterance": "いいよー"
+    },
+    {
+      "speaker": "A",
+      "utterance": "おけ"
+    },
+    {
+      "speaker": "C",
+      "utterance": "うーん、ちょい渋め"
+    },
+    {
+      "speaker": "A",
+      "utterance": "8は？"
+    },
+    {
+      "speaker": "C",
+      "utterance": "名古屋にその日向かいたさはあるのよね\n8はいける"
+    },
+    {
+      "speaker": "D",
+      "utterance": "8おけ"
+    },
+    {
+      "speaker": "B",
+      "utterance": "じゃあ8で"
+    },
+    {
+      "speaker": "C",
+      "utterance": "授業あるし本郷周り？"
+    },
+    {
+      "speaker": "B",
+      "utterance": "だね"
+    },
+    {
+      "speaker": "C",
+      "utterance": "https://s.tabelog.com/tokyo/A1310/A131004/13273207/\nここ昼行って美味かったので一度夜行きたさはあるな\nhttps://s.tabelog.com/tokyo/A1323/A132301/13264076/\nここも気になっている店\n白山だけど"
+    },
+    {
+      "speaker": "A",
+      "utterance": "本郷いいところないがちなのでちょっと外したところで探していた"
+    },
+    {
+      "speaker": "C",
+      "utterance": "https://s.tabelog.com/tokyo/A1310/A131004/13191424/"
+    },
+    {
+      "speaker": "A",
+      "utterance": "https://tabelog.com/tokyo/A1310/A131004/13243892/dtlmenu/\nここは美味しかった"
+    },
+    {
+      "speaker": "C",
+      "utterance": "アリ"
+    },
+    {
+      "speaker": "D",
+      "utterance": "https://tabelog.com/tokyo/A1310/A131004/13003538/"
+    },
+    {
+      "speaker": "B",
+      "utterance": "https://tabelog.com/tokyo/A1310/A131004/13204673/"
+    },
+    {
+      "speaker": "D",
+      "utterance": "ここ前から食べたいなと思ってたけどどちらかというと昼に食べたいんだよなあ"
+    },
+    {
+      "speaker": "A",
+      "utterance": "いったことあるけど普通に夜行っても良さそう\n俺はCoCo壱版にした"
+    },
+    {
+      "speaker": "B",
+      "utterance": "ここにした"
+    },
+    {
+      "speaker": "C",
+      "utterance": "そういうことっていうもの？"
+    },
+    {
+      "speaker": "A",
+      "utterance": "言わなくてもいいけど\n別にどこが行きたいかはいうから\n変わんなくね？"
+    },
+    {
+      "speaker": "C",
+      "utterance": "順位づけを伏せて話し合う趣旨なのかと思ってた\nまあ一番とかいうのは変わらんか"
+    },
+    {
+      "speaker": "B",
+      "utterance": "禁止されてないしいい気はする"
+    },
+    {
+      "speaker": "C",
+      "utterance": "僕もブイヨン食堂だわ"
+    },
+    {
+      "speaker": "D",
+      "utterance": "ここにした\n折角なので本郷からちょっと外れたとこ行きたい感ある"
+    },
+    {
+      "speaker": "A",
+      "utterance": "割れててウケるな"
+    },
+    {
+      "speaker": "D",
+      "utterance": "2対2か"
+    },
+    {
+      "speaker": "B",
+      "utterance": "こだわりないから強い主張があれば折れてもいいよ"
+    },
+    {
+      "speaker": "A",
+      "utterance": "割と最近行ったのでどっちかというとブイヨン行きたい\nそこまで強くはないが"
+    },
+    {
+      "speaker": "C",
+      "utterance": "正味俺ハンバーグ2番なのでこだわりはない"
+    },
+    {
+      "speaker": "D",
+      "utterance": "あーならブイヨンでいいよ\n2番目にしたし"
+    },
+    {
+      "speaker": "C",
+      "utterance": "がブイヨン食堂の方が何もなくだとチキって行かなそうくらい"
+    },
+    {
+      "speaker": "A",
+      "utterance": "じゃあブイヨンいくか\nあざ"
+    },
+    {
+      "speaker": "D",
+      "utterance": "おけ"
+    },
+    {
+      "speaker": "C",
+      "utterance": "おけ"
+    },
+    {
+      "speaker": "B",
+      "utterance": "ブイヨンにしますか"
+    },
+    {
+      "speaker": "C",
+      "utterance": "授業四限までだわ"
+    },
+    {
+      "speaker": "B",
+      "utterance": "同じく4限までだからそれ以降ならいつでも"
+    },
+    {
+      "speaker": "A",
+      "utterance": "俺も"
+    },
+    {
+      "speaker": "D",
+      "utterance": "18:00とか？"
+    },
+    {
+      "speaker": "A",
+      "utterance": "良さそう"
+    },
+    {
+      "speaker": "B",
+      "utterance": "👍"
+    },
+    {
+      "speaker": "C",
+      "utterance": "全然アリ"
+    },
+    {
+      "speaker": "D",
+      "utterance": "👍"
+    }
+  ],
+  "info": [
+    {
+      "website": "https://s.tabelog.com/tokyo/A1310/A131004/13273207/",
+      "restaurant": "フランス大衆食堂ブイヨン本郷3"
+    },
+    {
+      "website": "https://s.tabelog.com/tokyo/A1323/A132301/13264076/",
+      "restaurant": "神田 焼肉 まるたけ"
+    },
+    {
+      "website": "https://s.tabelog.com/tokyo/A1310/A131004/13191424/",
+      "restaurant": "ベトナムビストロ バンフィールド 小石川後楽園（Vang Field）"
+    },
+    {
+      "website": "https://tabelog.com/tokyo/A1310/A131004/13243892/dtlmenu/",
+      "restaurant": "榎本ハンバーグ研究所 春日後楽園店"
+    },
+    {
+      "website": "https://tabelog.com/tokyo/A1310/A131004/13003538/",
+      "restaurant": "ファイヤーハウス（FIRE HOUSE）"
+    },
+    {
+      "website": "https://tabelog.com/tokyo/A1310/A131004/13204673/",
+      "restaurant": "本郷ダイニング&バー きがる（本郷ダイニング&バー KIGARU）"
+    }
+  ]
+}

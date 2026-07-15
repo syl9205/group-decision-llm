@@ -1,0 +1,154 @@
+{
+  "perception_table": [
+    {
+      "participant": "A",
+      "restaurant": "フランス大衆食堂ブイヨン本郷3",
+      "perception": "Positive"
+    },
+    {
+      "participant": "A",
+      "restaurant": "フランス料理 ルヴェ ソン ヴェール 本郷（Lever son Verre）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "A",
+      "restaurant": "巡りや 根津店",
+      "perception": "Positive"
+    },
+    {
+      "participant": "A",
+      "restaurant": "ビンゴ タコス キッチン（BINGO TACOS KITCHEN）",
+      "perception": "Positive"
+    },
+    {
+      "participant": "A",
+      "restaurant": "トリノス（torinosu）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "A",
+      "restaurant": "レストランMOMO（モモ）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "B",
+      "restaurant": "フランス大衆食堂ブイヨン本郷3",
+      "perception": "Positive"
+    },
+    {
+      "participant": "B",
+      "restaurant": "フランス料理 ルヴェ ソン ヴェール 本郷（Lever son Verre）",
+      "perception": "Negative"
+    },
+    {
+      "participant": "B",
+      "restaurant": "巡りや 根津店",
+      "perception": "Positive"
+    },
+    {
+      "participant": "B",
+      "restaurant": "ビンゴ タコス キッチン（BINGO TACOS KITCHEN）",
+      "perception": "Positive"
+    },
+    {
+      "participant": "B",
+      "restaurant": "トリノス（torinosu）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "B",
+      "restaurant": "レストランMOMO（モモ）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "C",
+      "restaurant": "フランス大衆食堂ブイヨン本郷3",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "C",
+      "restaurant": "フランス料理 ルヴェ ソン ヴェール 本郷（Lever son Verre）",
+      "perception": "Positive"
+    },
+    {
+      "participant": "C",
+      "restaurant": "巡りや 根津店",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "C",
+      "restaurant": "ビンゴ タコス キッチン（BINGO TACOS KITCHEN）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "C",
+      "restaurant": "トリノス（torinosu）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "C",
+      "restaurant": "レストランMOMO（モモ）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "D",
+      "restaurant": "フランス大衆食堂ブイヨン本郷3",
+      "perception": "Positive"
+    },
+    {
+      "participant": "D",
+      "restaurant": "フランス料理 ルヴェ ソン ヴェール 本郷（Lever son Verre）",
+      "perception": "Negative"
+    },
+    {
+      "participant": "D",
+      "restaurant": "巡りや 根津店",
+      "perception": "Positive"
+    },
+    {
+      "participant": "D",
+      "restaurant": "ビンゴ タコス キッチン（BINGO TACOS KITCHEN）",
+      "perception": "Positive"
+    },
+    {
+      "participant": "D",
+      "restaurant": "トリノス（torinosu）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "D",
+      "restaurant": "レストランMOMO（モモ）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "E",
+      "restaurant": "フランス大衆食堂ブイヨン本郷3",
+      "perception": "Positive"
+    },
+    {
+      "participant": "E",
+      "restaurant": "フランス料理 ルヴェ ソン ヴェール 本郷（Lever son Verre）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "E",
+      "restaurant": "巡りや 根津店",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "E",
+      "restaurant": "ビンゴ タコス キッチン（BINGO TACOS KITCHEN）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "E",
+      "restaurant": "トリノス（torinosu）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "E",
+      "restaurant": "レストランMOMO（モモ）",
+      "perception": "Neutral"
+    }
+  ]
+}

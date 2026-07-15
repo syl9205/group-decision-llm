@@ -1,0 +1,49 @@
+{
+  "mentioned_table": [
+    {
+      "participant": "A",
+      "restaurant": "ウダガワ 成ル",
+      "mention": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "串若丸 本店（くしわかまる）",
+      "mention": "Mentioned"
+    },
+    {
+      "participant": "A",
+      "restaurant": "牛角 渋谷店（ギュウカク）",
+      "mention": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "ウダガワ 成ル",
+      "mention": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "串若丸 本店（くしわかまる）",
+      "mention": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "牛角 渋谷店（ギュウカク）",
+      "mention": "Mentioned"
+    },
+    {
+      "participant": "C",
+      "restaurant": "ウダガワ 成ル",
+      "mention": "Mentioned"
+    },
+    {
+      "participant": "C",
+      "restaurant": "串若丸 本店（くしわかまる）",
+      "mention": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "牛角 渋谷店（ギュウカク）",
+      "mention": "None"
+    }
+  ]
+}

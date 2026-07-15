@@ -1,0 +1,17 @@
+{
+  "participants": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E"
+  ],
+  "restaurant_brands": [
+    "和酒処 純吟",
+    "鮪専門店 MEGRO（メグロ）",
+    "ラッフルズ カリー（raffles curry）",
+    "再来宴 上野仲町通り店（サイライエン）",
+    "スペインバル カリエンテ（Spain bar Caliente）"
+  ],
+  "final_restaurant": "鮪専門店 MEGRO（メグロ）"
+}

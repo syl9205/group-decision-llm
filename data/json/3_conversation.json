@@ -1,0 +1,399 @@
+{
+  "conversation_id": "3",
+  "conversation": [
+    {
+      "speaker": "A",
+      "utterance": "○○くんの劇のあとが良いねって感じだったよね"
+    },
+    {
+      "speaker": "B",
+      "utterance": "劇18時からだよね？"
+    },
+    {
+      "speaker": "C",
+      "utterance": "そう！日にちは12月22日で"
+    },
+    {
+      "speaker": "A",
+      "utterance": "時間はあれ、1時間半？"
+    },
+    {
+      "speaker": "B",
+      "utterance": "何時くらいに終わるかな？8時くらい？"
+    },
+    {
+      "speaker": "C",
+      "utterance": "８時には終わってそう"
+    },
+    {
+      "speaker": "A",
+      "utterance": "じゃあ8:30とか？\n場所どこだっけ"
+    },
+    {
+      "speaker": "B",
+      "utterance": "早稲田！"
+    },
+    {
+      "speaker": "A",
+      "utterance": "早稲田や"
+    },
+    {
+      "speaker": "C",
+      "utterance": "\"いいと思う\n場所は早稲田だった\""
+    },
+    {
+      "speaker": "A",
+      "utterance": "じゃあ移動するかもを含めて8:30？"
+    },
+    {
+      "speaker": "C",
+      "utterance": "それでいきましょう"
+    },
+    {
+      "speaker": "B",
+      "utterance": "それくらいでいいかと！"
+    },
+    {
+      "speaker": "C",
+      "utterance": "12月22日20:30で決定でお願いします。"
+    },
+    {
+      "speaker": "A",
+      "utterance": "とりあえず5〜10分くらい探す？"
+    },
+    {
+      "speaker": "C",
+      "utterance": "そうしましょ👍"
+    },
+    {
+      "speaker": "B",
+      "utterance": "お店の最寄りどこにするかだけ決める？"
+    },
+    {
+      "speaker": "A",
+      "utterance": "あ、そうね"
+    },
+    {
+      "speaker": "C",
+      "utterance": "渋谷がいいかね"
+    },
+    {
+      "speaker": "A",
+      "utterance": "早稲田駅サイゼしかなかった記憶があるんだけど(失礼)"
+    },
+    {
+      "speaker": "C",
+      "utterance": "高田馬場でも探しつつ笑"
+    },
+    {
+      "speaker": "A",
+      "utterance": "私東京経由なんだよな"
+    },
+    {
+      "speaker": "B",
+      "utterance": "新宿はちょい遠い？"
+    },
+    {
+      "speaker": "A",
+      "utterance": "高田馬場乗り換えだよね？そこなら良いかもしれない？？"
+    },
+    {
+      "speaker": "C",
+      "utterance": "帰り\n東京経由ってこと？"
+    },
+    {
+      "speaker": "A",
+      "utterance": "行き帰りね"
+    },
+    {
+      "speaker": "C",
+      "utterance": "なるほど\n新宿なら一応中央線で一本だがどうだろう"
+    },
+    {
+      "speaker": "A",
+      "utterance": "早稲田駅でちょっと調べてみる\nとりあえず"
+    },
+    {
+      "speaker": "B",
+      "utterance": "今上がった駅名付近でだね👍🏻"
+    },
+    {
+      "speaker": "C",
+      "utterance": "https://tabelog.com/tokyo/A1304/A130401/13000805/"
+    },
+    {
+      "speaker": "B",
+      "utterance": "https://tabelog.com/tokyo/A1304/A130401/13025906/"
+    },
+    {
+      "speaker": "A",
+      "utterance": "\"https://s.tabelog.com/tokyo/A1305/A130504/13185570/"
+    },
+    {
+      "speaker": "https",
+      "utterance": "//s.tabelog.com/tokyo/A1305/A130504/13151200/\""
+    },
+    {
+      "speaker": "A",
+      "utterance": "挙げおわった？"
+    },
+    {
+      "speaker": "B",
+      "utterance": "ちょいまち\n\"おぼんdeごはん 新宿ミロード店\n03-3349-5883\n東京都新宿区西新宿1-1-3 新宿ミロード 9F"
+    },
+    {
+      "speaker": "https",
+      "utterance": "//tabelog.com/tokyo/A1304/A130401/13053652/\""
+    },
+    {
+      "speaker": "B",
+      "utterance": "Aちゃんが好きなおぼんでごはんも！"
+    },
+    {
+      "speaker": "A",
+      "utterance": "笑笑"
+    },
+    {
+      "speaker": "C",
+      "utterance": "\"おおおいいバランス\n俺は大丈夫！\""
+    },
+    {
+      "speaker": "A",
+      "utterance": "大丈夫です！"
+    },
+    {
+      "speaker": "B",
+      "utterance": "大丈夫です！"
+    },
+    {
+      "speaker": "A",
+      "utterance": "プレゼン大会\nプレゼンたいむ"
+    },
+    {
+      "speaker": "B",
+      "utterance": "自分の候補について？"
+    },
+    {
+      "speaker": "C",
+      "utterance": "ハンバーグうまそう　完"
+    },
+    {
+      "speaker": "A",
+      "utterance": "他の人のでいいな！でも"
+    },
+    {
+      "speaker": "C",
+      "utterance": "ラーメンあっさりしてそうだし美味しそう"
+    },
+    {
+      "speaker": "A",
+      "utterance": "つばめグリル思いっきり渋谷のマークシティにあるから駒場練習後とかで行けそうかも、とは思った"
+    },
+    {
+      "speaker": "B",
+      "utterance": "Aちゃんのカフェオシャレで良い、なかなか早稲田行かないし"
+    },
+    {
+      "speaker": "A",
+      "utterance": "自己肯定感あがるぅ"
+    },
+    {
+      "speaker": "B",
+      "utterance": "ラーメン美味しそうだけど、おしゃべりしてたら麺伸びちゃう？ってちょっと思った"
+    },
+    {
+      "speaker": "A",
+      "utterance": "おぼんでごはん、2週間前にいってしまった！"
+    },
+    {
+      "speaker": "C",
+      "utterance": "たしかに笑笑"
+    },
+    {
+      "speaker": "A",
+      "utterance": "ラーメンってランチ向き？"
+    },
+    {
+      "speaker": "C",
+      "utterance": "グットモーニングだけど夜メニューってどんなもんかね"
+    },
+    {
+      "speaker": "B",
+      "utterance": "（ちなみにお好み焼き屋さん私行ったことあるとこです）"
+    },
+    {
+      "speaker": "A",
+      "utterance": "浅草思い出した"
+    },
+    {
+      "speaker": "B",
+      "utterance": "かも"
+    },
+    {
+      "speaker": "C",
+      "utterance": "\"ラーメンはどっちでもいい気はするね\n単体は夜だとやや物足りないかな\""
+    },
+    {
+      "speaker": "A",
+      "utterance": "ぐっどもーにんぐは夜やってるのちゃんと確認した"
+    },
+    {
+      "speaker": "B",
+      "utterance": "\"それね、我ながらちょっとミスした感はある\nでもめっちゃ美味しかった\""
+    },
+    {
+      "speaker": "A",
+      "utterance": "アラカルトある\nいや美味しそうよ"
+    },
+    {
+      "speaker": "C",
+      "utterance": "お好み焼きも惹かれます"
+    },
+    {
+      "speaker": "A",
+      "utterance": "くらちーみんなで行きたい感もあるけどねぇ〜○○くんいないし\n今の所2つに絞られた？"
+    },
+    {
+      "speaker": "C",
+      "utterance": "それはあるねえ\nそうね！"
+    },
+    {
+      "speaker": "B",
+      "utterance": "Aちゃんの2つ？"
+    },
+    {
+      "speaker": "A",
+      "utterance": "\"https://s.tabelog.com/tokyo/A1305/A130504/13185570/"
+    },
+    {
+      "speaker": "https",
+      "utterance": "//tabelog.com/tokyo/A1304/A130401/13025906/\""
+    },
+    {
+      "speaker": "A",
+      "utterance": "ここじゃない？"
+    },
+    {
+      "speaker": "B",
+      "utterance": "お、そっちか"
+    },
+    {
+      "speaker": "C",
+      "utterance": "俺もそう思った"
+    },
+    {
+      "speaker": "B",
+      "utterance": "良き🙆‍♀️\n(写真)\n前行った時のやつ"
+    },
+    {
+      "speaker": "C",
+      "utterance": "カフェの方はピザやらパスタやらあるみたいね"
+    },
+    {
+      "speaker": "B",
+      "utterance": "もんじゃもあった\nでも洋服に匂いついたりする心配はあるのよね"
+    },
+    {
+      "speaker": "C",
+      "utterance": "うまそうですなあ"
+    },
+    {
+      "speaker": "A",
+      "utterance": "うわラストオーダー20:00なんだけど、微妙なや\n微妙やな"
+    },
+    {
+      "speaker": "C",
+      "utterance": "これは決定ですかね\nお好み焼きに笑"
+    },
+    {
+      "speaker": "A",
+      "utterance": "もんじゃあげいん？\nお好み焼き派🙆‍♀️\n新宿？"
+    },
+    {
+      "speaker": "C",
+      "utterance": "俺も久々に食いたいので全然あり\n住所西新宿だったっけね"
+    },
+    {
+      "speaker": "B",
+      "utterance": "新宿のミロードです！"
+    },
+    {
+      "speaker": "A",
+      "utterance": "おーけー"
+    },
+    {
+      "speaker": "B",
+      "utterance": "駅直結✨\nではここで良いかしら？"
+    },
+    {
+      "speaker": "A",
+      "utterance": "高田馬場と新宿って隣？"
+    },
+    {
+      "speaker": "B",
+      "utterance": "山手線で隣よね？たしか"
+    },
+    {
+      "speaker": "C",
+      "utterance": "いやちがう？"
+    },
+    {
+      "speaker": "B",
+      "utterance": "？"
+    },
+    {
+      "speaker": "C",
+      "utterance": "新大久保挟んでないっけ"
+    },
+    {
+      "speaker": "A",
+      "utterance": "まぁ近いよね"
+    },
+    {
+      "speaker": "B",
+      "utterance": "あ、そっか"
+    },
+    {
+      "speaker": "A",
+      "utterance": "おーけーです"
+    },
+    {
+      "speaker": "B",
+      "utterance": "ちかい、5分前後"
+    },
+    {
+      "speaker": "C",
+      "utterance": "近い近い"
+    },
+    {
+      "speaker": "A",
+      "utterance": "ありがとう〜\n候補地決まりました"
+    },
+    {
+      "speaker": "C",
+      "utterance": "\"https://tabelog.com/tokyo/A1304/A130401/13025906/\nでお願いします！\""
+    }
+  ],
+  "info": [
+    {
+      "website": "https://tabelog.com/tokyo/A1304/A130401/13025906/",
+      "restaurant": "新宿ぱすたかん"
+    },
+    {
+      "website": "https://s.tabelog.com/tokyo/A1305/A130504/13185570/",
+      "restaurant": "グッドモーニングカフェ 早稲田"
+    },
+    {
+      "website": "https://s.tabelog.com/tokyo/A1305/A130504/13151200/",
+      "restaurant": "らぁ麺やまぐち"
+    },
+    {
+      "website": "https://tabelog.com/tokyo/A1304/A130401/13053652/",
+      "restaurant": "おぼんdeごはん 新宿ミロード店"
+    },
+    {
+      "website": "https://tabelog.com/tokyo/A1304/A130401/13000805/",
+      "restaurant": "つばめグリル 新宿ルミネ店"
+    }
+  ]
+}

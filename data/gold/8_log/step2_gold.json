@@ -1,0 +1,104 @@
+{
+  "mentioned_table": [
+    {
+      "participant": "A",
+      "restaurant": "トンテジ 本郷店",
+      "mention": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "た喜ち（takichi）",
+      "mention": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "炭火串焼 やき龍 本郷店（やきたつ）",
+      "mention": "Mentioned"
+    },
+    {
+      "participant": "A",
+      "restaurant": "大衆食堂ゆしまホール",
+      "mention": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "ババ・ガンプ・シュリンプ 東京（BUBBA GUMP SHRIMP TOKYO）",
+      "mention": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "トンテジ 本郷店",
+      "mention": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "た喜ち（takichi）",
+      "mention": "Mentioned"
+    },
+    {
+      "participant": "B",
+      "restaurant": "炭火串焼 やき龍 本郷店（やきたつ）",
+      "mention": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "大衆食堂ゆしまホール",
+      "mention": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "ババ・ガンプ・シュリンプ 東京（BUBBA GUMP SHRIMP TOKYO）",
+      "mention": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "トンテジ 本郷店",
+      "mention": "Mentioned"
+    },
+    {
+      "participant": "C",
+      "restaurant": "た喜ち（takichi）",
+      "mention": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "炭火串焼 やき龍 本郷店（やきたつ）",
+      "mention": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "大衆食堂ゆしまホール",
+      "mention": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "ババ・ガンプ・シュリンプ 東京（BUBBA GUMP SHRIMP TOKYO）",
+      "mention": "Mentioned"
+    },
+    {
+      "participant": "D",
+      "restaurant": "トンテジ 本郷店",
+      "mention": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "た喜ち（takichi）",
+      "mention": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "炭火串焼 やき龍 本郷店（やきたつ）",
+      "mention": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "大衆食堂ゆしまホール",
+      "mention": "Mentioned"
+    },
+    {
+      "participant": "D",
+      "restaurant": "ババ・ガンプ・シュリンプ 東京（BUBBA GUMP SHRIMP TOKYO）",
+      "mention": "None"
+    }
+  ]
+}

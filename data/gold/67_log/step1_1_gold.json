@@ -1,0 +1,14 @@
+{
+  "participants": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "restaurant_brands": [
+    "ニューヨック中野",
+    "豚とバラの日々",
+    "たまには焼肉 高円寺店"
+  ],
+  "final_restaurant": "ニューヨック中野"
+}

@@ -1,0 +1,187 @@
+{
+  "conversation_id": "29",
+  "conversation": [
+    {
+      "speaker": "A",
+      "utterance": "空いてる日挙げるか"
+    },
+    {
+      "speaker": "B",
+      "utterance": "15とか？"
+    },
+    {
+      "speaker": "C",
+      "utterance": "あり"
+    },
+    {
+      "speaker": "A",
+      "utterance": "そーりー\n19は"
+    },
+    {
+      "speaker": "C",
+      "utterance": "余裕"
+    },
+    {
+      "speaker": "B",
+      "utterance": "きついわすまん\n23？\nあれだめだっけ23だと"
+    },
+    {
+      "speaker": "A",
+      "utterance": "19までだわ"
+    },
+    {
+      "speaker": "C",
+      "utterance": "１９までじゃね"
+    },
+    {
+      "speaker": "A",
+      "utterance": "14"
+    },
+    {
+      "speaker": "B",
+      "utterance": "16よるとかになるわ\n14よるもいける\n結構な夜\n20時からとかになっちゃうかも"
+    },
+    {
+      "speaker": "A",
+      "utterance": "おそめね"
+    },
+    {
+      "speaker": "C",
+      "utterance": "俺早上がりになっちゃうわ\n渋いな"
+    },
+    {
+      "speaker": "B",
+      "utterance": "まじか"
+    },
+    {
+      "speaker": "A",
+      "utterance": "9は？"
+    },
+    {
+      "speaker": "B",
+      "utterance": "9だめや"
+    },
+    {
+      "speaker": "A",
+      "utterance": "16わんちゃんいけるわ"
+    },
+    {
+      "speaker": "C",
+      "utterance": "１６は熱い"
+    },
+    {
+      "speaker": "A",
+      "utterance": "そうするか"
+    },
+    {
+      "speaker": "B",
+      "utterance": "16にするか"
+    },
+    {
+      "speaker": "A",
+      "utterance": "ん"
+    },
+    {
+      "speaker": "B",
+      "utterance": "19:00とかでもへいき？\n僕遅れちゃうかも"
+    },
+    {
+      "speaker": "C",
+      "utterance": "ええよ"
+    },
+    {
+      "speaker": "A",
+      "utterance": "ええよ"
+    },
+    {
+      "speaker": "B",
+      "utterance": "おけ"
+    },
+    {
+      "speaker": "A",
+      "utterance": "\"ホルモン千葉 渋谷店\n03-3461-2933\n東京都渋谷区道玄坂2-14-17"
+    },
+    {
+      "speaker": "https",
+      "utterance": "//tabelog.com/tokyo/A1303/A130301/13247826/\""
+    },
+    {
+      "speaker": "C",
+      "utterance": "https://tabelog.com/tokyo/A1317/A131701/13021041/"
+    },
+    {
+      "speaker": "B",
+      "utterance": "こっちあついわ\n僕自由が丘でカテキョだから\n結構すぐ行ける"
+    },
+    {
+      "speaker": "A",
+      "utterance": "全員あげるらしいよ @B"
+    },
+    {
+      "speaker": "B",
+      "utterance": "あーすまん\n\"炭焼 金竜山\n東京都港区白金3-14-1 第１マンション　１Ｆ"
+    },
+    {
+      "speaker": "https",
+      "utterance": "//tabelog.com/tokyo/A1316/A131602/13001625/\""
+    },
+    {
+      "speaker": "A",
+      "utterance": "なんか高くねw"
+    },
+    {
+      "speaker": "B",
+      "utterance": "ちょいちゃうかw\n小野田じゃね"
+    },
+    {
+      "speaker": "A",
+      "utterance": "いいよー\n前行ったのと場所はちがう？"
+    },
+    {
+      "speaker": "C",
+      "utterance": "店は同じだけど\n店舗が違う\nだんぼ中目がいいんよな"
+    },
+    {
+      "speaker": "A",
+      "utterance": "なるほど"
+    },
+    {
+      "speaker": "B",
+      "utterance": "いや\n学芸でいいよ"
+    },
+    {
+      "speaker": "C",
+      "utterance": "学芸大学の方が近いか"
+    },
+    {
+      "speaker": "B",
+      "utterance": "近くて熱い"
+    },
+    {
+      "speaker": "C",
+      "utterance": "きまりや"
+    },
+    {
+      "speaker": "A",
+      "utterance": "はい"
+    },
+    {
+      "speaker": "C",
+      "utterance": "https://tabelog.com/tokyo/A1317/A131702/13245167/"
+    }
+  ],
+  "info": [
+    {
+      "website": "https://tabelog.com/tokyo/A1303/A130301/13247826/",
+      "restaurant": "ホルモン千葉 渋谷店"
+    },
+    {
+      "website": "https://tabelog.com/tokyo/A1317/A131702/13245167/",
+      "restaurant": "小野田商店 学芸大学店"
+    },
+    {
+      "website": "https://tabelog.com/tokyo/A1316/A131602/13001625/",
+      "restaurant": "炭焼 金竜山（キンリュウサン）"
+    }
+  ]
+}

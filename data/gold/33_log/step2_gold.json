@@ -1,0 +1,244 @@
+{
+  "mentioned_table": [
+    {
+      "participant": "A",
+      "restaurant": "フランス大衆食堂ブイヨン本郷3",
+      "mention": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "トンテジ 本郷店",
+      "mention": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "焼肉 ジャンボ 本郷店",
+      "mention": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "ねぎま 三ぞう 本郷三丁目店（【旧店名】俺の居酒屋 三蔵）",
+      "mention": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "御殿（ごてん）",
+      "mention": "Mentioned"
+    },
+    {
+      "participant": "A",
+      "restaurant": "あじこい庵",
+      "mention": "Mentioned"
+    },
+    {
+      "participant": "A",
+      "restaurant": "ハードロックカフェ 上野駅（Hard Rock CAFE）",
+      "mention": "Mentioned"
+    },
+    {
+      "participant": "A",
+      "restaurant": "HUB 上野しのばず通り店（ハブ）",
+      "mention": "Mentioned"
+    },
+    {
+      "participant": "A",
+      "restaurant": "風来坊 大宮店（ふうらいぼう）",
+      "mention": "Mentioned"
+    },
+    {
+      "participant": "A",
+      "restaurant": "日本酒キッチン YODARE 湯島・御徒町店",
+      "mention": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "アブルボア 東京大学",
+      "mention": "Mentioned"
+    },
+    {
+      "participant": "A",
+      "restaurant": "和食ごはんと酒 縁 本郷三丁目店",
+      "mention": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "フランス大衆食堂ブイヨン本郷3",
+      "mention": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "トンテジ 本郷店",
+      "mention": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "焼肉 ジャンボ 本郷店",
+      "mention": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "ねぎま 三ぞう 本郷三丁目店（【旧店名】俺の居酒屋 三蔵）",
+      "mention": "Mentioned"
+    },
+    {
+      "participant": "B",
+      "restaurant": "御殿（ごてん）",
+      "mention": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "あじこい庵",
+      "mention": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "ハードロックカフェ 上野駅（Hard Rock CAFE）",
+      "mention": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "HUB 上野しのばず通り店（ハブ）",
+      "mention": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "風来坊 大宮店（ふうらいぼう）",
+      "mention": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "日本酒キッチン YODARE 湯島・御徒町店",
+      "mention": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "アブルボア 東京大学",
+      "mention": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "和食ごはんと酒 縁 本郷三丁目店",
+      "mention": "Mentioned"
+    },
+    {
+      "participant": "C",
+      "restaurant": "フランス大衆食堂ブイヨン本郷3",
+      "mention": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "トンテジ 本郷店",
+      "mention": "Mentioned"
+    },
+    {
+      "participant": "C",
+      "restaurant": "焼肉 ジャンボ 本郷店",
+      "mention": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "ねぎま 三ぞう 本郷三丁目店（【旧店名】俺の居酒屋 三蔵）",
+      "mention": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "御殿（ごてん）",
+      "mention": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "あじこい庵",
+      "mention": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "ハードロックカフェ 上野駅（Hard Rock CAFE）",
+      "mention": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "HUB 上野しのばず通り店（ハブ）",
+      "mention": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "風来坊 大宮店（ふうらいぼう）",
+      "mention": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "日本酒キッチン YODARE 湯島・御徒町店",
+      "mention": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "アブルボア 東京大学",
+      "mention": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "和食ごはんと酒 縁 本郷三丁目店",
+      "mention": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "フランス大衆食堂ブイヨン本郷3",
+      "mention": "Mentioned"
+    },
+    {
+      "participant": "D",
+      "restaurant": "トンテジ 本郷店",
+      "mention": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "焼肉 ジャンボ 本郷店",
+      "mention": "Mentioned"
+    },
+    {
+      "participant": "D",
+      "restaurant": "ねぎま 三ぞう 本郷三丁目店（【旧店名】俺の居酒屋 三蔵）",
+      "mention": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "御殿（ごてん）",
+      "mention": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "あじこい庵",
+      "mention": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "ハードロックカフェ 上野駅（Hard Rock CAFE）",
+      "mention": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "HUB 上野しのばず通り店（ハブ）",
+      "mention": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "風来坊 大宮店（ふうらいぼう）",
+      "mention": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "日本酒キッチン YODARE 湯島・御徒町店",
+      "mention": "Mentioned"
+    },
+    {
+      "participant": "D",
+      "restaurant": "アブルボア 東京大学",
+      "mention": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "和食ごはんと酒 縁 本郷三丁目店",
+      "mention": "None"
+    }
+  ]
+}

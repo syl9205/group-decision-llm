@@ -1,0 +1,787 @@
+{
+  "conversation_id": "20",
+  "conversation": [
+    {
+      "speaker": "A",
+      "utterance": "2週間以内の夜行ける日出しますか"
+    },
+    {
+      "speaker": "B",
+      "utterance": "\"B\n11/16-11/20 @札幌\""
+    },
+    {
+      "speaker": "C",
+      "utterance": "そうね"
+    },
+    {
+      "speaker": "D",
+      "utterance": "19は予定ある"
+    },
+    {
+      "speaker": "C",
+      "utterance": "C、11/8-16海外っす"
+    },
+    {
+      "speaker": "B",
+      "utterance": "22迄ってことよね\nそしたら11/21か11/22になるな"
+    },
+    {
+      "speaker": "A",
+      "utterance": "21,22なら行けます"
+    },
+    {
+      "speaker": "C",
+      "utterance": "21か22ならどちらでも"
+    },
+    {
+      "speaker": "D",
+      "utterance": "同じく"
+    },
+    {
+      "speaker": "B",
+      "utterance": "インタビュー調査とは違ってスムーズな調整"
+    },
+    {
+      "speaker": "A",
+      "utterance": "じゃあ22希望です"
+    },
+    {
+      "speaker": "B",
+      "utterance": "22のほうが嬉しい"
+    },
+    {
+      "speaker": "C",
+      "utterance": "うい"
+    },
+    {
+      "speaker": "B",
+      "utterance": "スムーズ"
+    },
+    {
+      "speaker": "A",
+      "utterance": "よしよし"
+    },
+    {
+      "speaker": "C",
+      "utterance": "あとはじかんとばしょ"
+    },
+    {
+      "speaker": "B",
+      "utterance": "他なにきめるんだっけ"
+    },
+    {
+      "speaker": "C",
+      "utterance": "ばしょはちがうのか"
+    },
+    {
+      "speaker": "B",
+      "utterance": "場所は次のフェーズや"
+    },
+    {
+      "speaker": "D",
+      "utterance": "Aに合わせればいいんじゃ"
+    },
+    {
+      "speaker": "B",
+      "utterance": "B何時でも"
+    },
+    {
+      "speaker": "A",
+      "utterance": "時間は19時以降なら\nCは時間希望ある？"
+    },
+    {
+      "speaker": "C",
+      "utterance": "とくにないかな\n１９にするか"
+    },
+    {
+      "speaker": "A",
+      "utterance": "じゃあ19じで！"
+    },
+    {
+      "speaker": "D",
+      "utterance": "おけ"
+    },
+    {
+      "speaker": "B",
+      "utterance": "はい"
+    },
+    {
+      "speaker": "A",
+      "utterance": "各自いきなり出します？何料理とかって絞ってから出したほうがいいんですかね"
+    },
+    {
+      "speaker": "B",
+      "utterance": "わからん"
+    },
+    {
+      "speaker": "C",
+      "utterance": "にくくいたい"
+    },
+    {
+      "speaker": "B",
+      "utterance": "この前ベトナム料理Dとくってアレルギー問題にぶちあたった"
+    },
+    {
+      "speaker": "C",
+      "utterance": "あー"
+    },
+    {
+      "speaker": "D",
+      "utterance": "あれはまあ対処可能ではある"
+    },
+    {
+      "speaker": "A",
+      "utterance": "アレルギー確認しときたいですね、ぼくは特にないですが"
+    },
+    {
+      "speaker": "C",
+      "utterance": "ぼくもない"
+    },
+    {
+      "speaker": "D",
+      "utterance": "落花生"
+    },
+    {
+      "speaker": "B",
+      "utterance": "花粉"
+    },
+    {
+      "speaker": "A",
+      "utterance": "落花生は中華以外ならあんまりなさそうか"
+    },
+    {
+      "speaker": "B",
+      "utterance": "僕は魚が食いたいから、魚２肉２で提案バトルにしよう"
+    },
+    {
+      "speaker": "D",
+      "utterance": "Aその日出社？\nどのあたりがいいのかむずい"
+    },
+    {
+      "speaker": "C",
+      "utterance": "あれか\n東２、西２、みたいな戦いなるのか"
+    },
+    {
+      "speaker": "A",
+      "utterance": "出社かどうかは調整できるから一旦考えなくて良いよ"
+    },
+    {
+      "speaker": "C",
+      "utterance": "（住んでる場所）"
+    },
+    {
+      "speaker": "B",
+      "utterance": "Aって山手線だとどこにでるの"
+    },
+    {
+      "speaker": "A",
+      "utterance": "\"西側：B（魚）D（肉）"
+    },
+    {
+      "speaker": "東側",
+      "utterance": "A（魚）C（肉）で出しますか\""
+    },
+    {
+      "speaker": "C",
+      "utterance": "おーけい"
+    },
+    {
+      "speaker": "B",
+      "utterance": "バランスwww"
+    },
+    {
+      "speaker": "C",
+      "utterance": "これって１つ以上あげてもいいんだよね"
+    },
+    {
+      "speaker": "B",
+      "utterance": "そや"
+    },
+    {
+      "speaker": "D",
+      "utterance": "\"菱田屋\n03-3466-8371"
+    },
+    {
+      "speaker": "https",
+      "utterance": "//goo.gl/maps/kbeDyNc19Gg6KXy17\""
+    },
+    {
+      "speaker": "B",
+      "utterance": "\"魚学マニア スシンジュク新宿3丁目"
+    },
+    {
+      "speaker": "https",
+      "utterance": "//goo.gl/maps/FERK9AjhKQXJpcPC8\""
+    },
+    {
+      "speaker": "A",
+      "utterance": "\"山手線どこもあんまり近くないです...\n大手町から行けるので30minくらいでつけるかなあ\""
+    },
+    {
+      "speaker": "B",
+      "utterance": "インスタ映え寿司居酒屋"
+    },
+    {
+      "speaker": "C",
+      "utterance": "https://tabelog.com/tokyo/A1311/A131101/13265579/\nうまいラム食える"
+    },
+    {
+      "speaker": "D",
+      "utterance": "\"大沪邨\n03-6907-0767"
+    },
+    {
+      "speaker": "https",
+      "utterance": "//goo.gl/maps/gfZy7hg4JPxEfgx4A\""
+    },
+    {
+      "speaker": "D",
+      "utterance": "上海料理"
+    },
+    {
+      "speaker": "B",
+      "utterance": "\"○○おすすめ店舗\nSake Fun ぞっこん"
+    },
+    {
+      "speaker": "https",
+      "utterance": "//g.page/zokkon_shibuya?share\""
+    },
+    {
+      "speaker": "A",
+      "utterance": "\"https://goo.gl/maps/L7Sz9zzJY9nCweJ48"
+    },
+    {
+      "speaker": "https",
+      "utterance": "//goo.gl/maps/fy1BQqcT3JMRx9Bu5\""
+    },
+    {
+      "speaker": "A",
+      "utterance": "ここだいぶ難易度高かった記憶ある、雲南人の友達ですら注文に苦労してた"
+    },
+    {
+      "speaker": "C",
+      "utterance": "シュラスコ探し中"
+    },
+    {
+      "speaker": "D",
+      "utterance": "くそ、行かれてた"
+    },
+    {
+      "speaker": "B",
+      "utterance": "これ強いな\n普通にレビューみたら予約が2年待ちって書いてあるんだけどw"
+    },
+    {
+      "speaker": "A",
+      "utterance": "\"シュラスコだと渋谷だけどここはどうかな"
+    },
+    {
+      "speaker": "https",
+      "utterance": "//g.page/ALEGRIASHIBUYA?share\""
+    },
+    {
+      "speaker": "C",
+      "utterance": "ナイス"
+    },
+    {
+      "speaker": "A",
+      "utterance": "そこまで読んでなかったです笑"
+    },
+    {
+      "speaker": "D",
+      "utterance": "バルバッコアはうまかった\nシュラスコね"
+    },
+    {
+      "speaker": "C",
+      "utterance": "https://barbacoa.jp/\nこれね"
+    },
+    {
+      "speaker": "B",
+      "utterance": "青木佑磨の爺さんがバルバッコアに毎週行ってるらしい"
+    },
+    {
+      "speaker": "A",
+      "utterance": "いくつか店舗あるね\n\"めちゃくちゃ元気だな\nブラジル人も毎週は行かない気がする\""
+    },
+    {
+      "speaker": "C",
+      "utterance": "青山、丸の内、新宿、渋谷、六本木、高輪、虎ノ門か\n西ばっかや"
+    },
+    {
+      "speaker": "A",
+      "utterance": "丸の内、虎ノ門辺りならスッと行けるよ"
+    },
+    {
+      "speaker": "B",
+      "utterance": "Aのあげてくれたとこ予約とれないらしいが行きたいな\n\"☓2w\n2y\""
+    },
+    {
+      "speaker": "C",
+      "utterance": "選ぶのはまだやんな"
+    },
+    {
+      "speaker": "B",
+      "utterance": "ワンピースみたいになる"
+    },
+    {
+      "speaker": "C",
+      "utterance": "ｗｗｗ"
+    },
+    {
+      "speaker": "D",
+      "utterance": "\"なるきよ\n03-5485-2223"
+    },
+    {
+      "speaker": "https",
+      "utterance": "//goo.gl/maps/3VFUCRcUVDK8a3pj9\""
+    },
+    {
+      "speaker": "D",
+      "utterance": "ここは"
+    },
+    {
+      "speaker": "B",
+      "utterance": "たぶん全員候補をあげ終えれば良いのかと思う\n全員出し終えました？"
+    },
+    {
+      "speaker": "A",
+      "utterance": "よさそうだな\nぼくはストップで大丈夫です"
+    },
+    {
+      "speaker": "D",
+      "utterance": "まあとりあえずいいんじゃない"
+    },
+    {
+      "speaker": "C",
+      "utterance": "あ、\nちょいまち\nhttps://tabelog.com/tokyo/A1307/A130702/13220650/"
+    },
+    {
+      "speaker": "D",
+      "utterance": "うまそ"
+    },
+    {
+      "speaker": "B",
+      "utterance": "火鍋いいよ"
+    },
+    {
+      "speaker": "C",
+      "utterance": "以上です！"
+    },
+    {
+      "speaker": "B",
+      "utterance": "麻布十番"
+    },
+    {
+      "speaker": "D",
+      "utterance": "\"バルバッコア 渋谷店\n03-5428-6640"
+    },
+    {
+      "speaker": "https",
+      "utterance": "//goo.gl/maps/mmf8RrDm5jTdmL3C9\""
+    },
+    {
+      "speaker": "D",
+      "utterance": "リンク送ってなかった"
+    },
+    {
+      "speaker": "A",
+      "utterance": "D終わったら挙手ね"
+    },
+    {
+      "speaker": "B",
+      "utterance": "これD普通に真剣に悩んでるだけだと思うよ"
+    },
+    {
+      "speaker": "D",
+      "utterance": "ごめん"
+    },
+    {
+      "speaker": "A",
+      "utterance": "ならよかった笑"
+    },
+    {
+      "speaker": "B",
+      "utterance": "拍手すな"
+    },
+    {
+      "speaker": "D",
+      "utterance": "第一候補どこ、みんな"
+    },
+    {
+      "speaker": "B",
+      "utterance": "Aの川治"
+    },
+    {
+      "speaker": "A",
+      "utterance": "ぼくはダメもとで川治かな"
+    },
+    {
+      "speaker": "B",
+      "utterance": "2年待ちw"
+    },
+    {
+      "speaker": "A",
+      "utterance": "めっちゃ魚だけど"
+    },
+    {
+      "speaker": "D",
+      "utterance": "私シュラスコw"
+    },
+    {
+      "speaker": "A",
+      "utterance": "肉勢はどこ希望？"
+    },
+    {
+      "speaker": "B",
+      "utterance": "次点でCの火鍋"
+    },
+    {
+      "speaker": "A",
+      "utterance": "Bさんとおなじだ"
+    },
+    {
+      "speaker": "C",
+      "utterance": "シュラスコ、火鍋の順番"
+    },
+    {
+      "speaker": "D",
+      "utterance": "Cに同じくだわw"
+    },
+    {
+      "speaker": "A",
+      "utterance": "じゃあ実質シュラスコか火鍋か"
+    },
+    {
+      "speaker": "B",
+      "utterance": "ボルダルール投票なら火鍋じゃねーか"
+    },
+    {
+      "speaker": "C",
+      "utterance": "なんだそれは"
+    },
+    {
+      "speaker": "B",
+      "utterance": "ボルダルールであってるっけ１位に4点、2位に3点、3位に2点って投票するやつ"
+    },
+    {
+      "speaker": "A",
+      "utterance": "https://diamond.jp/articles/-/96679\nあってます"
+    },
+    {
+      "speaker": "D",
+      "utterance": "火鍋にフカヒレ入れんのか"
+    },
+    {
+      "speaker": "A",
+      "utterance": "うーん火鍋かシュラスコか"
+    },
+    {
+      "speaker": "B",
+      "utterance": "シュラスコってどっち？"
+    },
+    {
+      "speaker": "D",
+      "utterance": "バルバッコア？"
+    },
+    {
+      "speaker": "C",
+      "utterance": "これ"
+    },
+    {
+      "speaker": "B",
+      "utterance": "もう割れとるやないけ\n割れてなかった"
+    },
+    {
+      "speaker": "C",
+      "utterance": "魚もうまそうだな。。。。"
+    },
+    {
+      "speaker": "B",
+      "utterance": "川治はくっそうまそうなんだけど実験に適格ではない"
+    },
+    {
+      "speaker": "A",
+      "utterance": "立地的にはぼくは火鍋でもシュラスコでもあまり変わらない"
+    },
+    {
+      "speaker": "B",
+      "utterance": "熟年夫婦しか行けない"
+    },
+    {
+      "speaker": "A",
+      "utterance": "この実験で狙う店では明らかにない笑"
+    },
+    {
+      "speaker": "C",
+      "utterance": "火鍋は若干高いかな"
+    },
+    {
+      "speaker": "D",
+      "utterance": "Aちなみにどっちがいい？"
+    },
+    {
+      "speaker": "B",
+      "utterance": "いくらすんのさ"
+    },
+    {
+      "speaker": "A",
+      "utterance": "火鍋はよる8000って書いてる"
+    },
+    {
+      "speaker": "C",
+      "utterance": "６５００円コースから\nhttps://www.azabu4000.jp/about-5"
+    },
+    {
+      "speaker": "D",
+      "utterance": "火鍋価格じゃねぇw"
+    },
+    {
+      "speaker": "C",
+      "utterance": "これみてくれ"
+    },
+    {
+      "speaker": "B",
+      "utterance": "たかいwww"
+    },
+    {
+      "speaker": "A",
+      "utterance": "ここでこの実験でもらえるお金を想定に入れるのはノイズか"
+    },
+    {
+      "speaker": "D",
+      "utterance": "さすが菰田欣也"
+    },
+    {
+      "speaker": "B",
+      "utterance": "でもバルバッコアってそんなもんじゃないっけ\nhttps://cdn.shopify.com/s/files/1/0569/0025/5789/files/casual_dinner_22abd2ee-52bf-4a2e-9157-ae991f12bead.pdf?v=1662695875\n7400"
+    },
+    {
+      "speaker": "A",
+      "utterance": "火鍋ちゃんと食べたことないから食べてみたいなーってくらい"
+    },
+    {
+      "speaker": "B",
+      "utterance": "コースというか肉目の前でずばずば切ってくれるやつ"
+    },
+    {
+      "speaker": "D",
+      "utterance": "あ、変わんねーな"
+    },
+    {
+      "speaker": "B",
+      "utterance": "価格帯気にせず店あげちまったから、高いところと予約とれないところから人気あつまるの草"
+    },
+    {
+      "speaker": "A",
+      "utterance": "\"じゃあもう火鍋かシュラスコでどっちがいいか言っていきます？\n立地も値段も一緒なら\""
+    },
+    {
+      "speaker": "B",
+      "utterance": "これが集合知\nいいんじゃね"
+    },
+    {
+      "speaker": "D",
+      "utterance": "シュラスコやっぱ値上げしてた\nhttps://barbacoa.jp/blogs/topics/takanawa20220301"
+    },
+    {
+      "speaker": "B",
+      "utterance": "これが2022年か"
+    },
+    {
+      "speaker": "D",
+      "utterance": "元々5000くらいだったのになぁ\nあ、ごめんこれやるか"
+    },
+    {
+      "speaker": "C",
+      "utterance": "あ、ちなみに\n火鍋は量やばい"
+    },
+    {
+      "speaker": "A",
+      "utterance": "火鍋高くて大量ってどうなってるんだ\nみんな希望をどうぞ"
+    },
+    {
+      "speaker": "B",
+      "utterance": "大陸仕様じゃん\n火鍋"
+    },
+    {
+      "speaker": "A",
+      "utterance": "ぼくは火鍋"
+    },
+    {
+      "speaker": "C",
+      "utterance": "シュラスコ"
+    },
+    {
+      "speaker": "D",
+      "utterance": "シュラスコ"
+    },
+    {
+      "speaker": "A",
+      "utterance": "草"
+    },
+    {
+      "speaker": "C",
+      "utterance": "おいｗ"
+    },
+    {
+      "speaker": "B",
+      "utterance": "譲る気ないじゃん"
+    },
+    {
+      "speaker": "A",
+      "utterance": "ぼくはシュラスコでもいいよ"
+    },
+    {
+      "speaker": "B",
+      "utterance": "バルバッコア渋谷店、ランニングコースだわ"
+    },
+    {
+      "speaker": "C",
+      "utterance": "おもろいからコインに身を委ねたい"
+    },
+    {
+      "speaker": "B",
+      "utterance": "なにそれ"
+    },
+    {
+      "speaker": "A",
+      "utterance": "この実験的によくないだろ"
+    },
+    {
+      "speaker": "D",
+      "utterance": "それはそれでいいのでは"
+    },
+    {
+      "speaker": "B",
+      "utterance": "たぶんだめだったらzoomでなんか言ってくれると思う"
+    },
+    {
+      "speaker": "A",
+      "utterance": "Bさんは火鍋希望変わらず？"
+    },
+    {
+      "speaker": "B",
+      "utterance": "コインしようぜわからんけど"
+    },
+    {
+      "speaker": "D",
+      "utterance": "コインは用意した"
+    },
+    {
+      "speaker": "A",
+      "utterance": "Cがコイントスした結果を誰も確認できないという問題"
+    },
+    {
+      "speaker": "C",
+      "utterance": "信用の問題"
+    },
+    {
+      "speaker": "B",
+      "utterance": "あそういうwww"
+    },
+    {
+      "speaker": "C",
+      "utterance": "あ、よろ\nコインなかった\n100って書いてある方シュラスコな"
+    },
+    {
+      "speaker": "B",
+      "utterance": "Dの100円玉に託すわ"
+    },
+    {
+      "speaker": "A",
+      "utterance": "実験的にいいならいいけど"
+    },
+    {
+      "speaker": "D",
+      "utterance": "表(100円って書いてある方）がシュラスコ、裏が火鍋な\n待って"
+    },
+    {
+      "speaker": "B",
+      "utterance": "やっぱ100円なんだ"
+    },
+    {
+      "speaker": "D",
+      "utterance": "これ信用問題だなw\n一応100円って書いてある方出ましたww"
+    },
+    {
+      "speaker": "B",
+      "utterance": "wwww"
+    },
+    {
+      "speaker": "C",
+      "utterance": "ｗｗｗｗｗｗ"
+    },
+    {
+      "speaker": "B",
+      "utterance": "シュラスコか"
+    },
+    {
+      "speaker": "A",
+      "utterance": "マジでなんとでもなる"
+    },
+    {
+      "speaker": "C",
+      "utterance": "はい、"
+    },
+    {
+      "speaker": "B",
+      "utterance": "仕方ないな"
+    },
+    {
+      "speaker": "C",
+      "utterance": "シュラスコです！"
+    },
+    {
+      "speaker": "A",
+      "utterance": "シュラスコにするかwww\n決まりました。"
+    },
+    {
+      "speaker": "D",
+      "utterance": "これ\n〒150-0042 東京都渋谷区宇田川町２０−１５ ヒューマックスパビリオン渋谷公園通り 7F"
+    }
+  ],
+  "info": [
+    {
+      "website": "https://goo.gl/maps/mmf8RrDm5jTdmL3C9",
+      "restaurant": "バルバッコア 渋谷店"
+    },
+    {
+      "website": "https://tabelog.com/tokyo/A1307/A130702/13220650/",
+      "restaurant": "ファイヤーホール4000 麻布十番店"
+    },
+    {
+      "website": "https://goo.gl/maps/3VFUCRcUVDK8a3pj9",
+      "restaurant": "なるきよ"
+    },
+    {
+      "website": "https://goo.gl/maps/L7Sz9zzJY9nCweJ48",
+      "restaurant": "魚と酒 つりや"
+    },
+    {
+      "website": "https://goo.gl/maps/fy1BQqcT3JMRx9Bu5",
+      "restaurant": "川治"
+    },
+    {
+      "website": "https://g.page/zokkon_shibuya?share",
+      "restaurant": "Sake Fun　ぞっこん。"
+    },
+    {
+      "website": "https://goo.gl/maps/gfZy7hg4JPxEfgx4A",
+      "restaurant": "大ウ邨（だうつん）"
+    },
+    {
+      "website": "https://tabelog.com/tokyo/A1311/A131101/13265579/",
+      "restaurant": "シノバズブルワリー ひつじあいす"
+    },
+    {
+      "website": "https://goo.gl/maps/FERK9AjhKQXJpcPC8",
+      "restaurant": "魚学マニア スシンジュク新宿3丁目"
+    },
+    {
+      "website": "https://goo.gl/maps/kbeDyNc19Gg6KXy17",
+      "restaurant": "菱田屋（ヒシダヤ）"
+    },
+    {
+      "website": "https://g.page/ALEGRIASHIBUYA?share",
+      "restaurant": "シュラスコレストランALEGRIA shibuya （アレグリア渋谷）"
+    }
+  ]
+}

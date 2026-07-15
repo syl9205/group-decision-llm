@@ -1,0 +1,567 @@
+{
+  "conversation_id": "19",
+  "conversation": [
+    {
+      "speaker": "A",
+      "utterance": "11/14までで行ける日\nだれが一番忙しい？"
+    },
+    {
+      "speaker": "B",
+      "utterance": "Aちゃんじゃね"
+    },
+    {
+      "speaker": "A",
+      "utterance": "え？"
+    },
+    {
+      "speaker": "C",
+      "utterance": "たしかに"
+    },
+    {
+      "speaker": "A",
+      "utterance": "なんかゼミで忙しいとか言ってなかった？"
+    },
+    {
+      "speaker": "D",
+      "utterance": "とりあえずそれぞれ夜空いてない日を列挙します？"
+    },
+    {
+      "speaker": "A",
+      "utterance": "会いてる日列挙して"
+    },
+    {
+      "speaker": "C",
+      "utterance": "空いてる日じゃなくて？"
+    },
+    {
+      "speaker": "D",
+      "utterance": "空いてる日で"
+    },
+    {
+      "speaker": "C",
+      "utterance": "おけです"
+    },
+    {
+      "speaker": "A",
+      "utterance": "いけない日を削ってこ"
+    },
+    {
+      "speaker": "B",
+      "utterance": "空いてる日にしよう"
+    },
+    {
+      "speaker": "C",
+      "utterance": "誰から？"
+    },
+    {
+      "speaker": "B",
+      "utterance": "月曜土曜日曜しか空いてない"
+    },
+    {
+      "speaker": "A",
+      "utterance": "ほら少ないやん\nBからでよろ"
+    },
+    {
+      "speaker": "C",
+      "utterance": "くさ"
+    },
+    {
+      "speaker": "B",
+      "utterance": "融通利かせれば金曜も行ける"
+    },
+    {
+      "speaker": "A",
+      "utterance": "いったんきかせといて\n(スタンプ)"
+    },
+    {
+      "speaker": "D",
+      "utterance": "とりあえず月曜いけます"
+    },
+    {
+      "speaker": "C",
+      "utterance": "俺も月曜は大丈夫すよ"
+    },
+    {
+      "speaker": "B",
+      "utterance": "@A"
+    },
+    {
+      "speaker": "D",
+      "utterance": "土日は場合によりけり"
+    },
+    {
+      "speaker": "B",
+      "utterance": "月曜どう？"
+    },
+    {
+      "speaker": "A",
+      "utterance": "14ならワンチャンあるけど\n他の日でもいいなら他の日がいいかも"
+    },
+    {
+      "speaker": "C",
+      "utterance": "例えばいつですか？"
+    },
+    {
+      "speaker": "A",
+      "utterance": "土日は行ける"
+    },
+    {
+      "speaker": "C",
+      "utterance": "土日なら土曜の方がいいです"
+    },
+    {
+      "speaker": "A",
+      "utterance": "6,12,13"
+    },
+    {
+      "speaker": "B",
+      "utterance": "@D 土曜で行ける日ある？"
+    },
+    {
+      "speaker": "D",
+      "utterance": "12なら多分！"
+    },
+    {
+      "speaker": "C",
+      "utterance": "12いけます👍"
+    },
+    {
+      "speaker": "A",
+      "utterance": "おお！"
+    },
+    {
+      "speaker": "B",
+      "utterance": "12にしよう"
+    },
+    {
+      "speaker": "A",
+      "utterance": "12でよろ"
+    },
+    {
+      "speaker": "C",
+      "utterance": "おけす"
+    },
+    {
+      "speaker": "D",
+      "utterance": "あ"
+    },
+    {
+      "speaker": "A",
+      "utterance": "あ"
+    },
+    {
+      "speaker": "D",
+      "utterance": "すんません\n12,13ダメでした😭"
+    },
+    {
+      "speaker": "C",
+      "utterance": "あ"
+    },
+    {
+      "speaker": "A",
+      "utterance": "あらんぽー"
+    },
+    {
+      "speaker": "B",
+      "utterance": "しゃーなし"
+    },
+    {
+      "speaker": "D",
+      "utterance": "@C 5日って\nどうなるんだっけ\n結局"
+    },
+    {
+      "speaker": "C",
+      "utterance": "あー、5日はどうせその後ご飯行くと思う\n4人で"
+    },
+    {
+      "speaker": "A",
+      "utterance": "5日は京都いるわ"
+    },
+    {
+      "speaker": "C",
+      "utterance": "どっちにしろっすね"
+    },
+    {
+      "speaker": "A",
+      "utterance": "3週間まで行けるっぽいから\n俺21なら行けるよ\n月曜"
+    },
+    {
+      "speaker": "B",
+      "utterance": "わしもいける"
+    },
+    {
+      "speaker": "C",
+      "utterance": "21いけます！"
+    },
+    {
+      "speaker": "D",
+      "utterance": "アツいです\nいけます"
+    },
+    {
+      "speaker": "A",
+      "utterance": "ちな20は？\n一応ね"
+    },
+    {
+      "speaker": "B",
+      "utterance": "いける"
+    },
+    {
+      "speaker": "C",
+      "utterance": "20も多分大丈夫す！"
+    },
+    {
+      "speaker": "A",
+      "utterance": "Dちゃん"
+    },
+    {
+      "speaker": "D",
+      "utterance": "行けないこともないけど17時スタートとかだとありがたいかなあ"
+    },
+    {
+      "speaker": "A",
+      "utterance": "なるほど"
+    },
+    {
+      "speaker": "C",
+      "utterance": "なるほ"
+    },
+    {
+      "speaker": "A",
+      "utterance": "月曜にしましょう！"
+    },
+    {
+      "speaker": "D",
+      "utterance": "できれば21がいいです"
+    },
+    {
+      "speaker": "C",
+      "utterance": "21で"
+    },
+    {
+      "speaker": "D",
+      "utterance": "(スタンプ)"
+    },
+    {
+      "speaker": "C",
+      "utterance": "(スタンプ)"
+    },
+    {
+      "speaker": "B",
+      "utterance": "実験的に17時以降だよ"
+    },
+    {
+      "speaker": "A",
+      "utterance": "19時スタートとかにしとく？"
+    },
+    {
+      "speaker": "C",
+      "utterance": "そうすね"
+    },
+    {
+      "speaker": "A",
+      "utterance": "おけ"
+    },
+    {
+      "speaker": "B",
+      "utterance": "おけ"
+    },
+    {
+      "speaker": "D",
+      "utterance": "了解です"
+    },
+    {
+      "speaker": "A",
+      "utterance": "じゃあ21日の19時で"
+    },
+    {
+      "speaker": "B",
+      "utterance": "了解"
+    },
+    {
+      "speaker": "D",
+      "utterance": "集まるのは新宿？馬場？らへん\nすかね"
+    },
+    {
+      "speaker": "A",
+      "utterance": "\"ジョーズ シャンハイ ニューヨーク 池袋店\n050-3196-3242\n東京都豊島区東池袋3-1-1 サンシャイン60 59F"
+    },
+    {
+      "speaker": "https",
+      "utterance": "//tabelog.com/tokyo/A1305/A130501/13097232/\""
+    },
+    {
+      "speaker": "C",
+      "utterance": "\"味ちゃん 2号店\n050-5869-3777\n東京都新宿区大久保2-32-3 リスボンビル　１Ｆ"
+    },
+    {
+      "speaker": "https",
+      "utterance": "//tabelog.com/tokyo/A1304/A130404/13047424/\""
+    },
+    {
+      "speaker": "A",
+      "utterance": "んーー"
+    },
+    {
+      "speaker": "D",
+      "utterance": "https://r.gnavi.co.jp/plan/1hznmaaz0000/plan-reserve/plan/plan_list/"
+    },
+    {
+      "speaker": "C",
+      "utterance": "うまそ😋"
+    },
+    {
+      "speaker": "A",
+      "utterance": "山手線の池袋〜新宿くらいかな？"
+    },
+    {
+      "speaker": "C",
+      "utterance": "ですね"
+    },
+    {
+      "speaker": "D",
+      "utterance": "腹減ってきたンゴねぇ..."
+    },
+    {
+      "speaker": "A",
+      "utterance": "草"
+    },
+    {
+      "speaker": "D",
+      "utterance": "ぼくのは予算3000円くらいです"
+    },
+    {
+      "speaker": "B",
+      "utterance": "https://tabelog.com/tokyo/A1305/A130503/13273208/"
+    },
+    {
+      "speaker": "D",
+      "utterance": "新宿の九州料理"
+    },
+    {
+      "speaker": "A",
+      "utterance": "にょほほん"
+    },
+    {
+      "speaker": "C",
+      "utterance": "飲み放題付きコースじゃん"
+    },
+    {
+      "speaker": "A",
+      "utterance": "これも終わったら挙手やで\n靴下敗れた\n破れた"
+    },
+    {
+      "speaker": "C",
+      "utterance": "臭"
+    },
+    {
+      "speaker": "A",
+      "utterance": "プレゼンさせてくれ"
+    },
+    {
+      "speaker": "D",
+      "utterance": "どこにしましょ\nほうほう"
+    },
+    {
+      "speaker": "C",
+      "utterance": "聞きます"
+    },
+    {
+      "speaker": "A",
+      "utterance": "(写真)\nサンシャインシティの59階の中華料理屋"
+    },
+    {
+      "speaker": "D",
+      "utterance": "おほー\nいいですねぇ"
+    },
+    {
+      "speaker": "B",
+      "utterance": "富豪じゃん"
+    },
+    {
+      "speaker": "C",
+      "utterance": "あつ"
+    },
+    {
+      "speaker": "A",
+      "utterance": "人のお金でご飯食べるなら\n美味しいの食べたい"
+    },
+    {
+      "speaker": "D",
+      "utterance": "でもこれ予約大丈夫ッピか？"
+    },
+    {
+      "speaker": "B",
+      "utterance": "そりゃそう"
+    },
+    {
+      "speaker": "C",
+      "utterance": "たしかに"
+    },
+    {
+      "speaker": "A",
+      "utterance": "ちょっと確認してみる"
+    },
+    {
+      "speaker": "D",
+      "utterance": "一日5組って"
+    },
+    {
+      "speaker": "C",
+      "utterance": "行けるなら激アツ"
+    },
+    {
+      "speaker": "A",
+      "utterance": "ちなサービス料込みで\n5500円だから"
+    },
+    {
+      "speaker": "C",
+      "utterance": "まじか"
+    },
+    {
+      "speaker": "A",
+      "utterance": "1500円は自己負担\nwww"
+    },
+    {
+      "speaker": "D",
+      "utterance": "一見値段張るかと思いきや写真見るとめちゃくちゃ良心的に見えてきた"
+    },
+    {
+      "speaker": "A",
+      "utterance": "とりま予約ぇ切るかだけ調べてみる"
+    },
+    {
+      "speaker": "B",
+      "utterance": "予約できるならそこいいな"
+    },
+    {
+      "speaker": "D",
+      "utterance": "1500円と考えると激アツですね"
+    },
+    {
+      "speaker": "B",
+      "utterance": "そこが無理そうならDのやつもいいなとおもってた\nからDのやつでもいいよ\n九州のやつ"
+    },
+    {
+      "speaker": "C",
+      "utterance": "Dのやついいすよね"
+    },
+    {
+      "speaker": "D",
+      "utterance": "(写真)\nこんな感じでごわす"
+    },
+    {
+      "speaker": "A",
+      "utterance": "いけるわ"
+    },
+    {
+      "speaker": "D",
+      "utterance": "お！"
+    },
+    {
+      "speaker": "B",
+      "utterance": "がち？"
+    },
+    {
+      "speaker": "C",
+      "utterance": "キタコレ"
+    },
+    {
+      "speaker": "D",
+      "utterance": "アツい"
+    },
+    {
+      "speaker": "A",
+      "utterance": "Dもプレゼンしとく？"
+    },
+    {
+      "speaker": "D",
+      "utterance": "とりあえず今回はその中華で、"
+    },
+    {
+      "speaker": "B",
+      "utterance": "それなら奮発して高いところにしてもええで"
+    },
+    {
+      "speaker": "C",
+      "utterance": "やな"
+    },
+    {
+      "speaker": "B",
+      "utterance": "そうしよ"
+    },
+    {
+      "speaker": "D",
+      "utterance": "また機会あればで"
+    },
+    {
+      "speaker": "B",
+      "utterance": "うい"
+    },
+    {
+      "speaker": "A",
+      "utterance": "おお\n池袋だけどいい？"
+    },
+    {
+      "speaker": "D",
+      "utterance": "涎垂れますわ＾＾"
+    },
+    {
+      "speaker": "C",
+      "utterance": "余裕っす"
+    },
+    {
+      "speaker": "B",
+      "utterance": "np"
+    },
+    {
+      "speaker": "D",
+      "utterance": "もち！"
+    },
+    {
+      "speaker": "A",
+      "utterance": "おけっけ\nじゃあここで\n！"
+    },
+    {
+      "speaker": "D",
+      "utterance": "(スタンプ)"
+    },
+    {
+      "speaker": "C",
+      "utterance": "(スタンプ)"
+    },
+    {
+      "speaker": "A",
+      "utterance": "予約したどん"
+    },
+    {
+      "speaker": "C",
+      "utterance": "(スタンプ)"
+    },
+    {
+      "speaker": "D",
+      "utterance": "(スタンプ)"
+    },
+    {
+      "speaker": "A",
+      "utterance": "(写真)\n楽しみすぎ\nこのお店の所在地はサンシャインシティね"
+    }
+  ],
+  "info": [
+    {
+      "website": "https://tabelog.com/tokyo/A1305/A130501/13097232/",
+      "restaurant": "ジョーズ シャンハイ ニューヨーク 池袋店（JOE'S SHANGHAI NEWYORK）"
+    },
+    {
+      "website": "https://tabelog.com/tokyo/A1304/A130404/13047424/",
+      "restaurant": "味ちゃん 2号店（マッチャン）"
+    },
+    {
+      "website": "https://tabelog.com/tokyo/A1304/A130401/13166792/",
+      "restaurant": "和食 個室居酒屋 美味か 新宿南口店（UMAKA【旧店名】うまかばる）"
+    },
+    {
+      "website": "https://tabelog.com/tokyo/A1305/A130503/13273208/",
+      "restaurant": "焼肉ホルモンたけ田 高田馬場店"
+    }
+  ]
+}

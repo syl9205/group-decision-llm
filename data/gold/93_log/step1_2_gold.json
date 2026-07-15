@@ -1,0 +1,46 @@
+{
+  "suggestion_table": [
+    {
+      "participant": "A",
+      "suggestion_type": "Moderate"
+    },
+    {
+      "participant": "B",
+      "suggestion_type": "Moderate"
+    },
+    {
+      "participant": "C",
+      "suggestion_type": "Moderate"
+    },
+    {
+      "participant": "D",
+      "suggestion_type": "Moderate"
+    },
+    {
+      "participant": "E",
+      "suggestion_type": "Moderate"
+    }
+  ],
+  "response_table": [
+    {
+      "participant": "A",
+      "response_type": "Moderate"
+    },
+    {
+      "participant": "B",
+      "response_type": "Moderate"
+    },
+    {
+      "participant": "C",
+      "response_type": "Moderate"
+    },
+    {
+      "participant": "D",
+      "response_type": "Moderate"
+    },
+    {
+      "participant": "E",
+      "response_type": "Moderate"
+    }
+  ]
+}

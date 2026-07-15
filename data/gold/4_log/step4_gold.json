@@ -1,0 +1,446 @@
+{
+  "preference_table": [
+    {
+      "participant": "A",
+      "restaurant": "SCHMATZ 有楽町",
+      "preferences": "A7"
+    },
+    {
+      "participant": "A",
+      "restaurant": "Ue CONA 渋谷道玄坂離れ（ウエコナ）",
+      "preferences": "A7"
+    },
+    {
+      "participant": "A",
+      "restaurant": "窯焼きピザとワインのお店 ROMAE 炉前（ロマエ）",
+      "preferences": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "TGIフライデーズ 上野中央通り店（ティージーアイ フライデーズ）",
+      "preferences": "A7"
+    },
+    {
+      "participant": "A",
+      "restaurant": "ファンケル ブラウンライス ミイルズ（FANCL BROWN RICE MEALS）",
+      "preferences": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "ファイヤーハウス（FIRE HOUSE）",
+      "preferences": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "CRUZ BURGERS & CRAFT BEERS（クルズバーガーズ アンド クラフトビア）",
+      "preferences": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "アークラウンジ 新宿西口駅前店（Ark Lounge）",
+      "preferences": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "伊達の牛たん本舗 KITTE グランシェ店",
+      "preferences": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "フィッシュ＆チップス マリン（FISH & CHIPS MALINS）",
+      "preferences": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "CRAFT CHEESE MARKET 渋谷駅前店（クラフトチーズマーケット【旧店名】北海道チーズフォンデュファクトリー 炭リッチ）",
+      "preferences": "A7"
+    },
+    {
+      "participant": "B",
+      "restaurant": "SCHMATZ 有楽町",
+      "preferences": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "Ue CONA 渋谷道玄坂離れ（ウエコナ）",
+      "preferences": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "窯焼きピザとワインのお店 ROMAE 炉前（ロマエ）",
+      "preferences": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "TGIフライデーズ 上野中央通り店（ティージーアイ フライデーズ）",
+      "preferences": "A7"
+    },
+    {
+      "participant": "B",
+      "restaurant": "ファンケル ブラウンライス ミイルズ（FANCL BROWN RICE MEALS）",
+      "preferences": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "ファイヤーハウス（FIRE HOUSE）",
+      "preferences": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "CRUZ BURGERS & CRAFT BEERS（クルズバーガーズ アンド クラフトビア）",
+      "preferences": "A7"
+    },
+    {
+      "participant": "B",
+      "restaurant": "アークラウンジ 新宿西口駅前店（Ark Lounge）",
+      "preferences": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "伊達の牛たん本舗 KITTE グランシェ店",
+      "preferences": "A7"
+    },
+    {
+      "participant": "B",
+      "restaurant": "フィッシュ＆チップス マリン（FISH & CHIPS MALINS）",
+      "preferences": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "CRAFT CHEESE MARKET 渋谷駅前店（クラフトチーズマーケット【旧店名】北海道チーズフォンデュファクトリー 炭リッチ）",
+      "preferences": "A7"
+    },
+    {
+      "participant": "C",
+      "restaurant": "SCHMATZ 有楽町",
+      "preferences": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "Ue CONA 渋谷道玄坂離れ（ウエコナ）",
+      "preferences": "A7"
+    },
+    {
+      "participant": "C",
+      "restaurant": "窯焼きピザとワインのお店 ROMAE 炉前（ロマエ）",
+      "preferences": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "TGIフライデーズ 上野中央通り店（ティージーアイ フライデーズ）",
+      "preferences": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "ファンケル ブラウンライス ミイルズ（FANCL BROWN RICE MEALS）",
+      "preferences": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "ファイヤーハウス（FIRE HOUSE）",
+      "preferences": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "CRUZ BURGERS & CRAFT BEERS（クルズバーガーズ アンド クラフトビア）",
+      "preferences": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "アークラウンジ 新宿西口駅前店（Ark Lounge）",
+      "preferences": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "伊達の牛たん本舗 KITTE グランシェ店",
+      "preferences": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "フィッシュ＆チップス マリン（FISH & CHIPS MALINS）",
+      "preferences": "A7"
+    },
+    {
+      "participant": "C",
+      "restaurant": "CRAFT CHEESE MARKET 渋谷駅前店（クラフトチーズマーケット【旧店名】北海道チーズフォンデュファクトリー 炭リッチ）",
+      "preferences": "A7"
+    },
+    {
+      "participant": "D",
+      "restaurant": "SCHMATZ 有楽町",
+      "preferences": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "Ue CONA 渋谷道玄坂離れ（ウエコナ）",
+      "preferences": "A1"
+    },
+    {
+      "participant": "D",
+      "restaurant": "窯焼きピザとワインのお店 ROMAE 炉前（ロマエ）",
+      "preferences": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "TGIフライデーズ 上野中央通り店（ティージーアイ フライデーズ）",
+      "preferences": "A7"
+    },
+    {
+      "participant": "D",
+      "restaurant": "ファンケル ブラウンライス ミイルズ（FANCL BROWN RICE MEALS）",
+      "preferences": "A1"
+    },
+    {
+      "participant": "D",
+      "restaurant": "ファイヤーハウス（FIRE HOUSE）",
+      "preferences": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "CRUZ BURGERS & CRAFT BEERS（クルズバーガーズ アンド クラフトビア）",
+      "preferences": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "アークラウンジ 新宿西口駅前店（Ark Lounge）",
+      "preferences": "A1"
+    },
+    {
+      "participant": "D",
+      "restaurant": "伊達の牛たん本舗 KITTE グランシェ店",
+      "preferences": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "フィッシュ＆チップス マリン（FISH & CHIPS MALINS）",
+      "preferences": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "CRAFT CHEESE MARKET 渋谷駅前店（クラフトチーズマーケット【旧店名】北海道チーズフォンデュファクトリー 炭リッチ）",
+      "preferences": "A1,A2"
+    }
+  ],
+  "constraint_table": [
+    {
+      "participant": "A",
+      "restaurant": "SCHMATZ 有楽町",
+      "constraints": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "Ue CONA 渋谷道玄坂離れ（ウエコナ）",
+      "constraints": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "窯焼きピザとワインのお店 ROMAE 炉前（ロマエ）",
+      "constraints": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "TGIフライデーズ 上野中央通り店（ティージーアイ フライデーズ）",
+      "constraints": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "ファンケル ブラウンライス ミイルズ（FANCL BROWN RICE MEALS）",
+      "constraints": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "ファイヤーハウス（FIRE HOUSE）",
+      "constraints": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "CRUZ BURGERS & CRAFT BEERS（クルズバーガーズ アンド クラフトビア）",
+      "constraints": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "アークラウンジ 新宿西口駅前店（Ark Lounge）",
+      "constraints": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "伊達の牛たん本舗 KITTE グランシェ店",
+      "constraints": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "フィッシュ＆チップス マリン（FISH & CHIPS MALINS）",
+      "constraints": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "CRAFT CHEESE MARKET 渋谷駅前店（クラフトチーズマーケット【旧店名】北海道チーズフォンデュファクトリー 炭リッチ）",
+      "constraints": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "SCHMATZ 有楽町",
+      "constraints": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "Ue CONA 渋谷道玄坂離れ（ウエコナ）",
+      "constraints": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "窯焼きピザとワインのお店 ROMAE 炉前（ロマエ）",
+      "constraints": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "TGIフライデーズ 上野中央通り店（ティージーアイ フライデーズ）",
+      "constraints": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "ファンケル ブラウンライス ミイルズ（FANCL BROWN RICE MEALS）",
+      "constraints": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "ファイヤーハウス（FIRE HOUSE）",
+      "constraints": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "CRUZ BURGERS & CRAFT BEERS（クルズバーガーズ アンド クラフトビア）",
+      "constraints": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "アークラウンジ 新宿西口駅前店（Ark Lounge）",
+      "constraints": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "伊達の牛たん本舗 KITTE グランシェ店",
+      "constraints": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "フィッシュ＆チップス マリン（FISH & CHIPS MALINS）",
+      "constraints": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "CRAFT CHEESE MARKET 渋谷駅前店（クラフトチーズマーケット【旧店名】北海道チーズフォンデュファクトリー 炭リッチ）",
+      "constraints": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "SCHMATZ 有楽町",
+      "constraints": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "Ue CONA 渋谷道玄坂離れ（ウエコナ）",
+      "constraints": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "窯焼きピザとワインのお店 ROMAE 炉前（ロマエ）",
+      "constraints": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "TGIフライデーズ 上野中央通り店（ティージーアイ フライデーズ）",
+      "constraints": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "ファンケル ブラウンライス ミイルズ（FANCL BROWN RICE MEALS）",
+      "constraints": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "ファイヤーハウス（FIRE HOUSE）",
+      "constraints": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "CRUZ BURGERS & CRAFT BEERS（クルズバーガーズ アンド クラフトビア）",
+      "constraints": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "アークラウンジ 新宿西口駅前店（Ark Lounge）",
+      "constraints": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "伊達の牛たん本舗 KITTE グランシェ店",
+      "constraints": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "フィッシュ＆チップス マリン（FISH & CHIPS MALINS）",
+      "constraints": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "CRAFT CHEESE MARKET 渋谷駅前店（クラフトチーズマーケット【旧店名】北海道チーズフォンデュファクトリー 炭リッチ）",
+      "constraints": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "SCHMATZ 有楽町",
+      "constraints": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "Ue CONA 渋谷道玄坂離れ（ウエコナ）",
+      "constraints": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "窯焼きピザとワインのお店 ROMAE 炉前（ロマエ）",
+      "constraints": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "TGIフライデーズ 上野中央通り店（ティージーアイ フライデーズ）",
+      "constraints": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "ファンケル ブラウンライス ミイルズ（FANCL BROWN RICE MEALS）",
+      "constraints": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "ファイヤーハウス（FIRE HOUSE）",
+      "constraints": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "CRUZ BURGERS & CRAFT BEERS（クルズバーガーズ アンド クラフトビア）",
+      "constraints": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "アークラウンジ 新宿西口駅前店（Ark Lounge）",
+      "constraints": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "伊達の牛たん本舗 KITTE グランシェ店",
+      "constraints": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "フィッシュ＆チップス マリン（FISH & CHIPS MALINS）",
+      "constraints": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "CRAFT CHEESE MARKET 渋谷駅前店（クラフトチーズマーケット【旧店名】北海道チーズフォンデュファクトリー 炭リッチ）",
+      "constraints": "None"
+    }
+  ]
+}

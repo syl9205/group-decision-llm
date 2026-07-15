@@ -1,0 +1,64 @@
+{
+  "perception_table": [
+    {
+      "participant": "A",
+      "restaurant": "バルバッコア 虎ノ門ヒルズ店",
+      "perception": "Mix"
+    },
+    {
+      "participant": "A",
+      "restaurant": "本格中華ダイニング 豫園小籠包 新橋・銀座店",
+      "perception": "Positive"
+    },
+    {
+      "participant": "A",
+      "restaurant": "天然居（テンネンキョ）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "A",
+      "restaurant": "分店　なかむら食堂",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "B",
+      "restaurant": "バルバッコア 虎ノ門ヒルズ店",
+      "perception": "Positive"
+    },
+    {
+      "participant": "B",
+      "restaurant": "本格中華ダイニング 豫園小籠包 新橋・銀座店",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "B",
+      "restaurant": "天然居（テンネンキョ）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "B",
+      "restaurant": "分店　なかむら食堂",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "C",
+      "restaurant": "バルバッコア 虎ノ門ヒルズ店",
+      "perception": "Positive"
+    },
+    {
+      "participant": "C",
+      "restaurant": "本格中華ダイニング 豫園小籠包 新橋・銀座店",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "C",
+      "restaurant": "天然居（テンネンキョ）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "C",
+      "restaurant": "分店　なかむら食堂",
+      "perception": "Neutral"
+    }
+  ]
+}

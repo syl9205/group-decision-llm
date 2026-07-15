@@ -1,0 +1,64 @@
+{
+  "mentioned_table": [
+    {
+      "participant": "A",
+      "restaurant": "沸騰小吃城",
+      "mention": "Mentioned"
+    },
+    {
+      "participant": "A",
+      "restaurant": "SAMARKAND TERRACE（サマルカンド テラス）",
+      "mention": "Mentioned"
+    },
+    {
+      "participant": "A",
+      "restaurant": "焼肉 鶯谷園（ウグイスダニエン）",
+      "mention": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "博多もつ鍋 やまや 池袋店",
+      "mention": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "沸騰小吃城",
+      "mention": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "SAMARKAND TERRACE（サマルカンド テラス）",
+      "mention": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "焼肉 鶯谷園（ウグイスダニエン）",
+      "mention": "Mentioned"
+    },
+    {
+      "participant": "B",
+      "restaurant": "博多もつ鍋 やまや 池袋店",
+      "mention": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "沸騰小吃城",
+      "mention": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "SAMARKAND TERRACE（サマルカンド テラス）",
+      "mention": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "焼肉 鶯谷園（ウグイスダニエン）",
+      "mention": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "博多もつ鍋 やまや 池袋店",
+      "mention": "Mentioned"
+    }
+  ]
+}

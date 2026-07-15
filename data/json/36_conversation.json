@@ -1,0 +1,323 @@
+{
+  "conversation_id": "36",
+  "conversation": [
+    {
+      "speaker": "A",
+      "utterance": "決めていきましょう"
+    },
+    {
+      "speaker": "B",
+      "utterance": "おなしゃす"
+    },
+    {
+      "speaker": "A",
+      "utterance": "夜が良いですよね\n調整さんとか使う？"
+    },
+    {
+      "speaker": "C",
+      "utterance": "よさそう"
+    },
+    {
+      "speaker": "B",
+      "utterance": "天才だ"
+    },
+    {
+      "speaker": "C",
+      "utterance": "てんさい"
+    },
+    {
+      "speaker": "A",
+      "utterance": "ネイティブ機能であったんや"
+    },
+    {
+      "speaker": "B",
+      "utterance": "回答しました"
+    },
+    {
+      "speaker": "D",
+      "utterance": "天才ですまん\n日程増やします？"
+    },
+    {
+      "speaker": "B",
+      "utterance": "2週間以内やから大丈夫だと思います"
+    },
+    {
+      "speaker": "A",
+      "utterance": "done"
+    },
+    {
+      "speaker": "B",
+      "utterance": "15ですね"
+    },
+    {
+      "speaker": "C",
+      "utterance": "15ですね"
+    },
+    {
+      "speaker": "D",
+      "utterance": "15ry"
+    },
+    {
+      "speaker": "A",
+      "utterance": "Eさん…"
+    },
+    {
+      "speaker": "E",
+      "utterance": "その日は予定が、、"
+    },
+    {
+      "speaker": "D",
+      "utterance": "oh"
+    },
+    {
+      "speaker": "B",
+      "utterance": "Eさんがむりか…"
+    },
+    {
+      "speaker": "C",
+      "utterance": "おーのー"
+    },
+    {
+      "speaker": "B",
+      "utterance": "詰みでは"
+    },
+    {
+      "speaker": "A",
+      "utterance": "詰んでしまった；"
+    },
+    {
+      "speaker": "C",
+      "utterance": "1221.22\n僕が融通する止まるそうですね\n丸そう"
+    },
+    {
+      "speaker": "D",
+      "utterance": "えらい"
+    },
+    {
+      "speaker": "A",
+      "utterance": "22は予定あるから21が良いな"
+    },
+    {
+      "speaker": "B",
+      "utterance": "21の機運"
+    },
+    {
+      "speaker": "E",
+      "utterance": "どちらでも可"
+    },
+    {
+      "speaker": "A",
+      "utterance": "1221で"
+    },
+    {
+      "speaker": "D",
+      "utterance": "どちらでも"
+    },
+    {
+      "speaker": "C",
+      "utterance": "ちょっとまって"
+    },
+    {
+      "speaker": "D",
+      "utterance": "まちます"
+    },
+    {
+      "speaker": "C",
+      "utterance": "21時からとかならいけそうです。ちょっと遅い？"
+    },
+    {
+      "speaker": "A",
+      "utterance": "122121okです"
+    },
+    {
+      "speaker": "B",
+      "utterance": "いけます"
+    },
+    {
+      "speaker": "E",
+      "utterance": "ok"
+    },
+    {
+      "speaker": "D",
+      "utterance": "お腹ペコペコ耐えるの得意なので"
+    },
+    {
+      "speaker": "A",
+      "utterance": "ではそれで\nhttps://pman-tokyo.com/"
+    },
+    {
+      "speaker": "C",
+      "utterance": "https://tabelog.com/tokyo/A1303/A130301/13024474/"
+    },
+    {
+      "speaker": "E",
+      "utterance": "\"https://tabelog.com/tokyo/A1303/A130301/13208724/"
+    },
+    {
+      "speaker": "https",
+      "utterance": "//tabelog.com/tokyo/A1303/A130301/13220928/\""
+    },
+    {
+      "speaker": "D",
+      "utterance": "\"もんごろーや\n050-5597-7433\n東京都渋谷区渋谷1-24-2 朱ビル　４Ｆ"
+    },
+    {
+      "speaker": "https",
+      "utterance": "//tabelog.com/tokyo/A1303/A130301/13043125/\""
+    },
+    {
+      "speaker": "B",
+      "utterance": "https://tabelog.com/tokyo/A1303/A130301/13001781/"
+    },
+    {
+      "speaker": "D",
+      "utterance": "挙げ終わりました"
+    },
+    {
+      "speaker": "A",
+      "utterance": "良いラインナップ"
+    },
+    {
+      "speaker": "E",
+      "utterance": "@A あげおわったら挙手お願いします"
+    },
+    {
+      "speaker": "A",
+      "utterance": "すみません"
+    },
+    {
+      "speaker": "D",
+      "utterance": "\"やっぱこっちで\nクラフトビールタップ グリル＆キッチン 渋谷\n050-5596-1111\n東京都渋谷区渋谷3-21-3 渋谷ストリーム 3F"
+    },
+    {
+      "speaker": "https",
+      "utterance": "//tabelog.com/tokyo/A1303/A130301/13225417/\""
+    },
+    {
+      "speaker": "A",
+      "utterance": "挙手までdone"
+    },
+    {
+      "speaker": "B",
+      "utterance": "どね"
+    },
+    {
+      "speaker": "E",
+      "utterance": "あとはCさん"
+    },
+    {
+      "speaker": "C",
+      "utterance": "doneです"
+    },
+    {
+      "speaker": "A",
+      "utterance": "決めましょう"
+    },
+    {
+      "speaker": "C",
+      "utterance": "いえす"
+    },
+    {
+      "speaker": "D",
+      "utterance": "ビール飲みたい"
+    },
+    {
+      "speaker": "A",
+      "utterance": "確かに"
+    },
+    {
+      "speaker": "B",
+      "utterance": "ビール飲みたい"
+    },
+    {
+      "speaker": "D",
+      "utterance": "本拠地から近いし"
+    },
+    {
+      "speaker": "E",
+      "utterance": "異議なし"
+    },
+    {
+      "speaker": "C",
+      "utterance": "ビールで"
+    },
+    {
+      "speaker": "A",
+      "utterance": "爆速すぎない？"
+    },
+    {
+      "speaker": "D",
+      "utterance": "はや"
+    },
+    {
+      "speaker": "B",
+      "utterance": "草"
+    },
+    {
+      "speaker": "A",
+      "utterance": "一応私があげたピーマンは○○さんおすすめの店で行ってみたかった"
+    },
+    {
+      "speaker": "E",
+      "utterance": "いや、ビールで"
+    },
+    {
+      "speaker": "B",
+      "utterance": "また今度で"
+    },
+    {
+      "speaker": "A",
+      "utterance": "草"
+    },
+    {
+      "speaker": "C",
+      "utterance": "👋"
+    },
+    {
+      "speaker": "A",
+      "utterance": "そんなことある？"
+    },
+    {
+      "speaker": "D",
+      "utterance": "終わった"
+    },
+    {
+      "speaker": "B",
+      "utterance": "done"
+    },
+    {
+      "speaker": "A",
+      "utterance": "まあ4000円いかでいけそやしな\nビールで！"
+    }
+  ],
+  "info": [
+    {
+      "website": "https://pman-tokyo.com/",
+      "restaurant": "IZAKAYA P/man（居酒屋ピーマン）"
+    },
+    {
+      "website": "https://tabelog.com/tokyo/A1303/A130301/13024474/",
+      "restaurant": "韓の台所 別邸（ハンノダイドコロベッテイ）"
+    },
+    {
+      "website": "https://tabelog.com/tokyo/A1303/A130301/13208724/",
+      "restaurant": "USHIHACHI 渋谷店（ウシハチ/牛8）"
+    },
+    {
+      "website": "https://tabelog.com/tokyo/A1303/A130301/13220928/",
+      "restaurant": "CRAFT CHEESE MARKET 渋谷駅前店（クラフトチーズマーケット【旧店名】北海道チーズフォンデュファクトリー 炭リッチ）"
+    },
+    {
+      "website": "https://tabelog.com/tokyo/A1303/A130301/13043125/",
+      "restaurant": "もんごろーや"
+    },
+    {
+      "website": "https://tabelog.com/tokyo/A1303/A130301/13001781/",
+      "restaurant": "魚真 渋谷店（うおしん）"
+    },
+    {
+      "website": "https://tabelog.com/tokyo/A1303/A130301/13225417/",
+      "restaurant": "クラフトビールタップ グリル＆キッチン 渋谷"
+    }
+  ]
+}

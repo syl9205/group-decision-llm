@@ -1,0 +1,164 @@
+{
+  "perception_table": [
+    {
+      "participant": "A",
+      "restaurant": "アークラウンジ 新宿西口駅前店（Ark Lounge）",
+      "perception": "Negative"
+    },
+    {
+      "participant": "A",
+      "restaurant": "ゴールデンバカン",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "A",
+      "restaurant": "Spring Revolution Restaurant（スプリング レボリューション レストラン）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "A",
+      "restaurant": "ルビー（RUBY）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "A",
+      "restaurant": "かしわ 渋谷ヒカリエ店",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "A",
+      "restaurant": "韓国料理 ホンデポチャ 渋谷店",
+      "perception": "Positive"
+    },
+    {
+      "participant": "A",
+      "restaurant": "サイゼリヤ 渋谷東急ハンズ前店",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "A",
+      "restaurant": "ブッチャー・リパブリック 品川 シカゴピザ&BBQステーキ",
+      "perception": "Positive"
+    },
+    {
+      "participant": "B",
+      "restaurant": "アークラウンジ 新宿西口駅前店（Ark Lounge）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "B",
+      "restaurant": "ゴールデンバカン",
+      "perception": "Positive"
+    },
+    {
+      "participant": "B",
+      "restaurant": "Spring Revolution Restaurant（スプリング レボリューション レストラン）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "B",
+      "restaurant": "ルビー（RUBY）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "B",
+      "restaurant": "かしわ 渋谷ヒカリエ店",
+      "perception": "Positive"
+    },
+    {
+      "participant": "B",
+      "restaurant": "韓国料理 ホンデポチャ 渋谷店",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "B",
+      "restaurant": "サイゼリヤ 渋谷東急ハンズ前店",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "B",
+      "restaurant": "ブッチャー・リパブリック 品川 シカゴピザ&BBQステーキ",
+      "perception": "Negative"
+    },
+    {
+      "participant": "C",
+      "restaurant": "アークラウンジ 新宿西口駅前店（Ark Lounge）",
+      "perception": "Mix"
+    },
+    {
+      "participant": "C",
+      "restaurant": "ゴールデンバカン",
+      "perception": "Positive"
+    },
+    {
+      "participant": "C",
+      "restaurant": "Spring Revolution Restaurant（スプリング レボリューション レストラン）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "C",
+      "restaurant": "ルビー（RUBY）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "C",
+      "restaurant": "かしわ 渋谷ヒカリエ店",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "C",
+      "restaurant": "韓国料理 ホンデポチャ 渋谷店",
+      "perception": "Positive"
+    },
+    {
+      "participant": "C",
+      "restaurant": "サイゼリヤ 渋谷東急ハンズ前店",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "C",
+      "restaurant": "ブッチャー・リパブリック 品川 シカゴピザ&BBQステーキ",
+      "perception": "Positive"
+    },
+    {
+      "participant": "D",
+      "restaurant": "アークラウンジ 新宿西口駅前店（Ark Lounge）",
+      "perception": "Negative"
+    },
+    {
+      "participant": "D",
+      "restaurant": "ゴールデンバカン",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "D",
+      "restaurant": "Spring Revolution Restaurant（スプリング レボリューション レストラン）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "D",
+      "restaurant": "ルビー（RUBY）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "D",
+      "restaurant": "かしわ 渋谷ヒカリエ店",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "D",
+      "restaurant": "韓国料理 ホンデポチャ 渋谷店",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "D",
+      "restaurant": "サイゼリヤ 渋谷東急ハンズ前店",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "D",
+      "restaurant": "ブッチャー・リパブリック 品川 シカゴピザ&BBQステーキ",
+      "perception": "Positive"
+    }
+  ]
+}

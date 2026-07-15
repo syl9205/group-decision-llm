@@ -1,0 +1,306 @@
+{
+  "preference_table": [
+    {
+      "participant": "A",
+      "restaurant": "フランス大衆食堂ブイヨン本郷3",
+      "preferences": "A7"
+    },
+    {
+      "participant": "A",
+      "restaurant": "フランス料理 ルヴェ ソン ヴェール 本郷（Lever son Verre）",
+      "preferences": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "巡りや 根津店",
+      "preferences": "A1"
+    },
+    {
+      "participant": "A",
+      "restaurant": "ビンゴ タコス キッチン（BINGO TACOS KITCHEN）",
+      "preferences": "A1"
+    },
+    {
+      "participant": "A",
+      "restaurant": "トリノス（torinosu）",
+      "preferences": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "レストランMOMO（モモ）",
+      "preferences": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "フランス大衆食堂ブイヨン本郷3",
+      "preferences": "A7"
+    },
+    {
+      "participant": "B",
+      "restaurant": "フランス料理 ルヴェ ソン ヴェール 本郷（Lever son Verre）",
+      "preferences": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "巡りや 根津店",
+      "preferences": "A1"
+    },
+    {
+      "participant": "B",
+      "restaurant": "ビンゴ タコス キッチン（BINGO TACOS KITCHEN）",
+      "preferences": "A7"
+    },
+    {
+      "participant": "B",
+      "restaurant": "トリノス（torinosu）",
+      "preferences": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "レストランMOMO（モモ）",
+      "preferences": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "フランス大衆食堂ブイヨン本郷3",
+      "preferences": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "フランス料理 ルヴェ ソン ヴェール 本郷（Lever son Verre）",
+      "preferences": "A7"
+    },
+    {
+      "participant": "C",
+      "restaurant": "巡りや 根津店",
+      "preferences": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "ビンゴ タコス キッチン（BINGO TACOS KITCHEN）",
+      "preferences": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "トリノス（torinosu）",
+      "preferences": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "レストランMOMO（モモ）",
+      "preferences": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "フランス大衆食堂ブイヨン本郷3",
+      "preferences": "A7"
+    },
+    {
+      "participant": "D",
+      "restaurant": "フランス料理 ルヴェ ソン ヴェール 本郷（Lever son Verre）",
+      "preferences": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "巡りや 根津店",
+      "preferences": "A7"
+    },
+    {
+      "participant": "D",
+      "restaurant": "ビンゴ タコス キッチン（BINGO TACOS KITCHEN）",
+      "preferences": "A1"
+    },
+    {
+      "participant": "D",
+      "restaurant": "トリノス（torinosu）",
+      "preferences": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "レストランMOMO（モモ）",
+      "preferences": "None"
+    },
+    {
+      "participant": "E",
+      "restaurant": "フランス大衆食堂ブイヨン本郷3",
+      "preferences": "A7"
+    },
+    {
+      "participant": "E",
+      "restaurant": "フランス料理 ルヴェ ソン ヴェール 本郷（Lever son Verre）",
+      "preferences": "None"
+    },
+    {
+      "participant": "E",
+      "restaurant": "巡りや 根津店",
+      "preferences": "None"
+    },
+    {
+      "participant": "E",
+      "restaurant": "ビンゴ タコス キッチン（BINGO TACOS KITCHEN）",
+      "preferences": "None"
+    },
+    {
+      "participant": "E",
+      "restaurant": "トリノス（torinosu）",
+      "preferences": "None"
+    },
+    {
+      "participant": "E",
+      "restaurant": "レストランMOMO（モモ）",
+      "preferences": "None"
+    }
+  ],
+  "constraint_table": [
+    {
+      "participant": "A",
+      "restaurant": "フランス大衆食堂ブイヨン本郷3",
+      "constraints": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "フランス料理 ルヴェ ソン ヴェール 本郷（Lever son Verre）",
+      "constraints": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "巡りや 根津店",
+      "constraints": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "ビンゴ タコス キッチン（BINGO TACOS KITCHEN）",
+      "constraints": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "トリノス（torinosu）",
+      "constraints": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "レストランMOMO（モモ）",
+      "constraints": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "フランス大衆食堂ブイヨン本郷3",
+      "constraints": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "フランス料理 ルヴェ ソン ヴェール 本郷（Lever son Verre）",
+      "constraints": "A1"
+    },
+    {
+      "participant": "B",
+      "restaurant": "巡りや 根津店",
+      "constraints": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "ビンゴ タコス キッチン（BINGO TACOS KITCHEN）",
+      "constraints": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "トリノス（torinosu）",
+      "constraints": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "レストランMOMO（モモ）",
+      "constraints": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "フランス大衆食堂ブイヨン本郷3",
+      "constraints": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "フランス料理 ルヴェ ソン ヴェール 本郷（Lever son Verre）",
+      "constraints": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "巡りや 根津店",
+      "constraints": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "ビンゴ タコス キッチン（BINGO TACOS KITCHEN）",
+      "constraints": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "トリノス（torinosu）",
+      "constraints": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "レストランMOMO（モモ）",
+      "constraints": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "フランス大衆食堂ブイヨン本郷3",
+      "constraints": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "フランス料理 ルヴェ ソン ヴェール 本郷（Lever son Verre）",
+      "constraints": "A1"
+    },
+    {
+      "participant": "D",
+      "restaurant": "巡りや 根津店",
+      "constraints": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "ビンゴ タコス キッチン（BINGO TACOS KITCHEN）",
+      "constraints": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "トリノス（torinosu）",
+      "constraints": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "レストランMOMO（モモ）",
+      "constraints": "None"
+    },
+    {
+      "participant": "E",
+      "restaurant": "フランス大衆食堂ブイヨン本郷3",
+      "constraints": "None"
+    },
+    {
+      "participant": "E",
+      "restaurant": "フランス料理 ルヴェ ソン ヴェール 本郷（Lever son Verre）",
+      "constraints": "None"
+    },
+    {
+      "participant": "E",
+      "restaurant": "巡りや 根津店",
+      "constraints": "None"
+    },
+    {
+      "participant": "E",
+      "restaurant": "ビンゴ タコス キッチン（BINGO TACOS KITCHEN）",
+      "constraints": "None"
+    },
+    {
+      "participant": "E",
+      "restaurant": "トリノス（torinosu）",
+      "constraints": "None"
+    },
+    {
+      "participant": "E",
+      "restaurant": "レストランMOMO（モモ）",
+      "constraints": "None"
+    }
+  ]
+}

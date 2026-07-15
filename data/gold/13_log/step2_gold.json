@@ -1,0 +1,79 @@
+{
+  "mentioned_table": [
+    {
+      "participant": "A",
+      "restaurant": "下北しずる",
+      "mention": "Mentioned"
+    },
+    {
+      "participant": "A",
+      "restaurant": "餃子の王将 下北沢店",
+      "mention": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "ステーキ屋 松 下北沢店",
+      "mention": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "鶏肉食堂 ザ・トリフターズ ミカン下北店",
+      "mention": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "ピッツェリアエイト 下北沢",
+      "mention": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "下北しずる",
+      "mention": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "餃子の王将 下北沢店",
+      "mention": "Mentioned"
+    },
+    {
+      "participant": "B",
+      "restaurant": "ステーキ屋 松 下北沢店",
+      "mention": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "鶏肉食堂 ザ・トリフターズ ミカン下北店",
+      "mention": "Mentioned"
+    },
+    {
+      "participant": "B",
+      "restaurant": "ピッツェリアエイト 下北沢",
+      "mention": "Mentioned"
+    },
+    {
+      "participant": "C",
+      "restaurant": "下北しずる",
+      "mention": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "餃子の王将 下北沢店",
+      "mention": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "ステーキ屋 松 下北沢店",
+      "mention": "Mentioned"
+    },
+    {
+      "participant": "C",
+      "restaurant": "鶏肉食堂 ザ・トリフターズ ミカン下北店",
+      "mention": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "ピッツェリアエイト 下北沢",
+      "mention": "None"
+    }
+  ]
+}

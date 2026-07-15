@@ -1,0 +1,216 @@
+{
+  "preference_table": [
+    {
+      "participant": "A",
+      "restaurant": "菱田屋酒場",
+      "preferences": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "QUINDI（クインディ）",
+      "preferences": "A1"
+    },
+    {
+      "participant": "A",
+      "restaurant": "韓国農林水産大臣賞受賞 アス 下北沢店（아스）",
+      "preferences": "A1,A2"
+    },
+    {
+      "participant": "A",
+      "restaurant": "ビストロ ユウ（Bistro U）",
+      "preferences": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "グリルエフ",
+      "preferences": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "オステリアウララ（Osteria Urara）",
+      "preferences": "A1"
+    },
+    {
+      "participant": "A",
+      "restaurant": "韓国料理 中央シジャン",
+      "preferences": "A1"
+    },
+    {
+      "participant": "B",
+      "restaurant": "菱田屋酒場",
+      "preferences": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "QUINDI（クインディ）",
+      "preferences": "A7,A5,A1"
+    },
+    {
+      "participant": "B",
+      "restaurant": "韓国農林水産大臣賞受賞 アス 下北沢店（아스）",
+      "preferences": "A1,A2"
+    },
+    {
+      "participant": "B",
+      "restaurant": "ビストロ ユウ（Bistro U）",
+      "preferences": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "グリルエフ",
+      "preferences": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "オステリアウララ（Osteria Urara）",
+      "preferences": "A1,A1"
+    },
+    {
+      "participant": "B",
+      "restaurant": "韓国料理 中央シジャン",
+      "preferences": "A1"
+    },
+    {
+      "participant": "C",
+      "restaurant": "菱田屋酒場",
+      "preferences": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "QUINDI（クインディ）",
+      "preferences": "A1"
+    },
+    {
+      "participant": "C",
+      "restaurant": "韓国農林水産大臣賞受賞 アス 下北沢店（아스）",
+      "preferences": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "ビストロ ユウ（Bistro U）",
+      "preferences": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "グリルエフ",
+      "preferences": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "オステリアウララ（Osteria Urara）",
+      "preferences": "A1"
+    },
+    {
+      "participant": "C",
+      "restaurant": "韓国料理 中央シジャン",
+      "preferences": "None"
+    }
+  ],
+  "constraint_table": [
+    {
+      "participant": "A",
+      "restaurant": "菱田屋酒場",
+      "constraints": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "QUINDI（クインディ）",
+      "constraints": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "韓国農林水産大臣賞受賞 アス 下北沢店（아스）",
+      "constraints": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "ビストロ ユウ（Bistro U）",
+      "constraints": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "グリルエフ",
+      "constraints": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "オステリアウララ（Osteria Urara）",
+      "constraints": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "韓国料理 中央シジャン",
+      "constraints": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "菱田屋酒場",
+      "constraints": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "QUINDI（クインディ）",
+      "constraints": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "韓国農林水産大臣賞受賞 アス 下北沢店（아스）",
+      "constraints": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "ビストロ ユウ（Bistro U）",
+      "constraints": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "グリルエフ",
+      "constraints": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "オステリアウララ（Osteria Urara）",
+      "constraints": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "韓国料理 中央シジャン",
+      "constraints": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "菱田屋酒場",
+      "constraints": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "QUINDI（クインディ）",
+      "constraints": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "韓国農林水産大臣賞受賞 アス 下北沢店（아스）",
+      "constraints": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "ビストロ ユウ（Bistro U）",
+      "constraints": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "グリルエフ",
+      "constraints": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "オステリアウララ（Osteria Urara）",
+      "constraints": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "韓国料理 中央シジャン",
+      "constraints": "A5"
+    }
+  ]
+}

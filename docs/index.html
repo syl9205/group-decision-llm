@@ -1,0 +1,648 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Interactive Walkthrough — Four-Step LLM Analysis of a Group Chat</title>
+<style>
+  :root{
+    --bg:#f7f8fa; --panel:#ffffff; --ink:#1c2733; --muted:#6b7a8c; --soft:#8e9bab;
+    --line-bg:#7c96bd; --accent:#2563eb;
+    --a:#e8590c; --b:#0b7285; --c:#6741d9;
+    --ok:#2b8a3e; --bad:#c92a2a; --border:#e4e8ee;
+    --g5:#1c4fd6; --g4:#0e9488;
+  }
+  *{box-sizing:border-box; margin:0; padding:0}
+  html,body{height:100%}
+  body{font-family:"Segoe UI", -apple-system, "Helvetica Neue", "Hiragino Sans", "Noto Sans JP", sans-serif;
+       background:var(--bg); color:var(--ink); line-height:1.5;}
+  header.top{padding:14px 26px 12px; border-bottom:1px solid var(--border); background:var(--panel);}
+  header.top h1{font-size:18px}
+  header.top p{font-size:12.5px; color:var(--muted); max-width:980px; margin-top:3px}
+  .howto{display:flex; gap:8px; flex-wrap:wrap; margin-top:7px}
+  .howto span{font-size:11.5px; color:#37485c; background:#f1f5fb; border:1px solid #dbe5f2;
+              border-radius:20px; padding:3px 11px}
+  .wrap{display:flex; height:calc(100vh - 76px); min-height:540px;}
+
+  /* ---------------- chat ---------------- */
+  .chat{width:388px; min-width:330px; flex:0 0 auto; display:flex; flex-direction:column;
+        border-right:1px solid var(--border); background:var(--line-bg);}
+  .chat-head{background:#2c3e50; color:#fff; padding:10px 14px; font-size:14px; font-weight:600;
+             display:flex; align-items:center; gap:8px;}
+  .chat-head .cnt{font-weight:400; opacity:.75; font-size:12px}
+  .chat-head .outcome{font-size:10.5px; background:rgba(255,255,255,.15); border-radius:20px;
+                      padding:2px 9px; font-weight:500}
+  .fold{margin:2px 0 10px; text-align:center}
+  .fold button{font-size:11px; color:#33445c; background:#e9eef6; border:none; border-radius:20px;
+               padding:5px 13px; cursor:pointer}
+  .folded{display:none}
+  .divider{display:flex; align-items:center; gap:8px; color:#eef2f7; font-size:11px; font-weight:700;
+           margin:6px 0 12px; text-shadow:0 1px 1px rgba(0,0,0,.15)}
+  .divider::before,.divider::after{content:""; flex:1; height:1px; background:rgba(255,255,255,.45)}
+  .chat-head .lang{margin-left:auto;}
+  .lang button{border:1px solid rgba(255,255,255,.4); background:transparent; color:#fff;
+               font-size:11px; padding:3px 9px; border-radius:20px; cursor:pointer}
+  .lang button.on{background:#fff; color:#2c3e50; font-weight:600}
+  .msgs{flex:1; overflow-y:auto; padding:14px 12px 20px;}
+  .msg{display:flex; gap:8px; margin-bottom:10px; scroll-margin:60px;}
+  .avatar{width:32px; height:32px; border-radius:50%; flex:0 0 auto; color:#fff; font-weight:700;
+          font-size:14px; display:flex; align-items:center; justify-content:center; margin-top:16px;}
+  .msg.A .avatar{background:var(--a)} .msg.B .avatar{background:var(--b)} .msg.C .avatar{background:var(--c)}
+  .body{max-width:82%}
+  .name{font-size:10.5px; color:#eef2f7; margin:0 0 2px 4px; opacity:.9}
+  .bubble{background:#fff; border-radius:4px 14px 14px 14px; padding:7px 11px; font-size:13px;
+          box-shadow:0 1px 1px rgba(0,0,0,.12); white-space:pre-line; word-break:break-word;
+          transition:box-shadow .25s, transform .25s;}
+  .msg.hl .bubble, .msg.hl .linkcard{box-shadow:0 0 0 3px #ffd43b, 0 2px 6px rgba(0,0,0,.2); transform:translateX(2px);}
+  .msg .jp{display:none}
+  body.jp .msg .en{display:none} body.jp .msg .jp{display:block}
+  .linkcard{border:1px solid #dde3ea; border-radius:10px; overflow:hidden; margin-top:6px; background:#fff;
+            width:230px; transition:box-shadow .25s, transform .25s;}
+  .linkcard .lc-top{padding:8px 10px; font-weight:600; font-size:12.5px}
+  .linkcard .lc-top .rj{display:block; font-weight:400; color:var(--muted); font-size:11px}
+  .linkcard .lc-url{background:#f1f3f5; color:#4d637c; font-size:10px; padding:5px 10px;
+                    white-space:nowrap; overflow:hidden; text-overflow:ellipsis}
+  .sticker{font-size:42px; line-height:1; margin-top:14px}
+
+  /* ---------------- steps ---------------- */
+  .steps{flex:1; overflow-y:auto; padding:14px 28px 60px;}
+  .kgbar{display:flex; gap:4px; flex-wrap:wrap; margin-bottom:10px; align-items:center}
+  .kgstage{font-size:11px; font-weight:600; padding:4px 11px; border-radius:8px;
+           border:1px solid var(--border); color:var(--soft); background:var(--panel);}
+  .kgstage.on{background:var(--accent); border-color:var(--accent); color:#fff}
+  .kgstage .gloss{font-weight:400; opacity:.75; font-size:10px}
+  .kgarrow{color:#c3ccd6; font-size:10px}
+  .tabs{position:sticky; top:0; z-index:5; background:var(--bg); display:flex; gap:8px;
+        padding:2px 0 8px; flex-wrap:wrap;}
+  .tabs button{border:1px solid var(--border); background:var(--panel); border-radius:10px;
+               padding:7px 13px; font-size:13px; cursor:pointer; color:var(--muted); font-weight:600;}
+  .tabs button.on{background:var(--accent); border-color:var(--accent); color:#fff}
+  .legendbar{font-size:11.5px; color:var(--muted); padding:6px 0 12px;}
+  .panel{display:none; animation:fade .25s ease}
+  .panel.on{display:block}
+  @keyframes fade{from{opacity:0; transform:translateY(4px)} to{opacity:1}}
+  .panel h2{font-size:16px; margin-bottom:2px}
+  .panel .task{font-size:13px; color:var(--muted); margin-bottom:10px; max-width:800px}
+  .panel .task b{color:var(--ink)}
+  .flow{font-size:11.5px; color:var(--soft); margin-top:4px}
+  .card{background:var(--panel); border:1px solid var(--border); border-radius:14px;
+        padding:15px 18px; margin-bottom:12px;}
+  .card h3{font-size:13px; margin-bottom:10px; color:#37485c}
+  table.grid{border-collapse:collapse; width:100%; font-size:12.5px}
+  table.grid th, table.grid td{border:1px solid var(--border); padding:6px 7px; text-align:center; vertical-align:middle}
+  table.grid th{background:#f8fafc; font-size:11.5px}
+  table.grid th .rj{display:block; font-weight:400; color:var(--muted); font-size:10px}
+  table.grid td.rowh{background:#f8fafc; font-weight:700; width:40px}
+  td.rowh.A{color:var(--a)} td.rowh.B{color:var(--b)} td.rowh.C{color:var(--c)}
+  td.diff{background:#fffafa}
+
+  /* fixed-slot rows: every row lays out the full label domain in the same columns */
+  .slotcell{display:flex; flex-direction:column; gap:2px}
+  .slotrow{display:grid; gap:2px; align-items:center}
+  .rowtag{font-size:9px; font-weight:800; color:#9aa4b1; text-align:left; letter-spacing:.3px}
+  .dot{display:inline-block; width:8px; height:8px; border-radius:50%; vertical-align:middle}
+  .dot.g5{background:var(--g5)} .dot.g4{background:var(--g4)}
+  .micon{display:inline-flex; vertical-align:middle}
+  .slot{font-size:9.5px; font-weight:700; text-align:center; border-radius:5px; padding:1.5px 2px;
+        color:#ccd4dd; border:1px solid transparent; cursor:default;
+        opacity:0; transform:scale(.8); transition:opacity .3s ease, transform .3s ease}
+  .panel.on .slot{opacity:1; transform:scale(1)}
+  .slot.on-gt{background:#39424e; color:#fff}
+  .slot.on-match{background:#d9f4de; color:#2b8a3e; border-color:#9fd8ab}
+  .slot.on-extra{background:#fdeee0; color:#c05621; border-color:#f3c398}
+  .slot.miss{border:1px dashed #e0a9a9; color:#cf8f8f}
+
+  .chip{display:inline-block; border-radius:20px; padding:2px 10px; font-size:11.5px; font-weight:600;
+        background:#eef1f4; color:#39424e; opacity:0; transform:scale(.7);
+        transition:opacity .3s ease, transform .3s ease;}
+  .panel.on .chip{opacity:1; transform:scale(1)}
+  .mark{font-size:10.5px; font-weight:700}
+  .mark.ok{color:var(--ok)} .mark.bad{color:var(--bad)}
+  .mrow{font-size:11px; color:var(--muted); display:flex; gap:5px; align-items:center; flex-wrap:wrap;}
+  .mrow .chip{font-size:10px; padding:1px 7px}
+  .lists{display:flex; flex-wrap:wrap; gap:24px}
+  .lists .set{min-width:170px}
+  .lists .set .lab{font-size:10.5px; color:var(--soft); font-weight:700; text-transform:uppercase;
+                   letter-spacing:.5px; margin-bottom:6px}
+  .callout{font-size:12.5px; color:#415060; background:#fbfcfe; border:1px solid var(--border);
+           border-left:3px solid var(--accent); border-radius:8px; padding:8px 13px;
+           margin-bottom:12px; max-width:820px}
+  .callout b{color:var(--ink)}
+  .evbtn{font-size:11.5px; color:var(--accent); background:none; border:none; cursor:pointer;
+         padding:0; text-decoration:underline; margin-bottom:10px}
+  table.defs{border-collapse:collapse; font-size:12px; width:100%}
+  table.defs td{padding:4px 8px; border-bottom:1px solid #f0f2f5; text-align:left}
+  table.defs td.code{font-weight:700; width:64px; color:#37485c; white-space:nowrap}
+  table.defs td.emoji{width:26px}
+  .split{display:flex; gap:14px; flex-wrap:wrap; align-items:flex-start}
+
+  /* equation strip (paper Eq. 2 / Eq. 3) */
+  .eq{display:flex; gap:6px; align-items:stretch; flex-wrap:wrap; margin-bottom:14px}
+  .eqbox{border:1px solid var(--border); border-radius:10px; padding:6px 10px; text-align:center; background:#fbfcfe}
+  .eqbox .t{font-size:10px; color:var(--soft); font-weight:700; margin-bottom:3px; white-space:nowrap}
+  .eqbox .v{font-size:11px; color:#37485c; white-space:nowrap; text-align:left}
+  .eqop{font-weight:800; color:#9aa4b1; align-self:center; font-size:14px; padding:0 2px}
+  .eqbox.res{border-color:var(--accent); background:#f3f7ff}
+  .eqcap{font-size:10.5px; color:var(--soft); margin:-8px 0 12px}
+
+  /* vertical technique bars */
+  .vbars{display:flex; gap:26px; align-items:flex-end; padding:4px 6px 0; flex-wrap:wrap}
+  .vgroup{display:flex; flex-direction:column; align-items:center; gap:5px}
+  .vpair{display:flex; gap:6px; align-items:flex-end; height:118px}
+  .vcol{display:flex; flex-direction:column; align-items:center; justify-content:flex-end; height:100%}
+  .vval{font-size:9.5px; color:var(--muted); margin-bottom:2px; white-space:nowrap}
+  .vbar{width:17px; border-radius:4px 4px 0 0; transition:height .5s ease}
+  .vbar.g5{background:var(--g5)} .vbar.g4{background:var(--g4)}
+  .vtech{font-size:11px; font-weight:700; color:#37485c}
+  .board .sum{font-size:12px; color:#415060; margin-top:10px; max-width:680px}
+  details.board summary{font-size:13px; font-weight:700; color:#37485c; cursor:pointer}
+  details.board summary::marker{color:var(--soft)}
+  details.board .boardbody{margin-top:12px}
+  .bmetric{font-size:11px; color:var(--soft); font-weight:700; margin-bottom:8px;
+           text-transform:uppercase; letter-spacing:.4px}
+  .modelkey{font-size:11px; color:var(--muted); font-weight:400; margin-left:8px}
+  .star{color:#f59f00}
+  footer{font-size:11px; color:var(--muted); padding:10px 26px; border-top:1px solid var(--border); background:var(--panel)}
+  @media (max-width:900px){ .wrap{flex-direction:column; height:auto} .chat{width:100%; height:420px} }
+</style>
+</head>
+<body>
+<header class="top">
+  <h1>💬 → 📊 From Group Chat to Structured Decision Data</h1>
+  <p>Three friends chat on a messenger and end up choosing a restaurant. The four-step LLM framework turns
+     that chat into structured tables — compare them with the human annotation, step by step.</p>
+  <div class="howto"><span>1️⃣ Skim the chat on the left</span><span>2️⃣ Click through Steps 1.1 → 4</span>
+    <span>3️⃣ In each table, compare 👤 human vs 🤖 models</span></div>
+</header>
+
+<div class="wrap">
+  <!-- ================= chat ================= -->
+  <section class="chat">
+    <div class="chat-head">💬 Friends <span class="cnt">(3)</span>
+      <span class="outcome">🏆 Din Tai Fung</span>
+      <span class="lang"><button id="btn-en" class="on">EN</button> <button id="btn-jp">日本語</button></span>
+    </div>
+    <div class="msgs" id="msgs"></div>
+  </section>
+
+  <!-- ================= steps ================= -->
+  <section class="steps">
+    <div class="kgbar" id="kgbar"></div>
+    <div class="tabs" id="tabs"></div>
+    <div class="legendbar">Each cell shows three aligned rows over the full label set —
+      <span id="lg-h"></span> <b>human annotation</b> (ground truth) · <span id="lg-5"></span> <b>GPT-5</b> ·
+      <span id="lg-4"></span> <b>GPT-4o</b>. Highlighted slot = that row's label:
+      <span class="slot on-gt" style="opacity:1;transform:none">GT</span>
+      <span class="slot on-match" style="opacity:1;transform:none">= truth</span>
+      <span class="slot on-extra" style="opacity:1;transform:none">≠ truth</span>
+      <span class="slot miss" style="opacity:1;transform:none">missed</span> ·
+      cells with any disagreement are shaded. Hover a label for its definition.</div>
+    <div id="panels"></div>
+  </section>
+</div>
+
+<footer>
+  Model outputs = majority across all technique × iteration runs for this conversation · ★ = best technique
+  (basis of the pipeline's controlled selection) · speakers anonymized, English translated from the Japanese original.
+</footer>
+
+<script>
+/* ------------------------------------------------- data ------------------------------------------------- */
+const R = [
+  {key:"JDR",  en:"Jin Din Rou",        sub:"京鼎樓 そごう横浜店"},
+  {key:"MANIA",en:"Xiaolongbao Mania",  sub:"横濱小籠包マニア"},
+  {key:"DTF",  en:"Din Tai Fung",       sub:"鼎泰豐 高島屋横浜店"},
+];
+const P = ["A","B","C"];
+
+const KG = [
+  {name:"🧩 Entity Discovery",       gloss:"who & what",     sub:"Steps 1.1–1.2"},
+  {name:"🔗 Coreference Resolution", gloss:"first proposer", sub:"Step 2"},
+  {name:"🙂 Relation Extraction 1",  gloss:"feelings",       sub:"Step 3"},
+  {name:"🧠 Relation Extraction 2",  gloss:"reasons",        sub:"Step 4"},
+];
+
+/* label domains + definitions (from the paper / prompts) */
+const DEFS = {
+  Mentioned:["📣","First participant to bring this restaurant into the conversation"],
+  None2:["—","Not the first to mention it"],
+  Positive:["😊","Consistently positive emotional tone toward the restaurant"],
+  Negative:["😖","Consistently negative emotional tone"],
+  Neutral:["😐","Only neutral expressions, or no emotion shown"],
+  Mix:["🔀","Tone changed over the chat — both positive and negative expressions"],
+  Strong:["📢","Proposes own preference many times, insists with strong expressions"],
+  Moderate_s:["🙋","Proposes own preference, but not repeatedly, with normal expressions"],
+  Weak:["🤫","Doesn't propose own preference; has no ideas"],
+  Agreeable:["🤝","Often agrees with others' suggestions and changes own mind to follow"],
+  Moderate_r:["⚖️","No strong tendency to agree or disagree"],
+  Disagreeable:["🙅","Often disagrees; doesn't change own mind easily"],
+  A1:["🍜","Restaurant Quality — food, service, ambiance"],
+  A2:["🚉","Accessibility & Location"],
+  A3:["📅","Schedule Constraints"],
+  A4:["🤝","Social Utility for Consensus"],
+  A5:["🔁","Inertia — familiarity, prior visits"],
+  A6:["💴","Economic Considerations"],
+  A7:["✨","Others"],
+  None4:["—","No factor expressed in the conversation"],
+};
+const def = k => DEFS[k] ? `${DEFS[k][1]}` : "";
+
+const MSGS = [
+ {sp:"A", en:"Are you free on 11/26?",                                        jp:"11/26あいてる？"},
+ {sp:"B", en:"Wed & Fri are pretty tough for me — Tue/Thu usually work",      jp:"私は水、金がわりと厳しくて火木だとわりといける"},
+ {sp:"C", en:"Same for me",                                                   jp:"私も同じく"},
+ {sp:"B", en:"Can't do the 26th, sorry…",                                     jp:"26無理だわ〜ごめん、、"},
+ {sp:"B", en:"What about the 27th?",                                          jp:"27は？"},
+ {sp:"B", en:"Or 12/3 or 4?",                                                 jp:"それか、12/3,4"},
+ {sp:"A", en:"I think it has to be within two weeks!",                        jp:"2週間以内だと思う！"},
+ {sp:"B", en:"Oh right",                                                      jp:"そうじゃん"},
+ {sp:"C", en:"lol",                                                           jp:"笑"},
+ {sp:"C", en:"Maybe even tonight?",                                           jp:"わんちゃん今日の夜"},
+ {sp:"B", en:"That could work, but I don't know what time I can make it today, so… iffy", jp:"それはありよりだけど、ちょっと今日何時にいけるかわかんないからビミョいかも"},
+ {sp:"A", en:"Tonight's hard for me",                                         jp:"わたし厳しいや"},
+ {sp:"C", en:"Ah, gotcha",                                                    jp:"あそか"},
+ {sp:"A", en:"I could probably move my plans on the 29th",                    jp:"29の予定ならずらせそう"},
+ {sp:"B", en:"Anyway — weekdays 11/22, 24, or 12/1 work for me",              jp:"取り敢えず、\n11/22,24,12/1ならいけるよ平日"},
+ {sp:"A", en:"12/1 is best for me",                                           jp:"12/1が1番よい"},
+ {sp:"C", en:"I'm free on 12/1!",                                             jp:"12/11日空いてる！"},
+ {sp:"B", en:"Then let's make it 12/1",                                       jp:"じゃあ12/1にしましょ"},
+ {sp:"C", en:"2023/12/01 — I mean free all day",                              jp:"2023/12/01\n終日って意味ね"},
+ {sp:"A", en:"Okie!",                                                         jp:"おけみ！"},
+ {sp:"A", en:"Is Pau okay?",                                                  jp:"パウで良いかな？"},
+ {sp:"B", en:"Okay okay~",                                                    jp:"おけおけ〜"},
+ {sp:"A", en:"The Yokohama Pau?",                                             jp:"横浜パウ？"},
+ {sp:"B", en:"Yokohama or Shibuya, either's fine",                            jp:"横浜でも渋谷でも"},
+ {sp:"A", en:"Yokohama as usual would be great for me!",                      jp:"いつも通り横浜だとありがたい！"},
+ {sp:"A", en:"Around 7 pm??",                                                 jp:"19時とか？？"},
+ {sp:"C", en:"Yeah, sounds good",                                             jp:"うんいいね"},
+ {sp:"B", en:"Works for me!",                                                 jp:"いける！"},
+ {sp:"A", en:"", jp:"", type:"sticker"},
+ {sp:"A", en:"I'm craving xiaolongbao (soup dumplings)!",                     jp:"小籠包食べたい", ev:["s12"]},
+ {sp:"B", en:"Then I'll look for xiaolongbao places around Yokohama",         jp:"じゃあ取り敢えず横浜近辺で小籠包系のお店探すわ", ev:["s12"]},
+ {sp:"B", en:"…and we'll pick somewhere that looks good",                     jp:"で、良さげなところで"},
+ {sp:"A", en:"Yes! Let's do that!",                                           jp:"うん！そうしよ！", ev:["s12"]},
+ {sp:"C", en:"Okay",                                                          jp:"おっけ"},
+ {sp:"A", en:"", jp:"", type:"link", rest:"JDR", ev:["s11","s2"]},
+ {sp:"A", en:"Found this place",                                              jp:"こんなとこあったよ"},
+ {sp:"C", en:"", jp:"", type:"link", rest:"DTF", ev:["s11","s2"]},
+ {sp:"A", en:"Ooh, nice!",                                                    jp:"えーよい！", ev:["s3","s12"]},
+ {sp:"B", en:"That's the place I almost walked into by mistake once — looks good too", jp:"これ前私が間違て行きかけたとこだわ、ここも良さげ", ev:["s3"]},
+ {sp:"C", en:"This place is delicious!",                                      jp:"ここ美味しいの！", ev:["s3","s4"]},
+ {sp:"A", en:"I'm curious!!",                                                 jp:"気になる！！", ev:["s3"]},
+ {sp:"B", en:"", jp:"", type:"link", rest:"MANIA", ev:["s11","s2"]},
+ {sp:"B", en:"Is this the one we went to before?",                            jp:"前行ったのここだっけ？", ev:["s4"]},
+ {sp:"C", en:"Yeah, we did",                                                  jp:"行ったね"},
+ {sp:"B", en:"I want to hear what our foodie C says about it",                jp:"美食家のCがいうの気になる", ev:["s4"]},
+ {sp:"C", en:"I remember it not being that great",                            jp:"あんま美味しくなかった気がする", ev:["s3","s4","s12"]},
+ {sp:"B", en:"Oh — let's skip it then",                                       jp:"えじゃあやめよ", ev:["s3","s12"]},
+ {sp:"C", en:"lol",                                                           jp:"笑"},
+ {sp:"A", en:"Yeah, that's how it was!",                                      jp:"うん、そうだったよ！", ev:["s3"]},
+ {sp:"C", en:"A's pick sounds interesting too, but…",                         jp:"Aのも気になるけど", ev:["s3","s12"]},
+ {sp:"A", en:"Let's go with C's this time!",                                  jp:"今回はCのほうにしよ！", ev:["s11","s12","s4"]},
+ {sp:"A", en:"It's easy to get to from the station",                          jp:"駅から行きやすいし", ev:["s4"]},
+ {sp:"B", en:"True!",                                                         jp:"確かに、！", ev:["s12","s4"]},
+ {sp:"C", en:"Thanks~",                                                       jp:"ありがとう〜"},
+ {sp:"C", en:"Settled, then",                                                 jp:"じゃ決まりで", ev:["s11"]},
+ {sp:"B", en:"Agreed~",                                                       jp:"賛成〜", ev:["s12"]},
+ {sp:"C", en:"Wrap up around 9 pm?",                                          jp:"21時ぐらいに解散？"},
+ {sp:"A", en:"I went ahead and made it 11 pm!",                               jp:"23時にしちゃった！"},
+ {sp:"C", en:"Okie",                                                          jp:"おっけー"},
+];
+
+const LINKS = {
+  JDR:  {en:"Jin Din Rou — Sogo Yokohama 10F", jp:"京鼎樓 そごう横浜店", url:"tabelog.com/…/14009182/"},
+  DTF:  {en:"Din Tai Fung — Takashimaya Yokohama 8F", jp:"鼎泰豐 高島屋横浜店", url:"tabelog.com/…/14000058/"},
+  MANIA:{en:"Yokohama Xiaolongbao Mania", jp:"横濱小籠包マニア", url:"tabelog.com/…/14088108/"},
+};
+
+/* single-label grids: [gold, gpt5, gpt4o] */
+const GRID = {
+  s2: { title:"Mentioned Table — first proposer of each restaurant",
+        domain:[["Mentioned","Mentioned","Mentioned"],["None","None","None2"]],
+        vals:{ A:{JDR:["Mentioned","Mentioned","Mentioned"],MANIA:["None","None","None"],DTF:["None","None","None"]},
+               B:{JDR:["None","None","None"],MANIA:["Mentioned","Mentioned","Mentioned"],DTF:["None","None","None"]},
+               C:{JDR:["None","None","None"],MANIA:["None","None","None"],DTF:["Mentioned","Mentioned","Mentioned"]} } },
+  s3: { title:"Perception Table — sentiment per participant × restaurant",
+        domain:[["Positive","Positive","Positive"],["Negative","Negative","Negative"],["Neutral","Neutral","Neutral"],["Mix","Mix","Mix"]],
+        vals:{ A:{JDR:["Neutral","Neutral","Positive"],MANIA:["Positive","Negative","Neutral"],DTF:["Positive","Positive","Positive"]},
+               B:{JDR:["Neutral","Neutral","Positive"],MANIA:["Negative","Mix","Negative"],DTF:["Positive","Positive","Positive"]},
+               C:{JDR:["Neutral","Positive","Positive"],MANIA:["Negative","Negative","Negative"],DTF:["Positive","Positive","Positive"]} } },
+};
+/* step 4 factor sets [gold, gpt5, gpt4o] */
+const S4 = {
+  A:{JDR:[[],[],["A1","A2"]], MANIA:[["A7"],["A1","A5"],["A1"]], DTF:[["A7"],["A1","A2","A4"],["A1"]]},
+  B:{JDR:[[],[],["A1","A2"]], MANIA:[["A4"],["A4","A5"],["A1"]], DTF:[["A4"],["A1","A5"],["A1"]]},
+  C:{JDR:[[],["A1"],["A1"]],  MANIA:[["A1"],["A1","A5"],["A1"]], DTF:[["A4"],["A1","A5"],["A1"]]},
+};
+const S4DOMAIN = ["A1","A2","A3","A4","A5","A6","A7","None"];
+
+/* step 1.2: [gold, gpt5, gpt4o] per participant */
+const S12 = {
+  sug:{title:"Suggestion strength", domain:[["Strong","Strong","Strong"],["Moderate","Moderate","Moderate_s"],["Weak","Weak","Weak"]],
+       vals:{A:["Moderate","Moderate","Moderate"],B:["Moderate","Moderate","Moderate"],C:["Moderate","Moderate","Weak"]}},
+  res:{title:"Response attribute", domain:[["Agreeable","Agreeable","Agreeable"],["Moderate","Moderate","Moderate_r"],["Disagreeable","Disagreeable","Disagreeable"]],
+       vals:{A:["Agreeable","Agreeable","Agreeable"],B:["Agreeable","Agreeable","Agreeable"],C:["Moderate","Moderate","Agreeable"]}},
+};
+
+/* per-technique scores for THIS conversation (from the shipped score tables) */
+const TECH = {
+  s11:{techs:["ND","ZS","CoT"], metric:"Step 1.1 score",
+       g5:{ND:1.0, ZS:0.933, CoT:1.0}, g4:{ND:0.667, ZS:0.667, CoT:0.667},
+       sum:"GPT-5 near-perfect with every prompt; GPT-4o misses the chosen restaurant with all three — here the gap is <b>model capability, not prompt design</b>."},
+  s12:{techs:["ND","ZS","CoT"], metric:"Step 1.2 score",
+       g5:{ND:0.8, ZS:0.8, CoT:0.833}, g4:{ND:0.6, ZS:0.667, CoT:0.533},
+       sum:"GPT-5 stays in a narrow 0.80–0.83 band; GPT-4o swings 0.53–0.67 — weaker models are <b>more prompt-sensitive</b> on interpretive tasks (§4.1.2)."},
+  s2: {techs:["CoT","SR","PD","MoRE"], metric:"Mentioned-Table F1",
+       g5:{CoT:1.0, SR:1.0, PD:0.933, MoRE:1.0}, g4:{CoT:1.0, SR:0.667, PD:0.933, MoRE:1.0},
+       sum:"Both models can solve this step, but GPT-4o's Self-Refine run drops to 0.67 while GPT-5 never leaves 0.93–1.00."},
+  s3: {techs:["CoT","SR","PD","MoRE"], metric:"Perception score",
+       g5:{CoT:0.815, SR:0.8, PD:0.815, MoRE:0.8}, g4:{CoT:0.714, SR:0.714, PD:0.714, MoRE:0.714},
+       sum:"Flat across techniques for both models — the disagreements with humans are <b>systematic, not prompt artifacts</b>."},
+  s4: {techs:["CoT","SR","PD","MoRE"], metric:"Positive-F1 (integrated)",
+       g5:{CoT:0.273, SR:0.269, PD:0.233, MoRE:0.247}, g4:{CoT:0.167, SR:0.167, PD:0.167, MoRE:0.167},
+       sum:"Uniformly low: <b>no prompting technique rescues implicit-factor interpretation</b> — the paper's central limitation, visible in a single conversation."},
+};
+
+/* score-composition data (paper Eq. 2 / Eq. 3), shown for each model's ★ technique */
+const EQ = {
+  s11:{cap:"Paper Eq. 2 — values for each model's ★ technique (ND)",
+       parts:[["👥 Participants F1",[1.00,1.00]],["🍽️ Restaurants F1",[1.00,1.00]],["🎯 Chosen match",[1.00,0.00]]],
+       div:3, res:[1.00,0.67]},
+  s12:{cap:"Paper Eq. 3 — values for each model's ★ technique (GPT-5: CoT, GPT-4o: ZS)",
+       parts:[["🗣️ Suggestion F1",[0.73,0.67]],["💬 Response F1",[0.93,0.67]]],
+       div:2, res:[0.83,0.67]},
+};
+
+const STEPS = [
+ {id:"s11", tab:"🧩 Step 1.1", kg:0, h:"Step 1.1 · Who, which restaurants, and the final choice",
+  task:"Extract the <b>participants</b>, the <b>restaurant alternatives</b> (resolving shared links), and the <b>chosen restaurant</b> — the row/column space of every later table.",
+  flow:"→ carried forward: P* = {A, B, C}, R* = {3 restaurants}."},
+ {id:"s12", tab:"🗣️ Step 1.2", kg:0, h:"Step 1.2 · Egocentrism — how people push and respond",
+  task:"Per participant: <b>Suggestion</b> strength and <b>Response</b> attribute.",
+  flow:"→ carried forward: individual traits, added to the context of Steps 2–4."},
+ {id:"s2", tab:"🔗 Step 2", kg:1, h:"Step 2 · Who put each option on the table",
+  task:"Resolve every reference (URL, name variant, “C's pick”) and mark the <em>first</em> proposer of each restaurant — how the choice set was formed.",
+  flow:"→ carried forward: first-mention table."},
+ {id:"s3", tab:"🙂 Step 3", kg:2, h:"Step 3 · How everyone feels about each option",
+  task:"Per cell: the participant's overall emotional tone toward the restaurant. Interpretation starts here — and so do the disagreements with human annotators.",
+  flow:"→ context now includes Steps 1–2 (prompt chaining)."},
+ {id:"s4", tab:"🧠 Step 4", kg:3, h:"Step 4 · Why — the factors behind the feelings",
+  task:"The hardest step: per cell, the <b>reason codes A1–A7</b> (preference ∪ constraint). Humans read implicit cues; models over-attribute explicit ones.",
+  flow:"→ final output: the Interpretation Table."},
+];
+
+/* ------------------------------------------------- chat ------------------------------------------------- */
+const msgsEl = document.getElementById("msgs");
+const FOLD_UNTIL = 28;  // messages 0-27 = picking the date / meeting time
+const foldBox = document.createElement("div");
+foldBox.className = "folded"; foldBox.id = "foldbox";
+const foldBtn = document.createElement("div");
+foldBtn.className = "fold";
+const foldLabel = "🗓️ " + FOLD_UNTIL + " messages scheduling the date & time — tap to show";
+foldBtn.innerHTML = "<button>" + foldLabel + "</button>";
+foldBtn.onclick = ()=>{ foldBox.classList.toggle("folded");
+  foldBtn.querySelector("button").textContent = foldBox.classList.contains("folded")
+    ? foldLabel : "🗓️ hide the scheduling messages"; };
+msgsEl.appendChild(foldBtn); msgsEl.appendChild(foldBox);
+
+MSGS.forEach((m,i)=>{
+  if (i===FOLD_UNTIL){
+    const dv = document.createElement("div");
+    dv.className = "divider"; dv.id = "story-start";
+    dv.textContent = "🍜 the restaurant talk begins";
+    msgsEl.appendChild(dv);
+  }
+  const d = document.createElement("div");
+  d.className = "msg "+m.sp; d.id = "m"+i;
+  if (m.ev) d.dataset.ev = m.ev.join(" ");
+  let body = "";
+  if (m.type==="sticker"){ body = `<div class="sticker">🥟</div>`; }
+  else if (m.type==="link"){
+    const L = LINKS[m.rest];
+    body = `<div class="linkcard"><div class="lc-top"><span class="en">${L.en}<span class="rj">${L.jp}</span></span><span class="jp">${L.jp}</span></div><div class="lc-url">${L.url}</div></div>`;
+  } else {
+    body = `<div class="bubble"><span class="en">${m.en}</span><span class="jp">${m.jp}</span></div>`;
+  }
+  d.innerHTML = `<div class="avatar">${m.sp}</div><div class="body"><div class="name">${m.sp}</div>${body}</div>`;
+  (i < FOLD_UNTIL ? foldBox : msgsEl).appendChild(d);
+});
+
+/* ------------------------------------------------- slot renderers ------------------------------------------------- */
+const chip = v => `<span class="chip">${v}</span>`;
+const ROBOT = c => `<svg viewBox="0 0 24 24" width="13" height="13" aria-hidden="true" style="display:block"><path fill="${c}" d="M12 1.5a1 1 0 0 1 1 1V5h3.5A3.5 3.5 0 0 1 20 8.5v7a3.5 3.5 0 0 1-3.5 3.5h-9A3.5 3.5 0 0 1 4 15.5v-7A3.5 3.5 0 0 1 7.5 5H11V2.5a1 1 0 0 1 1-1Z"/><circle cx="9.2" cy="11.6" r="1.7" fill="#fff"/><circle cx="14.8" cy="11.6" r="1.7" fill="#fff"/><rect x="8" y="21" width="8" height="1.8" rx=".9" fill="${c}"/></svg>`;
+const HUMAN = `<svg viewBox="0 0 24 24" width="13" height="13" aria-hidden="true" style="display:block"><circle cx="12" cy="7.2" r="4.2" fill="#39424e"/><path d="M3.5 21.5a8.5 8.5 0 0 1 17 0Z" fill="#39424e"/></svg>`;
+const GTICON = `<span class="micon" title="Human annotation (ground truth)">${HUMAN}</span>`;
+const dot = m => m==="g5"
+  ? `<span class="micon" title="GPT-5">${ROBOT("#1c4fd6")}</span>`
+  : `<span class="micon" title="GPT-4o">${ROBOT("#0e9488")}</span>`;
+
+/* domain: array of [value, shortLabel, defKey]; sel: value or Set; gold: value or Set */
+function slotRow(prefix, domain, sel, gold, isGT){
+  const selSet  = sel  instanceof Set ? sel  : new Set([sel]);
+  const goldSet = gold instanceof Set ? gold : new Set([gold]);
+  const cells = domain.map(([v, short, dk])=>{
+    const on = selSet.has(v);
+    let cls = "slot";
+    if (on) cls += isGT ? " on-gt" : (goldSet.has(v) ? " on-match" : " on-extra");
+    else if (!isGT && goldSet.has(v)) cls += " miss";
+    return `<span class="${cls}" title="${v}: ${DEFS[dk]?DEFS[dk][1]:''}">${short}</span>`;
+  }).join("");
+  return `<div class="slotrow" style="grid-template-columns:20px repeat(${domain.length},minmax(0,1fr))">
+    <span class="rowtag">${prefix}</span>${cells}</div>`;
+}
+function slotCell(domain, gt, g5, g4){
+  return `<div class="slotcell">
+    ${slotRow(GTICON, domain, gt, gt, true)}
+    ${slotRow(dot("g5"), domain, g5, gt, false)}
+    ${slotRow(dot("g4"), domain, g4, gt, false)}</div>`;
+}
+function gridTable(key){
+  const g = GRID[key];
+  let h = `<table class="grid"><tr><th></th>` +
+    R.map(r=>`<th>${r.en}<span class="rj">${r.sub}</span></th>`).join("") + `</tr>`;
+  P.forEach(p=>{
+    h += `<tr><td class="rowh ${p}">${p}</td>`;
+    R.forEach(r=>{
+      const [gt, g5, g4] = g.vals[p][r.key];
+      const diff = (gt!==g5)||(gt!==g4);
+      h += `<td class="${diff?"diff":""}">${slotCell(g.domain, gt, g5, g4)}</td>`;
+    });
+    h += `</tr>`;
+  });
+  return h + `</table>`;
+}
+const s4dom = S4DOMAIN.map(v=>[v, v, v==="None"?"None4":v]);
+function s4set(a){ return new Set(a.length? a : ["None"]); }
+function s4Table(){
+  let h = `<table class="grid"><tr><th></th>` +
+    R.map(r=>`<th>${r.en}<span class="rj">${r.sub}</span></th>`).join("") + `</tr>`;
+  P.forEach(p=>{
+    h += `<tr><td class="rowh ${p}">${p}</td>`;
+    R.forEach(r=>{
+      const [gt, g5, g4] = S4[p][r.key];
+      const eq = a=>JSON.stringify([...a].sort());
+      const perfect = eq(gt)===eq(g5) && eq(gt)===eq(g4);
+      h += `<td class="${perfect?"":"diff"}">${slotCell(s4dom, s4set(gt), s4set(g5), s4set(g4))}</td>`;
+    });
+    h += `</tr>`;
+  });
+  return h + `</table>`;
+}
+function defsTable(keys){
+  return `<table class="defs">${keys.map(k=>{
+    const label = k.replace("None2","None").replace("None4","None").replace("Moderate_s","Moderate").replace("Moderate_r","Moderate");
+    return `<tr><td class="code">${label}</td><td class="emoji">${DEFS[k][0]}</td><td>${DEFS[k][1]}</td></tr>`;}).join("")}</table>`;
+}
+
+/* equation strip */
+function eqStrip(key){
+  const e = EQ[key];
+  const box = (t, vals, res)=>`<div class="eqbox${res?" res":""}"><div class="t">${t}</div>
+    <div class="v">${dot("g5")} ${vals[0].toFixed(2)}<br>${dot("g4")} ${vals[1].toFixed(2)}</div></div>`;
+  const parts = e.parts.map(p=>box(p[0], p[1])).join(`<span class="eqop">+</span>`);
+  return `<div class="eq"><span class="eqop">(</span>${parts}<span class="eqop">)</span>` +
+    `<span class="eqop">÷ ${e.div}</span><span class="eqop">=</span>${box("Score", e.res, true)}</div>` +
+    `<div class="eqcap">${e.cap}</div>`;
+}
+
+/* vertical technique bars */
+function board(key){
+  const t = TECH[key];
+  const best = m => Object.entries(t[m]).sort((a,b)=>b[1]-a[1])[0][0];
+  const b5 = best("g5"), b4 = best("g4");
+  const col = (m, tech, bestT)=>{
+    const v = t[m][tech];
+    return `<div class="vcol"><span class="vval">${v.toFixed(2)}${tech===bestT?' <span class="star">★</span>':''}</span>
+      <span class="vbar ${m}" style="height:${Math.max(4, v*100)}px"></span></div>`;
+  };
+  const groups = t.techs.map(tech=>`<div class="vgroup"><div class="vpair">
+      ${col("g5",tech,b5)}${col("g4",tech,b4)}</div><span class="vtech">${tech}</span></div>`).join("");
+  const eq = EQ[key] ? eqStrip(key) : "";
+  return `<details class="card board"><summary>🎛️ For the curious — prompt robustness & how this score is computed
+      <span class="modelkey">${dot("g5")} GPT-5&nbsp;&nbsp;${dot("g4")} GPT-4o</span></summary>
+    <div class="boardbody"><div class="bmetric">${t.metric} — this conversation</div>
+    ${eq}<div class="vbars">${groups}</div><div class="sum">${t.sum}</div></div></details>`;
+}
+
+/* ------------------------------------------------- panels ------------------------------------------------- */
+function panelHTML(s){
+  let inner = "";
+  if (s.id==="s11"){
+    inner = `<div class="card"><h3>Extracted entities</h3>
+      <div class="lists">
+        <div class="set"><div class="lab">Participants</div>${["A","B","C"].map(chip).join(" ")}
+          <div style="margin-top:6px" class="mrow">${dot("g5")}${dot("g4")}<span class="mark ok">✓</span></div></div>
+        <div class="set"><div class="lab">Alternatives</div>
+          ${R.map(r=>chip(r.en)).join(" ")}
+          <div style="margin-top:6px" class="mrow">${dot("g5")}${dot("g4")}<span class="mark ok">✓</span></div></div>
+        <div class="set"><div class="lab">Chosen restaurant</div>${chip("Din Tai Fung")}
+          <div style="margin-top:6px" class="mrow">${dot("g5")}<span class="mark ok">✓</span>
+            &nbsp;${dot("g4")}${chip("Jin Din Rou")}<span class="mark bad">✗</span></div></div>
+      </div></div>
+      <div class="callout">💡 The candidates were shared as bare URLs, so the models must resolve each link
+      against the chat's link table. Both extract the lists perfectly — but the decision is only stated as
+      “let's go with <b>C's</b>”, and GPT-4o resolves that reference to the wrong restaurant in every run.</div>`;
+  } else if (s.id==="s12"){
+    const mini = k=>{
+      const m = S12[k];
+      return `<div class="card" style="flex:2 1 340px"><h3>${m.title}</h3>
+        <table class="grid">${P.map(p=>{
+          const [gt,g5v,g4v] = m.vals[p];
+          const diff = (gt!==g5v)||(gt!==g4v);
+          return `<tr><td class="rowh ${p}">${p}</td><td class="${diff?"diff":""}">${slotCell(m.domain, gt, g5v, g4v)}</td></tr>`;}).join("")}
+        </table></div>`;
+    };
+    inner = `<div class="split" style="margin-bottom:12px">${mini("sug")}
+        <div class="card" style="flex:1 1 300px"><h3>📖 Suggestion — claims of one's own preference</h3>
+          ${defsTable(["Strong","Moderate_s","Weak"])}</div></div>
+      <div class="split" style="margin-bottom:12px">${mini("res")}
+        <div class="card" style="flex:1 1 300px"><h3>📖 Response — reactions to others' claims</h3>
+          ${defsTable(["Agreeable","Moderate_r","Disagreeable"])}</div></div>
+      <div class="callout">💡 Everyone proposes, nobody insists (→ all Moderate suggestions). C pushes back
+      once — “not that great” — killing a candidate (→ Moderate response). GPT-5 reproduces the human
+      reading; GPT-4o flattens C into Weak / Agreeable, missing that one decisive objection.</div>`;
+  } else if (s.id==="s3"){
+    inner = `<div class="split">
+      <div class="card" style="flex:2 1 480px"><h3>${GRID.s3.title}</h3>${gridTable("s3")}</div>
+      <div class="card" style="flex:1 1 280px"><h3>📖 Sentiment labels (as defined in the prompt)</h3>
+        ${defsTable(["Positive","Negative","Neutral","Mix"])}</div></div>
+      <div class="callout" style="margin-top:12px">💡 Divergences appear: humans read A's “I'm curious!!”
+      as Positive, but GPT-5 weighs the later group rejection (→ Negative), GPT-4o hedges (→ Neutral).
+      GPT-4o also inflates Jin Din Rou to Positive for everyone — the “LLMs read groups as more positive
+      than humans do” pattern of §4.2.</div>`;
+  } else if (s.id==="s4"){
+    inner = `<div class="split">
+      <div class="card" style="flex:2 1 520px"><h3>Interpretation Table — reason codes per cell</h3>${s4Table()}</div>
+      <div class="card" style="flex:1 1 300px"><h3>📖 Factor codes</h3>
+        ${defsTable(["A1","A2","A3","A4","A5","A6","A7","None4"])}</div></div>
+    <div class="callout" style="margin-top:12px">💡 Humans coded the winning pick as 🤝 A4 (consensus) and
+    ✨ A7 (“craving xiaolongbao”); both models over-attribute 🍜 A1 everywhere — GPT-5 adds 🔁 A5, GPT-4o even
+    labels the never-discussed Jin Din Rou. Sparse green is what Positive-F1 ≈ 0.2–0.3 looks like, cell by cell.</div>`;
+  } else {
+    inner = `<div class="card"><h3>${GRID.s2.title}</h3>${gridTable("s2")}</div>
+      <div class="callout">💡 Both models solve the whole grid — resolving three bare URLs and
+      “A's pick / C's pick” back to the right proposers. Explicit, text-anchored tasks are where LLMs
+      match human annotation.</div>`;
+  }
+  return `<div class="panel" id="p-${s.id}">
+    <h2>${s.h}</h2><p class="task">${s.task}</p>
+    <button class="evbtn" data-ev="${s.id}">✦ scroll to the evidence (already highlighted in the chat)</button>
+    ${inner}${board(s.id)}<div class="flow">${s.flow}</div></div>`;
+}
+
+document.getElementById("lg-h").innerHTML = GTICON;
+document.getElementById("lg-5").innerHTML = dot("g5");
+document.getElementById("lg-4").innerHTML = dot("g4");
+
+/* KG stage bar */
+const kgbar = document.getElementById("kgbar");
+KG.forEach((k,i)=>{
+  if(i) kgbar.insertAdjacentHTML("beforeend", `<span class="kgarrow">▶</span>`);
+  kgbar.insertAdjacentHTML("beforeend",
+    `<span class="kgstage" id="kg-${i}" title="${k.sub}">${k.name} <span class="gloss">· ${k.gloss}</span></span>`);
+});
+
+const tabsEl = document.getElementById("tabs");
+const panelsEl = document.getElementById("panels");
+STEPS.forEach((s,i)=>{
+  const b = document.createElement("button");
+  b.textContent = s.tab; b.dataset.id = s.id; if(i===0) b.classList.add("on");
+  b.onclick = ()=>selectStep(s.id);
+  tabsEl.appendChild(b);
+  panelsEl.insertAdjacentHTML("beforeend", panelHTML(s));
+});
+document.getElementById("p-s11").classList.add("on");
+document.getElementById("kg-0").classList.add("on");
+
+function highlightEvidence(id, scroll){
+  clearHl();
+  let first = null;
+  document.querySelectorAll(".msg").forEach(m=>{
+    if ((m.dataset.ev||"").split(" ").includes(id)){ m.classList.add("hl"); if(!first) first = m; }
+  });
+  if (scroll && first) first.scrollIntoView({behavior:"smooth", block:"center"});
+}
+function selectStep(id){
+  document.querySelectorAll(".tabs button").forEach(b=>b.classList.toggle("on", b.dataset.id===id));
+  document.querySelectorAll(".panel").forEach(p=>p.classList.toggle("on", p.id==="p-"+id));
+  const s = STEPS.find(x=>x.id===id);
+  KG.forEach((k,i)=>document.getElementById("kg-"+i).classList.toggle("on", i===s.kg));
+  highlightEvidence(id, false);   // evidence lights up automatically; the button scrolls to it
+}
+function clearHl(){ document.querySelectorAll(".msg.hl").forEach(m=>m.classList.remove("hl")); }
+document.addEventListener("click", e=>{
+  const b = e.target.closest(".evbtn"); if(!b) return;
+  highlightEvidence(b.dataset.ev, true);
+});
+
+/* open the chat at the restaurant part */
+requestAnimationFrame(()=>{ const d = document.getElementById("story-start");
+  if (d) msgsEl.scrollTop = d.offsetTop - 8; });
+
+document.getElementById("btn-en").onclick = ()=>{ document.body.classList.remove("jp");
+  document.getElementById("btn-en").classList.add("on"); document.getElementById("btn-jp").classList.remove("on"); };
+document.getElementById("btn-jp").onclick = ()=>{ document.body.classList.add("jp");
+  document.getElementById("btn-jp").classList.add("on"); document.getElementById("btn-en").classList.remove("on"); };
+</script>
+</body>
+</html>

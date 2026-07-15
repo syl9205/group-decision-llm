@@ -1,0 +1,124 @@
+{
+  "perception_table": [
+    {
+      "participant": "A",
+      "restaurant": "波の",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "A",
+      "restaurant": "渋谷カオマンガイ",
+      "perception": "Positive"
+    },
+    {
+      "participant": "A",
+      "restaurant": "ごちとん",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "A",
+      "restaurant": "トムボーイ 106 モアイカフェ 渋谷道玄坂店（TOM BOY 106）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "A",
+      "restaurant": "麗郷 渋谷店（レイキョウ）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "A",
+      "restaurant": "はやし",
+      "perception": "Positive"
+    },
+    {
+      "participant": "B",
+      "restaurant": "波の",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "B",
+      "restaurant": "渋谷カオマンガイ",
+      "perception": "Positive"
+    },
+    {
+      "participant": "B",
+      "restaurant": "ごちとん",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "B",
+      "restaurant": "トムボーイ 106 モアイカフェ 渋谷道玄坂店（TOM BOY 106）",
+      "perception": "Positive"
+    },
+    {
+      "participant": "B",
+      "restaurant": "麗郷 渋谷店（レイキョウ）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "B",
+      "restaurant": "はやし",
+      "perception": "Positive"
+    },
+    {
+      "participant": "C",
+      "restaurant": "波の",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "C",
+      "restaurant": "渋谷カオマンガイ",
+      "perception": "Positive"
+    },
+    {
+      "participant": "C",
+      "restaurant": "ごちとん",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "C",
+      "restaurant": "トムボーイ 106 モアイカフェ 渋谷道玄坂店（TOM BOY 106）",
+      "perception": "Negative"
+    },
+    {
+      "participant": "C",
+      "restaurant": "麗郷 渋谷店（レイキョウ）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "C",
+      "restaurant": "はやし",
+      "perception": "Positive"
+    },
+    {
+      "participant": "D",
+      "restaurant": "波の",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "D",
+      "restaurant": "渋谷カオマンガイ",
+      "perception": "Positive"
+    },
+    {
+      "participant": "D",
+      "restaurant": "ごちとん",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "D",
+      "restaurant": "トムボーイ 106 モアイカフェ 渋谷道玄坂店（TOM BOY 106）",
+      "perception": "Negative"
+    },
+    {
+      "participant": "D",
+      "restaurant": "麗郷 渋谷店（レイキョウ）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "D",
+      "restaurant": "はやし",
+      "perception": "Negative"
+    }
+  ]
+}

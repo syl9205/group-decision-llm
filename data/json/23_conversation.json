@@ -1,0 +1,215 @@
+{
+  "conversation_id": "23",
+  "conversation": [
+    {
+      "speaker": "A",
+      "utterance": "夜空いてる日\n\"27\n12/3\n12/4\""
+    },
+    {
+      "speaker": "B",
+      "utterance": "3,4だめでしたすみません"
+    },
+    {
+      "speaker": "C",
+      "utterance": "27"
+    },
+    {
+      "speaker": "A",
+      "utterance": "じゃあ27かな"
+    },
+    {
+      "speaker": "B",
+      "utterance": "やった\nはやい\n何時でも大丈夫"
+    },
+    {
+      "speaker": "A",
+      "utterance": "何時からでも"
+    },
+    {
+      "speaker": "C",
+      "utterance": "無難に18:00"
+    },
+    {
+      "speaker": "A",
+      "utterance": "それで"
+    },
+    {
+      "speaker": "C",
+      "utterance": "日曜営業だと割と絞られる"
+    },
+    {
+      "speaker": "A",
+      "utterance": "\"モロッコ料理の台所 エンリケマルエコス"
+    },
+    {
+      "speaker": "https",
+      "utterance": "//maps.apple.com/?address=%E3%80%92155-0031,%20%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA,%20%E5%8C%97%E6%B2%A23-1-15&auid=9842171841728110485&ll=35.665994,139.672793&lsp=9902&q=%E3%83%A2%E3%83%AD%E3%83%83%E3%82%B3%E6%96%99%E7%90%86%E3%81%AE%E5%8F%B0%E6%89%80%20%E3%82%A8%E3%83%B3%E3%83%AA%E3%82%B1%E3%83%9E%E3%83%AB%E3%82%A8%E3%82%B3%E3%82%B9&_ext=CjEKBAgEEAoKBAgFEAMKBAgGEBQKBAgKEAAKBAhSEAEKBAhVEBAKBAhZEAMKBQikARABEiYpCYEBGqzUQUAxoiQXOlp1YUA5h1YndtLVQUBByFqazrR1YUBQBA%3D%3D\""
+    },
+    {
+      "speaker": "C",
+      "utterance": "日曜営業のとこさがそう"
+    },
+    {
+      "speaker": "B",
+      "utterance": "\"場所は東京だったらどこでもいいけど根津のマプール気になってた"
+    },
+    {
+      "speaker": "https",
+      "utterance": "//goo.gl/maps/NRQSkTBerP3Dexxq9\""
+    },
+    {
+      "speaker": "B",
+      "utterance": "あでも高すぎ8000くらいするなすみません、もっとちょうどいい値段のあれば"
+    },
+    {
+      "speaker": "C",
+      "utterance": "\"ポップ ガストロノミー レインカラー\n050-5570-3580\n東京都目黒区鷹番3-3-14 Roof B1F"
+    },
+    {
+      "speaker": "https",
+      "utterance": "//tabelog.com/tokyo/A1317/A131702/13261806/\""
+    },
+    {
+      "speaker": "C",
+      "utterance": "予算5000円くらいで組もう"
+    },
+    {
+      "speaker": "B",
+      "utterance": "えおしゃれ"
+    },
+    {
+      "speaker": "A",
+      "utterance": "僕は以上で"
+    },
+    {
+      "speaker": "C",
+      "utterance": "\"浅草 ASA虎\n050-5890-4373\n東京都台東区花川戸1-8-11"
+    },
+    {
+      "speaker": "https",
+      "utterance": "//tabelog.com/tokyo/A1311/A131102/13259649/\""
+    },
+    {
+      "speaker": "C",
+      "utterance": "ちょいまち"
+    },
+    {
+      "speaker": "B",
+      "utterance": "いいな普通にお酒飲みたい感じある"
+    },
+    {
+      "speaker": "C",
+      "utterance": "こんなもんだわ"
+    },
+    {
+      "speaker": "B",
+      "utterance": "これめちゃくちゃめちゃいい"
+    },
+    {
+      "speaker": "A",
+      "utterance": "じゃあ以上で！"
+    },
+    {
+      "speaker": "B",
+      "utterance": "ごめんさっき店の感想とか言っちゃいけなかったのか"
+    },
+    {
+      "speaker": "A",
+      "utterance": "後ろ２つちょうど良さそうだったな"
+    },
+    {
+      "speaker": "C",
+      "utterance": "私は自分が出したところどっちも行きたくてどっちも予約空いてる"
+    },
+    {
+      "speaker": "B",
+      "utterance": "小洒落単品メニューとお酒みたいなの好きすぎ、ポップとあさとら推しです"
+    },
+    {
+      "speaker": "A",
+      "utterance": "どっちにしよう\nどっちかというとポップ気になる"
+    },
+    {
+      "speaker": "C",
+      "utterance": "どっちも日本酒飲める"
+    },
+    {
+      "speaker": "B",
+      "utterance": "A学芸大前遠いとかない？"
+    },
+    {
+      "speaker": "A",
+      "utterance": "たいして"
+    },
+    {
+      "speaker": "B",
+      "utterance": "お"
+    },
+    {
+      "speaker": "C",
+      "utterance": "ポップにするか"
+    },
+    {
+      "speaker": "B",
+      "utterance": "したい"
+    },
+    {
+      "speaker": "C",
+      "utterance": "します"
+    },
+    {
+      "speaker": "B",
+      "utterance": "日本酒飲もう\n決定"
+    },
+    {
+      "speaker": "C",
+      "utterance": "(写真)\n17:00or19:00\n19:00の方がのんびりできるのかな？"
+    },
+    {
+      "speaker": "A",
+      "utterance": "大丈夫"
+    },
+    {
+      "speaker": "C",
+      "utterance": "19:00にする？"
+    },
+    {
+      "speaker": "B",
+      "utterance": "私も平気"
+    },
+    {
+      "speaker": "A",
+      "utterance": "19で"
+    },
+    {
+      "speaker": "C",
+      "utterance": "では11/2719:00"
+    },
+    {
+      "speaker": "A",
+      "utterance": "\"モロッコ料理の台所　エンリケマルエコス\n03-3467-1106\n東京都世田谷区北沢3-1-15"
+    },
+    {
+      "speaker": "https",
+      "utterance": "//tabelog.com/tokyo/A1318/A131811/13103794/\""
+    }
+  ],
+  "info": [
+    {
+      "website": "https://tabelog.com/tokyo/A1317/A131702/13261806/",
+      "restaurant": "ポップ ガストロノミー レインカラー"
+    },
+    {
+      "website": "https://tabelog.com/tokyo/A1311/A131102/13259649/",
+      "restaurant": "浅草 ASA虎"
+    },
+    {
+      "website": "https://tabelog.com/tokyo/A1310/A131004/13206266/",
+      "restaurant": "マ プール（Ma Poule）"
+    },
+    {
+      "website": "https://tabelog.com/tokyo/A1318/A131811/13103794/",
+      "restaurant": "モロッコ料理の台所　エンリケマルエコス"
+    }
+  ]
+}

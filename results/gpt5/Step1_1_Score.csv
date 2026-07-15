@@ -1,0 +1,148 @@
+﻿Metric,Conversation_ID,CoT,ND,ZS
+Binary_Final Restaurant,1,1.0,1.0,0.8
+Binary_Final Restaurant,3,1.0,1.0,1.0
+Binary_Final Restaurant,4,0.4,0.0,0.4
+Binary_Final Restaurant,5,1.0,1.0,1.0
+Binary_Final Restaurant,6,1.0,1.0,1.0
+Binary_Final Restaurant,7,1.0,1.0,1.0
+Binary_Final Restaurant,8,1.0,1.0,1.0
+Binary_Final Restaurant,9,1.0,1.0,1.0
+Binary_Final Restaurant,10,1.0,1.0,1.0
+Binary_Final Restaurant,11,1.0,1.0,1.0
+Binary_Final Restaurant,12,1.0,1.0,1.0
+Binary_Final Restaurant,13,1.0,1.0,1.0
+Binary_Final Restaurant,14,1.0,1.0,1.0
+Binary_Final Restaurant,15,1.0,1.0,1.0
+Binary_Final Restaurant,16,1.0,0.8,1.0
+Binary_Final Restaurant,17,1.0,1.0,1.0
+Binary_Final Restaurant,18,1.0,1.0,1.0
+Binary_Final Restaurant,19,1.0,1.0,1.0
+Binary_Final Restaurant,20,1.0,1.0,0.8
+Binary_Final Restaurant,21,1.0,1.0,1.0
+Binary_Final Restaurant,22,1.0,0.8,1.0
+Binary_Final Restaurant,23,1.0,1.0,1.0
+Binary_Final Restaurant,24,1.0,1.0,1.0
+Binary_Final Restaurant,25,1.0,1.0,1.0
+Binary_Final Restaurant,26,1.0,1.0,1.0
+Binary_Final Restaurant,28,1.0,1.0,1.0
+Binary_Final Restaurant,29,1.0,1.0,1.0
+Binary_Final Restaurant,31,1.0,0.2,0.8
+Binary_Final Restaurant,32,1.0,1.0,1.0
+Binary_Final Restaurant,33,1.0,1.0,1.0
+Binary_Final Restaurant,34,1.0,1.0,1.0
+Binary_Final Restaurant,35,1.0,1.0,1.0
+Binary_Final Restaurant,36,1.0,1.0,1.0
+Binary_Final Restaurant,37,1.0,1.0,1.0
+Binary_Final Restaurant,39,1.0,1.0,1.0
+Binary_Final Restaurant,41,0.4,0.4,0.6
+Binary_Final Restaurant,42,1.0,1.0,1.0
+Binary_Final Restaurant,44,1.0,1.0,1.0
+Binary_Final Restaurant,46,0.0,0.2,0.8
+Binary_Final Restaurant,48,1.0,1.0,1.0
+Binary_Final Restaurant,49,1.0,1.0,1.0
+Binary_Final Restaurant,55,1.0,1.0,1.0
+Binary_Final Restaurant,57,1.0,1.0,1.0
+Binary_Final Restaurant,67,1.0,1.0,1.0
+Binary_Final Restaurant,77,1.0,1.0,1.0
+Binary_Final Restaurant,93,1.0,1.0,1.0
+Binary_Final Restaurant,94,1.0,1.0,1.0
+Binary_Final Restaurant,Average,0.953,0.923,0.962
+Binary_Final Restaurant,Std,0.187,0.231,0.115
+F1_Participants,1,1.0,1.0,1.0
+F1_Participants,3,1.0,1.0,1.0
+F1_Participants,4,1.0,1.0,1.0
+F1_Participants,5,1.0,1.0,1.0
+F1_Participants,6,1.0,1.0,1.0
+F1_Participants,7,1.0,1.0,1.0
+F1_Participants,8,1.0,1.0,1.0
+F1_Participants,9,1.0,1.0,1.0
+F1_Participants,10,1.0,1.0,1.0
+F1_Participants,11,1.0,1.0,1.0
+F1_Participants,12,1.0,1.0,1.0
+F1_Participants,13,1.0,1.0,1.0
+F1_Participants,14,1.0,1.0,1.0
+F1_Participants,15,1.0,1.0,1.0
+F1_Participants,16,1.0,1.0,1.0
+F1_Participants,17,1.0,1.0,1.0
+F1_Participants,18,1.0,1.0,1.0
+F1_Participants,19,1.0,1.0,1.0
+F1_Participants,20,1.0,1.0,1.0
+F1_Participants,21,1.0,1.0,1.0
+F1_Participants,22,1.0,1.0,1.0
+F1_Participants,23,1.0,1.0,1.0
+F1_Participants,24,1.0,1.0,1.0
+F1_Participants,25,1.0,1.0,1.0
+F1_Participants,26,1.0,1.0,1.0
+F1_Participants,28,1.0,1.0,1.0
+F1_Participants,29,1.0,1.0,1.0
+F1_Participants,31,1.0,1.0,1.0
+F1_Participants,32,1.0,1.0,1.0
+F1_Participants,33,1.0,1.0,1.0
+F1_Participants,34,1.0,1.0,1.0
+F1_Participants,35,1.0,1.0,1.0
+F1_Participants,36,1.0,1.0,1.0
+F1_Participants,37,1.0,1.0,1.0
+F1_Participants,39,1.0,1.0,1.0
+F1_Participants,41,1.0,1.0,1.0
+F1_Participants,42,1.0,1.0,1.0
+F1_Participants,44,1.0,1.0,1.0
+F1_Participants,46,1.0,1.0,1.0
+F1_Participants,48,1.0,1.0,1.0
+F1_Participants,49,1.0,1.0,1.0
+F1_Participants,55,1.0,1.0,1.0
+F1_Participants,57,1.0,1.0,1.0
+F1_Participants,67,1.0,1.0,1.0
+F1_Participants,77,1.0,1.0,1.0
+F1_Participants,93,1.0,1.0,1.0
+F1_Participants,94,1.0,1.0,1.0
+F1_Participants,Average,1.0,1.0,1.0
+F1_Participants,Std,0.0,0.0,0.0
+F1_Restaurants,1,1.0,1.0,1.0
+F1_Restaurants,3,1.0,1.0,1.0
+F1_Restaurants,4,1.0,1.0,1.0
+F1_Restaurants,5,1.0,1.0,1.0
+F1_Restaurants,6,1.0,1.0,1.0
+F1_Restaurants,7,1.0,1.0,1.0
+F1_Restaurants,8,1.0,1.0,1.0
+F1_Restaurants,9,0.878,0.878,0.909
+F1_Restaurants,10,1.0,1.0,1.0
+F1_Restaurants,11,1.0,1.0,1.0
+F1_Restaurants,12,1.0,1.0,1.0
+F1_Restaurants,13,1.0,1.0,1.0
+F1_Restaurants,14,1.0,1.0,1.0
+F1_Restaurants,15,1.0,1.0,1.0
+F1_Restaurants,16,1.0,1.0,1.0
+F1_Restaurants,17,1.0,0.988,1.0
+F1_Restaurants,18,1.0,1.0,1.0
+F1_Restaurants,19,1.0,1.0,1.0
+F1_Restaurants,20,1.0,1.0,1.0
+F1_Restaurants,21,1.0,1.0,1.0
+F1_Restaurants,22,1.0,1.0,1.0
+F1_Restaurants,23,1.0,1.0,1.0
+F1_Restaurants,24,1.0,1.0,1.0
+F1_Restaurants,25,1.0,1.0,1.0
+F1_Restaurants,26,1.0,1.0,1.0
+F1_Restaurants,28,1.0,1.0,1.0
+F1_Restaurants,29,1.0,1.0,1.0
+F1_Restaurants,31,1.0,1.0,1.0
+F1_Restaurants,32,1.0,1.0,1.0
+F1_Restaurants,33,1.0,1.0,1.0
+F1_Restaurants,34,1.0,1.0,1.0
+F1_Restaurants,35,1.0,1.0,1.0
+F1_Restaurants,36,1.0,1.0,1.0
+F1_Restaurants,37,1.0,1.0,1.0
+F1_Restaurants,39,1.0,1.0,1.0
+F1_Restaurants,41,1.0,1.0,1.0
+F1_Restaurants,42,1.0,1.0,1.0
+F1_Restaurants,44,1.0,1.0,1.0
+F1_Restaurants,46,1.0,1.0,1.0
+F1_Restaurants,48,1.0,1.0,1.0
+F1_Restaurants,49,1.0,1.0,1.0
+F1_Restaurants,55,1.0,1.0,1.0
+F1_Restaurants,57,1.0,1.0,1.0
+F1_Restaurants,67,1.0,1.0,1.0
+F1_Restaurants,77,0.964,0.927,0.982
+F1_Restaurants,93,1.0,1.0,1.0
+F1_Restaurants,94,1.0,1.0,1.0
+F1_Restaurants,Average,0.997,0.996,0.998
+F1_Restaurants,Std,0.018,0.021,0.013

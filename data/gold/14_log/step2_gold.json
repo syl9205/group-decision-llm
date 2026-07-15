@@ -1,0 +1,109 @@
+{
+  "mentioned_table": [
+    {
+      "participant": "A",
+      "restaurant": "菱田屋酒場",
+      "mention": "Mentioned"
+    },
+    {
+      "participant": "A",
+      "restaurant": "QUINDI（クインディ）",
+      "mention": "Mentioned"
+    },
+    {
+      "participant": "A",
+      "restaurant": "韓国農林水産大臣賞受賞 アス 下北沢店（아스）",
+      "mention": "Mentioned"
+    },
+    {
+      "participant": "A",
+      "restaurant": "ビストロ ユウ（Bistro U）",
+      "mention": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "グリルエフ",
+      "mention": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "オステリアウララ（Osteria Urara）",
+      "mention": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "韓国料理 中央シジャン",
+      "mention": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "菱田屋酒場",
+      "mention": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "QUINDI（クインディ）",
+      "mention": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "韓国農林水産大臣賞受賞 アス 下北沢店（아스）",
+      "mention": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "ビストロ ユウ（Bistro U）",
+      "mention": "Mentioned"
+    },
+    {
+      "participant": "B",
+      "restaurant": "グリルエフ",
+      "mention": "Mentioned"
+    },
+    {
+      "participant": "B",
+      "restaurant": "オステリアウララ（Osteria Urara）",
+      "mention": "Mentioned"
+    },
+    {
+      "participant": "B",
+      "restaurant": "韓国料理 中央シジャン",
+      "mention": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "菱田屋酒場",
+      "mention": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "QUINDI（クインディ）",
+      "mention": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "韓国農林水産大臣賞受賞 アス 下北沢店（아스）",
+      "mention": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "ビストロ ユウ（Bistro U）",
+      "mention": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "グリルエフ",
+      "mention": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "オステリアウララ（Osteria Urara）",
+      "mention": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "韓国料理 中央シジャン",
+      "mention": "Mentioned"
+    }
+  ]
+}

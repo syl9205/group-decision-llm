@@ -1,0 +1,246 @@
+{
+  "preference_table": [
+    {
+      "participant": "A",
+      "restaurant": "フランス大衆食堂ブイヨン本郷3",
+      "preferences": "A7"
+    },
+    {
+      "participant": "A",
+      "restaurant": "神田 焼肉 まるたけ",
+      "preferences": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "ベトナムビストロ バンフィールド 小石川後楽園（Vang Field）",
+      "preferences": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "榎本ハンバーグ研究所 春日後楽園店",
+      "preferences": "A1"
+    },
+    {
+      "participant": "A",
+      "restaurant": "ファイヤーハウス（FIRE HOUSE）",
+      "preferences": "A1"
+    },
+    {
+      "participant": "A",
+      "restaurant": "本郷ダイニング&バー きがる（本郷ダイニング&バー KIGARU）",
+      "preferences": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "フランス大衆食堂ブイヨン本郷3",
+      "preferences": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "神田 焼肉 まるたけ",
+      "preferences": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "ベトナムビストロ バンフィールド 小石川後楽園（Vang Field）",
+      "preferences": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "榎本ハンバーグ研究所 春日後楽園店",
+      "preferences": "A7"
+    },
+    {
+      "participant": "B",
+      "restaurant": "ファイヤーハウス（FIRE HOUSE）",
+      "preferences": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "本郷ダイニング&バー きがる（本郷ダイニング&バー KIGARU）",
+      "preferences": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "フランス大衆食堂ブイヨン本郷3",
+      "preferences": "A7"
+    },
+    {
+      "participant": "C",
+      "restaurant": "神田 焼肉 まるたけ",
+      "preferences": "A7"
+    },
+    {
+      "participant": "C",
+      "restaurant": "ベトナムビストロ バンフィールド 小石川後楽園（Vang Field）",
+      "preferences": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "榎本ハンバーグ研究所 春日後楽園店",
+      "preferences": "A7"
+    },
+    {
+      "participant": "C",
+      "restaurant": "ファイヤーハウス（FIRE HOUSE）",
+      "preferences": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "本郷ダイニング&バー きがる（本郷ダイニング&バー KIGARU）",
+      "preferences": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "フランス大衆食堂ブイヨン本郷3",
+      "preferences": "A7"
+    },
+    {
+      "participant": "D",
+      "restaurant": "神田 焼肉 まるたけ",
+      "preferences": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "ベトナムビストロ バンフィールド 小石川後楽園（Vang Field）",
+      "preferences": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "榎本ハンバーグ研究所 春日後楽園店",
+      "preferences": "A1"
+    },
+    {
+      "participant": "D",
+      "restaurant": "ファイヤーハウス（FIRE HOUSE）",
+      "preferences": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "本郷ダイニング&バー きがる（本郷ダイニング&バー KIGARU）",
+      "preferences": "None"
+    }
+  ],
+  "constraint_table": [
+    {
+      "participant": "A",
+      "restaurant": "フランス大衆食堂ブイヨン本郷3",
+      "constraints": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "神田 焼肉 まるたけ",
+      "constraints": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "ベトナムビストロ バンフィールド 小石川後楽園（Vang Field）",
+      "constraints": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "榎本ハンバーグ研究所 春日後楽園店",
+      "constraints": "A5"
+    },
+    {
+      "participant": "A",
+      "restaurant": "ファイヤーハウス（FIRE HOUSE）",
+      "constraints": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "本郷ダイニング&バー きがる（本郷ダイニング&バー KIGARU）",
+      "constraints": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "フランス大衆食堂ブイヨン本郷3",
+      "constraints": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "神田 焼肉 まるたけ",
+      "constraints": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "ベトナムビストロ バンフィールド 小石川後楽園（Vang Field）",
+      "constraints": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "榎本ハンバーグ研究所 春日後楽園店",
+      "constraints": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "ファイヤーハウス（FIRE HOUSE）",
+      "constraints": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "本郷ダイニング&バー きがる（本郷ダイニング&バー KIGARU）",
+      "constraints": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "フランス大衆食堂ブイヨン本郷3",
+      "constraints": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "神田 焼肉 まるたけ",
+      "constraints": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "ベトナムビストロ バンフィールド 小石川後楽園（Vang Field）",
+      "constraints": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "榎本ハンバーグ研究所 春日後楽園店",
+      "constraints": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "ファイヤーハウス（FIRE HOUSE）",
+      "constraints": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "本郷ダイニング&バー きがる（本郷ダイニング&バー KIGARU）",
+      "constraints": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "フランス大衆食堂ブイヨン本郷3",
+      "constraints": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "神田 焼肉 まるたけ",
+      "constraints": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "ベトナムビストロ バンフィールド 小石川後楽園（Vang Field）",
+      "constraints": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "榎本ハンバーグ研究所 春日後楽園店",
+      "constraints": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "ファイヤーハウス（FIRE HOUSE）",
+      "constraints": "A1"
+    },
+    {
+      "participant": "D",
+      "restaurant": "本郷ダイニング&バー きがる（本郷ダイニング&バー KIGARU）",
+      "constraints": "None"
+    }
+  ]
+}

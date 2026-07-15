@@ -1,0 +1,439 @@
+{
+  "conversation_id": "25",
+  "conversation": [
+    {
+      "speaker": "A",
+      "utterance": "とりあえず空いてる日あげてこう"
+    },
+    {
+      "speaker": "B",
+      "utterance": "うい"
+    },
+    {
+      "speaker": "A",
+      "utterance": "18,19,26,27.28.29"
+    },
+    {
+      "speaker": "C",
+      "utterance": "19.20.26.27.28."
+    },
+    {
+      "speaker": "D",
+      "utterance": "卒論やばいので12月中はちょっと\n一月にしてもらえるとありがたい"
+    },
+    {
+      "speaker": "C",
+      "utterance": "2週間以内よ"
+    },
+    {
+      "speaker": "D",
+      "utterance": "いうの遅くてごめん\nあまじか"
+    },
+    {
+      "speaker": "C",
+      "utterance": "ゼミ後ありじゃない？"
+    },
+    {
+      "speaker": "A",
+      "utterance": "なんとかしろ！"
+    },
+    {
+      "speaker": "C",
+      "utterance": "私も卒論やばいし笑"
+    },
+    {
+      "speaker": "A",
+      "utterance": "ゼミ後あり"
+    },
+    {
+      "speaker": "D",
+      "utterance": "19?"
+    },
+    {
+      "speaker": "A",
+      "utterance": "うん"
+    },
+    {
+      "speaker": "B",
+      "utterance": "\"15（20時以降）\n19（ゼミ後）\n21（19時以降）\n24（夜）\""
+    },
+    {
+      "speaker": "C",
+      "utterance": "か26？"
+    },
+    {
+      "speaker": "A",
+      "utterance": "24の夜…？"
+    },
+    {
+      "speaker": "D",
+      "utterance": "19/21/24いけます"
+    },
+    {
+      "speaker": "B",
+      "utterance": "19が幸せ"
+    },
+    {
+      "speaker": "C",
+      "utterance": "19だね"
+    },
+    {
+      "speaker": "B",
+      "utterance": "24夜はあいてる（）"
+    },
+    {
+      "speaker": "A",
+      "utterance": "19にしよう"
+    },
+    {
+      "speaker": "B",
+      "utterance": "おけ！"
+    },
+    {
+      "speaker": "A",
+      "utterance": "19日の19:00からで！"
+    },
+    {
+      "speaker": "B",
+      "utterance": "いいと思う！"
+    },
+    {
+      "speaker": "A",
+      "utterance": "(スタンプ)\n場所は本郷近辺？"
+    },
+    {
+      "speaker": "C",
+      "utterance": "それが楽だよね"
+    },
+    {
+      "speaker": "A",
+      "utterance": "それともお洒落なところ行っちゃう？"
+    },
+    {
+      "speaker": "B",
+      "utterance": "池袋までなら行っても良い"
+    },
+    {
+      "speaker": "D",
+      "utterance": "その日東の方でワールドカップ見るから"
+    },
+    {
+      "speaker": "B",
+      "utterance": "ありっちゃあり"
+    },
+    {
+      "speaker": "D",
+      "utterance": "池袋はちょっと渋いな\n大手町\nとかのがうれし"
+    },
+    {
+      "speaker": "A",
+      "utterance": "じゃあ本郷～大手町らへんで"
+    },
+    {
+      "speaker": "B",
+      "utterance": "おけ！"
+    },
+    {
+      "speaker": "C",
+      "utterance": "\"@D\nガブリチキンの近く？のフレンチっぽいとこ覚えてない？\""
+    },
+    {
+      "speaker": "A",
+      "utterance": "リンクはってこ！"
+    },
+    {
+      "speaker": "D",
+      "utterance": "さがしてみるわ"
+    },
+    {
+      "speaker": "C",
+      "utterance": "\"ありがと〜\nいつか行ってみたかった\""
+    },
+    {
+      "speaker": "D",
+      "utterance": "https://www.google.com/search?client=safari&rls=en&q=%E3%83%96%E3%82%A4%E3%83%A8%E3%83%B3%E6%9C%AC%E9%83%B73&ie=UTF-8&oe=UTF-8\nhttps://tabelog.com/tokyo/A1310/A131004/13273207/"
+    },
+    {
+      "speaker": "C",
+      "utterance": "(スタンプ)\n思ったより評価低い笑"
+    },
+    {
+      "speaker": "D",
+      "utterance": "それな"
+    },
+    {
+      "speaker": "A",
+      "utterance": "https://tabelog.com/tokyo/A1311/A131101/13267852/"
+    },
+    {
+      "speaker": "C",
+      "utterance": "めっちゃ楽しそう&うちから近い\n\"希和味\n050-5869-4905\n東京都文京区湯島2-17-9 ビネスト湯島 2F"
+    },
+    {
+      "speaker": "https",
+      "utterance": "//tabelog.com/tokyo/A1310/A131004/13098507/\""
+    },
+    {
+      "speaker": "D",
+      "utterance": "しゃれおつすぎ"
+    },
+    {
+      "speaker": "B",
+      "utterance": "\"伊勢ろく 本店\n050-5868-1344\n東京都千代田区内神田2-12-3"
+    },
+    {
+      "speaker": "https",
+      "utterance": "//tabelog.com/tokyo/A1310/A131002/13009140/\""
+    },
+    {
+      "speaker": "B",
+      "utterance": "これはここまでで\nいい感じかな？"
+    },
+    {
+      "speaker": "A",
+      "utterance": "せやね\n個人的にイタリアン食いたいす！"
+    },
+    {
+      "speaker": "B",
+      "utterance": "わかりみ"
+    },
+    {
+      "speaker": "C",
+      "utterance": "イタリアンすき"
+    },
+    {
+      "speaker": "D",
+      "utterance": "イタリアンにしよう"
+    },
+    {
+      "speaker": "B",
+      "utterance": "一旦司会の人に戻すのでは？"
+    },
+    {
+      "speaker": "A",
+      "utterance": "ではでは"
+    },
+    {
+      "speaker": "B",
+      "utterance": "ということは…？"
+    },
+    {
+      "speaker": "A",
+      "utterance": "多数決でいいかね"
+    },
+    {
+      "speaker": "D",
+      "utterance": "うむ\nべつにどれになってもいいので"
+    },
+    {
+      "speaker": "A",
+      "utterance": "１人ずつ行きたいところいってこ"
+    },
+    {
+      "speaker": "D",
+      "utterance": "いきます\nイタリアン"
+    },
+    {
+      "speaker": "C",
+      "utterance": "イタリアンか水族館"
+    },
+    {
+      "speaker": "A",
+      "utterance": "水族館ってイタリアンじゃないのかこれ"
+    },
+    {
+      "speaker": "D",
+      "utterance": "水族館もいい"
+    },
+    {
+      "speaker": "B",
+      "utterance": "フランス≧イタリアン=水族館>大手町"
+    },
+    {
+      "speaker": "C",
+      "utterance": "この企画じゃなきゃ一生行かなそう\nふれんちだよ\nその日予約できるかも考えなきゃ？"
+    },
+    {
+      "speaker": "A",
+      "utterance": "予約空いてるよ"
+    },
+    {
+      "speaker": "B",
+      "utterance": "かしこい"
+    },
+    {
+      "speaker": "C",
+      "utterance": "すばらしい"
+    },
+    {
+      "speaker": "D",
+      "utterance": "ぱちぱち"
+    },
+    {
+      "speaker": "A",
+      "utterance": "うそ\n2人しか水族館あいてない\nおわた"
+    },
+    {
+      "speaker": "C",
+      "utterance": "え"
+    },
+    {
+      "speaker": "B",
+      "utterance": "oh"
+    },
+    {
+      "speaker": "A",
+      "utterance": "(スタンプ)"
+    },
+    {
+      "speaker": "B",
+      "utterance": "そういう系で再度探すという説はあるのでは🤔\n多大な迷惑をかけそうだけど😇"
+    },
+    {
+      "speaker": "C",
+      "utterance": "候補増やしちゃだめぽくない？"
+    },
+    {
+      "speaker": "A",
+      "utterance": "いそげ！\nリンクはってこ！！"
+    },
+    {
+      "speaker": "D",
+      "utterance": "ちゃんと予約取れるか確認してからね笑"
+    },
+    {
+      "speaker": "B",
+      "utterance": "お洒落系ね"
+    },
+    {
+      "speaker": "D",
+      "utterance": "https://loco.yahoo.co.jp/place/g-4TB6fVUcSJk/?date=20221219"
+    },
+    {
+      "speaker": "C",
+      "utterance": "\"アクアリウムダイニングバー銀座ライム\n050-5868-1326\n東京都中央区銀座7-2 銀座コリドー 街 2F"
+    },
+    {
+      "speaker": "https",
+      "utterance": "//tabelog.com/tokyo/A1301/A130101/13004895/\""
+    },
+    {
+      "speaker": "D",
+      "utterance": "立地ちょい渋だけど店良さげ"
+    },
+    {
+      "speaker": "C",
+      "utterance": "銀座もあるけど雰囲気がさらにカップル感ある"
+    },
+    {
+      "speaker": "A",
+      "utterance": "新宿銀座どっちにする？\n他にもあればぜひ"
+    },
+    {
+      "speaker": "B",
+      "utterance": "\"水族館縛りで無ければ\n小岩井農場TOKYO\n050-5594-2790\n東京都千代田区丸の内2-4-1 丸の内ビルディング 5F"
+    },
+    {
+      "speaker": "https",
+      "utterance": "//tabelog.com/tokyo/A1302/A130201/13004074/\""
+    },
+    {
+      "speaker": "B",
+      "utterance": "（さっきのリサーチの趣旨を理解していなかった）"
+    },
+    {
+      "speaker": "C",
+      "utterance": "水族館にこだわらなくても大丈夫だけどね笑"
+    },
+    {
+      "speaker": "B",
+      "utterance": "内幸町なら霞が関から歩ける"
+    },
+    {
+      "speaker": "A",
+      "utterance": "ここ空いてるしここにするか"
+    },
+    {
+      "speaker": "B",
+      "utterance": "Dの行きやすさに依存するわ\n僕はどこでもよい"
+    },
+    {
+      "speaker": "D",
+      "utterance": "新しいやつ二つどっちでもいいんだったら銀座のが嬉しい"
+    },
+    {
+      "speaker": "A",
+      "utterance": "じゃあ決定で！"
+    },
+    {
+      "speaker": "D",
+      "utterance": "じゃあそれとイタリアンとか比べてどっちかなって話？"
+    },
+    {
+      "speaker": "B",
+      "utterance": "おけい！"
+    },
+    {
+      "speaker": "A",
+      "utterance": "これで確定かと思ってた"
+    },
+    {
+      "speaker": "B",
+      "utterance": "\"希和味\n050-5869-4905\n東京都文京区湯島2-17-9 ビネスト湯島 2F"
+    },
+    {
+      "speaker": "https",
+      "utterance": "//tabelog.com/tokyo/A1310/A131004/13098507/\nアクアリウムダイニングバー銀座ライム\n050-5868-1326\n東京都中央区銀座7-2 銀座コリドー 街 2F\n//tabelog.com/tokyo/A1301/A130101/13004895/\""
+    },
+    {
+      "speaker": "D",
+      "utterance": "ならわたしはよいです"
+    },
+    {
+      "speaker": "B",
+      "utterance": "あたしもよいです"
+    },
+    {
+      "speaker": "C",
+      "utterance": "どっちも行きたい"
+    },
+    {
+      "speaker": "A",
+      "utterance": "わろた\nじゃあ銀座の方で！"
+    },
+    {
+      "speaker": "C",
+      "utterance": "(スタンプ)"
+    },
+    {
+      "speaker": "A",
+      "utterance": "https://tabelog.com/tokyo/A1301/A130101/13004895/"
+    }
+  ],
+  "info": [
+    {
+      "website": "https://tabelog.com/tokyo/A1301/A130101/13004895/",
+      "restaurant": "アクアリウムダイニングバー銀座ライム（LIME）"
+    },
+    {
+      "website": "https://tabelog.com/tokyo/A1310/A131004/13098507/",
+      "restaurant": "希和味（KIWAMI）"
+    },
+    {
+      "website": "https://tabelog.com/tokyo/A1302/A130201/13004074/",
+      "restaurant": "小岩井農場TOKYO （【旧店名】小岩井フレミナール）"
+    },
+    {
+      "website": "https://tabelog.com/tokyo/A1310/A131002/13009140/",
+      "restaurant": "伊勢ろく 本店（いせろく）"
+    },
+    {
+      "website": "https://tabelog.com/tokyo/A1311/A131101/13267852/",
+      "restaurant": "上野 アクアリウムレストラン Nautilus（ノーチラス）"
+    },
+    {
+      "website": "https://tabelog.com/tokyo/A1310/A131004/13273207/",
+      "restaurant": "フランス大衆食堂ブイヨン本郷3"
+    }
+  ]
+}

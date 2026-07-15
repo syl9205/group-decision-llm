@@ -1,0 +1,167 @@
+{
+  "conversation_id": "15",
+  "conversation": [
+    {
+      "speaker": "A",
+      "utterance": "2週間のなかで空いている日一覧を送る感じで！(場所、時間の制約があればそれも)"
+    },
+    {
+      "speaker": "B",
+      "utterance": "今週の土日と来週の火、木、土日、再来週の月"
+    },
+    {
+      "speaker": "C",
+      "utterance": "\"それでいくと来週の火木土日はOK\nただ来週の木曜が授業が１９時ごろまでかかるかも、他は大丈夫\""
+    },
+    {
+      "speaker": "A",
+      "utterance": "\"6日　どこでも・いつでも\n7日　(18時半に本郷の授業終わ)\n13日　(いけなくはない)\n14日　(５限まで本郷)\""
+    },
+    {
+      "speaker": "B",
+      "utterance": "そしたら13かな？"
+    },
+    {
+      "speaker": "A",
+      "utterance": "あ、まって来週の火曜日行けるわ"
+    },
+    {
+      "speaker": "B",
+      "utterance": "じゃあそこで"
+    },
+    {
+      "speaker": "A",
+      "utterance": "18時くらいに渋谷解放だから、少し制約はあるけど"
+    },
+    {
+      "speaker": "B",
+      "utterance": "俺も16時まで家から出れない"
+    },
+    {
+      "speaker": "C",
+      "utterance": "俺が１７時まで駒場"
+    },
+    {
+      "speaker": "A",
+      "utterance": "おけ、なら大丈夫そう"
+    },
+    {
+      "speaker": "B",
+      "utterance": "おけ"
+    },
+    {
+      "speaker": "A",
+      "utterance": "では決まりで！"
+    },
+    {
+      "speaker": "C",
+      "utterance": "時間を決めよう"
+    },
+    {
+      "speaker": "B",
+      "utterance": "じゃあ19時かな"
+    },
+    {
+      "speaker": "C",
+      "utterance": "いろんなし"
+    },
+    {
+      "speaker": "A",
+      "utterance": "だね。良さそう\n\"木村屋本店 北千住\n050-5890-1645\n東京都足立区千住2-62 吉岡ビル 2F"
+    },
+    {
+      "speaker": "https",
+      "utterance": "//tabelog.com/tokyo/A1324/A132402/13164267/\""
+    },
+    {
+      "speaker": "B",
+      "utterance": "https://tabelog.com/chiba/A1203/A120302/12016748/"
+    },
+    {
+      "speaker": "C",
+      "utterance": "https://tabelog.com/chiba/A1203/A120302/12038784/party/86366/"
+    },
+    {
+      "speaker": "A",
+      "utterance": "Bが良ければ、松戸だとありがたいかも"
+    },
+    {
+      "speaker": "B",
+      "utterance": "全然大丈夫"
+    },
+    {
+      "speaker": "C",
+      "utterance": "B飲まないんだっけ"
+    },
+    {
+      "speaker": "B",
+      "utterance": "飲む"
+    },
+    {
+      "speaker": "A",
+      "utterance": "僕はどっちでも"
+    },
+    {
+      "speaker": "B",
+      "utterance": "立地的には松戸のが有難いかも"
+    },
+    {
+      "speaker": "A",
+      "utterance": "おけ\nでは下二つどっちかか"
+    },
+    {
+      "speaker": "C",
+      "utterance": "俺の出したやついったことない（笑）"
+    },
+    {
+      "speaker": "A",
+      "utterance": "飲むなら串カツか？"
+    },
+    {
+      "speaker": "B",
+      "utterance": "だね\nしゃぶしゃぶにもあるっぽいけど"
+    },
+    {
+      "speaker": "C",
+      "utterance": "そんな感じだけどしゃぶしゃぶが良さげなら飲まんでもという気もする"
+    },
+    {
+      "speaker": "A",
+      "utterance": "\"二人の気分はどっち？\n多数決で決めるか\"\n僕は串カツかなぁ、、となっている"
+    },
+    {
+      "speaker": "B",
+      "utterance": "串カツ2時間半入られるしそっちの方が良さげかも\nしゃぶしゃぶ1時間半なんだよね"
+    },
+    {
+      "speaker": "C",
+      "utterance": "なるほど"
+    },
+    {
+      "speaker": "A",
+      "utterance": "あー、少し渋いね\n一時間半だと"
+    },
+    {
+      "speaker": "C",
+      "utterance": "串カツにしましょうか"
+    },
+    {
+      "speaker": "B",
+      "utterance": "おけ"
+    }
+  ],
+  "info": [
+    {
+      "website": "https://tabelog.com/tokyo/A1324/A132402/13164267/",
+      "restaurant": "木村屋本店 北千住"
+    },
+    {
+      "website": "https://tabelog.com/chiba/A1203/A120302/12016748/",
+      "restaurant": "牛太 プラーレ松戸店"
+    },
+    {
+      "website": "https://tabelog.com/chiba/A1203/A120302/12038784/party/86366/",
+      "restaurant": "串かつ でんがな 松戸店"
+    }
+  ]
+}

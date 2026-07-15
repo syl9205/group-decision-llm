@@ -1,0 +1,38 @@
+{
+  "suggestion_table": [
+    {
+      "participant": "A",
+      "suggestion_type": "Strong"
+    },
+    {
+      "participant": "B",
+      "suggestion_type": "Moderate"
+    },
+    {
+      "participant": "C",
+      "suggestion_type": "Weak"
+    },
+    {
+      "participant": "D",
+      "suggestion_type": "Weak"
+    }
+  ],
+  "response_table": [
+    {
+      "participant": "A",
+      "response_type": "Moderate"
+    },
+    {
+      "participant": "B",
+      "response_type": "Agreeable"
+    },
+    {
+      "participant": "C",
+      "response_type": "Agreeable"
+    },
+    {
+      "participant": "D",
+      "response_type": "Agreeable"
+    }
+  ]
+}

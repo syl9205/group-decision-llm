@@ -1,0 +1,154 @@
+{
+  "perception_table": [
+    {
+      "participant": "A",
+      "restaurant": "沖縄そば やんばる 新宿本店（おきなわそば・やんばる）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "A",
+      "restaurant": "焼肉牛星 白山店",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "A",
+      "restaurant": "はま寿司 駒込白山店",
+      "perception": "Negative"
+    },
+    {
+      "participant": "A",
+      "restaurant": "和来路（わらじ）",
+      "perception": "Positive"
+    },
+    {
+      "participant": "A",
+      "restaurant": "ファイヤーハウス（FIRE HOUSE）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "A",
+      "restaurant": "元祖めんたい煮こみつけ麺",
+      "perception": "Positive"
+    },
+    {
+      "participant": "B",
+      "restaurant": "沖縄そば やんばる 新宿本店（おきなわそば・やんばる）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "B",
+      "restaurant": "焼肉牛星 白山店",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "B",
+      "restaurant": "はま寿司 駒込白山店",
+      "perception": "Positive"
+    },
+    {
+      "participant": "B",
+      "restaurant": "和来路（わらじ）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "B",
+      "restaurant": "ファイヤーハウス（FIRE HOUSE）",
+      "perception": "Positive"
+    },
+    {
+      "participant": "B",
+      "restaurant": "元祖めんたい煮こみつけ麺",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "C",
+      "restaurant": "沖縄そば やんばる 新宿本店（おきなわそば・やんばる）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "C",
+      "restaurant": "焼肉牛星 白山店",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "C",
+      "restaurant": "はま寿司 駒込白山店",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "C",
+      "restaurant": "和来路（わらじ）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "C",
+      "restaurant": "ファイヤーハウス（FIRE HOUSE）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "C",
+      "restaurant": "元祖めんたい煮こみつけ麺",
+      "perception": "Positive"
+    },
+    {
+      "participant": "D",
+      "restaurant": "沖縄そば やんばる 新宿本店（おきなわそば・やんばる）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "D",
+      "restaurant": "焼肉牛星 白山店",
+      "perception": "Positive"
+    },
+    {
+      "participant": "D",
+      "restaurant": "はま寿司 駒込白山店",
+      "perception": "Positive"
+    },
+    {
+      "participant": "D",
+      "restaurant": "和来路（わらじ）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "D",
+      "restaurant": "ファイヤーハウス（FIRE HOUSE）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "D",
+      "restaurant": "元祖めんたい煮こみつけ麺",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "E",
+      "restaurant": "沖縄そば やんばる 新宿本店（おきなわそば・やんばる）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "E",
+      "restaurant": "焼肉牛星 白山店",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "E",
+      "restaurant": "はま寿司 駒込白山店",
+      "perception": "Positive"
+    },
+    {
+      "participant": "E",
+      "restaurant": "和来路（わらじ）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "E",
+      "restaurant": "ファイヤーハウス（FIRE HOUSE）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "E",
+      "restaurant": "元祖めんたい煮こみつけ麺",
+      "perception": "Neutral"
+    }
+  ]
+}

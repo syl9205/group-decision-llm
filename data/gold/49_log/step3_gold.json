@@ -1,0 +1,49 @@
+{
+  "perception_table": [
+    {
+      "participant": "A",
+      "restaurant": "ウダガワ 成ル",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "A",
+      "restaurant": "串若丸 本店（くしわかまる）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "A",
+      "restaurant": "牛角 渋谷店（ギュウカク）",
+      "perception": "Negative"
+    },
+    {
+      "participant": "B",
+      "restaurant": "ウダガワ 成ル",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "B",
+      "restaurant": "串若丸 本店（くしわかまる）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "B",
+      "restaurant": "牛角 渋谷店（ギュウカク）",
+      "perception": "Negative"
+    },
+    {
+      "participant": "C",
+      "restaurant": "ウダガワ 成ル",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "C",
+      "restaurant": "串若丸 本店（くしわかまる）",
+      "perception": "Positive"
+    },
+    {
+      "participant": "C",
+      "restaurant": "牛角 渋谷店（ギュウカク）",
+      "perception": "Neutral"
+    }
+  ]
+}

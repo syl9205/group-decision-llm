@@ -1,0 +1,756 @@
+{
+  "preference_table": [
+    {
+      "participant": "A",
+      "restaurant": "油そば 春日亭 渋谷店",
+      "preferences": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "Dobro （ドブロ）",
+      "preferences": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "ガスト 渋谷道玄坂店",
+      "preferences": "A1"
+    },
+    {
+      "participant": "A",
+      "restaurant": "あひーじょバル＆ごはん 山ぶどう",
+      "preferences": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "マトリョーシカ マルイシティ上野店",
+      "preferences": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "欧風カレー ル・ムーラン",
+      "preferences": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "ムスカン （MUSKAN）",
+      "preferences": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "モロッコ料理の台所　エンリケマルエコス",
+      "preferences": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "上等カレー 渋谷本店",
+      "preferences": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "印度 下北沢店 （インド）",
+      "preferences": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "Cafe RUSSIA 吉祥寺",
+      "preferences": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "一心 （いっしん）",
+      "preferences": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "米とサーカス 高田馬場店",
+      "preferences": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "獣肉酒家 米とサーカス 渋谷パルコ店",
+      "preferences": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "NAN STATION （ナンステーション）",
+      "preferences": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "油そば 春日亭 渋谷店",
+      "preferences": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "Dobro （ドブロ）",
+      "preferences": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "ガスト 渋谷道玄坂店",
+      "preferences": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "あひーじょバル＆ごはん 山ぶどう",
+      "preferences": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "マトリョーシカ マルイシティ上野店",
+      "preferences": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "欧風カレー ル・ムーラン",
+      "preferences": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "ムスカン （MUSKAN）",
+      "preferences": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "モロッコ料理の台所　エンリケマルエコス",
+      "preferences": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "上等カレー 渋谷本店",
+      "preferences": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "印度 下北沢店 （インド）",
+      "preferences": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "Cafe RUSSIA 吉祥寺",
+      "preferences": "A7"
+    },
+    {
+      "participant": "B",
+      "restaurant": "一心 （いっしん）",
+      "preferences": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "米とサーカス 高田馬場店",
+      "preferences": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "獣肉酒家 米とサーカス 渋谷パルコ店",
+      "preferences": "A7"
+    },
+    {
+      "participant": "B",
+      "restaurant": "NAN STATION （ナンステーション）",
+      "preferences": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "油そば 春日亭 渋谷店",
+      "preferences": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "Dobro （ドブロ）",
+      "preferences": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "ガスト 渋谷道玄坂店",
+      "preferences": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "あひーじょバル＆ごはん 山ぶどう",
+      "preferences": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "マトリョーシカ マルイシティ上野店",
+      "preferences": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "欧風カレー ル・ムーラン",
+      "preferences": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "ムスカン （MUSKAN）",
+      "preferences": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "モロッコ料理の台所　エンリケマルエコス",
+      "preferences": "A7"
+    },
+    {
+      "participant": "C",
+      "restaurant": "上等カレー 渋谷本店",
+      "preferences": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "印度 下北沢店 （インド）",
+      "preferences": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "Cafe RUSSIA 吉祥寺",
+      "preferences": "A7, A5"
+    },
+    {
+      "participant": "C",
+      "restaurant": "一心 （いっしん）",
+      "preferences": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "米とサーカス 高田馬場店",
+      "preferences": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "獣肉酒家 米とサーカス 渋谷パルコ店",
+      "preferences": "A1"
+    },
+    {
+      "participant": "C",
+      "restaurant": "NAN STATION （ナンステーション）",
+      "preferences": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "油そば 春日亭 渋谷店",
+      "preferences": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "Dobro （ドブロ）",
+      "preferences": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "ガスト 渋谷道玄坂店",
+      "preferences": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "あひーじょバル＆ごはん 山ぶどう",
+      "preferences": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "マトリョーシカ マルイシティ上野店",
+      "preferences": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "欧風カレー ル・ムーラン",
+      "preferences": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "ムスカン （MUSKAN）",
+      "preferences": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "モロッコ料理の台所　エンリケマルエコス",
+      "preferences": "A1"
+    },
+    {
+      "participant": "D",
+      "restaurant": "上等カレー 渋谷本店",
+      "preferences": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "印度 下北沢店 （インド）",
+      "preferences": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "Cafe RUSSIA 吉祥寺",
+      "preferences": "A1"
+    },
+    {
+      "participant": "D",
+      "restaurant": "一心 （いっしん）",
+      "preferences": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "米とサーカス 高田馬場店",
+      "preferences": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "獣肉酒家 米とサーカス 渋谷パルコ店",
+      "preferences": "A1"
+    },
+    {
+      "participant": "D",
+      "restaurant": "NAN STATION （ナンステーション）",
+      "preferences": "None"
+    },
+    {
+      "participant": "E",
+      "restaurant": "油そば 春日亭 渋谷店",
+      "preferences": "None"
+    },
+    {
+      "participant": "E",
+      "restaurant": "Dobro （ドブロ）",
+      "preferences": "None"
+    },
+    {
+      "participant": "E",
+      "restaurant": "ガスト 渋谷道玄坂店",
+      "preferences": "None"
+    },
+    {
+      "participant": "E",
+      "restaurant": "あひーじょバル＆ごはん 山ぶどう",
+      "preferences": "None"
+    },
+    {
+      "participant": "E",
+      "restaurant": "マトリョーシカ マルイシティ上野店",
+      "preferences": "None"
+    },
+    {
+      "participant": "E",
+      "restaurant": "欧風カレー ル・ムーラン",
+      "preferences": "None"
+    },
+    {
+      "participant": "E",
+      "restaurant": "ムスカン （MUSKAN）",
+      "preferences": "None"
+    },
+    {
+      "participant": "E",
+      "restaurant": "モロッコ料理の台所　エンリケマルエコス",
+      "preferences": "None"
+    },
+    {
+      "participant": "E",
+      "restaurant": "上等カレー 渋谷本店",
+      "preferences": "None"
+    },
+    {
+      "participant": "E",
+      "restaurant": "印度 下北沢店 （インド）",
+      "preferences": "None"
+    },
+    {
+      "participant": "E",
+      "restaurant": "Cafe RUSSIA 吉祥寺",
+      "preferences": "A7"
+    },
+    {
+      "participant": "E",
+      "restaurant": "一心 （いっしん）",
+      "preferences": "None"
+    },
+    {
+      "participant": "E",
+      "restaurant": "米とサーカス 高田馬場店",
+      "preferences": "A1"
+    },
+    {
+      "participant": "E",
+      "restaurant": "獣肉酒家 米とサーカス 渋谷パルコ店",
+      "preferences": "None"
+    },
+    {
+      "participant": "E",
+      "restaurant": "NAN STATION （ナンステーション）",
+      "preferences": "None"
+    }
+  ],
+  "constraint_table": [
+    {
+      "participant": "A",
+      "restaurant": "油そば 春日亭 渋谷店",
+      "constraints": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "Dobro （ドブロ）",
+      "constraints": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "ガスト 渋谷道玄坂店",
+      "constraints": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "あひーじょバル＆ごはん 山ぶどう",
+      "constraints": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "マトリョーシカ マルイシティ上野店",
+      "constraints": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "欧風カレー ル・ムーラン",
+      "constraints": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "ムスカン （MUSKAN）",
+      "constraints": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "モロッコ料理の台所　エンリケマルエコス",
+      "constraints": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "上等カレー 渋谷本店",
+      "constraints": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "印度 下北沢店 （インド）",
+      "constraints": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "Cafe RUSSIA 吉祥寺",
+      "constraints": "A6"
+    },
+    {
+      "participant": "A",
+      "restaurant": "一心 （いっしん）",
+      "constraints": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "米とサーカス 高田馬場店",
+      "constraints": "A1"
+    },
+    {
+      "participant": "A",
+      "restaurant": "獣肉酒家 米とサーカス 渋谷パルコ店",
+      "constraints": "A1"
+    },
+    {
+      "participant": "A",
+      "restaurant": "NAN STATION （ナンステーション）",
+      "constraints": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "油そば 春日亭 渋谷店",
+      "constraints": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "Dobro （ドブロ）",
+      "constraints": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "ガスト 渋谷道玄坂店",
+      "constraints": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "あひーじょバル＆ごはん 山ぶどう",
+      "constraints": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "マトリョーシカ マルイシティ上野店",
+      "constraints": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "欧風カレー ル・ムーラン",
+      "constraints": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "ムスカン （MUSKAN）",
+      "constraints": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "モロッコ料理の台所　エンリケマルエコス",
+      "constraints": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "上等カレー 渋谷本店",
+      "constraints": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "印度 下北沢店 （インド）",
+      "constraints": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "Cafe RUSSIA 吉祥寺",
+      "constraints": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "一心 （いっしん）",
+      "constraints": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "米とサーカス 高田馬場店",
+      "constraints": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "獣肉酒家 米とサーカス 渋谷パルコ店",
+      "constraints": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "NAN STATION （ナンステーション）",
+      "constraints": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "油そば 春日亭 渋谷店",
+      "constraints": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "Dobro （ドブロ）",
+      "constraints": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "ガスト 渋谷道玄坂店",
+      "constraints": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "あひーじょバル＆ごはん 山ぶどう",
+      "constraints": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "マトリョーシカ マルイシティ上野店",
+      "constraints": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "欧風カレー ル・ムーラン",
+      "constraints": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "ムスカン （MUSKAN）",
+      "constraints": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "モロッコ料理の台所　エンリケマルエコス",
+      "constraints": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "上等カレー 渋谷本店",
+      "constraints": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "印度 下北沢店 （インド）",
+      "constraints": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "Cafe RUSSIA 吉祥寺",
+      "constraints": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "一心 （いっしん）",
+      "constraints": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "米とサーカス 高田馬場店",
+      "constraints": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "獣肉酒家 米とサーカス 渋谷パルコ店",
+      "constraints": "A6"
+    },
+    {
+      "participant": "C",
+      "restaurant": "NAN STATION （ナンステーション）",
+      "constraints": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "油そば 春日亭 渋谷店",
+      "constraints": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "Dobro （ドブロ）",
+      "constraints": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "ガスト 渋谷道玄坂店",
+      "constraints": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "あひーじょバル＆ごはん 山ぶどう",
+      "constraints": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "マトリョーシカ マルイシティ上野店",
+      "constraints": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "欧風カレー ル・ムーラン",
+      "constraints": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "ムスカン （MUSKAN）",
+      "constraints": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "モロッコ料理の台所　エンリケマルエコス",
+      "constraints": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "上等カレー 渋谷本店",
+      "constraints": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "印度 下北沢店 （インド）",
+      "constraints": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "Cafe RUSSIA 吉祥寺",
+      "constraints": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "一心 （いっしん）",
+      "constraints": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "米とサーカス 高田馬場店",
+      "constraints": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "獣肉酒家 米とサーカス 渋谷パルコ店",
+      "constraints": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "NAN STATION （ナンステーション）",
+      "constraints": "None"
+    },
+    {
+      "participant": "E",
+      "restaurant": "油そば 春日亭 渋谷店",
+      "constraints": "None"
+    },
+    {
+      "participant": "E",
+      "restaurant": "Dobro （ドブロ）",
+      "constraints": "None"
+    },
+    {
+      "participant": "E",
+      "restaurant": "ガスト 渋谷道玄坂店",
+      "constraints": "None"
+    },
+    {
+      "participant": "E",
+      "restaurant": "あひーじょバル＆ごはん 山ぶどう",
+      "constraints": "None"
+    },
+    {
+      "participant": "E",
+      "restaurant": "マトリョーシカ マルイシティ上野店",
+      "constraints": "None"
+    },
+    {
+      "participant": "E",
+      "restaurant": "欧風カレー ル・ムーラン",
+      "constraints": "None"
+    },
+    {
+      "participant": "E",
+      "restaurant": "ムスカン （MUSKAN）",
+      "constraints": "None"
+    },
+    {
+      "participant": "E",
+      "restaurant": "モロッコ料理の台所　エンリケマルエコス",
+      "constraints": "None"
+    },
+    {
+      "participant": "E",
+      "restaurant": "上等カレー 渋谷本店",
+      "constraints": "None"
+    },
+    {
+      "participant": "E",
+      "restaurant": "印度 下北沢店 （インド）",
+      "constraints": "None"
+    },
+    {
+      "participant": "E",
+      "restaurant": "Cafe RUSSIA 吉祥寺",
+      "constraints": "None"
+    },
+    {
+      "participant": "E",
+      "restaurant": "一心 （いっしん）",
+      "constraints": "None"
+    },
+    {
+      "participant": "E",
+      "restaurant": "米とサーカス 高田馬場店",
+      "constraints": "None"
+    },
+    {
+      "participant": "E",
+      "restaurant": "獣肉酒家 米とサーカス 渋谷パルコ店",
+      "constraints": "None"
+    },
+    {
+      "participant": "E",
+      "restaurant": "NAN STATION （ナンステーション）",
+      "constraints": "None"
+    }
+  ]
+}

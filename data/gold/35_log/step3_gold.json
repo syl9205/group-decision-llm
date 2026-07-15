@@ -1,0 +1,84 @@
+{
+  "perception_table": [
+    {
+      "participant": "A",
+      "restaurant": "海底撈火鍋 新宿店（カイテイロウヒナベ）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "A",
+      "restaurant": "もんじゃ 蔵（くら）",
+      "perception": "Positive"
+    },
+    {
+      "participant": "A",
+      "restaurant": "チェルシー マーケット 秋葉原（CHELSEA MARKET）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "A",
+      "restaurant": "ファイヤーハウス（FIRE HOUSE）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "B",
+      "restaurant": "海底撈火鍋 新宿店（カイテイロウヒナベ）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "B",
+      "restaurant": "もんじゃ 蔵（くら）",
+      "perception": "Positive"
+    },
+    {
+      "participant": "B",
+      "restaurant": "チェルシー マーケット 秋葉原（CHELSEA MARKET）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "B",
+      "restaurant": "ファイヤーハウス（FIRE HOUSE）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "C",
+      "restaurant": "海底撈火鍋 新宿店（カイテイロウヒナベ）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "C",
+      "restaurant": "もんじゃ 蔵（くら）",
+      "perception": "Positive"
+    },
+    {
+      "participant": "C",
+      "restaurant": "チェルシー マーケット 秋葉原（CHELSEA MARKET）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "C",
+      "restaurant": "ファイヤーハウス（FIRE HOUSE）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "D",
+      "restaurant": "海底撈火鍋 新宿店（カイテイロウヒナベ）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "D",
+      "restaurant": "もんじゃ 蔵（くら）",
+      "perception": "Positive"
+    },
+    {
+      "participant": "D",
+      "restaurant": "チェルシー マーケット 秋葉原（CHELSEA MARKET）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "D",
+      "restaurant": "ファイヤーハウス（FIRE HOUSE）",
+      "perception": "Neutral"
+    }
+  ]
+}

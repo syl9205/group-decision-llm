@@ -1,0 +1,307 @@
+{
+  "conversation_id": "8",
+  "conversation": [
+    {
+      "speaker": "A",
+      "utterance": "2週間以内だったら削っていくのでいいかな？"
+    },
+    {
+      "speaker": "B",
+      "utterance": "いいよー"
+    },
+    {
+      "speaker": "A",
+      "utterance": "19,21,22,23,24,25,26,27"
+    },
+    {
+      "speaker": "C",
+      "utterance": "おっけー！"
+    },
+    {
+      "speaker": "D",
+      "utterance": "おけ！"
+    },
+    {
+      "speaker": "B",
+      "utterance": "21,22,24,27"
+    },
+    {
+      "speaker": "C",
+      "utterance": "これはAが大丈夫な日？"
+    },
+    {
+      "speaker": "A",
+      "utterance": "そう！"
+    },
+    {
+      "speaker": "C",
+      "utterance": "(スタンプ)"
+    },
+    {
+      "speaker": "D",
+      "utterance": "18,19,20,21,22,23,25,26,27\n大丈夫な日"
+    },
+    {
+      "speaker": "C",
+      "utterance": "\"22,24"
+    },
+    {
+      "speaker": "30は19",
+      "utterance": "00以降大丈夫🙆‍♀️\""
+    },
+    {
+      "speaker": "B",
+      "utterance": "22,24のどっちかだね"
+    },
+    {
+      "speaker": "C",
+      "utterance": "いや、"
+    },
+    {
+      "speaker": "B",
+      "utterance": "あ、うそ"
+    },
+    {
+      "speaker": "D",
+      "utterance": "24空いてない汗"
+    },
+    {
+      "speaker": "C",
+      "utterance": "22だ"
+    },
+    {
+      "speaker": "A",
+      "utterance": "おっけー！"
+    },
+    {
+      "speaker": "D",
+      "utterance": "おけ！"
+    },
+    {
+      "speaker": "A",
+      "utterance": "時間は19時？"
+    },
+    {
+      "speaker": "D",
+      "utterance": "大丈夫🙆‍♀️"
+    },
+    {
+      "speaker": "C",
+      "utterance": "いつでもいける！"
+    },
+    {
+      "speaker": "B",
+      "utterance": "いいよー🙆‍♀️"
+    },
+    {
+      "speaker": "A",
+      "utterance": "22の19時！"
+    },
+    {
+      "speaker": "D",
+      "utterance": "(スタンプ)"
+    },
+    {
+      "speaker": "C",
+      "utterance": "(スタンプ)"
+    },
+    {
+      "speaker": "D",
+      "utterance": "場所は本郷？"
+    },
+    {
+      "speaker": "C",
+      "utterance": "かな？みんな学校いってそうだから本郷がよさそう"
+    },
+    {
+      "speaker": "A",
+      "utterance": "よさそう"
+    },
+    {
+      "speaker": "C",
+      "utterance": "\"https://tabelog.com/tokyo/A1310/A131004/13042693/\n前ここ行けなかったから\""
+    },
+    {
+      "speaker": "D",
+      "utterance": "確かに！\n食べたい！"
+    },
+    {
+      "speaker": "A",
+      "utterance": "食べたい！"
+    },
+    {
+      "speaker": "C",
+      "utterance": "場所と店の候補ってことは、みんなバラバラで本郷以外も出した方が良いってことかな\nそれぞれ出す候補\n各自よね"
+    },
+    {
+      "speaker": "D",
+      "utterance": "ほんとだ！"
+    },
+    {
+      "speaker": "B",
+      "utterance": "各自だね"
+    },
+    {
+      "speaker": "D",
+      "utterance": "決まったつもりでいたぜ…"
+    },
+    {
+      "speaker": "A",
+      "utterance": "本郷って決めたから本郷でもいいし周辺でもいいのかも"
+    },
+    {
+      "speaker": "B",
+      "utterance": "\"た喜ち\n050-5456-3270\n東京都文京区本郷3-31-6"
+    },
+    {
+      "speaker": "https",
+      "utterance": "//tabelog.com/tokyo/A1310/A131004/13018354/\""
+    },
+    {
+      "speaker": "B",
+      "utterance": "本郷周辺にしちゃった"
+    },
+    {
+      "speaker": "A",
+      "utterance": "https://s.tabelog.com/tokyo/A1310/A131004/13018355/"
+    },
+    {
+      "speaker": "D",
+      "utterance": "\"湯島で、前ここ行って美味しかった"
+    },
+    {
+      "speaker": "https",
+      "utterance": "//tabelog.com/tokyo/A1311/A131101/13251405/\""
+    },
+    {
+      "speaker": "A",
+      "utterance": "友達がいっておいしかったらしい"
+    },
+    {
+      "speaker": "C",
+      "utterance": "\"じゃあちょっと場所ずらして後楽園も候補に挙げとく！(インターン先の人がおすすめしてた)"
+    },
+    {
+      "speaker": "https",
+      "utterance": "//tabelog.com/tokyo/A1310/A131003/13003736/\""
+    },
+    {
+      "speaker": "B",
+      "utterance": "この前と系統変えてみた笑"
+    },
+    {
+      "speaker": "C",
+      "utterance": "ここ知らなかった！\n候補これぐらいで大丈夫かな"
+    },
+    {
+      "speaker": "B",
+      "utterance": "うんいいと思う！"
+    },
+    {
+      "speaker": "C",
+      "utterance": "てあげるか"
+    },
+    {
+      "speaker": "A",
+      "utterance": "そうだね！"
+    },
+    {
+      "speaker": "C",
+      "utterance": "どこにする？どこよさそうとかあるー？"
+    },
+    {
+      "speaker": "D",
+      "utterance": "ここ良さげ"
+    },
+    {
+      "speaker": "C",
+      "utterance": "個人的にはBのあげてくれたところ、知らなかったから気になる\nあー\n同じくだ！"
+    },
+    {
+      "speaker": "B",
+      "utterance": "あら"
+    },
+    {
+      "speaker": "A",
+      "utterance": "Bのやつランチで行ったことある！"
+    },
+    {
+      "speaker": "B",
+      "utterance": "私はCの後楽園のとこいいなって思った！"
+    },
+    {
+      "speaker": "A",
+      "utterance": ""
+    },
+    {
+      "speaker": "C",
+      "utterance": "わーい！\nじゃあパパガンプかBのところのどちらか？"
+    },
+    {
+      "speaker": "A",
+      "utterance": "私はサムギョプサルいいと思った！"
+    },
+    {
+      "speaker": "C",
+      "utterance": "サムギョプサルもあり！"
+    },
+    {
+      "speaker": "B",
+      "utterance": "ありーリベンジ"
+    },
+    {
+      "speaker": "D",
+      "utterance": "サムギョプサルはあり\nサムギョプサルもあり"
+    },
+    {
+      "speaker": "C",
+      "utterance": "サムギョプサルにする？\n2回送るの笑う"
+    },
+    {
+      "speaker": "A",
+      "utterance": "えいいの笑"
+    },
+    {
+      "speaker": "B",
+      "utterance": "そうしよ！！"
+    },
+    {
+      "speaker": "C",
+      "utterance": "え！いいよ！元々私が出したし行きたかった！"
+    },
+    {
+      "speaker": "D",
+      "utterance": "👍"
+    },
+    {
+      "speaker": "A",
+      "utterance": "ええありがとう！"
+    },
+    {
+      "speaker": "C",
+      "utterance": "サムギョプサルだ‼️"
+    }
+  ],
+  "info": [
+    {
+      "website": "https://tabelog.com/tokyo/A1310/A131004/13042693/",
+      "restaurant": "トンテジ 本郷店"
+    },
+    {
+      "website": "https://tabelog.com/tokyo/A1310/A131004/13018354/",
+      "restaurant": "た喜ち（takichi）"
+    },
+    {
+      "website": "https://s.tabelog.com/tokyo/A1310/A131004/13018355/",
+      "restaurant": "炭火串焼 やき龍 本郷店（やきたつ）"
+    },
+    {
+      "website": "https://tabelog.com/tokyo/A1311/A131101/13251405/",
+      "restaurant": "大衆食堂ゆしまホール"
+    },
+    {
+      "website": "https://tabelog.com/tokyo/A1310/A131003/13003736/",
+      "restaurant": "ババ・ガンプ・シュリンプ 東京（BUBBA GUMP SHRIMP TOKYO）"
+    }
+  ]
+}

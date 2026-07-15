@@ -1,0 +1,391 @@
+{
+  "conversation_id": "48",
+  "conversation": [
+    {
+      "speaker": "A",
+      "utterance": "どうしようね"
+    },
+    {
+      "speaker": "B",
+      "utterance": "明日の夜は？？"
+    },
+    {
+      "speaker": "C",
+      "utterance": "ちょい遅くなるかも　バイトあるから"
+    },
+    {
+      "speaker": "A",
+      "utterance": "サークルや、、"
+    },
+    {
+      "speaker": "C",
+      "utterance": "明日だとすれば"
+    },
+    {
+      "speaker": "A",
+      "utterance": "Dがいないな"
+    },
+    {
+      "speaker": "D",
+      "utterance": "入れました"
+    },
+    {
+      "speaker": "C",
+      "utterance": "今明日の夜は〜？ってなってた"
+    },
+    {
+      "speaker": "D",
+      "utterance": "俺はいける\n5限あるけど"
+    },
+    {
+      "speaker": "A",
+      "utterance": "明日はめっちゃ遅くからなら行けるけど"
+    },
+    {
+      "speaker": "D",
+      "utterance": "何時？"
+    },
+    {
+      "speaker": "C",
+      "utterance": "俺もかな"
+    },
+    {
+      "speaker": "A",
+      "utterance": "21時とか、"
+    },
+    {
+      "speaker": "D",
+      "utterance": "それは渋い"
+    },
+    {
+      "speaker": "A",
+      "utterance": "申し訳ない"
+    },
+    {
+      "speaker": "D",
+      "utterance": "明後日は？"
+    },
+    {
+      "speaker": "C",
+      "utterance": "いやいや\n明後日いけるよ俺は"
+    },
+    {
+      "speaker": "A",
+      "utterance": "今週、水曜と木曜、別の人と夜ご飯の予定が、、"
+    },
+    {
+      "speaker": "D",
+      "utterance": "なーるほどね"
+    },
+    {
+      "speaker": "B",
+      "utterance": "あねあね"
+    },
+    {
+      "speaker": "C",
+      "utterance": "じゃあ今週渋いか"
+    },
+    {
+      "speaker": "D",
+      "utterance": "来週の火曜どうよ"
+    },
+    {
+      "speaker": "B",
+      "utterance": "っぽいね\n行ける"
+    },
+    {
+      "speaker": "A",
+      "utterance": "火曜以外はダメなん？\n行けなくはないけど、サークル休まなきゃになる"
+    },
+    {
+      "speaker": "C",
+      "utterance": "なるほどね"
+    },
+    {
+      "speaker": "B",
+      "utterance": "あねあね"
+    },
+    {
+      "speaker": "D",
+      "utterance": "サークル何時まで？"
+    },
+    {
+      "speaker": "C",
+      "utterance": "Aさーくるいつやっけ？\n毎週"
+    },
+    {
+      "speaker": "A",
+      "utterance": "21時\n火曜金曜"
+    },
+    {
+      "speaker": "C",
+      "utterance": "なら水曜とかで良くね"
+    },
+    {
+      "speaker": "D",
+      "utterance": "じゃあ、来週の水曜？"
+    },
+    {
+      "speaker": "C",
+      "utterance": "来週の\nうん"
+    },
+    {
+      "speaker": "A",
+      "utterance": "いける"
+    },
+    {
+      "speaker": "D",
+      "utterance": "いける"
+    },
+    {
+      "speaker": "B",
+      "utterance": "あー、待ってカテキョや"
+    },
+    {
+      "speaker": "C",
+      "utterance": "非常によい\n木曜は？"
+    },
+    {
+      "speaker": "A",
+      "utterance": "いける"
+    },
+    {
+      "speaker": "D",
+      "utterance": "いける"
+    },
+    {
+      "speaker": "B",
+      "utterance": "木曜行ける"
+    },
+    {
+      "speaker": "C",
+      "utterance": "よし決まり"
+    },
+    {
+      "speaker": "A",
+      "utterance": "おー！\nないす"
+    },
+    {
+      "speaker": "B",
+      "utterance": "おけ！"
+    },
+    {
+      "speaker": "D",
+      "utterance": "8やな"
+    },
+    {
+      "speaker": "C",
+      "utterance": "8ね"
+    },
+    {
+      "speaker": "B",
+      "utterance": "12/8ね"
+    },
+    {
+      "speaker": "C",
+      "utterance": "時間は？"
+    },
+    {
+      "speaker": "D",
+      "utterance": "部活あるから1900までは駒場におる"
+    },
+    {
+      "speaker": "A",
+      "utterance": "何時でも行ける"
+    },
+    {
+      "speaker": "B",
+      "utterance": "何時でも"
+    },
+    {
+      "speaker": "C",
+      "utterance": "部活何時までやっけ\n19？"
+    },
+    {
+      "speaker": "D",
+      "utterance": "19時半とか、、、\n渋谷で食うなら20時には行けるぜ"
+    },
+    {
+      "speaker": "C",
+      "utterance": "じゃあ部活の前が良さげか"
+    },
+    {
+      "speaker": "A",
+      "utterance": "そのあとにしよう"
+    },
+    {
+      "speaker": "C",
+      "utterance": "そのあとね\nおけです"
+    },
+    {
+      "speaker": "B",
+      "utterance": "おけ！"
+    },
+    {
+      "speaker": "C",
+      "utterance": "わかりました！"
+    },
+    {
+      "speaker": "D",
+      "utterance": "渋谷なら\n\"・波の(海鮮丼)\n・渋谷カオマンガイ(タイ料理屋)\n・ごちとん(豚汁屋\"\nこの辺おすすめされた"
+    },
+    {
+      "speaker": "B",
+      "utterance": "カオマンガイ食べたい()"
+    },
+    {
+      "speaker": "C",
+      "utterance": "渋谷カオマンガイは好き"
+    },
+    {
+      "speaker": "D",
+      "utterance": "てか渋谷でいいん？"
+    },
+    {
+      "speaker": "C",
+      "utterance": "全然構わんけど"
+    },
+    {
+      "speaker": "D",
+      "utterance": "俺は1番ありがたい"
+    },
+    {
+      "speaker": "B",
+      "utterance": "まあ近いしいいんじゃない？"
+    },
+    {
+      "speaker": "D",
+      "utterance": "あざす"
+    },
+    {
+      "speaker": "A",
+      "utterance": "リンク貼るんじゃないの？\nそれぞれが行きたいとこの"
+    },
+    {
+      "speaker": "D",
+      "utterance": "そう言うことか"
+    },
+    {
+      "speaker": "B",
+      "utterance": "そういうことか"
+    },
+    {
+      "speaker": "A",
+      "utterance": "https://s.tabelog.com/tokyo/A1303/A130301/13104579/\n(写真)\nトムボーイっていうカレー夜！"
+    },
+    {
+      "speaker": "C",
+      "utterance": "トムボーイ夜高くない？ちょい"
+    },
+    {
+      "speaker": "D",
+      "utterance": "https://tabelog.com/tokyo/A1303/A130301/13168980/"
+    },
+    {
+      "speaker": "A",
+      "utterance": "あ、まじ"
+    },
+    {
+      "speaker": "D",
+      "utterance": "いくら位？"
+    },
+    {
+      "speaker": "A",
+      "utterance": "昼しか行ったことなかった"
+    },
+    {
+      "speaker": "B",
+      "utterance": "\"麗郷 渋谷店\n03-3461-4220\n東京都渋谷区道玄坂2-25-18"
+    },
+    {
+      "speaker": "https",
+      "utterance": "//tabelog.com/tokyo/A1303/A130301/13001805/\""
+    },
+    {
+      "speaker": "B",
+      "utterance": "トムボーイ気になるな"
+    },
+    {
+      "speaker": "D",
+      "utterance": "トムボーイは昼行きたいな\n値段的に"
+    },
+    {
+      "speaker": "A",
+      "utterance": "そうするか、"
+    },
+    {
+      "speaker": "D",
+      "utterance": "カオマンガイはデートに使えないから\n野郎共と行きたいみがある"
+    },
+    {
+      "speaker": "C",
+      "utterance": "https://tabelog.com/tokyo/A1303/A130301/13003367/"
+    },
+    {
+      "speaker": "A",
+      "utterance": "笑笑"
+    },
+    {
+      "speaker": "C",
+      "utterance": "ここ美味しいよー"
+    },
+    {
+      "speaker": "A",
+      "utterance": "行こうぜ！"
+    },
+    {
+      "speaker": "B",
+      "utterance": "ラーメンありだな！"
+    },
+    {
+      "speaker": "D",
+      "utterance": "部活後だから米食いたい"
+    },
+    {
+      "speaker": "C",
+      "utterance": "どちらでも"
+    },
+    {
+      "speaker": "A",
+      "utterance": "カオマンガイも林もおれの行きたい店リストに入ってるから、行きたい"
+    },
+    {
+      "speaker": "C",
+      "utterance": "じゃあ\nカオマンガイで\n今回は"
+    },
+    {
+      "speaker": "B",
+      "utterance": "せやね！"
+    },
+    {
+      "speaker": "A",
+      "utterance": "おっけ！\n集合時間とかってこと？\nなんでもない"
+    }
+  ],
+  "info": [
+    {
+      "website": "https://tabelog.com/tokyo/A1317/A131703/13202996/",
+      "restaurant": "波の"
+    },
+    {
+      "website": "https://tabelog.com/tokyo/A1303/A130301/13168980/",
+      "restaurant": "渋谷カオマンガイ"
+    },
+    {
+      "website": "https://tabelog.com/tokyo/A1303/A130301/13261238/",
+      "restaurant": "ごちとん"
+    },
+    {
+      "website": "https://tabelog.com/tokyo/A1303/A130301/13104579/",
+      "restaurant": "トムボーイ 106 モアイカフェ 渋谷道玄坂店（TOM BOY 106）"
+    },
+    {
+      "website": "https://tabelog.com/tokyo/A1303/A130301/13001805/",
+      "restaurant": "麗郷 渋谷店（レイキョウ）"
+    },
+    {
+      "website": "https://tabelog.com/tokyo/A1303/A130301/13003367/",
+      "restaurant": "はやし"
+    }
+  ]
+}

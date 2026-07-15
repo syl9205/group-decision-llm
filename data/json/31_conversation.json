@@ -1,0 +1,731 @@
+{
+  "conversation_id": "31",
+  "conversation": [
+    {
+      "speaker": "A",
+      "utterance": "俺作ろうか？"
+    },
+    {
+      "speaker": "B",
+      "utterance": "よろしく"
+    },
+    {
+      "speaker": "A",
+      "utterance": "👍"
+    },
+    {
+      "speaker": "B",
+      "utterance": "はやw"
+    },
+    {
+      "speaker": "A",
+      "utterance": "え"
+    },
+    {
+      "speaker": "B",
+      "utterance": "さすがや"
+    },
+    {
+      "speaker": "A",
+      "utterance": "(スタンプ)"
+    },
+    {
+      "speaker": "C",
+      "utterance": "あざすw"
+    },
+    {
+      "speaker": "A",
+      "utterance": "(スタンプ)"
+    },
+    {
+      "speaker": "B",
+      "utterance": "これって22時からとかミーテ入っててもまるでいいよね？"
+    },
+    {
+      "speaker": "C",
+      "utterance": "うん"
+    },
+    {
+      "speaker": "B",
+      "utterance": "おけ"
+    },
+    {
+      "speaker": "A",
+      "utterance": "もちコース\nおおお"
+    },
+    {
+      "speaker": "B",
+      "utterance": "あれ絶望的に予定合わない"
+    },
+    {
+      "speaker": "C",
+      "utterance": "20Dは？"
+    },
+    {
+      "speaker": "A",
+      "utterance": "12/22\nが良さそうね"
+    },
+    {
+      "speaker": "D",
+      "utterance": "ワクチンいがいは\n特にない"
+    },
+    {
+      "speaker": "C",
+      "utterance": "行けない。。。\n🥺"
+    },
+    {
+      "speaker": "B",
+      "utterance": "ワクチンの後でいいんじゃない？\n20"
+    },
+    {
+      "speaker": "C",
+      "utterance": "20おけ"
+    },
+    {
+      "speaker": "A",
+      "utterance": "(スタンプ)"
+    },
+    {
+      "speaker": "C",
+      "utterance": "遅め希望"
+    },
+    {
+      "speaker": "B",
+      "utterance": "じゃあ20で"
+    },
+    {
+      "speaker": "C",
+      "utterance": "うそ"
+    },
+    {
+      "speaker": "A",
+      "utterance": "おけぼく"
+    },
+    {
+      "speaker": "C",
+      "utterance": "何時から空いてる？"
+    },
+    {
+      "speaker": "B",
+      "utterance": "Dとおれ17時からワクチンだから"
+    },
+    {
+      "speaker": "C",
+      "utterance": "18:30からおけです"
+    },
+    {
+      "speaker": "D",
+      "utterance": "18時は過ぎるかも"
+    },
+    {
+      "speaker": "B",
+      "utterance": "そうね"
+    },
+    {
+      "speaker": "A",
+      "utterance": "やしぶで18時位からフリーになる"
+    },
+    {
+      "speaker": "B",
+      "utterance": "ワクチン品川だけど"
+    },
+    {
+      "speaker": "A",
+      "utterance": "あああ\nじゃあ"
+    },
+    {
+      "speaker": "C",
+      "utterance": "19:00か18:30\nどっちがいい？"
+    },
+    {
+      "speaker": "A",
+      "utterance": "八王子とか？？"
+    },
+    {
+      "speaker": "B",
+      "utterance": "19時かな余裕もって"
+    },
+    {
+      "speaker": "C",
+      "utterance": "おけ"
+    },
+    {
+      "speaker": "A",
+      "utterance": "👍"
+    },
+    {
+      "speaker": "C",
+      "utterance": "え"
+    },
+    {
+      "speaker": "B",
+      "utterance": "ふざけるな☺️"
+    },
+    {
+      "speaker": "A",
+      "utterance": "☺"
+    },
+    {
+      "speaker": "C",
+      "utterance": "やしぶかざぎんかな？"
+    },
+    {
+      "speaker": "A",
+      "utterance": "てかこれ\n場所も決めていいの\nあ\nさすがです\nゴールデンバガン\nルビー\nスプリングレボリューション"
+    },
+    {
+      "speaker": "C",
+      "utterance": "\"アークラウンジ 新宿西口駅前店\n050-5890-7362\n東京都新宿区西新宿1-4-5 明広ビル 4F"
+    },
+    {
+      "speaker": "https",
+      "utterance": "//tabelog.com/tokyo/A1304/A130401/13166157/\""
+    },
+    {
+      "speaker": "A",
+      "utterance": "https://goldenbagan.jp/\n\"Spring Revolution Restaurant\n080-2035-0948\n東京都豊島区西池袋1-20-4 第7三宅ビル 3F"
+    },
+    {
+      "speaker": "https",
+      "utterance": "//tabelog.com/tokyo/A1305/A130501/13260454/\""
+    },
+    {
+      "speaker": "A",
+      "utterance": "\"ルビー\n03-6907-3944\n東京都豊島区高田3-8-5 セントラルワセダ 1F"
+    },
+    {
+      "speaker": "https",
+      "utterance": "//tabelog.com/tokyo/A1305/A130503/13020545/\""
+    },
+    {
+      "speaker": "B",
+      "utterance": "\"かしわ 渋谷ヒカリエ店\n050-5570-2065\n東京都渋谷区渋谷2-21-1 渋谷ヒカリエ 7F"
+    },
+    {
+      "speaker": "https",
+      "utterance": "//tabelog.com/tokyo/A1303/A130301/13140093/\""
+    },
+    {
+      "speaker": "B",
+      "utterance": "お好み焼き食べたい"
+    },
+    {
+      "speaker": "D",
+      "utterance": "\"韓国料理 ホンデポチャ 渋谷店\n050-5456-5098\n東京都渋谷区宇田川町31-1 HULIC & New SHIBUYA 10F"
+    },
+    {
+      "speaker": "https",
+      "utterance": "//tabelog.com/tokyo/A1303/A130301/13242704/\""
+    },
+    {
+      "speaker": "D",
+      "utterance": "あ、ワクチンの日ってお酒飲めないのか、\nミャンマー料理はちょっと😅"
+    },
+    {
+      "speaker": "B",
+      "utterance": "少量なら🥺"
+    },
+    {
+      "speaker": "A",
+      "utterance": "https://g.co/kgs/uVx7DW\nhttps://shop.saizeriya.co.jp/sz_restaurant/spot/detail?code=0773"
+    },
+    {
+      "speaker": "C",
+      "utterance": "\"ブッチャー・リパブリック 品川 シカゴピザ ＆ BBQステーキ\n050-5592-5236\n東京都港区港南1-2-70 品川シーズンテラス 2F"
+    },
+    {
+      "speaker": "https",
+      "utterance": "//tabelog.com/tokyo/A1314/A131403/13182608/\""
+    },
+    {
+      "speaker": "C",
+      "utterance": "シカゴピザ食べたい"
+    },
+    {
+      "speaker": "A",
+      "utterance": "やっぱ\nゴールデンバガン？"
+    },
+    {
+      "speaker": "C",
+      "utterance": "却下です🥰"
+    },
+    {
+      "speaker": "B",
+      "utterance": "却下❤️"
+    },
+    {
+      "speaker": "A",
+      "utterance": "え🥰"
+    },
+    {
+      "speaker": "B",
+      "utterance": "渋谷か品川希望です"
+    },
+    {
+      "speaker": "D",
+      "utterance": "(スタンプ)"
+    },
+    {
+      "speaker": "A",
+      "utterance": "じゃあこれやろ"
+    },
+    {
+      "speaker": "C",
+      "utterance": "Dどこがいい？"
+    },
+    {
+      "speaker": "D",
+      "utterance": "シカゴピザあり"
+    },
+    {
+      "speaker": "B",
+      "utterance": "いいよーシカゴピザでも"
+    },
+    {
+      "speaker": "C",
+      "utterance": "ここさ可愛いし美味しそうなんだけど新宿なんだよね\nでも韓国料理も激アツ"
+    },
+    {
+      "speaker": "D",
+      "utterance": "ただあんま高いのはちょっとって感じです"
+    },
+    {
+      "speaker": "C",
+      "utterance": "確かに"
+    },
+    {
+      "speaker": "A",
+      "utterance": "確かに"
+    },
+    {
+      "speaker": "B",
+      "utterance": "これいくつまでとかある？"
+    },
+    {
+      "speaker": "A",
+      "utterance": "普通に"
+    },
+    {
+      "speaker": "B",
+      "utterance": "てかなんやねんこれ"
+    },
+    {
+      "speaker": "A",
+      "utterance": "1個じゃない？"
+    },
+    {
+      "speaker": "D",
+      "utterance": "開いた私が馬鹿だった"
+    },
+    {
+      "speaker": "A",
+      "utterance": "ｗｗｗ"
+    },
+    {
+      "speaker": "B",
+      "utterance": "それな"
+    },
+    {
+      "speaker": "C",
+      "utterance": "飲まなくてもいいなら\n(写真)\n(写真)"
+    },
+    {
+      "speaker": "A",
+      "utterance": "ガチるとここ推しです"
+    },
+    {
+      "speaker": "C",
+      "utterance": "これ神では"
+    },
+    {
+      "speaker": "A",
+      "utterance": "それは神"
+    },
+    {
+      "speaker": "B",
+      "utterance": "高いな、、、🥺"
+    },
+    {
+      "speaker": "A",
+      "utterance": "マジうまそう"
+    },
+    {
+      "speaker": "C",
+      "utterance": "え"
+    },
+    {
+      "speaker": "A",
+      "utterance": "いやいやお前よく考えろ"
+    },
+    {
+      "speaker": "C",
+      "utterance": "自腹500円とかじゃないの？"
+    },
+    {
+      "speaker": "A",
+      "utterance": "4000円ウマウマできんだそ？\nそうそう"
+    },
+    {
+      "speaker": "C",
+      "utterance": "言い方やだw"
+    },
+    {
+      "speaker": "B",
+      "utterance": "えこれってそれも含めて考えていいの\nいいのか"
+    },
+    {
+      "speaker": "A",
+      "utterance": "じゃない\n？\nあざまる水産"
+    },
+    {
+      "speaker": "C",
+      "utterance": "韓国料理捨てきれない"
+    },
+    {
+      "speaker": "A",
+      "utterance": "(写真)\nこれ3,000円だよね"
+    },
+    {
+      "speaker": "C",
+      "utterance": "うんそれもいい"
+    },
+    {
+      "speaker": "A",
+      "utterance": "ね"
+    },
+    {
+      "speaker": "C",
+      "utterance": "それでドリンク2杯飲んだらちょうど\n笑"
+    },
+    {
+      "speaker": "A",
+      "utterance": "黒毛和牛食べれんけど\nそれな\nいい"
+    },
+    {
+      "speaker": "C",
+      "utterance": "他のふたりは？"
+    },
+    {
+      "speaker": "B",
+      "utterance": "そこでもいいよ"
+    },
+    {
+      "speaker": "D",
+      "utterance": "確かにあんま飲めないから\nありかも"
+    },
+    {
+      "speaker": "A",
+      "utterance": "おおお\nいやでもさ俺かねないから"
+    },
+    {
+      "speaker": "D",
+      "utterance": "韓国料理は"
+    },
+    {
+      "speaker": "A",
+      "utterance": "差額ウマウマしたいんだよな〜"
+    },
+    {
+      "speaker": "D",
+      "utterance": "比較的安め\n言い方w"
+    },
+    {
+      "speaker": "B",
+      "utterance": "韓国料理全然あり"
+    },
+    {
+      "speaker": "A",
+      "utterance": "ｗｗｗ\nえ"
+    },
+    {
+      "speaker": "C",
+      "utterance": "(写真)"
+    },
+    {
+      "speaker": "A",
+      "utterance": "ちょっと待ってｗｗ"
+    },
+    {
+      "speaker": "C",
+      "utterance": "こういうやつ？"
+    },
+    {
+      "speaker": "A",
+      "utterance": "新勢力やめてｗｗ"
+    },
+    {
+      "speaker": "C",
+      "utterance": "Dが夢見てるのって\n私もたべたいよ？"
+    },
+    {
+      "speaker": "A",
+      "utterance": "ｗｗｗ\nあれ、、、\n(スタンプ)\n韓国料理なら\nサムギョプサル食べたい🥹🥹"
+    },
+    {
+      "speaker": "D",
+      "utterance": "サムギョプサルもあり"
+    },
+    {
+      "speaker": "A",
+      "utterance": "おおお"
+    },
+    {
+      "speaker": "C",
+      "utterance": "えー"
+    },
+    {
+      "speaker": "D",
+      "utterance": "チーズもたべたい"
+    },
+    {
+      "speaker": "A",
+      "utterance": "どっちも"
+    },
+    {
+      "speaker": "C",
+      "utterance": "わかるぅ"
+    },
+    {
+      "speaker": "B",
+      "utterance": "チーズげきあつ"
+    },
+    {
+      "speaker": "A",
+      "utterance": "食うか\nわかる\n俺も"
+    },
+    {
+      "speaker": "C",
+      "utterance": "どっちにせよチーズね"
+    },
+    {
+      "speaker": "D",
+      "utterance": "アラカルトで2人前ずつとか\nいけそうだけどね"
+    },
+    {
+      "speaker": "A",
+      "utterance": "チーズとお肉が食べたいんよねｗｗ"
+    },
+    {
+      "speaker": "C",
+      "utterance": "(写真)\n美味しそう。。。"
+    },
+    {
+      "speaker": "A",
+      "utterance": "あれｗ\nこれもしかして\n韓国料理に決まりつつある？ｗｗ"
+    },
+    {
+      "speaker": "B",
+      "utterance": "料理とかって予約しなくてもいいんだよね？\n当日決めれば"
+    },
+    {
+      "speaker": "D",
+      "utterance": "うんうん"
+    },
+    {
+      "speaker": "A",
+      "utterance": "そうじゃない\nというか"
+    },
+    {
+      "speaker": "B",
+      "utterance": "じゃあ韓国料理でええやん"
+    },
+    {
+      "speaker": "A",
+      "utterance": "そこの過程って"
+    },
+    {
+      "speaker": "D",
+      "utterance": "チーズが食べられればどこでも👍"
+    },
+    {
+      "speaker": "A",
+      "utterance": "みるのかな？分からんけど"
+    },
+    {
+      "speaker": "C",
+      "utterance": "みんなシカゴピザへの未練は\n消えた？"
+    },
+    {
+      "speaker": "A",
+      "utterance": "ある🥹🥺🥺"
+    },
+    {
+      "speaker": "B",
+      "utterance": "おれしょうみどこでもいいです"
+    },
+    {
+      "speaker": "C",
+      "utterance": "ちょっとあるよね"
+    },
+    {
+      "speaker": "B",
+      "utterance": "まかせます"
+    },
+    {
+      "speaker": "C",
+      "utterance": "投票するか"
+    },
+    {
+      "speaker": "A",
+      "utterance": "(写真)"
+    },
+    {
+      "speaker": "B",
+      "utterance": "お好み焼きたべたいです"
+    },
+    {
+      "speaker": "A",
+      "utterance": "えええｗｗ"
+    },
+    {
+      "speaker": "C",
+      "utterance": "え、"
+    },
+    {
+      "speaker": "A",
+      "utterance": "ガチかよｗｗｗ"
+    },
+    {
+      "speaker": "C",
+      "utterance": "どれにもなくない？w"
+    },
+    {
+      "speaker": "A",
+      "utterance": "チーズどこいってんｗｗ\n賛成(挙手)"
+    },
+    {
+      "speaker": "C",
+      "utterance": "🙄"
+    },
+    {
+      "speaker": "D",
+      "utterance": "(チーズ)🥺"
+    },
+    {
+      "speaker": "C",
+      "utterance": "チーズ！チーズ！"
+    },
+    {
+      "speaker": "A",
+      "utterance": "ｗｗ"
+    },
+    {
+      "speaker": "B",
+      "utterance": "@C 投票頼んだ\n🥺🥺🥺"
+    },
+    {
+      "speaker": "A",
+      "utterance": "うまいｗｗ\n(スタンプ)"
+    },
+    {
+      "speaker": "D",
+      "utterance": "(スタンプ)"
+    },
+    {
+      "speaker": "A",
+      "utterance": "(スタンプ)\nあざす\nこれさ"
+    },
+    {
+      "speaker": "C",
+      "utterance": "割れそう"
+    },
+    {
+      "speaker": "A",
+      "utterance": "複数投票アリにしてよ"
+    },
+    {
+      "speaker": "B",
+      "utterance": "4人だから"
+    },
+    {
+      "speaker": "C",
+      "utterance": "だめだよ"
+    },
+    {
+      "speaker": "B",
+      "utterance": "いけるっしょ"
+    },
+    {
+      "speaker": "A",
+      "utterance": "そしたらいい感じになるよ"
+    },
+    {
+      "speaker": "C",
+      "utterance": "アリにしたいの？"
+    },
+    {
+      "speaker": "B",
+      "utterance": "えー\nいらんくね"
+    },
+    {
+      "speaker": "A",
+      "utterance": "うん🥺\nてか"
+    },
+    {
+      "speaker": "C",
+      "utterance": "とりま1個選んでみて"
+    },
+    {
+      "speaker": "A",
+      "utterance": "俺投票する意味なくねｗｗ\nお好み焼きありえないもんｗｗ"
+    },
+    {
+      "speaker": "C",
+      "utterance": "わかった"
+    },
+    {
+      "speaker": "A",
+      "utterance": "すまんなB"
+    },
+    {
+      "speaker": "B",
+      "utterance": "あ韓国料理で"
+    },
+    {
+      "speaker": "C",
+      "utterance": "Bごめん"
+    },
+    {
+      "speaker": "B",
+      "utterance": "(スタンプ)\n(スタンプ)"
+    },
+    {
+      "speaker": "A",
+      "utterance": "(スタンプ)\n(スタンプ)\n(スタンプ)\n(スタンプ)\n(スタンプ)"
+    }
+  ],
+  "info": [
+    {
+      "website": "https://tabelog.com/tokyo/A1304/A130401/13166157/",
+      "restaurant": "アークラウンジ 新宿西口駅前店（Ark Lounge）"
+    },
+    {
+      "website": "https://goldenbagan.jp/",
+      "restaurant": "ゴールデンバカン"
+    },
+    {
+      "website": "https://tabelog.com/tokyo/A1305/A130501/13260454/",
+      "restaurant": "Spring Revolution Restaurant（スプリング レボリューション レストラン）"
+    },
+    {
+      "website": "https://tabelog.com/tokyo/A1305/A130503/13020545/",
+      "restaurant": "ルビー（RUBY）"
+    },
+    {
+      "website": "https://tabelog.com/tokyo/A1303/A130301/13140093/",
+      "restaurant": "かしわ 渋谷ヒカリエ店"
+    },
+    {
+      "website": "https://tabelog.com/tokyo/A1303/A130301/13242704/",
+      "restaurant": "韓国料理 ホンデポチャ 渋谷店"
+    },
+    {
+      "website": "https://tabelog.com/tokyo/A1303/A130301/13096522/",
+      "restaurant": "サイゼリヤ 渋谷東急ハンズ前店"
+    },
+    {
+      "website": "https://tabelog.com/tokyo/A1314/A131403/13182608/",
+      "restaurant": "ブッチャー・リパブリック 品川 シカゴピザ&BBQステーキ"
+    }
+  ]
+}

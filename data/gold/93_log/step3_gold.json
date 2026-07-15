@@ -1,0 +1,254 @@
+{
+  "perception_table": [
+    {
+      "participant": "A",
+      "restaurant": "牛だし おでん酒場 COZAKURA",
+      "perception": "Positive"
+    },
+    {
+      "participant": "A",
+      "restaurant": "もつ吉 渋谷店（モツキチ）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "A",
+      "restaurant": "海底撈火鍋 新宿店（カイテイロウヒナベ）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "A",
+      "restaurant": "恵比寿焼肉 kintan（エビスヤキニクキンタン）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "A",
+      "restaurant": "大阪焼肉・ホルモン ふたご 渋谷南口店",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "A",
+      "restaurant": "ニクアザブ 二子玉川店",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "A",
+      "restaurant": "sio",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "A",
+      "restaurant": "TGIフライデーズ 渋谷神南店",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "A",
+      "restaurant": "バルバッコア 渋谷店",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "A",
+      "restaurant": "Cafe RUSSIA 吉祥寺",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "B",
+      "restaurant": "牛だし おでん酒場 COZAKURA",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "B",
+      "restaurant": "もつ吉 渋谷店（モツキチ）",
+      "perception": "Positive"
+    },
+    {
+      "participant": "B",
+      "restaurant": "海底撈火鍋 新宿店（カイテイロウヒナベ）",
+      "perception": "Positive"
+    },
+    {
+      "participant": "B",
+      "restaurant": "恵比寿焼肉 kintan（エビスヤキニクキンタン）",
+      "perception": "Positive"
+    },
+    {
+      "participant": "B",
+      "restaurant": "大阪焼肉・ホルモン ふたご 渋谷南口店",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "B",
+      "restaurant": "ニクアザブ 二子玉川店",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "B",
+      "restaurant": "sio",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "B",
+      "restaurant": "TGIフライデーズ 渋谷神南店",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "B",
+      "restaurant": "バルバッコア 渋谷店",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "B",
+      "restaurant": "Cafe RUSSIA 吉祥寺",
+      "perception": "Positive"
+    },
+    {
+      "participant": "C",
+      "restaurant": "牛だし おでん酒場 COZAKURA",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "C",
+      "restaurant": "もつ吉 渋谷店（モツキチ）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "C",
+      "restaurant": "海底撈火鍋 新宿店（カイテイロウヒナベ）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "C",
+      "restaurant": "恵比寿焼肉 kintan（エビスヤキニクキンタン）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "C",
+      "restaurant": "大阪焼肉・ホルモン ふたご 渋谷南口店",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "C",
+      "restaurant": "ニクアザブ 二子玉川店",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "C",
+      "restaurant": "sio",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "C",
+      "restaurant": "TGIフライデーズ 渋谷神南店",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "C",
+      "restaurant": "バルバッコア 渋谷店",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "C",
+      "restaurant": "Cafe RUSSIA 吉祥寺",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "D",
+      "restaurant": "牛だし おでん酒場 COZAKURA",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "D",
+      "restaurant": "もつ吉 渋谷店（モツキチ）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "D",
+      "restaurant": "海底撈火鍋 新宿店（カイテイロウヒナベ）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "D",
+      "restaurant": "恵比寿焼肉 kintan（エビスヤキニクキンタン）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "D",
+      "restaurant": "大阪焼肉・ホルモン ふたご 渋谷南口店",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "D",
+      "restaurant": "ニクアザブ 二子玉川店",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "D",
+      "restaurant": "sio",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "D",
+      "restaurant": "TGIフライデーズ 渋谷神南店",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "D",
+      "restaurant": "バルバッコア 渋谷店",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "D",
+      "restaurant": "Cafe RUSSIA 吉祥寺",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "E",
+      "restaurant": "牛だし おでん酒場 COZAKURA",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "E",
+      "restaurant": "もつ吉 渋谷店（モツキチ）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "E",
+      "restaurant": "海底撈火鍋 新宿店（カイテイロウヒナベ）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "E",
+      "restaurant": "恵比寿焼肉 kintan（エビスヤキニクキンタン）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "E",
+      "restaurant": "大阪焼肉・ホルモン ふたご 渋谷南口店",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "E",
+      "restaurant": "ニクアザブ 二子玉川店",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "E",
+      "restaurant": "sio",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "E",
+      "restaurant": "TGIフライデーズ 渋谷神南店",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "E",
+      "restaurant": "バルバッコア 渋谷店",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "E",
+      "restaurant": "Cafe RUSSIA 吉祥寺",
+      "perception": "Neutral"
+    }
+  ]
+}

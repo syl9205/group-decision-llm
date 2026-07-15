@@ -1,0 +1,283 @@
+{
+  "conversation_id": "41",
+  "conversation": [
+    {
+      "speaker": "A",
+      "utterance": "～12/22  時間：17：00以降\nとりあえず、空いている日を列挙していきますか？"
+    },
+    {
+      "speaker": "B",
+      "utterance": "12/20以外であればいつでもOKです。"
+    },
+    {
+      "speaker": "C",
+      "utterance": "そうしましょう"
+    },
+    {
+      "speaker": "A",
+      "utterance": "12/13・14・16・21・22以外なら行けます"
+    },
+    {
+      "speaker": "C",
+      "utterance": "自分は9,12,13,19,21くらいしか空いてないですね..."
+    },
+    {
+      "speaker": "A",
+      "utterance": "すみません、9も無理でした"
+    },
+    {
+      "speaker": "C",
+      "utterance": "14,15は20時くらいからでも良ければ可です。\n11も空いてました。"
+    },
+    {
+      "speaker": "A",
+      "utterance": "11・12・19辺りですかね\n特にいつがいい！、とかありますか？"
+    },
+    {
+      "speaker": "B",
+      "utterance": "特に希望はないです。"
+    },
+    {
+      "speaker": "A",
+      "utterance": "\"@C\nどうでしょう？\""
+    },
+    {
+      "speaker": "C",
+      "utterance": "12か19の方がありがたいです。\nどっちも月曜ですね\nAくんも希望なければ12でどうでしょう？"
+    },
+    {
+      "speaker": "A",
+      "utterance": "13朝早い用事があるので、19でお願いして大丈夫でしょうか？"
+    },
+    {
+      "speaker": "C",
+      "utterance": "そうしましょう"
+    },
+    {
+      "speaker": "A",
+      "utterance": "ありがとうございます…！"
+    },
+    {
+      "speaker": "C",
+      "utterance": "僕はどっちでも全然大丈夫"
+    },
+    {
+      "speaker": "A",
+      "utterance": "時間はどうします？\n条件は、17：00～ ですね\n自分は何時からでも大丈夫です"
+    },
+    {
+      "speaker": "C",
+      "utterance": "\"場所によってしまうけど...\n研究室が18時前後まであるから、19時くらいからだとありがたいです\""
+    },
+    {
+      "speaker": "B",
+      "utterance": "何時からでも大丈夫です。"
+    },
+    {
+      "speaker": "A",
+      "utterance": "なら、19：00～ にしましょう！"
+    },
+    {
+      "speaker": "C",
+      "utterance": "12/19 19:00~ですね"
+    },
+    {
+      "speaker": "A",
+      "utterance": "https://tabelog.com/tokyo/A1310/A131004/13160169/\nhttps://tabelog.com/tokyo/A1310/A131004/13003538/\nhttps://tabelog.com/tokyo/A1310/A131004/13099564/\n自分はこんな感じです"
+    },
+    {
+      "speaker": "B",
+      "utterance": "https://tabelog.com/tokyo/A1311/A131106/13020252/\nhttps://tabelog.com/tokyo/A1310/A131004/13018608/\n自分はこんな感じです"
+    },
+    {
+      "speaker": "C",
+      "utterance": "https://tabelog.com/tokyo/A1310/A131004/13223145/\nhttps://rtrp.jp/spots/ac26ec9d-6491-4f6c-b3c6-8d54eda90bf0/\nこんな感じです。"
+    },
+    {
+      "speaker": "A",
+      "utterance": "\"とりあえず挙がってるのは、\n・定食系\n・中華系\n・うどん系\nですかね\"\n何か、アレルギーとかで行けないところとかありますか？"
+    },
+    {
+      "speaker": "B",
+      "utterance": "自分はないです。どれでも大丈夫です"
+    },
+    {
+      "speaker": "C",
+      "utterance": "\"自分で上げといてなんだけど、落花生アレルギーだから中華は入ってる可能性が高いかもです\n無いメニューもあるかなと期待してるけど...笑\""
+    },
+    {
+      "speaker": "A",
+      "utterance": "なら、出来る限り落花生回避で行きましょう！\nどうやって決めます？"
+    },
+    {
+      "speaker": "C",
+      "utterance": "他の人のあげたところで気になっている店があったら言うとか？\nあとは自分がオススメしたやつの理由が何かあれば\nここは研究室の中国人学生が口を揃えて美味しいって言ってました。"
+    },
+    {
+      "speaker": "A",
+      "utterance": "とりあえずこれやってみますか\n実際食べに行ったことがあるが、本場中国人の方が作っていて、安くて美味しかった\nここは他２つと比べると割高だが、めちゃくちゃ美味しかった"
+    },
+    {
+      "speaker": "C",
+      "utterance": "\"みんなが行ったことないところにします？\nAくんはリピートでもOK？\""
+    },
+    {
+      "speaker": "A",
+      "utterance": "安くておいしいらしい（ここだけ行ったことないです() ）\n自分は大丈夫です！"
+    },
+    {
+      "speaker": "C",
+      "utterance": "@B どうですか？"
+    },
+    {
+      "speaker": "B",
+      "utterance": "学科同期がよく行ってたので"
+    },
+    {
+      "speaker": "C",
+      "utterance": "自分は挙げた2つとも行ったことないです（）\nもり川は美味しいってよく聞くので気になります"
+    },
+    {
+      "speaker": "B",
+      "utterance": "自分は行ったことがありますが、雰囲気がよくて美味しかったです\n↑以外は行ったことがないです"
+    },
+    {
+      "speaker": "A",
+      "utterance": "もり川は行ったことありますが良かったです！"
+    },
+    {
+      "speaker": "C",
+      "utterance": "自分は一番餃子だけ行ったことあります\n本郷の店全然知らなくて開拓したいので行ったことないところが良いです\n2人はどういう店がいいですか？"
+    },
+    {
+      "speaker": "A",
+      "utterance": "自分は、どこでも良いですよ～"
+    },
+    {
+      "speaker": "B",
+      "utterance": "同じくどこでも良いです"
+    },
+    {
+      "speaker": "C",
+      "utterance": "何かないですか、洋食が好きとか安いほうがいいとか何でも"
+    },
+    {
+      "speaker": "A",
+      "utterance": "安く済むならそれに越したことはない、程度です()\n各自のレビュー的なもの挙がったので、自分の行きたいところを、上から３つ挙げて、一番多いところにするとかどうです？"
+    },
+    {
+      "speaker": "C",
+      "utterance": "\"あとはアクセスでも\n自分は研究室からどこでも徒歩でいけるから大丈夫だけど、2人は根津か本三かどっちがいいかとかあります？\""
+    },
+    {
+      "speaker": "A",
+      "utterance": "自分は根津住みで、全部歩いていけそうなので、どこでもいいですよ～"
+    },
+    {
+      "speaker": "B",
+      "utterance": "アクセスはどっちでもOKです"
+    },
+    {
+      "speaker": "C",
+      "utterance": "じゃあこれで決めますか"
+    },
+    {
+      "speaker": "A",
+      "utterance": "とりあえず、上３つ決めたら決まった報告しましょう！\n自分は決めました"
+    },
+    {
+      "speaker": "B",
+      "utterance": "決めました"
+    },
+    {
+      "speaker": "C",
+      "utterance": "決めました。"
+    },
+    {
+      "speaker": "A",
+      "utterance": "じゃあ出しましょう\n\"１：ファイヤーハウス"
+    },
+    {
+      "speaker": "２",
+      "utterance": "もり川"
+    },
+    {
+      "speaker": "３",
+      "utterance": "蓬溪閣\""
+    },
+    {
+      "speaker": "B",
+      "utterance": "\"https://tabelog.com/tokyo/A1310/A131004/13099564/"
+    },
+    {
+      "speaker": "https",
+      "utterance": "//rtrp.jp/spots/ac26ec9d-6491-4f6c-b3c6-8d54eda90bf0/\n//tabelog.com/tokyo/A1310/A131004/13003538/\""
+    },
+    {
+      "speaker": "C",
+      "utterance": "ほうけいかく、釜竹、もり川\nBさんと全部違いました笑\nファイヤーハウス、もりかわ、ほうけいかくが有力？"
+    },
+    {
+      "speaker": "A",
+      "utterance": "\"１位：３点"
+    },
+    {
+      "speaker": "２位",
+      "utterance": "２点"
+    },
+    {
+      "speaker": "３位",
+      "utterance": "１点\nで計算すると、その３つが同順位ですね\""
+    },
+    {
+      "speaker": "A",
+      "utterance": "この３つで１番行きたいところ挙げましょうか"
+    },
+    {
+      "speaker": "C",
+      "utterance": "ファイヤーハウスで良いですよ\n僕は3位で迷ってたのと、行ったことあるAくんが1位にするならよほど美味しいのかなと"
+    },
+    {
+      "speaker": "A",
+      "utterance": "嘘でした、もり川の計算違ってました\n@B いかがでしょう？"
+    },
+    {
+      "speaker": "B",
+      "utterance": "よいおも"
+    },
+    {
+      "speaker": "C",
+      "utterance": "決定にしましょう！\n伊勢うどん https://tabelog.com/tokyo/A1310/A131004/13121200/"
+    }
+  ],
+  "info": [
+    {
+      "website": "https://tabelog.com/tokyo/A1310/A131004/13160169/",
+      "restaurant": "一番餃子"
+    },
+    {
+      "website": "https://tabelog.com/tokyo/A1310/A131004/13003538/",
+      "restaurant": "ファイヤーハウス（FIRE HOUSE）"
+    },
+    {
+      "website": "https://tabelog.com/tokyo/A1310/A131004/13099564/",
+      "restaurant": "キッチンセブン街のハンバーグ屋さん 本郷3丁目店"
+    },
+    {
+      "website": "https://tabelog.com/tokyo/A1311/A131106/13020252/",
+      "restaurant": "根津 釜竹（かまちく）"
+    },
+    {
+      "website": "https://tabelog.com/tokyo/A1310/A131004/13018608/",
+      "restaurant": "食堂もり川（もりかわ）"
+    },
+    {
+      "website": "https://tabelog.com/tokyo/A1310/A131004/13223145/",
+      "restaurant": "蓬溪閣（ホウケイカク）"
+    },
+    {
+      "website": "https://tabelog.com/tokyo/A1310/A131004/13121200/",
+      "restaurant": "二代目 甚八"
+    }
+  ]
+}

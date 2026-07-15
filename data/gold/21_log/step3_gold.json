@@ -1,0 +1,379 @@
+{
+  "perception_table": [
+    {
+      "participant": "A",
+      "restaurant": "油そば 春日亭 渋谷店",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "A",
+      "restaurant": "Dobro （ドブロ）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "A",
+      "restaurant": "ガスト 渋谷道玄坂店",
+      "perception": "Positive"
+    },
+    {
+      "participant": "A",
+      "restaurant": "あひーじょバル＆ごはん 山ぶどう",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "A",
+      "restaurant": "マトリョーシカ マルイシティ上野店",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "A",
+      "restaurant": "欧風カレー ル・ムーラン",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "A",
+      "restaurant": "ムスカン （MUSKAN）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "A",
+      "restaurant": "モロッコ料理の台所　エンリケマルエコス",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "A",
+      "restaurant": "上等カレー 渋谷本店",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "A",
+      "restaurant": "印度 下北沢店 （インド）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "A",
+      "restaurant": "Cafe RUSSIA 吉祥寺",
+      "perception": "Negative"
+    },
+    {
+      "participant": "A",
+      "restaurant": "一心 （いっしん）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "A",
+      "restaurant": "米とサーカス 高田馬場店",
+      "perception": "Negative"
+    },
+    {
+      "participant": "A",
+      "restaurant": "獣肉酒家 米とサーカス 渋谷パルコ店",
+      "perception": "Negative"
+    },
+    {
+      "participant": "A",
+      "restaurant": "NAN STATION （ナンステーション）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "B",
+      "restaurant": "油そば 春日亭 渋谷店",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "B",
+      "restaurant": "Dobro （ドブロ）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "B",
+      "restaurant": "ガスト 渋谷道玄坂店",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "B",
+      "restaurant": "あひーじょバル＆ごはん 山ぶどう",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "B",
+      "restaurant": "マトリョーシカ マルイシティ上野店",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "B",
+      "restaurant": "欧風カレー ル・ムーラン",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "B",
+      "restaurant": "ムスカン （MUSKAN）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "B",
+      "restaurant": "モロッコ料理の台所　エンリケマルエコス",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "B",
+      "restaurant": "上等カレー 渋谷本店",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "B",
+      "restaurant": "印度 下北沢店 （インド）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "B",
+      "restaurant": "Cafe RUSSIA 吉祥寺",
+      "perception": "Positive"
+    },
+    {
+      "participant": "B",
+      "restaurant": "一心 （いっしん）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "B",
+      "restaurant": "米とサーカス 高田馬場店",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "B",
+      "restaurant": "獣肉酒家 米とサーカス 渋谷パルコ店",
+      "perception": "Positive"
+    },
+    {
+      "participant": "B",
+      "restaurant": "NAN STATION （ナンステーション）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "C",
+      "restaurant": "油そば 春日亭 渋谷店",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "C",
+      "restaurant": "Dobro （ドブロ）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "C",
+      "restaurant": "ガスト 渋谷道玄坂店",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "C",
+      "restaurant": "あひーじょバル＆ごはん 山ぶどう",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "C",
+      "restaurant": "マトリョーシカ マルイシティ上野店",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "C",
+      "restaurant": "欧風カレー ル・ムーラン",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "C",
+      "restaurant": "ムスカン （MUSKAN）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "C",
+      "restaurant": "モロッコ料理の台所　エンリケマルエコス",
+      "perception": "Positive"
+    },
+    {
+      "participant": "C",
+      "restaurant": "上等カレー 渋谷本店",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "C",
+      "restaurant": "印度 下北沢店 （インド）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "C",
+      "restaurant": "Cafe RUSSIA 吉祥寺",
+      "perception": "Positive"
+    },
+    {
+      "participant": "C",
+      "restaurant": "一心 （いっしん）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "C",
+      "restaurant": "米とサーカス 高田馬場店",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "C",
+      "restaurant": "獣肉酒家 米とサーカス 渋谷パルコ店",
+      "perception": "Mix"
+    },
+    {
+      "participant": "C",
+      "restaurant": "NAN STATION （ナンステーション）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "D",
+      "restaurant": "油そば 春日亭 渋谷店",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "D",
+      "restaurant": "Dobro （ドブロ）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "D",
+      "restaurant": "ガスト 渋谷道玄坂店",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "D",
+      "restaurant": "あひーじょバル＆ごはん 山ぶどう",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "D",
+      "restaurant": "マトリョーシカ マルイシティ上野店",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "D",
+      "restaurant": "欧風カレー ル・ムーラン",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "D",
+      "restaurant": "ムスカン （MUSKAN）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "D",
+      "restaurant": "モロッコ料理の台所　エンリケマルエコス",
+      "perception": "Positive"
+    },
+    {
+      "participant": "D",
+      "restaurant": "上等カレー 渋谷本店",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "D",
+      "restaurant": "印度 下北沢店 （インド）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "D",
+      "restaurant": "Cafe RUSSIA 吉祥寺",
+      "perception": "Positive"
+    },
+    {
+      "participant": "D",
+      "restaurant": "一心 （いっしん）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "D",
+      "restaurant": "米とサーカス 高田馬場店",
+      "perception": "Positive"
+    },
+    {
+      "participant": "D",
+      "restaurant": "獣肉酒家 米とサーカス 渋谷パルコ店",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "D",
+      "restaurant": "NAN STATION （ナンステーション）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "E",
+      "restaurant": "油そば 春日亭 渋谷店",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "E",
+      "restaurant": "Dobro （ドブロ）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "E",
+      "restaurant": "ガスト 渋谷道玄坂店",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "E",
+      "restaurant": "あひーじょバル＆ごはん 山ぶどう",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "E",
+      "restaurant": "マトリョーシカ マルイシティ上野店",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "E",
+      "restaurant": "欧風カレー ル・ムーラン",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "E",
+      "restaurant": "ムスカン （MUSKAN）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "E",
+      "restaurant": "モロッコ料理の台所　エンリケマルエコス",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "E",
+      "restaurant": "上等カレー 渋谷本店",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "E",
+      "restaurant": "印度 下北沢店 （インド）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "E",
+      "restaurant": "Cafe RUSSIA 吉祥寺",
+      "perception": "Positive"
+    },
+    {
+      "participant": "E",
+      "restaurant": "一心 （いっしん）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "E",
+      "restaurant": "米とサーカス 高田馬場店",
+      "perception": "Positive"
+    },
+    {
+      "participant": "E",
+      "restaurant": "獣肉酒家 米とサーカス 渋谷パルコ店",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "E",
+      "restaurant": "NAN STATION （ナンステーション）",
+      "perception": "Neutral"
+    }
+  ]
+}

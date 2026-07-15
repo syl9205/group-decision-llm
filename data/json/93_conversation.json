@@ -1,0 +1,619 @@
+{
+  "conversation_id": "93",
+  "conversation": [
+    {
+      "speaker": "A",
+      "utterance": "(スタンプ)"
+    },
+    {
+      "speaker": "B",
+      "utterance": "日程調整の表だけ作るわ"
+    },
+    {
+      "speaker": "A",
+      "utterance": "(スタンプ)"
+    },
+    {
+      "speaker": "C",
+      "utterance": "(スタンプ)"
+    },
+    {
+      "speaker": "D",
+      "utterance": "ありがとうございます！"
+    },
+    {
+      "speaker": "E",
+      "utterance": "(スタンプ)\n17時以降がOKなら○？\n何時からなら行けるなら、△って感じか？"
+    },
+    {
+      "speaker": "B",
+      "utterance": "僕は△は予定あるけどズラせるかな〜って感じ"
+    },
+    {
+      "speaker": "E",
+      "utterance": "理解したっ"
+    },
+    {
+      "speaker": "B",
+      "utterance": "女子たちが24と25×になってて両方〇の僕は泣きそうです"
+    },
+    {
+      "speaker": "C",
+      "utterance": "笑笑"
+    },
+    {
+      "speaker": "D",
+      "utterance": "(スタンプ)"
+    },
+    {
+      "speaker": "B",
+      "utterance": "18がみんなまるになったね"
+    },
+    {
+      "speaker": "E",
+      "utterance": "うける"
+    },
+    {
+      "speaker": "B",
+      "utterance": "どうすか？"
+    },
+    {
+      "speaker": "E",
+      "utterance": "いいね、18いける！"
+    },
+    {
+      "speaker": "A",
+      "utterance": "いけるよー"
+    },
+    {
+      "speaker": "B",
+      "utterance": "そんなアッサリ決まることあるん笑"
+    },
+    {
+      "speaker": "C",
+      "utterance": "でも平日の方が行きやすい気がするね"
+    },
+    {
+      "speaker": "B",
+      "utterance": "平日の候補日探してみるか"
+    },
+    {
+      "speaker": "A",
+      "utterance": "19か21？る"
+    },
+    {
+      "speaker": "B",
+      "utterance": "19は×いるし、21かな？"
+    },
+    {
+      "speaker": "A",
+      "utterance": "ほんとだ"
+    },
+    {
+      "speaker": "B",
+      "utterance": "Dくんのさんかくはどう？"
+    },
+    {
+      "speaker": "E",
+      "utterance": "Dは21どんなー？"
+    },
+    {
+      "speaker": "D",
+      "utterance": "21京都出張説があってちょっときわどいですすません"
+    },
+    {
+      "speaker": "B",
+      "utterance": "りょです\nじゃあ18一択か"
+    },
+    {
+      "speaker": "A",
+      "utterance": "じゃあ18でいいんじゃないー？？"
+    },
+    {
+      "speaker": "C",
+      "utterance": "りょ"
+    },
+    {
+      "speaker": "B",
+      "utterance": "場所と時間もここで決めるのかな"
+    },
+    {
+      "speaker": "D",
+      "utterance": "ア染色体WSで京都いかないので21ありでしたすません"
+    },
+    {
+      "speaker": "B",
+      "utterance": "まだだった\nえ笑"
+    },
+    {
+      "speaker": "E",
+      "utterance": "じゃあ21にするか！"
+    },
+    {
+      "speaker": "B",
+      "utterance": "はーい"
+    },
+    {
+      "speaker": "A",
+      "utterance": "おけーい！！！"
+    },
+    {
+      "speaker": "C",
+      "utterance": "おけ"
+    },
+    {
+      "speaker": "B",
+      "utterance": "21で最終確定でよき"
+    },
+    {
+      "speaker": "A",
+      "utterance": "(スタンプ)"
+    },
+    {
+      "speaker": "C",
+      "utterance": "これで終わり？"
+    },
+    {
+      "speaker": "E",
+      "utterance": "あとは、時間は決めないとじゃない？"
+    },
+    {
+      "speaker": "A",
+      "utterance": "ほうほう"
+    },
+    {
+      "speaker": "B",
+      "utterance": "セミナーないし18時からとかでいいんじゃね？"
+    },
+    {
+      "speaker": "A",
+      "utterance": "うんうん"
+    },
+    {
+      "speaker": "D",
+      "utterance": "21だと18:30以降ありがたいです\nすません...!"
+    },
+    {
+      "speaker": "A",
+      "utterance": "あ、、、、"
+    },
+    {
+      "speaker": "E",
+      "utterance": "18時半におみせ？"
+    },
+    {
+      "speaker": "B",
+      "utterance": "ラボ出るのが18:30？"
+    },
+    {
+      "speaker": "E",
+      "utterance": "それとも18時半に実験終了？？"
+    },
+    {
+      "speaker": "A",
+      "utterance": "Eちゃん"
+    },
+    {
+      "speaker": "E",
+      "utterance": "ん？"
+    },
+    {
+      "speaker": "A",
+      "utterance": "火曜日に抗体反応やって"
+    },
+    {
+      "speaker": "B",
+      "utterance": "笑"
+    },
+    {
+      "speaker": "A",
+      "utterance": "やったら水曜日は早めに帰れるっけ？？"
+    },
+    {
+      "speaker": "E",
+      "utterance": "次の日ふぇのくろか"
+    },
+    {
+      "speaker": "C",
+      "utterance": "Aくん実験あるってこと？"
+    },
+    {
+      "speaker": "A",
+      "utterance": "6時間待ちの日だよね？？\nそーそー\nなら朝早く行けばいけるか"
+    },
+    {
+      "speaker": "E",
+      "utterance": "火曜に抗体するなら、水曜は待ち6時間の日！！"
+    },
+    {
+      "speaker": "A",
+      "utterance": "6時間待ちからのふぇのくろえたちん"
+    },
+    {
+      "speaker": "B",
+      "utterance": "19時ラボ出るくらいの時間が安全？"
+    },
+    {
+      "speaker": "C",
+      "utterance": "ワクチンの話？？"
+    },
+    {
+      "speaker": "E",
+      "utterance": "いえっさあ"
+    },
+    {
+      "speaker": "A",
+      "utterance": "CHIPの話ー笑"
+    },
+    {
+      "speaker": "C",
+      "utterance": "笑笑"
+    },
+    {
+      "speaker": "E",
+      "utterance": "そうやな"
+    },
+    {
+      "speaker": "A",
+      "utterance": "すいません大事をとって19:00ラボ出発でお願いします"
+    },
+    {
+      "speaker": "B",
+      "utterance": "じゃあ19:30お店くらいかね"
+    },
+    {
+      "speaker": "A",
+      "utterance": "ありがとう"
+    },
+    {
+      "speaker": "E",
+      "utterance": "(スタンプ)"
+    },
+    {
+      "speaker": "B",
+      "utterance": "多分渋谷か下北の二択だろうし\nけってい！"
+    },
+    {
+      "speaker": "E",
+      "utterance": "おけ！！"
+    },
+    {
+      "speaker": "C",
+      "utterance": "食べたいもんとかある？"
+    },
+    {
+      "speaker": "B",
+      "utterance": "とりあえず食べたいもんの意思表示込みで食べログ3件くらい送ったろとか思ってる"
+    },
+    {
+      "speaker": "C",
+      "utterance": "特になければどうする？？"
+    },
+    {
+      "speaker": "A",
+      "utterance": "https://tabelog.com/tokyo/A1303/A130301/13222100/"
+    },
+    {
+      "speaker": "E",
+      "utterance": "\"もつ吉 渋谷店\n03-6416-5236"
+    },
+    {
+      "speaker": "https",
+      "utterance": "//g.co/kgs/gS6Rfu\""
+    },
+    {
+      "speaker": "C",
+      "utterance": "渋谷と下北以外はNG？"
+    },
+    {
+      "speaker": "E",
+      "utterance": "いや、そんなことはないかな"
+    },
+    {
+      "speaker": "B",
+      "utterance": "恵比寿とか二子玉川とか渋谷から10分くらいなら良くねとか思ってる"
+    },
+    {
+      "speaker": "C",
+      "utterance": "https://s.tabelog.com/tokyo/A1304/A130401/13213528/\n新宿だった"
+    },
+    {
+      "speaker": "A",
+      "utterance": "https://restaurant.ikyu.com/109279/dinner/"
+    },
+    {
+      "speaker": "E",
+      "utterance": "よいね"
+    },
+    {
+      "speaker": "B",
+      "utterance": "\"大阪焼肉・ホルモン ふたご  渋谷南口店\n050-5592-7720\n東京都渋谷区道玄坂1-11-3 フォースワンビル 2F"
+    },
+    {
+      "speaker": "https",
+      "utterance": "//tabelog.com/tokyo/A1303/A130301/13173256/\""
+    },
+    {
+      "speaker": "B",
+      "utterance": "\"ニクアザブ 二子玉川店\n050-5456-8762\n東京都世田谷区玉川3-9-2 土屋ビル 2F"
+    },
+    {
+      "speaker": "https",
+      "utterance": "//tabelog.com/tokyo/A1317/A131708/13245587/\""
+    },
+    {
+      "speaker": "B",
+      "utterance": "\"sio\n03-6804-7607\n東京都渋谷区上原1-35-3"
+    },
+    {
+      "speaker": "https",
+      "utterance": "//tabelog.com/tokyo/A1318/A131811/13150395/\""
+    },
+    {
+      "speaker": "B",
+      "utterance": "\"TGIフライデーズ 渋谷神南店\n050-3204-0455\n東京都渋谷区神南1-19-3 ハイマンテン神南ビル　2F"
+    },
+    {
+      "speaker": "https",
+      "utterance": "//tabelog.com/tokyo/A1303/A130301/13014179/\""
+    },
+    {
+      "speaker": "B",
+      "utterance": "\"バルバッコア 渋谷店\n050-5872-5977\n東京都渋谷区宇田川町20-15 ヒューマックスパビリオン渋谷公園通り 7F"
+    },
+    {
+      "speaker": "https",
+      "utterance": "//tabelog.com/tokyo/A1303/A130301/13161792/\""
+    },
+    {
+      "speaker": "A",
+      "utterance": "候補挙げ終わりました〜"
+    },
+    {
+      "speaker": "D",
+      "utterance": "\"Cafe RUSSIA 吉祥寺"
+    },
+    {
+      "speaker": "https",
+      "utterance": "//tabelog.com/tokyo/A1320/A132001/13038750/\n（予備）本郷三丁目　味噌煮込罠\n//tabelog.com/tokyo/A1310/A131004/13036030/\""
+    },
+    {
+      "speaker": "B",
+      "utterance": "行ったことある所と無いところ、高級、やや高め、大衆混ざってるけど\n僕の挙げたの基本肉ばっかでわらう\nこんくらいでいいや笑"
+    },
+    {
+      "speaker": "A",
+      "utterance": "(スタンプ)\n(スタンプ)\n(スタンプ)"
+    },
+    {
+      "speaker": "B",
+      "utterance": "みんな挙げたよね"
+    },
+    {
+      "speaker": "C",
+      "utterance": "挙げた"
+    },
+    {
+      "speaker": "E",
+      "utterance": "挙げたね\nいいんやね？"
+    },
+    {
+      "speaker": "B",
+      "utterance": "終わりました"
+    },
+    {
+      "speaker": "E",
+      "utterance": "どするか"
+    },
+    {
+      "speaker": "D",
+      "utterance": "さてさて"
+    },
+    {
+      "speaker": "C",
+      "utterance": "先のGoogleフォームあれば簡単に決められるけどね"
+    },
+    {
+      "speaker": "B",
+      "utterance": "\"Dくんのカフェ\nEさんのもつ吉\nCの火鍋\nkintan\nの順で食べたかったって感じ\"\nLINEの投票機能使うか"
+    },
+    {
+      "speaker": "A",
+      "utterance": "もつ吉私も入れたー"
+    },
+    {
+      "speaker": "B",
+      "utterance": "最後同票とか決まらなければ最終候補であみだくじ笑"
+    },
+    {
+      "speaker": "E",
+      "utterance": "いいね、そうしよ！"
+    },
+    {
+      "speaker": "B",
+      "utterance": "投票とりあえずぱーっとしますか"
+    },
+    {
+      "speaker": "D",
+      "utterance": "よいですね！"
+    },
+    {
+      "speaker": "B",
+      "utterance": "つくります"
+    },
+    {
+      "speaker": "D",
+      "utterance": "感謝！"
+    },
+    {
+      "speaker": "A",
+      "utterance": "お願いしますー"
+    },
+    {
+      "speaker": "E",
+      "utterance": "あじゃす"
+    },
+    {
+      "speaker": "A",
+      "utterance": "学祭実習室寒い\n学生実習室"
+    },
+    {
+      "speaker": "D",
+      "utterance": "かわいそう..."
+    },
+    {
+      "speaker": "A",
+      "utterance": "(スタンプ)"
+    },
+    {
+      "speaker": "E",
+      "utterance": "かわいそう(*´`)"
+    },
+    {
+      "speaker": "C",
+      "utterance": "マフラー持ってないの？？"
+    },
+    {
+      "speaker": "A",
+      "utterance": "マフラーお茶部屋に置いてきちゃったー"
+    },
+    {
+      "speaker": "B",
+      "utterance": "複数投票できるからとりあえず\n得票数多かったヤツであみだくじしよう笑\n火鍋とロシアの激しいデッドヒート笑"
+    },
+    {
+      "speaker": "C",
+      "utterance": "笑笑"
+    },
+    {
+      "speaker": "A",
+      "utterance": "火鍋って辛い？？"
+    },
+    {
+      "speaker": "E",
+      "utterance": "辛かった！"
+    },
+    {
+      "speaker": "B",
+      "utterance": "いや、辛さ選べるというか調節できる"
+    },
+    {
+      "speaker": "C",
+      "utterance": "辛くないのもあるよ！"
+    },
+    {
+      "speaker": "E",
+      "utterance": "けどそう、選べると思うー"
+    },
+    {
+      "speaker": "B",
+      "utterance": "\"1票のみの決選投票か\nあみだくじ\"\nどっちがよろしそう？"
+    },
+    {
+      "speaker": "A",
+      "utterance": "ほうほう"
+    },
+    {
+      "speaker": "B",
+      "utterance": "3個以上残ると思ってあみだくじ提案してたから想定外笑"
+    },
+    {
+      "speaker": "C",
+      "utterance": "ってか辛くない方が好きかも！トマト味のもあるし"
+    },
+    {
+      "speaker": "A",
+      "utterance": "\"ほぉおおお！！良かった！！\nお手柔らかにお願いします\""
+    },
+    {
+      "speaker": "B",
+      "utterance": "決選投票にしてみるか"
+    },
+    {
+      "speaker": "E",
+      "utterance": "まぁ一旦決選投票してみる？"
+    },
+    {
+      "speaker": "B",
+      "utterance": "5人だから決まるし"
+    },
+    {
+      "speaker": "D",
+      "utterance": "(スタンプ)"
+    },
+    {
+      "speaker": "B",
+      "utterance": "再投票もできるっちゃできるんで\nぶっちゃけマジでどっちでもいい人は言って笑\n投票の結果ロシアとなりました。票の移動大丈夫でしょうか"
+    },
+    {
+      "speaker": "A",
+      "utterance": "大丈夫です"
+    },
+    {
+      "speaker": "B",
+      "utterance": "〆"
+    },
+    {
+      "speaker": "E",
+      "utterance": "ういっ"
+    },
+    {
+      "speaker": "B",
+      "utterance": "吉祥寺に行きましょ"
+    },
+    {
+      "speaker": "E",
+      "utterance": "らじゃっ"
+    },
+    {
+      "speaker": "D",
+      "utterance": "しょうち！"
+    },
+    {
+      "speaker": "B",
+      "utterance": "火鍋派閥の人はごめんなさい笑笑"
+    }
+  ],
+  "info": [
+    {
+      "website": "https://tabelog.com/tokyo/A1303/A130301/13222100/",
+      "restaurant": "牛だし おでん酒場 COZAKURA"
+    },
+    {
+      "website": "https://tabelog.com/tokyo/A1303/A130301/13208278/",
+      "restaurant": "もつ吉 渋谷店（モツキチ）"
+    },
+    {
+      "website": "https://s.tabelog.com/tokyo/A1304/A130401/13213528/",
+      "restaurant": "海底撈火鍋 新宿店（カイテイロウヒナベ）"
+    },
+    {
+      "website": "https://tabelog.com/tokyo/A1303/A130302/13157343/",
+      "restaurant": "恵比寿焼肉　kintan（エビスヤキニクキンタン）"
+    },
+    {
+      "website": "https://tabelog.com/tokyo/A1303/A130301/13173256/",
+      "restaurant": "大阪焼肉・ホルモン ふたご  渋谷南口店"
+    },
+    {
+      "website": "https://tabelog.com/tokyo/A1317/A131708/13245587/",
+      "restaurant": "ニクアザブ 二子玉川店"
+    },
+    {
+      "website": "https://tabelog.com/tokyo/A1318/A131811/13150395/",
+      "restaurant": "sio"
+    },
+    {
+      "website": "https://tabelog.com/tokyo/A1303/A130301/13014179/",
+      "restaurant": "TGIフライデーズ 渋谷神南店"
+    },
+    {
+      "website": "https://tabelog.com/tokyo/A1303/A130301/13161792/",
+      "restaurant": "バルバッコア 渋谷店"
+    },
+    {
+      "website": "https://tabelog.com/tokyo/A1320/A132001/13038750/",
+      "restaurant": "Cafe RUSSIA 吉祥寺"
+    }
+  ]
+}

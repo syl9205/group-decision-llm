@@ -1,0 +1,227 @@
+{
+  "conversation_id": "37",
+  "conversation": [
+    {
+      "speaker": "A",
+      "utterance": "いつがいい？"
+    },
+    {
+      "speaker": "B",
+      "utterance": "カレンダー確認します"
+    },
+    {
+      "speaker": "A",
+      "utterance": "可能であれば、23以降だとありがたいっす"
+    },
+    {
+      "speaker": "C",
+      "utterance": "23以外ならいつでもいいですー"
+    },
+    {
+      "speaker": "D",
+      "utterance": "2週間以内だと、17、18以外がいいっす"
+    },
+    {
+      "speaker": "B",
+      "utterance": "同D"
+    },
+    {
+      "speaker": "D",
+      "utterance": "2週間以内だと29まで？"
+    },
+    {
+      "speaker": "B",
+      "utterance": "あ、26．27以外で"
+    },
+    {
+      "speaker": "A",
+      "utterance": "２９までだね\nじゃあ、２８か２９？"
+    },
+    {
+      "speaker": "D",
+      "utterance": "そうね"
+    },
+    {
+      "speaker": "B",
+      "utterance": "👍"
+    },
+    {
+      "speaker": "D",
+      "utterance": "Aくんいつかえる？\n実家"
+    },
+    {
+      "speaker": "A",
+      "utterance": "31かな"
+    },
+    {
+      "speaker": "D",
+      "utterance": "俺は未定\nOK"
+    },
+    {
+      "speaker": "A",
+      "utterance": "早めで28にする？"
+    },
+    {
+      "speaker": "D",
+      "utterance": "じゃあ28 or 29\nおす"
+    },
+    {
+      "speaker": "C",
+      "utterance": "どちらかといえば28がいいですー"
+    },
+    {
+      "speaker": "A",
+      "utterance": "Bくん、28でもいい？"
+    },
+    {
+      "speaker": "B",
+      "utterance": "👍"
+    },
+    {
+      "speaker": "D",
+      "utterance": "よしゃ\nでは28っすね"
+    },
+    {
+      "speaker": "A",
+      "utterance": "ほんじゃあ、時間決めよう"
+    },
+    {
+      "speaker": "D",
+      "utterance": "時間いつでもOK"
+    },
+    {
+      "speaker": "A",
+      "utterance": "おれもいつでもOKっす"
+    },
+    {
+      "speaker": "C",
+      "utterance": "20:30まで授業す…"
+    },
+    {
+      "speaker": "D",
+      "utterance": "わあ"
+    },
+    {
+      "speaker": "A",
+      "utterance": "じゃあ21時からにするかい？"
+    },
+    {
+      "speaker": "D",
+      "utterance": "そうしましょう"
+    },
+    {
+      "speaker": "C",
+      "utterance": "そうしましょう\n:bow:"
+    },
+    {
+      "speaker": "B",
+      "utterance": "オッケーです"
+    },
+    {
+      "speaker": "A",
+      "utterance": "じゃあ、28日の21時からで！\n\"https://tabelog.com/tokyo/A1310/A131004/13150422/"
+    },
+    {
+      "speaker": "https",
+      "utterance": "//tabelog.com/tokyo/A1311/A131106/13008474/\""
+    },
+    {
+      "speaker": "D",
+      "utterance": "https://tabelog.com/tokyo/A1314/A131401/13193659/"
+    },
+    {
+      "speaker": "C",
+      "utterance": "\"山崎が飲めるぞ"
+    },
+    {
+      "speaker": "https",
+      "utterance": "//tabelog.com/tokyo/A1310/A131004/13163582/\""
+    },
+    {
+      "speaker": "B",
+      "utterance": "https://tabelog.com/tokyo/A1310/A131004/13083141/"
+    },
+    {
+      "speaker": "D",
+      "utterance": "場所の制約を忘れてた、ラボから近いほうがいいっすね"
+    },
+    {
+      "speaker": "A",
+      "utterance": "そうね\n一番行きたいとこ、どこ投票した？"
+    },
+    {
+      "speaker": "D",
+      "utterance": "マツヨシ"
+    },
+    {
+      "speaker": "A",
+      "utterance": "おれは新龍門"
+    },
+    {
+      "speaker": "C",
+      "utterance": "縁"
+    },
+    {
+      "speaker": "B",
+      "utterance": "縁"
+    },
+    {
+      "speaker": "A",
+      "utterance": "お"
+    },
+    {
+      "speaker": "D",
+      "utterance": "多数決〜"
+    },
+    {
+      "speaker": "A",
+      "utterance": "多数決的には縁？"
+    },
+    {
+      "speaker": "B",
+      "utterance": "お酒たくさんあるらしいですよ\n日本酒"
+    },
+    {
+      "speaker": "C",
+      "utterance": "(スタンプ)"
+    },
+    {
+      "speaker": "A",
+      "utterance": "23時までやってるんで、21時から行っても大丈夫そうだね"
+    },
+    {
+      "speaker": "D",
+      "utterance": "さすがすぎる"
+    },
+    {
+      "speaker": "B",
+      "utterance": "👍"
+    },
+    {
+      "speaker": "D",
+      "utterance": "そうしましょう"
+    }
+  ],
+  "info": [
+    {
+      "website": "https://tabelog.com/tokyo/A1310/A131004/13150422/",
+      "restaurant": "和食ごはんと酒 縁 本郷三丁目店（yukari）"
+    },
+    {
+      "website": "https://tabelog.com/tokyo/A1311/A131106/13008474/",
+      "restaurant": "松好（まつよし）"
+    },
+    {
+      "website": "https://tabelog.com/tokyo/A1314/A131401/13193659/",
+      "restaurant": "RISE & WIN Brewing Co. KAMIKATZ TAPROOM（ライズアンドウィンブルーイングカンパニー カミカツタップルーム）"
+    },
+    {
+      "website": "https://tabelog.com/tokyo/A1310/A131004/13163582/",
+      "restaurant": "新龍門"
+    },
+    {
+      "website": "https://tabelog.com/tokyo/A1310/A131004/13083141/",
+      "restaurant": "羅針盤"
+    }
+  ]
+}

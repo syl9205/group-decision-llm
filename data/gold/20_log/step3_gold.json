@@ -1,0 +1,224 @@
+{
+  "perception_table": [
+    {
+      "participant": "A",
+      "restaurant": "菱田屋（ヒシダヤ）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "A",
+      "restaurant": "魚学マニア スシンジュク新宿3丁目",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "A",
+      "restaurant": "シノバズブルワリー ひつじあいす",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "A",
+      "restaurant": "大ウ邨（だうつん）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "A",
+      "restaurant": "Sake Fun　ぞっこん。",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "A",
+      "restaurant": "魚と酒 つりや",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "A",
+      "restaurant": "川治",
+      "perception": "Positive"
+    },
+    {
+      "participant": "A",
+      "restaurant": "シュラスコレストランALEGRIA shibuya （アレグリア渋谷）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "A",
+      "restaurant": "なるきよ",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "A",
+      "restaurant": "ファイヤーホール4000 麻布十番店",
+      "perception": "Positive"
+    },
+    {
+      "participant": "A",
+      "restaurant": "バルバッコア 渋谷店",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "B",
+      "restaurant": "菱田屋（ヒシダヤ）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "B",
+      "restaurant": "魚学マニア スシンジュク新宿3丁目",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "B",
+      "restaurant": "シノバズブルワリー ひつじあいす",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "B",
+      "restaurant": "大ウ邨（だうつん）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "B",
+      "restaurant": "Sake Fun　ぞっこん。",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "B",
+      "restaurant": "魚と酒 つりや",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "B",
+      "restaurant": "川治",
+      "perception": "Positive"
+    },
+    {
+      "participant": "B",
+      "restaurant": "シュラスコレストランALEGRIA shibuya （アレグリア渋谷）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "B",
+      "restaurant": "なるきよ",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "B",
+      "restaurant": "ファイヤーホール4000 麻布十番店",
+      "perception": "Mix"
+    },
+    {
+      "participant": "B",
+      "restaurant": "バルバッコア 渋谷店",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "C",
+      "restaurant": "菱田屋（ヒシダヤ）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "C",
+      "restaurant": "魚学マニア スシンジュク新宿3丁目",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "C",
+      "restaurant": "シノバズブルワリー ひつじあいす",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "C",
+      "restaurant": "大ウ邨（だうつん）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "C",
+      "restaurant": "Sake Fun　ぞっこん。",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "C",
+      "restaurant": "魚と酒 つりや",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "C",
+      "restaurant": "川治",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "C",
+      "restaurant": "シュラスコレストランALEGRIA shibuya （アレグリア渋谷）",
+      "perception": "Positive"
+    },
+    {
+      "participant": "C",
+      "restaurant": "なるきよ",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "C",
+      "restaurant": "ファイヤーホール4000 麻布十番店",
+      "perception": "Positive"
+    },
+    {
+      "participant": "C",
+      "restaurant": "バルバッコア 渋谷店",
+      "perception": "Positive"
+    },
+    {
+      "participant": "D",
+      "restaurant": "菱田屋（ヒシダヤ）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "D",
+      "restaurant": "魚学マニア スシンジュク新宿3丁目",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "D",
+      "restaurant": "シノバズブルワリー ひつじあいす",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "D",
+      "restaurant": "大ウ邨（だうつん）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "D",
+      "restaurant": "Sake Fun　ぞっこん。",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "D",
+      "restaurant": "魚と酒 つりや",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "D",
+      "restaurant": "川治",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "D",
+      "restaurant": "シュラスコレストランALEGRIA shibuya （アレグリア渋谷）",
+      "perception": "Positive"
+    },
+    {
+      "participant": "D",
+      "restaurant": "なるきよ",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "D",
+      "restaurant": "ファイヤーホール4000 麻布十番店",
+      "perception": "Mix"
+    },
+    {
+      "participant": "D",
+      "restaurant": "バルバッコア 渋谷店",
+      "perception": "Mix"
+    }
+  ]
+}

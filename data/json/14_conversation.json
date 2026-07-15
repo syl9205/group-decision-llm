@@ -1,0 +1,263 @@
+{
+  "conversation_id": "14",
+  "conversation": [
+    {
+      "speaker": "A",
+      "utterance": "11/10までの間で空いてる日は？"
+    },
+    {
+      "speaker": "B",
+      "utterance": "31,2,3,5,7,9,11\n19時以降とか"
+    },
+    {
+      "speaker": "A",
+      "utterance": "私は月･水が無理だけどそれ以外なら大丈夫かな、基本。"
+    },
+    {
+      "speaker": "B",
+      "utterance": "あ31微妙かも"
+    },
+    {
+      "speaker": "C",
+      "utterance": "29,30,1,4〜11は夜空けるのは出来そう"
+    },
+    {
+      "speaker": "B",
+      "utterance": "木土日かな"
+    },
+    {
+      "speaker": "A",
+      "utterance": "5(土)だと楽かも。"
+    },
+    {
+      "speaker": "B",
+      "utterance": "おけ！"
+    },
+    {
+      "speaker": "C",
+      "utterance": "問題ないよ"
+    },
+    {
+      "speaker": "B",
+      "utterance": "16時まで駒場なのでどこでもいけます"
+    },
+    {
+      "speaker": "A",
+      "utterance": "じゃあ11/5だとして何時からがいい？\n私も駒場おるわ。"
+    },
+    {
+      "speaker": "B",
+      "utterance": "18:30とか？"
+    },
+    {
+      "speaker": "C",
+      "utterance": "そうね、18時以降が嬉しいかな"
+    },
+    {
+      "speaker": "A",
+      "utterance": "混むのを避けたいのでたしかに\n11/5 18:30～で。\n\"菱田屋酒場\n050-3743-7433"
+    },
+    {
+      "speaker": "https",
+      "utterance": "//maps.app.goo.gl/WGRiWdqvAHyV6mn77?g_st=ic\""
+    },
+    {
+      "speaker": "A",
+      "utterance": "\"Quindi\n050-5340-7914"
+    },
+    {
+      "speaker": "https",
+      "utterance": "//maps.app.goo.gl/MKTZwdNqVbhDuoz3A?g_st=ic\""
+    },
+    {
+      "speaker": "A",
+      "utterance": "\"韓国農林水産大臣賞受賞アス 下北沢\n03-6805-5881"
+    },
+    {
+      "speaker": "https",
+      "utterance": "//maps.app.goo.gl/X2cruveHmj6ixnax7?g_st=ic\""
+    },
+    {
+      "speaker": "B",
+      "utterance": "\"ビストロ ユウ\n03-6261-4656\n東京都千代田区神田三崎町2-11-12 三崎町ビル B1F"
+    },
+    {
+      "speaker": "https",
+      "utterance": "//tabelog.com/tokyo/A1310/A131003/13187320/\""
+    },
+    {
+      "speaker": "B",
+      "utterance": "\"グリルエフ\n03-3441-2902\n東京都品川区東五反田1-13-9"
+    },
+    {
+      "speaker": "https",
+      "utterance": "//tabelog.com/tokyo/A1316/A131603/13001552/\""
+    },
+    {
+      "speaker": "B",
+      "utterance": "\"オステリアウララ\n050-5890-8382\n東京都渋谷区猿楽町1-3 ユガテビル1F2F"
+    },
+    {
+      "speaker": "https",
+      "utterance": "//tabelog.com/tokyo/A1303/A130301/13136881/\""
+    },
+    {
+      "speaker": "C",
+      "utterance": "\"韓国料理 中央シジャン\n03-6205-6363"
+    },
+    {
+      "speaker": "https",
+      "utterance": "//maps.app.goo.gl/d1sDFpxUCho9ivbM7?g_st=ic\""
+    },
+    {
+      "speaker": "B",
+      "utterance": "韓国料理は数人で食べるのに向いてるなーと思った"
+    },
+    {
+      "speaker": "A",
+      "utterance": "どこに一番惹かれてる？\nわかる。"
+    },
+    {
+      "speaker": "B",
+      "utterance": "あとはAが出したイタリアンも気になる"
+    },
+    {
+      "speaker": "C",
+      "utterance": "イタリアンあんま行く機会ないから行ってみたい気持ちはある"
+    },
+    {
+      "speaker": "B",
+      "utterance": "ほむほむ、どうしようか"
+    },
+    {
+      "speaker": "A",
+      "utterance": "私もイタリアンか韓国かなって感じしてるからそれ系のどれかで。"
+    },
+    {
+      "speaker": "B",
+      "utterance": "イタリアンだと代官山のか下北？"
+    },
+    {
+      "speaker": "A",
+      "utterance": "下北？"
+    },
+    {
+      "speaker": "B",
+      "utterance": "間違えた"
+    },
+    {
+      "speaker": "A",
+      "utterance": "代々木上原じゃね"
+    },
+    {
+      "speaker": "B",
+      "utterance": "ですね\n韓国は場所どっちがいい？"
+    },
+    {
+      "speaker": "A",
+      "utterance": "韓国だと下北か新大久保か"
+    },
+    {
+      "speaker": "B",
+      "utterance": "内容はそんな変わんない気がするけど"
+    },
+    {
+      "speaker": "C",
+      "utterance": "行ったことある店出したからどっちかなら下北の方行きたい"
+    },
+    {
+      "speaker": "A",
+      "utterance": "こちらとしてもアクセスが下北のほうが良さそうなので下北かな。"
+    },
+    {
+      "speaker": "B",
+      "utterance": "イタリアンだとどちらがよき？\n同意\n\"代官山のは食材から選べて楽しい\n代々木上原は行ったことないし美味しそう\""
+    },
+    {
+      "speaker": "A",
+      "utterance": "へ〜魅力的"
+    },
+    {
+      "speaker": "C",
+      "utterance": "代官山の方って夜だと足が出ない？"
+    },
+    {
+      "speaker": "A",
+      "utterance": "行きは少なくとも駒場からなので別に代官山でもいいよって感じ、私は。"
+    },
+    {
+      "speaker": "B",
+      "utterance": "サービス料なしってかいてある"
+    },
+    {
+      "speaker": "C",
+      "utterance": "\"ほうほう\nじゃあ問題ないか\""
+    },
+    {
+      "speaker": "A",
+      "utterance": "😇(日本語力の問題でした)\nまあ、金額一律コース？もあるっぽい代官山は。"
+    },
+    {
+      "speaker": "B",
+      "utterance": "うんうんそれもあり\n代官山で検討する？"
+    },
+    {
+      "speaker": "A",
+      "utterance": "そうねぇ、少しアクセスは悪いけど美味しそう。"
+    },
+    {
+      "speaker": "C",
+      "utterance": "\"いいと思うよ\n写真見て結構よさげだったし\""
+    },
+    {
+      "speaker": "B",
+      "utterance": "韓国料理とこれだとどちらがいいかしら"
+    },
+    {
+      "speaker": "A",
+      "utterance": "うーん、サムギョプサルが美味しいらしいので(テレビで言ってた)、サムギョプサルを食べたい気持ちvsイタリアン"
+    },
+    {
+      "speaker": "B",
+      "utterance": "\"何人かで食べられるのはレアだから韓国料理行きたい感もある、\n単純にイタリアンおいしそう\"\nこのイタリアンも話し合って決められるから何人かで行く楽しさはあると思う"
+    },
+    {
+      "speaker": "C",
+      "utterance": "韓国だと料理よりお酒に目がいったので、イタリアンがいいです笑"
+    },
+    {
+      "speaker": "B",
+      "utterance": "了解です！そうしましょう\nこれで"
+    }
+  ],
+  "info": [
+    {
+      "website": "https://tabelog.com/tokyo/A1303/A130301/13136881/",
+      "restaurant": "オステリアウララ（Osteria Urara）"
+    },
+    {
+      "website": "https://maps.app.goo.gl/WGRiWdqvAHyV6mn77?g_st=ic",
+      "restaurant": "菱田屋酒場"
+    },
+    {
+      "website": "https://maps.app.goo.gl/MKTZwdNqVbhDuoz3A?g_st=ic",
+      "restaurant": "QUINDI（クインディ）"
+    },
+    {
+      "website": "https://maps.app.goo.gl/X2cruveHmj6ixnax7?g_st=ic",
+      "restaurant": "韓国農林水産大臣賞受賞 アス 下北沢店（아스）"
+    },
+    {
+      "website": "https://tabelog.com/tokyo/A1310/A131003/13187320/",
+      "restaurant": "ビストロ ユウ（Bistro U）"
+    },
+    {
+      "website": "https://tabelog.com/tokyo/A1316/A131603/13001552/",
+      "restaurant": "グリルエフ"
+    },
+    {
+      "website": "https://maps.app.goo.gl/d1sDFpxUCho9ivbM7?g_st=ic",
+      "restaurant": "韓国料理 中央シジャン"
+    }
+  ]
+}

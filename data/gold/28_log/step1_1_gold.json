@@ -1,0 +1,14 @@
+{
+  "participants": [
+    "A",
+    "B",
+    "C"
+  ],
+  "restaurant_brands": [
+    "沸騰小吃城",
+    "SAMARKAND TERRACE（サマルカンド テラス）",
+    "焼肉 鶯谷園（ウグイスダニエン）",
+    "博多もつ鍋 やまや 池袋店"
+  ],
+  "final_restaurant": "沸騰小吃城"
+}

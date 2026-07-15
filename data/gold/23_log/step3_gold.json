@@ -1,0 +1,64 @@
+{
+  "perception_table": [
+    {
+      "participant": "A",
+      "restaurant": "モロッコ料理の台所　エンリケマルエコス",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "A",
+      "restaurant": "マ プール（Ma Poule）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "A",
+      "restaurant": "ポップ ガストロノミー レインカラー",
+      "perception": "Positive"
+    },
+    {
+      "participant": "A",
+      "restaurant": "浅草 ASA虎",
+      "perception": "Positive"
+    },
+    {
+      "participant": "B",
+      "restaurant": "モロッコ料理の台所　エンリケマルエコス",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "B",
+      "restaurant": "マ プール（Ma Poule）",
+      "perception": "Negative"
+    },
+    {
+      "participant": "B",
+      "restaurant": "ポップ ガストロノミー レインカラー",
+      "perception": "Positive"
+    },
+    {
+      "participant": "B",
+      "restaurant": "浅草 ASA虎",
+      "perception": "Positive"
+    },
+    {
+      "participant": "C",
+      "restaurant": "モロッコ料理の台所　エンリケマルエコス",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "C",
+      "restaurant": "マ プール（Ma Poule）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "C",
+      "restaurant": "ポップ ガストロノミー レインカラー",
+      "perception": "Positive"
+    },
+    {
+      "participant": "C",
+      "restaurant": "浅草 ASA虎",
+      "perception": "Positive"
+    }
+  ]
+}

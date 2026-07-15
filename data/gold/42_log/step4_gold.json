@@ -1,0 +1,96 @@
+{
+  "preference_table": [
+    {
+      "participant": "A",
+      "restaurant": "座135 神保町店（ザイサゴ）",
+      "preferences": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "ちゃらりちゃらり 九段店",
+      "preferences": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "ブラッセルズ 神田神保町",
+      "preferences": "A7"
+    },
+    {
+      "participant": "B",
+      "restaurant": "座135 神保町店（ザイサゴ）",
+      "preferences": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "ちゃらりちゃらり 九段店",
+      "preferences": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "ブラッセルズ 神田神保町",
+      "preferences": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "座135 神保町店（ザイサゴ）",
+      "preferences": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "ちゃらりちゃらり 九段店",
+      "preferences": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "ブラッセルズ 神田神保町",
+      "preferences": "A1"
+    }
+  ],
+  "constraint_table": [
+    {
+      "participant": "A",
+      "restaurant": "座135 神保町店（ザイサゴ）",
+      "constraints": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "ちゃらりちゃらり 九段店",
+      "constraints": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "ブラッセルズ 神田神保町",
+      "constraints": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "座135 神保町店（ザイサゴ）",
+      "constraints": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "ちゃらりちゃらり 九段店",
+      "constraints": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "ブラッセルズ 神田神保町",
+      "constraints": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "座135 神保町店（ザイサゴ）",
+      "constraints": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "ちゃらりちゃらり 九段店",
+      "constraints": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "ブラッセルズ 神田神保町",
+      "constraints": "None"
+    }
+  ]
+}

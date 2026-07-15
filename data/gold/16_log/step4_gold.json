@@ -1,0 +1,206 @@
+{
+  "preference_table": [
+    {
+      "participant": "A",
+      "restaurant": "一番餃子",
+      "preferences": "A7,A6"
+    },
+    {
+      "participant": "A",
+      "restaurant": "ねぎま 三ぞう 本郷三丁目店（【旧店名】俺の居酒屋 三蔵）",
+      "preferences": "A7"
+    },
+    {
+      "participant": "A",
+      "restaurant": "美味しい屋",
+      "preferences": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "ピアンタモッチ（【旧店名】コッコピア）",
+      "preferences": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "SUPER PIZZA",
+      "preferences": "A7"
+    },
+    {
+      "participant": "B",
+      "restaurant": "一番餃子",
+      "preferences": "A7"
+    },
+    {
+      "participant": "B",
+      "restaurant": "ねぎま 三ぞう 本郷三丁目店（【旧店名】俺の居酒屋 三蔵）",
+      "preferences": "A7"
+    },
+    {
+      "participant": "B",
+      "restaurant": "美味しい屋",
+      "preferences": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "ピアンタモッチ（【旧店名】コッコピア）",
+      "preferences": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "SUPER PIZZA",
+      "preferences": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "一番餃子",
+      "preferences": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "ねぎま 三ぞう 本郷三丁目店（【旧店名】俺の居酒屋 三蔵）",
+      "preferences": "A1"
+    },
+    {
+      "participant": "C",
+      "restaurant": "美味しい屋",
+      "preferences": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "ピアンタモッチ（【旧店名】コッコピア）",
+      "preferences": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "SUPER PIZZA",
+      "preferences": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "一番餃子",
+      "preferences": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "ねぎま 三ぞう 本郷三丁目店（【旧店名】俺の居酒屋 三蔵）",
+      "preferences": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "美味しい屋",
+      "preferences": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "ピアンタモッチ（【旧店名】コッコピア）",
+      "preferences": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "SUPER PIZZA",
+      "preferences": "None"
+    }
+  ],
+  "constraint_table": [
+    {
+      "participant": "A",
+      "restaurant": "一番餃子",
+      "constraints": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "ねぎま 三ぞう 本郷三丁目店（【旧店名】俺の居酒屋 三蔵）",
+      "constraints": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "美味しい屋",
+      "constraints": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "ピアンタモッチ（【旧店名】コッコピア）",
+      "constraints": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "SUPER PIZZA",
+      "constraints": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "一番餃子",
+      "constraints": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "ねぎま 三ぞう 本郷三丁目店（【旧店名】俺の居酒屋 三蔵）",
+      "constraints": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "美味しい屋",
+      "constraints": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "ピアンタモッチ（【旧店名】コッコピア）",
+      "constraints": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "SUPER PIZZA",
+      "constraints": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "一番餃子",
+      "constraints": "A1"
+    },
+    {
+      "participant": "C",
+      "restaurant": "ねぎま 三ぞう 本郷三丁目店（【旧店名】俺の居酒屋 三蔵）",
+      "constraints": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "美味しい屋",
+      "constraints": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "ピアンタモッチ（【旧店名】コッコピア）",
+      "constraints": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "SUPER PIZZA",
+      "constraints": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "一番餃子",
+      "constraints": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "ねぎま 三ぞう 本郷三丁目店（【旧店名】俺の居酒屋 三蔵）",
+      "constraints": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "美味しい屋",
+      "constraints": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "ピアンタモッチ（【旧店名】コッコピア）",
+      "constraints": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "SUPER PIZZA",
+      "constraints": "None"
+    }
+  ]
+}

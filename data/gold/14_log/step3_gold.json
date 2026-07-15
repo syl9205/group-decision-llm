@@ -1,0 +1,109 @@
+{
+  "perception_table": [
+    {
+      "participant": "A",
+      "restaurant": "菱田屋酒場",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "A",
+      "restaurant": "QUINDI（クインディ）",
+      "perception": "Positive"
+    },
+    {
+      "participant": "A",
+      "restaurant": "韓国農林水産大臣賞受賞 アス 下北沢店（아스）",
+      "perception": "Positive"
+    },
+    {
+      "participant": "A",
+      "restaurant": "ビストロ ユウ（Bistro U）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "A",
+      "restaurant": "グリルエフ",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "A",
+      "restaurant": "オステリアウララ（Osteria Urara）",
+      "perception": "Positive"
+    },
+    {
+      "participant": "A",
+      "restaurant": "韓国料理 中央シジャン",
+      "perception": "Positive"
+    },
+    {
+      "participant": "B",
+      "restaurant": "菱田屋酒場",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "B",
+      "restaurant": "QUINDI（クインディ）",
+      "perception": "Positive"
+    },
+    {
+      "participant": "B",
+      "restaurant": "韓国農林水産大臣賞受賞 アス 下北沢店（아스）",
+      "perception": "Positive"
+    },
+    {
+      "participant": "B",
+      "restaurant": "ビストロ ユウ（Bistro U）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "B",
+      "restaurant": "グリルエフ",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "B",
+      "restaurant": "オステリアウララ（Osteria Urara）",
+      "perception": "Positive"
+    },
+    {
+      "participant": "B",
+      "restaurant": "韓国料理 中央シジャン",
+      "perception": "Positive"
+    },
+    {
+      "participant": "C",
+      "restaurant": "菱田屋酒場",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "C",
+      "restaurant": "QUINDI（クインディ）",
+      "perception": "Positive"
+    },
+    {
+      "participant": "C",
+      "restaurant": "韓国農林水産大臣賞受賞 アス 下北沢店（아스）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "C",
+      "restaurant": "ビストロ ユウ（Bistro U）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "C",
+      "restaurant": "グリルエフ",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "C",
+      "restaurant": "オステリアウララ（Osteria Urara）",
+      "perception": "Positive"
+    },
+    {
+      "participant": "C",
+      "restaurant": "韓国料理 中央シジャン",
+      "perception": "Negative"
+    }
+  ]
+}

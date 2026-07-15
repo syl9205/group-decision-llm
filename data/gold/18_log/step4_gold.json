@@ -1,0 +1,246 @@
+{
+  "preference_table": [
+    {
+      "participant": "A",
+      "restaurant": "麻辣大学 上野本店",
+      "preferences": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "シクスバイオリエンタルホテル（6th by ORIENTAL HOTEL）",
+      "preferences": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "焼肉 鶯谷園（ウグイスダニエン）",
+      "preferences": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "新宿 立吉（しんじゅくたつきち）",
+      "preferences": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "でりかおんどる 新大久保本店（【旧店名】おんどる）",
+      "preferences": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "トンテジ 本郷店",
+      "preferences": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "麻辣大学 上野本店",
+      "preferences": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "シクスバイオリエンタルホテル（6th by ORIENTAL HOTEL）",
+      "preferences": "A5"
+    },
+    {
+      "participant": "B",
+      "restaurant": "焼肉 鶯谷園（ウグイスダニエン）",
+      "preferences": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "新宿 立吉（しんじゅくたつきち）",
+      "preferences": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "でりかおんどる 新大久保本店（【旧店名】おんどる）",
+      "preferences": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "トンテジ 本郷店",
+      "preferences": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "麻辣大学 上野本店",
+      "preferences": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "シクスバイオリエンタルホテル（6th by ORIENTAL HOTEL）",
+      "preferences": "A1"
+    },
+    {
+      "participant": "C",
+      "restaurant": "焼肉 鶯谷園（ウグイスダニエン）",
+      "preferences": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "新宿 立吉（しんじゅくたつきち）",
+      "preferences": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "でりかおんどる 新大久保本店（【旧店名】おんどる）",
+      "preferences": "A1"
+    },
+    {
+      "participant": "C",
+      "restaurant": "トンテジ 本郷店",
+      "preferences": "A1"
+    },
+    {
+      "participant": "D",
+      "restaurant": "麻辣大学 上野本店",
+      "preferences": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "シクスバイオリエンタルホテル（6th by ORIENTAL HOTEL）",
+      "preferences": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "焼肉 鶯谷園（ウグイスダニエン）",
+      "preferences": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "新宿 立吉（しんじゅくたつきち）",
+      "preferences": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "でりかおんどる 新大久保本店（【旧店名】おんどる）",
+      "preferences": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "トンテジ 本郷店",
+      "preferences": "None"
+    }
+  ],
+  "constraint_table": [
+    {
+      "participant": "A",
+      "restaurant": "麻辣大学 上野本店",
+      "constraints": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "シクスバイオリエンタルホテル（6th by ORIENTAL HOTEL）",
+      "constraints": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "焼肉 鶯谷園（ウグイスダニエン）",
+      "constraints": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "新宿 立吉（しんじゅくたつきち）",
+      "constraints": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "でりかおんどる 新大久保本店（【旧店名】おんどる）",
+      "constraints": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "トンテジ 本郷店",
+      "constraints": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "麻辣大学 上野本店",
+      "constraints": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "シクスバイオリエンタルホテル（6th by ORIENTAL HOTEL）",
+      "constraints": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "焼肉 鶯谷園（ウグイスダニエン）",
+      "constraints": "A6"
+    },
+    {
+      "participant": "B",
+      "restaurant": "新宿 立吉（しんじゅくたつきち）",
+      "constraints": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "でりかおんどる 新大久保本店（【旧店名】おんどる）",
+      "constraints": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "トンテジ 本郷店",
+      "constraints": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "麻辣大学 上野本店",
+      "constraints": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "シクスバイオリエンタルホテル（6th by ORIENTAL HOTEL）",
+      "constraints": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "焼肉 鶯谷園（ウグイスダニエン）",
+      "constraints": "A6"
+    },
+    {
+      "participant": "C",
+      "restaurant": "新宿 立吉（しんじゅくたつきち）",
+      "constraints": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "でりかおんどる 新大久保本店（【旧店名】おんどる）",
+      "constraints": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "トンテジ 本郷店",
+      "constraints": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "麻辣大学 上野本店",
+      "constraints": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "シクスバイオリエンタルホテル（6th by ORIENTAL HOTEL）",
+      "constraints": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "焼肉 鶯谷園（ウグイスダニエン）",
+      "constraints": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "新宿 立吉（しんじゅくたつきち）",
+      "constraints": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "でりかおんどる 新大久保本店（【旧店名】おんどる）",
+      "constraints": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "トンテジ 本郷店",
+      "constraints": "None"
+    }
+  ]
+}

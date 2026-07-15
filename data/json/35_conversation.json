@@ -1,0 +1,211 @@
+{
+  "conversation_id": "35",
+  "conversation": [
+    {
+      "speaker": "A",
+      "utterance": "11/2～16\n空いてる日を挙げていきましょ"
+    },
+    {
+      "speaker": "B",
+      "utterance": "月水金土日ならとりあえず大丈夫そう"
+    },
+    {
+      "speaker": "C",
+      "utterance": "6,7,13,14,16が大丈夫！"
+    },
+    {
+      "speaker": "D",
+      "utterance": "3、6、10、11、12、13、14が空いてる"
+    },
+    {
+      "speaker": "A",
+      "utterance": "併せるなら、11/6・13・14行ける！\n6・13・14のうち、どれがいいとかある？"
+    },
+    {
+      "speaker": "D",
+      "utterance": "とすると14だとありがたいな"
+    },
+    {
+      "speaker": "C",
+      "utterance": "お！同じくだわ"
+    },
+    {
+      "speaker": "B",
+      "utterance": "\"6,13が日曜で14が月曜だよね？\n14の方がいいですー\""
+    },
+    {
+      "speaker": "A",
+      "utterance": "なら11/14（月）で！"
+    },
+    {
+      "speaker": "D",
+      "utterance": "\"あとは時間？\n17時以降ならいつでも\""
+    },
+    {
+      "speaker": "A",
+      "utterance": "同じくいつでも行けるよ～"
+    },
+    {
+      "speaker": "B",
+      "utterance": "同じく！"
+    },
+    {
+      "speaker": "C",
+      "utterance": "同じく！\n18とかでいいかね？"
+    },
+    {
+      "speaker": "A",
+      "utterance": "なら、17：00～にする？"
+    },
+    {
+      "speaker": "C",
+      "utterance": "おけ！"
+    },
+    {
+      "speaker": "D",
+      "utterance": "早めにしとくほうがいいね"
+    },
+    {
+      "speaker": "B",
+      "utterance": "17時からで大丈夫よ"
+    },
+    {
+      "speaker": "A",
+      "utterance": "11/14（月） 17：00～　でよろしくです！"
+    },
+    {
+      "speaker": "C",
+      "utterance": "\"海底撈火鍋 新宿店\n050-5594-5736\n東京都新宿区歌舞伎町1-21-1 第二東亜会館ビル 6F"
+    },
+    {
+      "speaker": "https",
+      "utterance": "//tabelog.com/tokyo/A1304/A130401/13213528/\""
+    },
+    {
+      "speaker": "D",
+      "utterance": "https://s.tabelog.com/tokyo/A1313/A131302/13029520/"
+    },
+    {
+      "speaker": "A",
+      "utterance": "https://tabelog.com/tokyo/A1310/A131001/13018900/"
+    },
+    {
+      "speaker": "B",
+      "utterance": "https://tabelog.com/tokyo/A1310/A131004/13003538/"
+    },
+    {
+      "speaker": "D",
+      "utterance": "\"候補は以上？\n複数あげる人いる？\""
+    },
+    {
+      "speaker": "C",
+      "utterance": "大丈夫です〜"
+    },
+    {
+      "speaker": "B",
+      "utterance": "あげれません…"
+    },
+    {
+      "speaker": "A",
+      "utterance": "自分も大丈夫！\nどこ行きたい？"
+    },
+    {
+      "speaker": "D",
+      "utterance": "\"謎のバーガーかぶりが起こったな\n2人とも食べたいものから選んだ？\""
+    },
+    {
+      "speaker": "A",
+      "utterance": "確かに笑\n自分は手軽そうだったから、バーガーにした感じかな"
+    },
+    {
+      "speaker": "B",
+      "utterance": "お店を全く考えてなかったから、本郷近くのお店をぱっと思い出してって感じ"
+    },
+    {
+      "speaker": "D",
+      "utterance": "\"なるほど…\nバーガー食いたい！って人が半数いるなら尊重したいと思ったので聞いた\""
+    },
+    {
+      "speaker": "A",
+      "utterance": "そこまでバーガー推しじゃないです()"
+    },
+    {
+      "speaker": "D",
+      "utterance": "そうでもなさげね"
+    },
+    {
+      "speaker": "A",
+      "utterance": "もんじゃ、食べたことないから気になってる\nあとここ、前行ったことあるけど、めちゃ美味しかったから、もう一回行きたいはある"
+    },
+    {
+      "speaker": "C",
+      "utterance": "もんじゃアツいよな"
+    },
+    {
+      "speaker": "B",
+      "utterance": "一番話しやすそうなのは火鍋、もんじゃは食べたい"
+    },
+    {
+      "speaker": "A",
+      "utterance": "これはもんじゃか？"
+    },
+    {
+      "speaker": "D",
+      "utterance": "飲みっぽく話すなら鍋囲むのが良いよな"
+    },
+    {
+      "speaker": "A",
+      "utterance": "それとも鍋か？"
+    },
+    {
+      "speaker": "B",
+      "utterance": "もんじゃ食べたことないなら、是非食べてほしい"
+    },
+    {
+      "speaker": "C",
+      "utterance": "もんじゃ行きたし"
+    },
+    {
+      "speaker": "D",
+      "utterance": "\"手前味噌だがもんじゃはいいぞ\n自分で焼けるから話の種にもなるし、テーブル狭いから結構話しやすい\""
+    },
+    {
+      "speaker": "A",
+      "utterance": "これはもんじゃ激熱か？"
+    },
+    {
+      "speaker": "D",
+      "utterance": "もんじゃにします？"
+    },
+    {
+      "speaker": "C",
+      "utterance": "🙌🙌🙌🙌"
+    },
+    {
+      "speaker": "B",
+      "utterance": "もんじゃ行きましょう"
+    },
+    {
+      "speaker": "A",
+      "utterance": "行きましょー！"
+    }
+  ],
+  "info": [
+    {
+      "website": "https://tabelog.com/tokyo/A1304/A130401/13213528/",
+      "restaurant": "海底撈火鍋 新宿店（カイテイロウヒナベ）"
+    },
+    {
+      "website": "https://s.tabelog.com/tokyo/A1313/A131302/13029520/",
+      "restaurant": "もんじゃ 蔵（くら）"
+    },
+    {
+      "website": "https://tabelog.com/tokyo/A1310/A131001/13018900/",
+      "restaurant": "チェルシー マーケット 秋葉原（CHELSEA MARKET）"
+    },
+    {
+      "website": "https://tabelog.com/tokyo/A1310/A131004/13003538/",
+      "restaurant": "ファイヤーハウス（FIRE HOUSE）"
+    }
+  ]
+}

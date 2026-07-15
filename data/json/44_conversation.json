@@ -1,0 +1,703 @@
+{
+  "conversation_id": "44",
+  "conversation": [
+    {
+      "speaker": "A",
+      "utterance": "みんないつ空いてる？"
+    },
+    {
+      "speaker": "B",
+      "utterance": "１１月？"
+    },
+    {
+      "speaker": "C",
+      "utterance": "11/15までよね"
+    },
+    {
+      "speaker": "A",
+      "utterance": "そうね、11/15までで空いてる夜"
+    },
+    {
+      "speaker": "D",
+      "utterance": "全部あげてく？"
+    },
+    {
+      "speaker": "E",
+      "utterance": "14か15しか空いてない…\nごめんw"
+    },
+    {
+      "speaker": "A",
+      "utterance": "まじか笑"
+    },
+    {
+      "speaker": "D",
+      "utterance": "え、その日空いてない"
+    },
+    {
+      "speaker": "B",
+      "utterance": "14ならおけ"
+    },
+    {
+      "speaker": "C",
+      "utterance": "もしかして実験終わり？"
+    },
+    {
+      "speaker": "A",
+      "utterance": "14の1930以降と15はオッケ"
+    },
+    {
+      "speaker": "C",
+      "utterance": "空いてないと"
+    },
+    {
+      "speaker": "E",
+      "utterance": "明日はいけるww"
+    },
+    {
+      "speaker": "A",
+      "utterance": "忙しすぎやろ"
+    },
+    {
+      "speaker": "E",
+      "utterance": "4のちょい遅めでもよければいける"
+    },
+    {
+      "speaker": "C",
+      "utterance": "明日は僕が無理です…"
+    },
+    {
+      "speaker": "A",
+      "utterance": "これはみんなどう？俺はいける"
+    },
+    {
+      "speaker": "D",
+      "utterance": "4いける"
+    },
+    {
+      "speaker": "C",
+      "utterance": "4も大分にいる"
+    },
+    {
+      "speaker": "B",
+      "utterance": "むり！"
+    },
+    {
+      "speaker": "E",
+      "utterance": "13の夜は？"
+    },
+    {
+      "speaker": "A",
+      "utterance": "いける！"
+    },
+    {
+      "speaker": "C",
+      "utterance": "無理！"
+    },
+    {
+      "speaker": "D",
+      "utterance": "行けねぇ！(shock)"
+    },
+    {
+      "speaker": "E",
+      "utterance": "おおんwww\nちょいまってね"
+    },
+    {
+      "speaker": "B",
+      "utterance": "Eもっと行ける日ないんかい"
+    },
+    {
+      "speaker": "C",
+      "utterance": "11/2〜8がそもそも僕は東京にいないっす\nそれ以外がちょこちょこダメなところあるくらい"
+    },
+    {
+      "speaker": "E",
+      "utterance": "夜だけでしょ？"
+    },
+    {
+      "speaker": "A",
+      "utterance": "そう"
+    },
+    {
+      "speaker": "E",
+      "utterance": "深夜でもよければになっちゃう"
+    },
+    {
+      "speaker": "B",
+      "utterance": "11時とかでも耐えてるわけやん"
+    },
+    {
+      "speaker": "A",
+      "utterance": "ばばいちは１１時半まで空いてるしな\n鶯谷園も深夜まで空いてる"
+    },
+    {
+      "speaker": "E",
+      "utterance": "www"
+    },
+    {
+      "speaker": "C",
+      "utterance": "やよい軒も23時まで空いてるな"
+    },
+    {
+      "speaker": "B",
+      "utterance": "Eの言う深夜って"
+    },
+    {
+      "speaker": "D",
+      "utterance": "深夜って何時頃なん"
+    },
+    {
+      "speaker": "B",
+      "utterance": "いつの話"
+    },
+    {
+      "speaker": "E",
+      "utterance": "Cのいないとこは外すんよね？\n東京いない日程言ってかない？とりま"
+    },
+    {
+      "speaker": "B",
+      "utterance": "いやEが行ける日が一番少ないだろうか"
+    },
+    {
+      "speaker": "E",
+      "utterance": "3,5-8がいない"
+    },
+    {
+      "speaker": "B",
+      "utterance": "Eが深夜に行ける日教えてよ"
+    },
+    {
+      "speaker": "E",
+      "utterance": "深夜でもよければいけるよ\nCじゃね？w\nと思うんだけど"
+    },
+    {
+      "speaker": "C",
+      "utterance": "3〜8\n絶対に不可能になるのは"
+    },
+    {
+      "speaker": "D",
+      "utterance": "13-14だけは不可ス"
+    },
+    {
+      "speaker": "B",
+      "utterance": "おれは3,5,14とかかな\n4\nも"
+    },
+    {
+      "speaker": "E",
+      "utterance": "15っDきついんやっけ？"
+    },
+    {
+      "speaker": "B",
+      "utterance": "あごめん、3,4,5,15"
+    },
+    {
+      "speaker": "A",
+      "utterance": "俺は2.36-8"
+    },
+    {
+      "speaker": "C",
+      "utterance": "1, 9, 10, 11, 12\n残りの候補ね"
+    },
+    {
+      "speaker": "E",
+      "utterance": "11もう皆予定入ってるよq"
+    },
+    {
+      "speaker": "C",
+      "utterance": "せやね\n1, 9, 10, 12"
+    },
+    {
+      "speaker": "E",
+      "utterance": "めっちゃ正直きついねんけど10の17-19とかなら…"
+    },
+    {
+      "speaker": "A",
+      "utterance": "oreha"
+    },
+    {
+      "speaker": "E",
+      "utterance": "母親の誕生日んご"
+    },
+    {
+      "speaker": "A",
+      "utterance": "俺は一応全部いける"
+    },
+    {
+      "speaker": "D",
+      "utterance": "おめでとうお母さん"
+    },
+    {
+      "speaker": "B",
+      "utterance": "11いけるけどね"
+    },
+    {
+      "speaker": "E",
+      "utterance": "11だめなんよ\n別の予定あり"
+    },
+    {
+      "speaker": "C",
+      "utterance": "産んでくれてありがとう"
+    },
+    {
+      "speaker": "E",
+      "utterance": "伝えておくわ"
+    },
+    {
+      "speaker": "B",
+      "utterance": "母親の誕生日かぁー"
+    },
+    {
+      "speaker": "A",
+      "utterance": "Eのお母さんの誕生日をみんなで祝おうや"
+    },
+    {
+      "speaker": "D",
+      "utterance": "10日おれも18:30までとかならいける"
+    },
+    {
+      "speaker": "B",
+      "utterance": "10日おけ"
+    },
+    {
+      "speaker": "A",
+      "utterance": "あ"
+    },
+    {
+      "speaker": "C",
+      "utterance": "10日僕も大丈夫"
+    },
+    {
+      "speaker": "A",
+      "utterance": "10日は１８時以降じゃないときついです、、\n海岸研のバイトで横須賀にいます"
+    },
+    {
+      "speaker": "B",
+      "utterance": "18:00~19:00でええやん"
+    },
+    {
+      "speaker": "C",
+      "utterance": "Dが18時半まで"
+    },
+    {
+      "speaker": "D",
+      "utterance": "まあこれでも大丈夫"
+    },
+    {
+      "speaker": "A",
+      "utterance": "横須賀で１８時にバイトが終了するんよ"
+    },
+    {
+      "speaker": "E",
+      "utterance": "むりやんw"
+    },
+    {
+      "speaker": "B",
+      "utterance": "www"
+    },
+    {
+      "speaker": "D",
+      "utterance": "(スタンプ)"
+    },
+    {
+      "speaker": "C",
+      "utterance": "これ2週間以内ってどれくらい絶対なんだろうか"
+    },
+    {
+      "speaker": "D",
+      "utterance": "横須賀は遠いナァ"
+    },
+    {
+      "speaker": "A",
+      "utterance": "申し訳ない、、なので10日は都内だと19時からになります"
+    },
+    {
+      "speaker": "B",
+      "utterance": "10は無理やな"
+    },
+    {
+      "speaker": "A",
+      "utterance": "11/16-22について検討！"
+    },
+    {
+      "speaker": "D",
+      "utterance": "21以外いけそう"
+    },
+    {
+      "speaker": "E",
+      "utterance": "16,17,19,20,21\nいけます！"
+    },
+    {
+      "speaker": "C",
+      "utterance": "20, 21, 22が無理です"
+    },
+    {
+      "speaker": "E",
+      "utterance": "16,17,19\n残り"
+    },
+    {
+      "speaker": "A",
+      "utterance": "いけます！"
+    },
+    {
+      "speaker": "E",
+      "utterance": "できれば17避けたい\nです！"
+    },
+    {
+      "speaker": "B",
+      "utterance": "17以外\nならいける"
+    },
+    {
+      "speaker": "A",
+      "utterance": "16にするか"
+    },
+    {
+      "speaker": "C",
+      "utterance": "16か19！"
+    },
+    {
+      "speaker": "E",
+      "utterance": "16でどうです？"
+    },
+    {
+      "speaker": "A",
+      "utterance": "おけ！"
+    },
+    {
+      "speaker": "D",
+      "utterance": "16イイよー"
+    },
+    {
+      "speaker": "B",
+      "utterance": "16oke"
+    },
+    {
+      "speaker": "C",
+      "utterance": "我々のゼミが終わってからになるけれど\nおけ！"
+    },
+    {
+      "speaker": "E",
+      "utterance": "それは大丈夫ー"
+    },
+    {
+      "speaker": "A",
+      "utterance": "何時から動ける？"
+    },
+    {
+      "speaker": "D",
+      "utterance": "ゼミ発表頑張ってうまい飯食おうな"
+    },
+    {
+      "speaker": "B",
+      "utterance": "１８：００〜だな"
+    },
+    {
+      "speaker": "C",
+      "utterance": "余裕見れば19時とかかな"
+    },
+    {
+      "speaker": "A",
+      "utterance": "了解！"
+    },
+    {
+      "speaker": "B",
+      "utterance": "19:00で"
+    },
+    {
+      "speaker": "D",
+      "utterance": "おけ！"
+    },
+    {
+      "speaker": "A",
+      "utterance": "本郷近くにする？それともどっかいく？"
+    },
+    {
+      "speaker": "E",
+      "utterance": "実験したいから19時本郷出るくらいだと嬉しい！"
+    },
+    {
+      "speaker": "C",
+      "utterance": "今日時までだからここでいいんじゃね"
+    },
+    {
+      "speaker": "B",
+      "utterance": "https://tabelog.com/tokyo/A1304/A130401/13004123/"
+    },
+    {
+      "speaker": "D",
+      "utterance": "え、アツ"
+    },
+    {
+      "speaker": "A",
+      "utterance": "居酒屋探す"
+    },
+    {
+      "speaker": "C",
+      "utterance": "要するに5つ出せばいいってことか\n確定で出してほしいところとかある？"
+    },
+    {
+      "speaker": "D",
+      "utterance": "飲む？"
+    },
+    {
+      "speaker": "B",
+      "utterance": "のまない"
+    },
+    {
+      "speaker": "A",
+      "utterance": "飲まないんかーい"
+    },
+    {
+      "speaker": "B",
+      "utterance": "別に酒飲まないだけだから、居酒屋行くのはいいよ"
+    },
+    {
+      "speaker": "A",
+      "utterance": "いい居酒屋思いつかん"
+    },
+    {
+      "speaker": "C",
+      "utterance": "それは飲みたくなるやつよ"
+    },
+    {
+      "speaker": "A",
+      "utterance": "https://tabelog.com/tokyo/A1323/A132301/13196485/"
+    },
+    {
+      "speaker": "E",
+      "utterance": "http://maps.hama-sushi.co.jp/jp/detail/4066.html"
+    },
+    {
+      "speaker": "C",
+      "utterance": "https://tabelog.com/tokyo/A1323/A132302/13008844/"
+    },
+    {
+      "speaker": "D",
+      "utterance": "https://s.tabelog.com/tokyo/A1310/A131004/13003538/"
+    },
+    {
+      "speaker": "A",
+      "utterance": "少なくとも一つだからいっぱい出していいのか"
+    },
+    {
+      "speaker": "B",
+      "utterance": "いやここで選ぼう"
+    },
+    {
+      "speaker": "A",
+      "utterance": "https://tabelog.com/tokyo/A1305/A130501/13163083/\nあ、おけ"
+    },
+    {
+      "speaker": "E",
+      "utterance": "これうまいんだよなぁww"
+    },
+    {
+      "speaker": "B",
+      "utterance": "バーガーの店"
+    },
+    {
+      "speaker": "D",
+      "utterance": "はま寿司まるすぎる"
+    },
+    {
+      "speaker": "B",
+      "utterance": "気になった"
+    },
+    {
+      "speaker": "A",
+      "utterance": "とりあえず候補はこれでおけ？\n決める段階は次よね"
+    },
+    {
+      "speaker": "B",
+      "utterance": "うん"
+    },
+    {
+      "speaker": "C",
+      "utterance": "良いと思う！"
+    },
+    {
+      "speaker": "D",
+      "utterance": "うまそ"
+    },
+    {
+      "speaker": "B",
+      "utterance": "あ、そうなん"
+    },
+    {
+      "speaker": "A",
+      "utterance": "どこする？"
+    },
+    {
+      "speaker": "B",
+      "utterance": "みんなの１い\nは？？"
+    },
+    {
+      "speaker": "C",
+      "utterance": "各人さっきの回答で第一希望にしたところ言っていく？"
+    },
+    {
+      "speaker": "A",
+      "utterance": "俺はCがあげてくれたわらじ行きたい！\nこれ第一希望"
+    },
+    {
+      "speaker": "B",
+      "utterance": "バーガー"
+    },
+    {
+      "speaker": "D",
+      "utterance": "はますさい🥇"
+    },
+    {
+      "speaker": "C",
+      "utterance": "僕は明太つけ麺"
+    },
+    {
+      "speaker": "D",
+      "utterance": "バラバラぁ❗️"
+    },
+    {
+      "speaker": "B",
+      "utterance": "すまほでしかできないやん\nとりあえずおれはバーガー\n一位です"
+    },
+    {
+      "speaker": "E",
+      "utterance": "おれはますしかなぁ"
+    },
+    {
+      "speaker": "B",
+      "utterance": "明太つけ麺or はま\nなら\nはま"
+    },
+    {
+      "speaker": "A",
+      "utterance": "はま寿司いつでもいけるし口の中で味再現できるしなあ"
+    },
+    {
+      "speaker": "C",
+      "utterance": "複数にしてくれているから、そこの票の集まり見て決めよう"
+    },
+    {
+      "speaker": "D",
+      "utterance": "食い過ぎそれは"
+    },
+    {
+      "speaker": "A",
+      "utterance": "何位まで入れる？上の投票"
+    },
+    {
+      "speaker": "B",
+      "utterance": "もうはまか明太なのでは？？"
+    },
+    {
+      "speaker": "C",
+      "utterance": "複数選択可"
+    },
+    {
+      "speaker": "B",
+      "utterance": "俺投票できない"
+    },
+    {
+      "speaker": "A",
+      "utterance": "それだったらメンタ推し"
+    },
+    {
+      "speaker": "B",
+      "utterance": "PCのみ"
+    },
+    {
+      "speaker": "E",
+      "utterance": "Bは行きたいとこどこ？\n複数で"
+    },
+    {
+      "speaker": "B",
+      "utterance": "バーがー、はま"
+    },
+    {
+      "speaker": "C",
+      "utterance": "とりあえずAくん投票しよう"
+    },
+    {
+      "speaker": "B",
+      "utterance": "１，２"
+    },
+    {
+      "speaker": "A",
+      "utterance": "二つ選んだ！"
+    },
+    {
+      "speaker": "C",
+      "utterance": "(写真)"
+    },
+    {
+      "speaker": "E",
+      "utterance": "Bはまならはまかな？"
+    },
+    {
+      "speaker": "C",
+      "utterance": "これ＋Bの希望"
+    },
+    {
+      "speaker": "B",
+      "utterance": "はま"
+    },
+    {
+      "speaker": "C",
+      "utterance": "上位決戦だとしても明太かはまやな"
+    },
+    {
+      "speaker": "A",
+      "utterance": "はまかあ、、"
+    },
+    {
+      "speaker": "E",
+      "utterance": "予約できるしはまがいいなぁ笑"
+    },
+    {
+      "speaker": "B",
+      "utterance": "はま！！"
+    },
+    {
+      "speaker": "A",
+      "utterance": "じゃあそうするか"
+    },
+    {
+      "speaker": "C",
+      "utterance": "はま寿司でいいですかね"
+    },
+    {
+      "speaker": "A",
+      "utterance": "決定で良い？"
+    },
+    {
+      "speaker": "B",
+      "utterance": "はい！！"
+    },
+    {
+      "speaker": "D",
+      "utterance": "おけ"
+    }
+  ],
+  "info": [
+    {
+      "website": "https://tabelog.com/tokyo/A1304/A130401/13004123/",
+      "restaurant": "沖縄そば やんばる 新宿本店（おきなわそば・やんばる）"
+    },
+    {
+      "website": "https://tabelog.com/tokyo/A1323/A132301/13196485/",
+      "restaurant": "焼肉牛星 白山店"
+    },
+    {
+      "website": "https://tabelog.com/tokyo/A1323/A132301/13047380/",
+      "restaurant": "はま寿司 駒込白山店"
+    },
+    {
+      "website": "https://tabelog.com/tokyo/A1323/A132302/13008844/",
+      "restaurant": "和来路（わらじ）"
+    },
+    {
+      "website": "https://s.tabelog.com/tokyo/A1310/A131004/13003538/",
+      "restaurant": "ファイヤーハウス（FIRE HOUSE）"
+    },
+    {
+      "website": "https://tabelog.com/tokyo/A1305/A130501/13163083/",
+      "restaurant": "元祖めんたい煮こみつけ麺"
+    }
+  ]
+}

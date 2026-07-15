@@ -1,0 +1,109 @@
+{
+  "perception_table": [
+    {
+      "participant": "A",
+      "restaurant": "一番餃子",
+      "perception": "Positive"
+    },
+    {
+      "participant": "A",
+      "restaurant": "ファイヤーハウス（FIRE HOUSE）",
+      "perception": "Positive"
+    },
+    {
+      "participant": "A",
+      "restaurant": "キッチンセブン街のハンバーグ屋さん 本郷3丁目店",
+      "perception": "Positive"
+    },
+    {
+      "participant": "A",
+      "restaurant": "根津 釜竹（かまちく）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "A",
+      "restaurant": "食堂もり川（もりかわ）",
+      "perception": "Positive"
+    },
+    {
+      "participant": "A",
+      "restaurant": "蓬溪閣（ホウケイカク）",
+      "perception": "Positive"
+    },
+    {
+      "participant": "A",
+      "restaurant": "二代目 甚八",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "B",
+      "restaurant": "一番餃子",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "B",
+      "restaurant": "ファイヤーハウス（FIRE HOUSE）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "B",
+      "restaurant": "キッチンセブン街のハンバーグ屋さん 本郷3丁目店",
+      "perception": "Positive"
+    },
+    {
+      "participant": "B",
+      "restaurant": "根津 釜竹（かまちく）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "B",
+      "restaurant": "食堂もり川（もりかわ）",
+      "perception": "Positive"
+    },
+    {
+      "participant": "B",
+      "restaurant": "蓬溪閣（ホウケイカク）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "B",
+      "restaurant": "二代目 甚八",
+      "perception": "Positive"
+    },
+    {
+      "participant": "C",
+      "restaurant": "一番餃子",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "C",
+      "restaurant": "ファイヤーハウス（FIRE HOUSE）",
+      "perception": "Positive"
+    },
+    {
+      "participant": "C",
+      "restaurant": "キッチンセブン街のハンバーグ屋さん 本郷3丁目店",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "C",
+      "restaurant": "根津 釜竹（かまちく）",
+      "perception": "Positive"
+    },
+    {
+      "participant": "C",
+      "restaurant": "食堂もり川（もりかわ）",
+      "perception": "Positive"
+    },
+    {
+      "participant": "C",
+      "restaurant": "蓬溪閣（ホウケイカク）",
+      "perception": "Positive"
+    },
+    {
+      "participant": "C",
+      "restaurant": "二代目 甚八",
+      "perception": "Neutral"
+    }
+  ]
+}

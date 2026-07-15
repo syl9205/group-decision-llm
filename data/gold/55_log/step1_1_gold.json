@@ -1,0 +1,18 @@
+{
+  "participants": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "restaurant_brands": [
+    "餃子の王将 下北沢店",
+    "ムスカン（MUSKAN）",
+    "NAN STATION（ナンステーション）",
+    "丸亀製麺 下北沢店",
+    "油そば 東京油組総本店 下北沢組",
+    "スタン サンドイッチストア（STAN sandwich store）",
+    "黒川食堂"
+  ],
+  "final_restaurant": "ムスカン（MUSKAN）"
+}

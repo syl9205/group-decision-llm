@@ -1,0 +1,575 @@
+{
+  "conversation_id": "67",
+  "conversation": [
+    {
+      "speaker": "A",
+      "utterance": "2週間以内ってかなり短いね"
+    },
+    {
+      "speaker": "B",
+      "utterance": "だね"
+    },
+    {
+      "speaker": "C",
+      "utterance": "ね"
+    },
+    {
+      "speaker": "B",
+      "utterance": "何曜空いてる？"
+    },
+    {
+      "speaker": "D",
+      "utterance": "26まで"
+    },
+    {
+      "speaker": "B",
+      "utterance": "やな"
+    },
+    {
+      "speaker": "A",
+      "utterance": "水木土以外は夜ミートある"
+    },
+    {
+      "speaker": "C",
+      "utterance": "\"火曜水曜土曜だけは確実に無理かな\n他の日もミートあるけどそれはサボれなくもない\""
+    },
+    {
+      "speaker": "A",
+      "utterance": "けど休めないわけじゃないからそこじゃきつければずらせなくはない"
+    },
+    {
+      "speaker": "D",
+      "utterance": "CとAだけで候補絞られすぎて草\nやすんでください"
+    },
+    {
+      "speaker": "B",
+      "utterance": "16,19,21,24やな\n俺は\nCとAで何曜に絞られてる？\n頭働かない"
+    },
+    {
+      "speaker": "C",
+      "utterance": "これ行ける日？"
+    },
+    {
+      "speaker": "A",
+      "utterance": "働かなさすぎだろ"
+    },
+    {
+      "speaker": "B",
+      "utterance": "そう"
+    },
+    {
+      "speaker": "C",
+      "utterance": "木"
+    },
+    {
+      "speaker": "B",
+      "utterance": "木バイト\nむり"
+    },
+    {
+      "speaker": "C",
+      "utterance": "草"
+    },
+    {
+      "speaker": "A",
+      "utterance": "解散？"
+    },
+    {
+      "speaker": "B",
+      "utterance": "解散かあ\nAずらせないの"
+    },
+    {
+      "speaker": "C",
+      "utterance": "16.21は行ける\n23から禁酒期間なんだよね"
+    },
+    {
+      "speaker": "B",
+      "utterance": "草"
+    },
+    {
+      "speaker": "C",
+      "utterance": "悲しき"
+    },
+    {
+      "speaker": "B",
+      "utterance": "なにそれ"
+    },
+    {
+      "speaker": "A",
+      "utterance": "何用"
+    },
+    {
+      "speaker": "C",
+      "utterance": "サークルで禁酒期間設定されてる"
+    },
+    {
+      "speaker": "D",
+      "utterance": "16ワンチャンいける\nんなもん知らん"
+    },
+    {
+      "speaker": "B",
+      "utterance": "わんちゃんとは"
+    },
+    {
+      "speaker": "A",
+      "utterance": "16いけ、、る"
+    },
+    {
+      "speaker": "C",
+      "utterance": "苦しそうでワロタ"
+    },
+    {
+      "speaker": "A",
+      "utterance": "ミート切ればいけます"
+    },
+    {
+      "speaker": "D",
+      "utterance": "22は"
+    },
+    {
+      "speaker": "A",
+      "utterance": "22は\n絶対行ける"
+    },
+    {
+      "speaker": "C",
+      "utterance": "土曜だから厳しめ"
+    },
+    {
+      "speaker": "B",
+      "utterance": "俺が厳しい、8時とか9時からなら\nわんちゃん"
+    },
+    {
+      "speaker": "A",
+      "utterance": "わんちゃんとは"
+    },
+    {
+      "speaker": "B",
+      "utterance": "飲み会一個入ってる\n夕方あたりから"
+    },
+    {
+      "speaker": "C",
+      "utterance": "14とか金曜は無理？"
+    },
+    {
+      "speaker": "A",
+      "utterance": "じゃあだめです\n火金曜は全体のミートだからだいぶきつい"
+    },
+    {
+      "speaker": "B",
+      "utterance": "いやー予定入ってる"
+    },
+    {
+      "speaker": "A",
+      "utterance": "日月はずらせなくはないってぐらい"
+    },
+    {
+      "speaker": "D",
+      "utterance": "23"
+    },
+    {
+      "speaker": "B",
+      "utterance": "23も空いてたわ\n23いけるよ"
+    },
+    {
+      "speaker": "A",
+      "utterance": "っても早めから飲んで10時ぐらいに帰って来れるなら行ける"
+    },
+    {
+      "speaker": "C",
+      "utterance": "禁酒期間…………"
+    },
+    {
+      "speaker": "B",
+      "utterance": "それなんなん"
+    },
+    {
+      "speaker": "D",
+      "utterance": "アホルール"
+    },
+    {
+      "speaker": "A",
+      "utterance": "大会前とかなんやろ"
+    },
+    {
+      "speaker": "C",
+      "utterance": "それはそう\n早稲田祭っすね"
+    },
+    {
+      "speaker": "A",
+      "utterance": "ああ、、ありましたね"
+    },
+    {
+      "speaker": "C",
+      "utterance": "ふざけたサークルだよほんと"
+    },
+    {
+      "speaker": "B",
+      "utterance": "アホサークル"
+    },
+    {
+      "speaker": "C",
+      "utterance": "17\nとかは"
+    },
+    {
+      "speaker": "B",
+      "utterance": "A16でも23でも変わらんの？\n17むり\n8時までに終わるなら\nいけるけど"
+    },
+    {
+      "speaker": "A",
+      "utterance": "曜日同じなら変わんない"
+    },
+    {
+      "speaker": "B",
+      "utterance": "禁酒期間の人、23は？\n俺23の方がありがたいことに気づいた"
+    },
+    {
+      "speaker": "C",
+      "utterance": "うげぇ"
+    },
+    {
+      "speaker": "B",
+      "utterance": "無理なら16でいい"
+    },
+    {
+      "speaker": "A",
+      "utterance": "めちゃくちゃ飲酒させようとしてて草\n16って誰がきついんだっけ"
+    },
+    {
+      "speaker": "B",
+      "utterance": "おまえ"
+    },
+    {
+      "speaker": "A",
+      "utterance": "え"
+    },
+    {
+      "speaker": "D",
+      "utterance": "\"16  ▲"
+    },
+    {
+      "speaker": "18  19",
+      "utterance": "30～"
+    },
+    {
+      "speaker": "19  17",
+      "utterance": "00～"
+    },
+    {
+      "speaker": "22   16",
+      "utterance": "00～\n23   ▲\""
+    },
+    {
+      "speaker": "C",
+      "utterance": "大差ないなら16の方がありがたいかもしれん"
+    },
+    {
+      "speaker": "B",
+      "utterance": "19はいけるよ"
+    },
+    {
+      "speaker": "A",
+      "utterance": "１９行ける"
+    },
+    {
+      "speaker": "C",
+      "utterance": "あー、19ちょい遅い時間でよいなら\n俺も行けるかも"
+    },
+    {
+      "speaker": "B",
+      "utterance": "何時？"
+    },
+    {
+      "speaker": "C",
+      "utterance": "1945〜とか2000〜"
+    },
+    {
+      "speaker": "B",
+      "utterance": "あ全然いいよ"
+    },
+    {
+      "speaker": "A",
+      "utterance": "耐えじゃね"
+    },
+    {
+      "speaker": "D",
+      "utterance": "いいでしょう"
+    },
+    {
+      "speaker": "B",
+      "utterance": "じゃあそうするか"
+    },
+    {
+      "speaker": "A",
+      "utterance": "あと僕今更なこと言うけど"
+    },
+    {
+      "speaker": "B",
+      "utterance": "はい"
+    },
+    {
+      "speaker": "C",
+      "utterance": "どうぞ"
+    },
+    {
+      "speaker": "A",
+      "utterance": "18時スタートぐらいでいいなら毎日行ける"
+    },
+    {
+      "speaker": "B",
+      "utterance": "なにこいつ"
+    },
+    {
+      "speaker": "C",
+      "utterance": "前提破壊やん"
+    },
+    {
+      "speaker": "A",
+      "utterance": "けどまあ僕除いても１９丸いかな"
+    },
+    {
+      "speaker": "B",
+      "utterance": "まあ19でいいんじゃね\nうん\n1945〜？\n1週間後か"
+    },
+    {
+      "speaker": "C",
+      "utterance": "翌日バキバキに試験あって笑ったけど\nまぁ耐えか"
+    },
+    {
+      "speaker": "D",
+      "utterance": "Cが行けるなら何時でも"
+    },
+    {
+      "speaker": "B",
+      "utterance": "耐え"
+    },
+    {
+      "speaker": "A",
+      "utterance": "余って"
+    },
+    {
+      "speaker": "C",
+      "utterance": "うい"
+    },
+    {
+      "speaker": "A",
+      "utterance": "待たなくてよかった"
+    },
+    {
+      "speaker": "B",
+      "utterance": "もう一山あるの\nないのか"
+    },
+    {
+      "speaker": "A",
+      "utterance": "予定入ってたけど直前に終わる"
+    },
+    {
+      "speaker": "D",
+      "utterance": "何食うよ"
+    },
+    {
+      "speaker": "B",
+      "utterance": "じゃ決定で"
+    },
+    {
+      "speaker": "A",
+      "utterance": "それこの次じゃね"
+    },
+    {
+      "speaker": "C",
+      "utterance": "まって"
+    },
+    {
+      "speaker": "A",
+      "utterance": "はい"
+    },
+    {
+      "speaker": "C",
+      "utterance": "ごめん、一瞬蒸し返すけど\n23でも良いかもな\n誤魔化せるわその日"
+    },
+    {
+      "speaker": "B",
+      "utterance": "どちらでも俺は"
+    },
+    {
+      "speaker": "A",
+      "utterance": "23の場合スタート何時？"
+    },
+    {
+      "speaker": "C",
+      "utterance": "あ、うそうそ\nやっぱ19で！"
+    },
+    {
+      "speaker": "B",
+      "utterance": "はい"
+    },
+    {
+      "speaker": "C",
+      "utterance": "所沢祭あったわ"
+    },
+    {
+      "speaker": "B",
+      "utterance": "https://tabelog.com/tokyo/A1321/A132104/13225958/"
+    },
+    {
+      "speaker": "A",
+      "utterance": "https://tabelog.com/tokyo/A1321/A132104/13225958/"
+    },
+    {
+      "speaker": "C",
+      "utterance": "\"豚とバラの日々\n050-5590-4629\n東京都世田谷区太子堂4-29-1 稲田ビル 1F"
+    },
+    {
+      "speaker": "https",
+      "utterance": "//tabelog.com/tokyo/A1317/A131706/13192432/\""
+    },
+    {
+      "speaker": "D",
+      "utterance": "\"たまには焼肉 高円寺店\n050-5594-1559\n東京都杉並区高円寺北3-20-21 NKビル 1F"
+    },
+    {
+      "speaker": "https",
+      "utterance": "//tabelog.com/tokyo/A1319/A131904/13210914/\""
+    },
+    {
+      "speaker": "D",
+      "utterance": "多様性だよね大事なのは"
+    },
+    {
+      "speaker": "C",
+      "utterance": "最近個人的に三軒茶屋が熱いって話だったんだけど\nアクセス悪いわ"
+    },
+    {
+      "speaker": "B",
+      "utterance": "焼肉二日前に食うからなしだわ"
+    },
+    {
+      "speaker": "C",
+      "utterance": "よく考えたら\n焼肉は1日置けば耐えるやろ"
+    },
+    {
+      "speaker": "A",
+      "utterance": "先にアンケート答えろ"
+    },
+    {
+      "speaker": "D",
+      "utterance": "焼肉なんて毎日食べたいだろ"
+    },
+    {
+      "speaker": "A",
+      "utterance": "場所の縛りはそんなない、三茶アクセスよくはないけど別に行ける"
+    },
+    {
+      "speaker": "B",
+      "utterance": "焼肉普通に美味そうだった"
+    },
+    {
+      "speaker": "D",
+      "utterance": "豚バラもいいなぁ"
+    },
+    {
+      "speaker": "B",
+      "utterance": "三茶の方も美味そう"
+    },
+    {
+      "speaker": "A",
+      "utterance": "日中多分早稲田いるから中央線沿いだと非常にありがたいですね、、"
+    },
+    {
+      "speaker": "B",
+      "utterance": "逆張りでニューヨック行きたくなくなってきた"
+    },
+    {
+      "speaker": "D",
+      "utterance": "まだアナゴ食べてないしニューヨックでもいいよ"
+    },
+    {
+      "speaker": "A",
+      "utterance": "全然行きたいけど"
+    },
+    {
+      "speaker": "C",
+      "utterance": "三茶30分くらいかかるけど言うてちょい遅刻くらいで耐える気はした"
+    },
+    {
+      "speaker": "B",
+      "utterance": "アナゴとか言われると\n食いたくなる"
+    },
+    {
+      "speaker": "D",
+      "utterance": "高円寺も中央線だろうが"
+    },
+    {
+      "speaker": "A",
+      "utterance": "高円寺なら行ける\n三茶誰もアクセス良くなくない？？"
+    },
+    {
+      "speaker": "B",
+      "utterance": "おれもそんないきやすくない\nいややっぱニューヨックだな"
+    },
+    {
+      "speaker": "C",
+      "utterance": "(写真)\n(写真)\n(写真)"
+    },
+    {
+      "speaker": "B",
+      "utterance": "俺は"
+    },
+    {
+      "speaker": "C",
+      "utterance": "こんな感じだった\n豚バラ"
+    },
+    {
+      "speaker": "B",
+      "utterance": "美味そう"
+    },
+    {
+      "speaker": "A",
+      "utterance": "普通にうまそう"
+    },
+    {
+      "speaker": "D",
+      "utterance": "まだ朝ごはん食べてないんだけど飯テロ？"
+    },
+    {
+      "speaker": "A",
+      "utterance": "このあと食べれるだろ"
+    },
+    {
+      "speaker": "B",
+      "utterance": "肉より刺身食いたい"
+    },
+    {
+      "speaker": "D",
+      "utterance": "にゅーよっくにしますか"
+    },
+    {
+      "speaker": "A",
+      "utterance": "そうしよ高円寺のとこお酒あんまなかった気がする"
+    },
+    {
+      "speaker": "C",
+      "utterance": "そうするか"
+    },
+    {
+      "speaker": "B",
+      "utterance": "はい"
+    },
+    {
+      "speaker": "C",
+      "utterance": "おけ"
+    }
+  ],
+  "info": [
+    {
+      "website": "https://tabelog.com/tokyo/A1321/A132104/13225958/",
+      "restaurant": "ニューヨック中野"
+    },
+    {
+      "website": "https://tabelog.com/tokyo/A1317/A131706/13192432/",
+      "restaurant": "豚とバラの日々"
+    },
+    {
+      "website": "https://tabelog.com/tokyo/A1319/A131904/13210914/",
+      "restaurant": "たまには焼肉 高円寺店"
+    }
+  ]
+}

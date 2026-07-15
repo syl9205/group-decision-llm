@@ -1,0 +1,104 @@
+{
+  "perception_table": [
+    {
+      "participant": "A",
+      "restaurant": "トンテジ 本郷店",
+      "perception": "Positive"
+    },
+    {
+      "participant": "A",
+      "restaurant": "た喜ち（takichi）",
+      "perception": "Positive"
+    },
+    {
+      "participant": "A",
+      "restaurant": "炭火串焼 やき龍 本郷店（やきたつ）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "A",
+      "restaurant": "大衆食堂ゆしまホール",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "A",
+      "restaurant": "ババ・ガンプ・シュリンプ 東京（BUBBA GUMP SHRIMP TOKYO）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "B",
+      "restaurant": "トンテジ 本郷店",
+      "perception": "Positive"
+    },
+    {
+      "participant": "B",
+      "restaurant": "た喜ち（takichi）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "B",
+      "restaurant": "炭火串焼 やき龍 本郷店（やきたつ）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "B",
+      "restaurant": "大衆食堂ゆしまホール",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "B",
+      "restaurant": "ババ・ガンプ・シュリンプ 東京（BUBBA GUMP SHRIMP TOKYO）",
+      "perception": "Positive"
+    },
+    {
+      "participant": "C",
+      "restaurant": "トンテジ 本郷店",
+      "perception": "Positive"
+    },
+    {
+      "participant": "C",
+      "restaurant": "た喜ち（takichi）",
+      "perception": "Positive"
+    },
+    {
+      "participant": "C",
+      "restaurant": "炭火串焼 やき龍 本郷店（やきたつ）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "C",
+      "restaurant": "大衆食堂ゆしまホール",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "C",
+      "restaurant": "ババ・ガンプ・シュリンプ 東京（BUBBA GUMP SHRIMP TOKYO）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "D",
+      "restaurant": "トンテジ 本郷店",
+      "perception": "Positive"
+    },
+    {
+      "participant": "D",
+      "restaurant": "た喜ち（takichi）",
+      "perception": "Positive"
+    },
+    {
+      "participant": "D",
+      "restaurant": "炭火串焼 やき龍 本郷店（やきたつ）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "D",
+      "restaurant": "大衆食堂ゆしまホール",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "D",
+      "restaurant": "ババ・ガンプ・シュリンプ 東京（BUBBA GUMP SHRIMP TOKYO）",
+      "perception": "Neutral"
+    }
+  ]
+}

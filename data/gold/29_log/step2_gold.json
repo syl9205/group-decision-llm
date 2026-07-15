@@ -1,0 +1,49 @@
+{
+  "mentioned_table": [
+    {
+      "participant": "A",
+      "restaurant": "ホルモン千葉 渋谷店",
+      "mention": "Mentioned"
+    },
+    {
+      "participant": "A",
+      "restaurant": "小野田商店 学芸大学店",
+      "mention": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "炭焼 金竜山（キンリュウサン）",
+      "mention": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "ホルモン千葉 渋谷店",
+      "mention": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "小野田商店 学芸大学店",
+      "mention": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "炭焼 金竜山（キンリュウサン）",
+      "mention": "Mentioned"
+    },
+    {
+      "participant": "C",
+      "restaurant": "ホルモン千葉 渋谷店",
+      "mention": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "小野田商店 学芸大学店",
+      "mention": "Mentioned"
+    },
+    {
+      "participant": "C",
+      "restaurant": "炭焼 金竜山（キンリュウサン）",
+      "mention": "None"
+    }
+  ]
+}

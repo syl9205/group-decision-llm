@@ -1,0 +1,126 @@
+{
+  "preference_table": [
+    {
+      "participant": "A",
+      "restaurant": "モロッコ料理の台所　エンリケマルエコス",
+      "preferences": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "マ プール（Ma Poule）",
+      "preferences": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "ポップ ガストロノミー レインカラー",
+      "preferences": "A7"
+    },
+    {
+      "participant": "A",
+      "restaurant": "浅草 ASA虎",
+      "preferences": "A7"
+    },
+    {
+      "participant": "B",
+      "restaurant": "モロッコ料理の台所　エンリケマルエコス",
+      "preferences": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "マ プール（Ma Poule）",
+      "preferences": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "ポップ ガストロノミー レインカラー",
+      "preferences": "A7"
+    },
+    {
+      "participant": "B",
+      "restaurant": "浅草 ASA虎",
+      "preferences": "A7"
+    },
+    {
+      "participant": "C",
+      "restaurant": "モロッコ料理の台所　エンリケマルエコス",
+      "preferences": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "マ プール（Ma Poule）",
+      "preferences": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "ポップ ガストロノミー レインカラー",
+      "preferences": "A1, A7"
+    },
+    {
+      "participant": "C",
+      "restaurant": "浅草 ASA虎",
+      "preferences": "A7"
+    }
+  ],
+  "constraint_table": [
+    {
+      "participant": "A",
+      "restaurant": "モロッコ料理の台所　エンリケマルエコス",
+      "constraints": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "マ プール（Ma Poule）",
+      "constraints": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "ポップ ガストロノミー レインカラー",
+      "constraints": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "浅草 ASA虎",
+      "constraints": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "モロッコ料理の台所　エンリケマルエコス",
+      "constraints": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "マ プール（Ma Poule）",
+      "constraints": "A6"
+    },
+    {
+      "participant": "B",
+      "restaurant": "ポップ ガストロノミー レインカラー",
+      "constraints": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "浅草 ASA虎",
+      "constraints": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "モロッコ料理の台所　エンリケマルエコス",
+      "constraints": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "マ プール（Ma Poule）",
+      "constraints": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "ポップ ガストロノミー レインカラー",
+      "constraints": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "浅草 ASA虎",
+      "constraints": "None"
+    }
+  ]
+}

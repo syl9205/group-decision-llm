@@ -1,0 +1,49 @@
+{
+  "mentioned_table": [
+    {
+      "participant": "A",
+      "restaurant": "木村屋本店 北千住",
+      "mention": "Mentioned"
+    },
+    {
+      "participant": "A",
+      "restaurant": "牛太 プラーレ松戸店",
+      "mention": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "串かつ でんがな 松戸店",
+      "mention": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "木村屋本店 北千住",
+      "mention": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "牛太 プラーレ松戸店",
+      "mention": "Mentioned"
+    },
+    {
+      "participant": "B",
+      "restaurant": "串かつ でんがな 松戸店",
+      "mention": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "木村屋本店 北千住",
+      "mention": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "牛太 プラーレ松戸店",
+      "mention": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "串かつ でんがな 松戸店",
+      "mention": "Mentioned"
+    }
+  ]
+}

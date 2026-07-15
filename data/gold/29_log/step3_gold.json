@@ -1,0 +1,49 @@
+{
+  "perception_table": [
+    {
+      "participant": "A",
+      "restaurant": "ホルモン千葉 渋谷店",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "A",
+      "restaurant": "小野田商店 学芸大学店",
+      "perception": "Positive"
+    },
+    {
+      "participant": "A",
+      "restaurant": "炭焼 金竜山（キンリュウサン）",
+      "perception": "Negative"
+    },
+    {
+      "participant": "B",
+      "restaurant": "ホルモン千葉 渋谷店",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "B",
+      "restaurant": "小野田商店 学芸大学店",
+      "perception": "Positive"
+    },
+    {
+      "participant": "B",
+      "restaurant": "炭焼 金竜山（キンリュウサン）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "C",
+      "restaurant": "ホルモン千葉 渋谷店",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "C",
+      "restaurant": "小野田商店 学芸大学店",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "C",
+      "restaurant": "炭焼 金竜山（キンリュウサン）",
+      "perception": "Neutral"
+    }
+  ]
+}

@@ -1,0 +1,306 @@
+{
+  "preference_table": [
+    {
+      "participant": "A",
+      "restaurant": "明憩（めい）",
+      "preferences": "A1"
+    },
+    {
+      "participant": "A",
+      "restaurant": "麻辣大学 上野本店",
+      "preferences": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "角源",
+      "preferences": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "築地玉寿司 浅草エキミセ店",
+      "preferences": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "立食い寿司 根室花まる 東京ミッドタウン八重洲店",
+      "preferences": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "回転寿し トリトン 東京ソラマチ店",
+      "preferences": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "築地寿司清 築地本店（つきじすしせい）",
+      "preferences": "A1"
+    },
+    {
+      "participant": "A",
+      "restaurant": "おかめ",
+      "preferences": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "すしざんまい 奥の院（すしざんまい おくのいん）",
+      "preferences": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "江戸富士",
+      "preferences": "A7"
+    },
+    {
+      "participant": "B",
+      "restaurant": "明憩（めい）",
+      "preferences": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "麻辣大学 上野本店",
+      "preferences": "A1"
+    },
+    {
+      "participant": "B",
+      "restaurant": "角源",
+      "preferences": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "築地玉寿司 浅草エキミセ店",
+      "preferences": "A1"
+    },
+    {
+      "participant": "B",
+      "restaurant": "立食い寿司 根室花まる 東京ミッドタウン八重洲店",
+      "preferences": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "回転寿し トリトン 東京ソラマチ店",
+      "preferences": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "築地寿司清 築地本店（つきじすしせい）",
+      "preferences": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "おかめ",
+      "preferences": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "すしざんまい 奥の院（すしざんまい おくのいん）",
+      "preferences": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "江戸富士",
+      "preferences": "A7"
+    },
+    {
+      "participant": "C",
+      "restaurant": "明憩（めい）",
+      "preferences": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "麻辣大学 上野本店",
+      "preferences": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "角源",
+      "preferences": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "築地玉寿司 浅草エキミセ店",
+      "preferences": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "立食い寿司 根室花まる 東京ミッドタウン八重洲店",
+      "preferences": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "回転寿し トリトン 東京ソラマチ店",
+      "preferences": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "築地寿司清 築地本店（つきじすしせい）",
+      "preferences": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "おかめ",
+      "preferences": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "すしざんまい 奥の院（すしざんまい おくのいん）",
+      "preferences": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "江戸富士",
+      "preferences": "A7"
+    }
+  ],
+  "constraint_table": [
+    {
+      "participant": "A",
+      "restaurant": "明憩（めい）",
+      "constraints": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "麻辣大学 上野本店",
+      "constraints": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "角源",
+      "constraints": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "築地玉寿司 浅草エキミセ店",
+      "constraints": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "立食い寿司 根室花まる 東京ミッドタウン八重洲店",
+      "constraints": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "回転寿し トリトン 東京ソラマチ店",
+      "constraints": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "築地寿司清 築地本店（つきじすしせい）",
+      "constraints": "A6"
+    },
+    {
+      "participant": "A",
+      "restaurant": "おかめ",
+      "constraints": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "すしざんまい 奥の院（すしざんまい おくのいん）",
+      "constraints": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "江戸富士",
+      "constraints": "A6"
+    },
+    {
+      "participant": "B",
+      "restaurant": "明憩（めい）",
+      "constraints": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "麻辣大学 上野本店",
+      "constraints": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "角源",
+      "constraints": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "築地玉寿司 浅草エキミセ店",
+      "constraints": "A6"
+    },
+    {
+      "participant": "B",
+      "restaurant": "立食い寿司 根室花まる 東京ミッドタウン八重洲店",
+      "constraints": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "回転寿し トリトン 東京ソラマチ店",
+      "constraints": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "築地寿司清 築地本店（つきじすしせい）",
+      "constraints": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "おかめ",
+      "constraints": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "すしざんまい 奥の院（すしざんまい おくのいん）",
+      "constraints": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "江戸富士",
+      "constraints": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "明憩（めい）",
+      "constraints": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "麻辣大学 上野本店",
+      "constraints": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "角源",
+      "constraints": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "築地玉寿司 浅草エキミセ店",
+      "constraints": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "立食い寿司 根室花まる 東京ミッドタウン八重洲店",
+      "constraints": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "回転寿し トリトン 東京ソラマチ店",
+      "constraints": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "築地寿司清 築地本店（つきじすしせい）",
+      "constraints": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "おかめ",
+      "constraints": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "すしざんまい 奥の院（すしざんまい おくのいん）",
+      "constraints": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "江戸富士",
+      "constraints": "None"
+    }
+  ]
+}

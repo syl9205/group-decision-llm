@@ -1,0 +1,891 @@
+{
+  "conversation_id": "9",
+  "conversation": [
+    {
+      "speaker": "A",
+      "utterance": "お願いします！"
+    },
+    {
+      "speaker": "B",
+      "utterance": "12/26までの間か"
+    },
+    {
+      "speaker": "C",
+      "utterance": "そうね"
+    },
+    {
+      "speaker": "D",
+      "utterance": "そうです\nいつ大丈夫？"
+    },
+    {
+      "speaker": "B",
+      "utterance": "んーーーーー"
+    },
+    {
+      "speaker": "D",
+      "utterance": "たぶん僕が1番暇なはず\nBが1番大変そう"
+    },
+    {
+      "speaker": "C",
+      "utterance": "2週間以内に東京来るタイミングあるのか"
+    },
+    {
+      "speaker": "B",
+      "utterance": "嘘つくな"
+    },
+    {
+      "speaker": "C",
+      "utterance": "嘘つき"
+    },
+    {
+      "speaker": "D",
+      "utterance": "夜とかに限れば暇よ"
+    },
+    {
+      "speaker": "B",
+      "utterance": "俺が行けるとすれば\n22-26だな"
+    },
+    {
+      "speaker": "C",
+      "utterance": "私はどこも空いてる"
+    },
+    {
+      "speaker": "D",
+      "utterance": "26だけ埋まってる"
+    },
+    {
+      "speaker": "A",
+      "utterance": "22か23がいい"
+    },
+    {
+      "speaker": "B",
+      "utterance": "もしくは18.19ならギリいけなくない"
+    },
+    {
+      "speaker": "C",
+      "utterance": "22は仕事次第だからちょっと避けたい"
+    },
+    {
+      "speaker": "D",
+      "utterance": "23？"
+    },
+    {
+      "speaker": "B",
+      "utterance": "23なら助かる"
+    },
+    {
+      "speaker": "C",
+      "utterance": "23かな"
+    },
+    {
+      "speaker": "A",
+      "utterance": "23だね"
+    },
+    {
+      "speaker": "D",
+      "utterance": "決定！"
+    },
+    {
+      "speaker": "B",
+      "utterance": "あいよ"
+    },
+    {
+      "speaker": "C",
+      "utterance": "ほーい\n場所による"
+    },
+    {
+      "speaker": "D",
+      "utterance": "時間は夜だろうけれど19時とか？"
+    },
+    {
+      "speaker": "B",
+      "utterance": "いや\n間に合わん可能性大"
+    },
+    {
+      "speaker": "A",
+      "utterance": "20時以降なら確実？"
+    },
+    {
+      "speaker": "C",
+      "utterance": "あー19時は厳しいな"
+    },
+    {
+      "speaker": "D",
+      "utterance": "あー、そっか"
+    },
+    {
+      "speaker": "B",
+      "utterance": "せめて20かな"
+    },
+    {
+      "speaker": "C",
+      "utterance": "そうね\n一旦20時で"
+    },
+    {
+      "speaker": "D",
+      "utterance": "余裕もって20時半とか？"
+    },
+    {
+      "speaker": "C",
+      "utterance": "私は20時で大丈夫よ"
+    },
+    {
+      "speaker": "A",
+      "utterance": "どっちでも大丈夫！"
+    },
+    {
+      "speaker": "B",
+      "utterance": "20なら行けるはず"
+    },
+    {
+      "speaker": "D",
+      "utterance": "じゃあ20時ってことでよい？"
+    },
+    {
+      "speaker": "C",
+      "utterance": "20時で〜"
+    },
+    {
+      "speaker": "A",
+      "utterance": "おっけいー！"
+    },
+    {
+      "speaker": "B",
+      "utterance": "\"ごりょんさん 渋谷店\n050-5485-5288"
+    },
+    {
+      "speaker": "https",
+      "utterance": "//maps.app.goo.gl/TnKVr6Eaeo3vu822A\""
+    },
+    {
+      "speaker": "C",
+      "utterance": "https://s.tabelog.com/tokyo/A1304/A130401/13194074/"
+    },
+    {
+      "speaker": "B",
+      "utterance": "\"純米酒専門 YATA 新宿三丁目店\n03-5341-4365"
+    },
+    {
+      "speaker": "https",
+      "utterance": "//maps.app.goo.gl/BRyUtZ7xcL295Nwp8\""
+    },
+    {
+      "speaker": "A",
+      "utterance": "\"居酒屋 四谷 なごみ\n03-6274-8150"
+    },
+    {
+      "speaker": "https",
+      "utterance": "//maps.app.goo.gl/uZqfBrAsQ5Qiyu2K7?g_st=il\""
+    },
+    {
+      "speaker": "D",
+      "utterance": "https://goo.gl/maps/eTBUXDRkR2CeTbsG9\n赤から被った"
+    },
+    {
+      "speaker": "A",
+      "utterance": "\"おでんや den\n03-5379-8573"
+    },
+    {
+      "speaker": "https",
+      "utterance": "//maps.app.goo.gl/7hnvpde3WcPKkXQk7?g_st=il\""
+    },
+    {
+      "speaker": "D",
+      "utterance": "https://maps.app.goo.gl/dcAyNth7omQKZhfL6?g_st=ic"
+    },
+    {
+      "speaker": "B",
+      "utterance": "\"餃子専門店 藤井屋\n03-3239-8295"
+    },
+    {
+      "speaker": "https",
+      "utterance": "//maps.app.goo.gl/WFp3PywQPriScM7o9\""
+    },
+    {
+      "speaker": "D",
+      "utterance": "一応1人1つは出したからこんな感じでいいのかな？"
+    },
+    {
+      "speaker": "C",
+      "utterance": "https://s.tabelog.com/tokyo/A1304/A130401/13252358/\nまあそうね"
+    },
+    {
+      "speaker": "D",
+      "utterance": "満足するまで提案した？"
+    },
+    {
+      "speaker": "A",
+      "utterance": "\"牛たん酒場 たん之助 COMORE四谷店\n03-5362-1529"
+    },
+    {
+      "speaker": "https",
+      "utterance": "//maps.app.goo.gl/pQLkF2i9Xo4fV38K8?g_st=il\""
+    },
+    {
+      "speaker": "C",
+      "utterance": "もし今探してるのあればそれ出して終わりくらいかな"
+    },
+    {
+      "speaker": "B",
+      "utterance": "\"赤から 赤坂TBS通り店\n03-6277-8771"
+    },
+    {
+      "speaker": "https",
+      "utterance": "//maps.app.goo.gl/rAsUVHEU3L666sSt8\""
+    },
+    {
+      "speaker": "C",
+      "utterance": "赤から大好きか"
+    },
+    {
+      "speaker": "A",
+      "utterance": "満足した"
+    },
+    {
+      "speaker": "C",
+      "utterance": "満足"
+    },
+    {
+      "speaker": "B",
+      "utterance": "赤から出したのでミッションクリア感ある"
+    },
+    {
+      "speaker": "D",
+      "utterance": "じゃあ手を上げておこう"
+    },
+    {
+      "speaker": "C",
+      "utterance": "候補出しすぎた"
+    },
+    {
+      "speaker": "D",
+      "utterance": "はい\nどこ行きたいですか？\n主に赤からか居酒屋かって感じだと思うんだけれど"
+    },
+    {
+      "speaker": "C",
+      "utterance": "そうねえ"
+    },
+    {
+      "speaker": "A",
+      "utterance": "赤からをTOP3に入れました"
+    },
+    {
+      "speaker": "B",
+      "utterance": "えぇ、、、"
+    },
+    {
+      "speaker": "C",
+      "utterance": "赤からめっちゃ行きたい人じゃん"
+    },
+    {
+      "speaker": "A",
+      "utterance": "ええ\n赤からいいな！って思って"
+    },
+    {
+      "speaker": "B",
+      "utterance": "ちなみに辛いの食べれる？"
+    },
+    {
+      "speaker": "A",
+      "utterance": "第一位何にした？みんな\n辛いの食べれる"
+    },
+    {
+      "speaker": "D",
+      "utterance": "3辛くらいです"
+    },
+    {
+      "speaker": "C",
+      "utterance": "純米酒専門YATA"
+    },
+    {
+      "speaker": "D",
+      "utterance": "赤から"
+    },
+    {
+      "speaker": "C",
+      "utterance": "辛いのは普通に食べるくらい"
+    },
+    {
+      "speaker": "B",
+      "utterance": "酒カスいるな"
+    },
+    {
+      "speaker": "C",
+      "utterance": "圧倒的にここが一番だった"
+    },
+    {
+      "speaker": "B",
+      "utterance": "1位ここ\nこっちも行きたい"
+    },
+    {
+      "speaker": "C",
+      "utterance": "ちなみに赤からであればどこ店？"
+    },
+    {
+      "speaker": "D",
+      "utterance": "どこでもいい笑"
+    },
+    {
+      "speaker": "B",
+      "utterance": "新宿じゃね？"
+    },
+    {
+      "speaker": "C",
+      "utterance": "まあそうよね\n赤から新宿店かごりょんさんかYATA"
+    },
+    {
+      "speaker": "D",
+      "utterance": "赤からも普通に行きたいけれど、他に行きたいところあるなら全然他でもいい\nまあ珍しさないしね"
+    },
+    {
+      "speaker": "B",
+      "utterance": "赤からどこでも行けるかなとは思う"
+    },
+    {
+      "speaker": "A",
+      "utterance": "たしかに"
+    },
+    {
+      "speaker": "C",
+      "utterance": "ちなみに赤からの2人は他で気になるところはあった？"
+    },
+    {
+      "speaker": "A",
+      "utterance": "ごりょんかYATS\n？"
+    },
+    {
+      "speaker": "B",
+      "utterance": "おでんと餃子と牛たんもあったけど"
+    },
+    {
+      "speaker": "D",
+      "utterance": "おでんは気になった"
+    },
+    {
+      "speaker": "A",
+      "utterance": "おでんきになってる\n冬のおでん、いとおかし🍢"
+    },
+    {
+      "speaker": "D",
+      "utterance": "わかる"
+    },
+    {
+      "speaker": "B",
+      "utterance": "乙だよな"
+    },
+    {
+      "speaker": "C",
+      "utterance": "めっちゃ四ツ谷駅前"
+    },
+    {
+      "speaker": "A",
+      "utterance": "基本四ツ谷駅付近で探した"
+    },
+    {
+      "speaker": "C",
+      "utterance": "スパゲッティながいの近く"
+    },
+    {
+      "speaker": "A",
+      "utterance": "おー！"
+    },
+    {
+      "speaker": "C",
+      "utterance": "Aから四ツ谷愛をすごく感じた\n\"おでん屋にするかい？\n他あれば検討してもいいけど\""
+    },
+    {
+      "speaker": "D",
+      "utterance": "おでんかごりょんかYATA？"
+    },
+    {
+      "speaker": "A",
+      "utterance": "やっぱり動線考えてる"
+    },
+    {
+      "speaker": "C",
+      "utterance": "ごりょん笑"
+    },
+    {
+      "speaker": "A",
+      "utterance": "そうしよ"
+    },
+    {
+      "speaker": "D",
+      "utterance": "\"おでんや den\n03-5379-8573"
+    },
+    {
+      "speaker": "https",
+      "utterance": "//maps.app.goo.gl/7hnvpde3WcPKkXQk7?g_st=il\""
+    },
+    {
+      "speaker": "A",
+      "utterance": "パク・ゴリョン"
+    },
+    {
+      "speaker": "D",
+      "utterance": "\"純米酒専門 YATA 新宿三丁目店\n03-5341-4365"
+    },
+    {
+      "speaker": "https",
+      "utterance": "//maps.app.goo.gl/BRyUtZ7xcL295Nwp8\""
+    },
+    {
+      "speaker": "B",
+      "utterance": "おでん食ったあと何するかな節ある"
+    },
+    {
+      "speaker": "D",
+      "utterance": "\"純米酒専門 YATA 新宿三丁目店\n03-5341-4365"
+    },
+    {
+      "speaker": "https",
+      "utterance": "//maps.app.goo.gl/BRyUtZ7xcL295Nwp8\""
+    },
+    {
+      "speaker": "C",
+      "utterance": "おでん食べた後うちで二次会でもいいし、周り居酒屋あるから普通に二次会もできるとは思う"
+    },
+    {
+      "speaker": "D",
+      "utterance": "YATA2つ持ってきちゃった"
+    },
+    {
+      "speaker": "B",
+      "utterance": "\"二次会が居酒屋でいいならおでんだし\n二次会でダーツ/ビリヤード/ボウリング/カラオケあたりなら新宿にいたほうが良いかなと思っている\""
+    },
+    {
+      "speaker": "D",
+      "utterance": "渋谷か新宿か四ツ谷か"
+    },
+    {
+      "speaker": "C",
+      "utterance": "そうね"
+    },
+    {
+      "speaker": "A",
+      "utterance": "たしかに"
+    },
+    {
+      "speaker": "D",
+      "utterance": "もはや場所で決めてもいいような気がしてきた\n僕の中だと食べ物的には同列よ"
+    },
+    {
+      "speaker": "A",
+      "utterance": "\"それも考慮して、選ぶ？\n1人一個\""
+    },
+    {
+      "speaker": "C",
+      "utterance": "たしかに"
+    },
+    {
+      "speaker": "A",
+      "utterance": "絶対割れるよね？"
+    },
+    {
+      "speaker": "B",
+      "utterance": "そうやな"
+    },
+    {
+      "speaker": "C",
+      "utterance": "私はおでんに一票"
+    },
+    {
+      "speaker": "A",
+      "utterance": "YATA"
+    },
+    {
+      "speaker": "B",
+      "utterance": "ごりょんさん"
+    },
+    {
+      "speaker": "C",
+      "utterance": "はい、Dさん次第"
+    },
+    {
+      "speaker": "D",
+      "utterance": "強いて言えばおでんだけれど、動きそうだから押したいものがある人はプレゼンしてほしい"
+    },
+    {
+      "speaker": "C",
+      "utterance": "立場が偉くなってる笑"
+    },
+    {
+      "speaker": "B",
+      "utterance": "やかましいクライアントだな"
+    },
+    {
+      "speaker": "D",
+      "utterance": "ほら！おでんになるよ！YATAとごりょんさんの人はプレゼンして！"
+    },
+    {
+      "speaker": "B",
+      "utterance": "@A さん、プレゼンどうぞ"
+    },
+    {
+      "speaker": "C",
+      "utterance": "おでん！おでん！"
+    },
+    {
+      "speaker": "A",
+      "utterance": "(写真)"
+    },
+    {
+      "speaker": "C",
+      "utterance": "惹かれなさすぎる笑笑"
+    },
+    {
+      "speaker": "A",
+      "utterance": "六角形のテーブルに惹かれました\nなんかオシャレ"
+    },
+    {
+      "speaker": "D",
+      "utterance": "Cがプレゼンすればおでんが強固になるよ"
+    },
+    {
+      "speaker": "A",
+      "utterance": "ここで立ち飲みするような25歳になりたい"
+    },
+    {
+      "speaker": "C",
+      "utterance": "ただ正直YATAでもいいのよ\n日本酒飲めるから"
+    },
+    {
+      "speaker": "D",
+      "utterance": "わかる、今あがってるのだとどこも外れなさそう"
+    },
+    {
+      "speaker": "B",
+      "utterance": "(写真)"
+    },
+    {
+      "speaker": "C",
+      "utterance": "渋谷はちょい行くの面倒だなって思ってるくらい"
+    },
+    {
+      "speaker": "A",
+      "utterance": "実データ持ってきたね"
+    },
+    {
+      "speaker": "C",
+      "utterance": "活気がある＝うるさい、ではないでしょうか"
+    },
+    {
+      "speaker": "A",
+      "utterance": "私は感性で勝負したけど"
+    },
+    {
+      "speaker": "B",
+      "utterance": "(写真)\nとんでもねぇ口コミあった"
+    },
+    {
+      "speaker": "C",
+      "utterance": "悪いデータも出す誠実さは評価に値する"
+    },
+    {
+      "speaker": "D",
+      "utterance": "2度と行かないのに星2つけてるのは料理はうまかったんかな"
+    },
+    {
+      "speaker": "A",
+      "utterance": "たしかに"
+    },
+    {
+      "speaker": "C",
+      "utterance": "良心が痛んだんじゃない？"
+    },
+    {
+      "speaker": "B",
+      "utterance": "(写真)\nとはいえ食べログではまぁまぁ健闘しとる"
+    },
+    {
+      "speaker": "A",
+      "utterance": "１つのソースだけではない"
+    },
+    {
+      "speaker": "D",
+      "utterance": "まあ居酒屋ならなんでも食べれるからいいとして、おでんで苦手なものとかある？"
+    },
+    {
+      "speaker": "A",
+      "utterance": "素晴らしい"
+    },
+    {
+      "speaker": "B",
+      "utterance": "てか"
+    },
+    {
+      "speaker": "D",
+      "utterance": "おでん苦手ならおでんにする必要はないし"
+    },
+    {
+      "speaker": "C",
+      "utterance": "苦手じゃない"
+    },
+    {
+      "speaker": "B",
+      "utterance": "yataだと2人介抱しなきゃいかんやん"
+    },
+    {
+      "speaker": "C",
+      "utterance": "え？"
+    },
+    {
+      "speaker": "A",
+      "utterance": "苦手じゃないよー"
+    },
+    {
+      "speaker": "C",
+      "utterance": "あ、sleeperたちね"
+    },
+    {
+      "speaker": "A",
+      "utterance": "2人、、？"
+    },
+    {
+      "speaker": "B",
+      "utterance": "そう"
+    },
+    {
+      "speaker": "A",
+      "utterance": "1人でなくて"
+    },
+    {
+      "speaker": "C",
+      "utterance": "赤から大好きsleeperたちよ"
+    },
+    {
+      "speaker": "D",
+      "utterance": "まあ四谷ならそういうの含めても楽だよね"
+    },
+    {
+      "speaker": "A",
+      "utterance": "セプテンバーに見えた"
+    },
+    {
+      "speaker": "B",
+      "utterance": "\"@D @A\n→死ぬ\n@C →フラフラになる\"\nダメじゃん。"
+    },
+    {
+      "speaker": "C",
+      "utterance": "楽しそう"
+    },
+    {
+      "speaker": "B",
+      "utterance": "おでんだな"
+    },
+    {
+      "speaker": "A",
+      "utterance": "おでんだね"
+    },
+    {
+      "speaker": "C",
+      "utterance": "YATAの気持ちになってきた"
+    },
+    {
+      "speaker": "A",
+      "utterance": "おー"
+    },
+    {
+      "speaker": "B",
+      "utterance": "うるせぇよ"
+    },
+    {
+      "speaker": "D",
+      "utterance": "おい天邪鬼\n昔からそんな感じだったけれど\n冬だし寒いからおでん食べたい"
+    },
+    {
+      "speaker": "C",
+      "utterance": "日本酒飲めるし"
+    },
+    {
+      "speaker": "B",
+      "utterance": "おでん×日本酒するやんどうせ"
+    },
+    {
+      "speaker": "A",
+      "utterance": "おつまみも美味しそうだったよね\nYATA"
+    },
+    {
+      "speaker": "D",
+      "utterance": "おでんかYATA？"
+    },
+    {
+      "speaker": "A",
+      "utterance": "そうだね\n本当どっちでもいい"
+    },
+    {
+      "speaker": "B",
+      "utterance": "とりあえず2択まで来たな"
+    },
+    {
+      "speaker": "A",
+      "utterance": "決勝多数決？"
+    },
+    {
+      "speaker": "C",
+      "utterance": "私はその2つならどっちでもよい"
+    },
+    {
+      "speaker": "D",
+      "utterance": "僕もそう"
+    },
+    {
+      "speaker": "C",
+      "utterance": "おでん屋さん日本酒あったし"
+    },
+    {
+      "speaker": "B",
+      "utterance": "あ"
+    },
+    {
+      "speaker": "C",
+      "utterance": "ただ多少YATAは立地がよくないかも\nAとかからすると"
+    },
+    {
+      "speaker": "B",
+      "utterance": "1つ懸念\nYATAは"
+    },
+    {
+      "speaker": "A",
+      "utterance": "新宿も四ツ谷もあんま変わらんと思う"
+    },
+    {
+      "speaker": "C",
+      "utterance": "最寄り新宿三丁目よ、ここ"
+    },
+    {
+      "speaker": "B",
+      "utterance": "酒飲むばしょであって、飯食う場所じゃない感あるかも"
+    },
+    {
+      "speaker": "A",
+      "utterance": "そっか"
+    },
+    {
+      "speaker": "B",
+      "utterance": "2軒目っぽさを感じる"
+    },
+    {
+      "speaker": "A",
+      "utterance": "アクセス悪かった"
+    },
+    {
+      "speaker": "C",
+      "utterance": "あーまあ確かにね"
+    },
+    {
+      "speaker": "D",
+      "utterance": "一応営業時間とか確認したけれど、それはどっちも大丈夫そう"
+    },
+    {
+      "speaker": "A",
+      "utterance": "おでんかな？"
+    },
+    {
+      "speaker": "C",
+      "utterance": "おでんかな"
+    },
+    {
+      "speaker": "B",
+      "utterance": "🍢"
+    },
+    {
+      "speaker": "D",
+      "utterance": "おでんですかね！"
+    },
+    {
+      "speaker": "C",
+      "utterance": "営業時間何時まで？\n23時30分か"
+    },
+    {
+      "speaker": "D",
+      "utterance": "YATAが23時、おでんが0時"
+    },
+    {
+      "speaker": "C",
+      "utterance": "うむ"
+    },
+    {
+      "speaker": "D",
+      "utterance": "ラストオーダーは知らん"
+    },
+    {
+      "speaker": "C",
+      "utterance": "ラストオーダーが23時半だった"
+    },
+    {
+      "speaker": "A",
+      "utterance": "時間ありがとう！"
+    },
+    {
+      "speaker": "C",
+      "utterance": "おでんで〜"
+    },
+    {
+      "speaker": "A",
+      "utterance": "よっしゃ！！！"
+    },
+    {
+      "speaker": "D",
+      "utterance": "決定でいい？"
+    },
+    {
+      "speaker": "C",
+      "utterance": "よいよ〜"
+    },
+    {
+      "speaker": "B",
+      "utterance": "うい"
+    },
+    {
+      "speaker": "D",
+      "utterance": "じゃあ決まり！"
+    }
+  ],
+  "info": [
+    {
+      "website": "https://tabelog.com/tokyo/A1309/A130902/13004334/",
+      "restaurant": "おでんやden（おでんやでん）"
+    },
+    {
+      "website": "https://tabelog.com/tokyo/A1304/A130401/13174784/",
+      "restaurant": "純米酒専門YATA 新宿三丁目店（ヤタ）"
+    },
+    {
+      "website": "https://tabelog.com/tokyo/A1303/A130301/13194761/",
+      "restaurant": "博多串焼き・野菜巻き工房  渋谷宮益坂のごりょんさん"
+    },
+    {
+      "website": "https://s.tabelog.com/tokyo/A1304/A130401/13194074/",
+      "restaurant": "赤から 新宿東口店"
+    },
+    {
+      "website": "https://maps.app.goo.gl/uZqfBrAsQ5Qiyu2K7?g_st=il",
+      "restaurant": "居酒屋 四谷 なごみ"
+    },
+    {
+      "website": "https://goo.gl/maps/eTBUXDRkR2CeTbsG9",
+      "restaurant": "赤から 渋谷本店"
+    },
+    {
+      "website": "https://maps.app.goo.gl/dcAyNth7omQKZhfL6?g_st=ic",
+      "restaurant": "Nihonbashi 1-1-1"
+    },
+    {
+      "website": "https://maps.app.goo.gl/WFp3PywQPriScM7o9",
+      "restaurant": "餃子専門店 藤井屋"
+    },
+    {
+      "website": "https://s.tabelog.com/tokyo/A1304/A130401/13252358/",
+      "restaurant": "北丸 新宿南口店 （きたまる）"
+    },
+    {
+      "website": "https://maps.app.goo.gl/pQLkF2i9Xo4fV38K8?g_st=il",
+      "restaurant": "牛たん酒場 たん之助 COMORE四谷店"
+    },
+    {
+      "website": "https://maps.app.goo.gl/rAsUVHEU3L666sSt8",
+      "restaurant": "赤から 赤坂TBS通り店"
+    }
+  ]
+}

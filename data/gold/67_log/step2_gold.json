@@ -1,0 +1,64 @@
+{
+  "mentioned_table": [
+    {
+      "participant": "A",
+      "restaurant": "ニューヨック中野",
+      "mention": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "豚とバラの日々",
+      "mention": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "たまには焼肉 高円寺店",
+      "mention": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "ニューヨック中野",
+      "mention": "Mentioned"
+    },
+    {
+      "participant": "B",
+      "restaurant": "豚とバラの日々",
+      "mention": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "たまには焼肉 高円寺店",
+      "mention": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "ニューヨック中野",
+      "mention": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "豚とバラの日々",
+      "mention": "Mentioned"
+    },
+    {
+      "participant": "C",
+      "restaurant": "たまには焼肉 高円寺店",
+      "mention": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "ニューヨック中野",
+      "mention": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "豚とバラの日々",
+      "mention": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "たまには焼肉 高円寺店",
+      "mention": "Mentioned"
+    }
+  ]
+}

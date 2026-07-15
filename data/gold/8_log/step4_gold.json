@@ -1,0 +1,206 @@
+{
+  "preference_table": [
+    {
+      "participant": "A",
+      "restaurant": "トンテジ 本郷店",
+      "preferences": "A1"
+    },
+    {
+      "participant": "A",
+      "restaurant": "た喜ち（takichi）",
+      "preferences": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "炭火串焼 やき龍 本郷店（やきたつ）",
+      "preferences": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "大衆食堂ゆしまホール",
+      "preferences": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "ババ・ガンプ・シュリンプ 東京（BUBBA GUMP SHRIMP TOKYO）",
+      "preferences": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "トンテジ 本郷店",
+      "preferences": "A7"
+    },
+    {
+      "participant": "B",
+      "restaurant": "た喜ち（takichi）",
+      "preferences": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "炭火串焼 やき龍 本郷店（やきたつ）",
+      "preferences": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "大衆食堂ゆしまホール",
+      "preferences": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "ババ・ガンプ・シュリンプ 東京（BUBBA GUMP SHRIMP TOKYO）",
+      "preferences": "A7"
+    },
+    {
+      "participant": "C",
+      "restaurant": "トンテジ 本郷店",
+      "preferences": "A1"
+    },
+    {
+      "participant": "C",
+      "restaurant": "た喜ち（takichi）",
+      "preferences": "A7"
+    },
+    {
+      "participant": "C",
+      "restaurant": "炭火串焼 やき龍 本郷店（やきたつ）",
+      "preferences": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "大衆食堂ゆしまホール",
+      "preferences": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "ババ・ガンプ・シュリンプ 東京（BUBBA GUMP SHRIMP TOKYO）",
+      "preferences": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "トンテジ 本郷店",
+      "preferences": "A1"
+    },
+    {
+      "participant": "D",
+      "restaurant": "た喜ち（takichi）",
+      "preferences": "A7"
+    },
+    {
+      "participant": "D",
+      "restaurant": "炭火串焼 やき龍 本郷店（やきたつ）",
+      "preferences": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "大衆食堂ゆしまホール",
+      "preferences": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "ババ・ガンプ・シュリンプ 東京（BUBBA GUMP SHRIMP TOKYO）",
+      "preferences": "None"
+    }
+  ],
+  "constraint_table": [
+    {
+      "participant": "A",
+      "restaurant": "トンテジ 本郷店",
+      "constraints": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "た喜ち（takichi）",
+      "constraints": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "炭火串焼 やき龍 本郷店（やきたつ）",
+      "constraints": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "大衆食堂ゆしまホール",
+      "constraints": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "ババ・ガンプ・シュリンプ 東京（BUBBA GUMP SHRIMP TOKYO）",
+      "constraints": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "トンテジ 本郷店",
+      "constraints": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "た喜ち（takichi）",
+      "constraints": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "炭火串焼 やき龍 本郷店（やきたつ）",
+      "constraints": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "大衆食堂ゆしまホール",
+      "constraints": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "ババ・ガンプ・シュリンプ 東京（BUBBA GUMP SHRIMP TOKYO）",
+      "constraints": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "トンテジ 本郷店",
+      "constraints": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "た喜ち（takichi）",
+      "constraints": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "炭火串焼 やき龍 本郷店（やきたつ）",
+      "constraints": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "大衆食堂ゆしまホール",
+      "constraints": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "ババ・ガンプ・シュリンプ 東京（BUBBA GUMP SHRIMP TOKYO）",
+      "constraints": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "トンテジ 本郷店",
+      "constraints": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "た喜ち（takichi）",
+      "constraints": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "炭火串焼 やき龍 本郷店（やきたつ）",
+      "constraints": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "大衆食堂ゆしまホール",
+      "constraints": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "ババ・ガンプ・シュリンプ 東京（BUBBA GUMP SHRIMP TOKYO）",
+      "constraints": "None"
+    }
+  ]
+}

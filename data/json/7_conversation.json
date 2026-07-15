@@ -1,0 +1,627 @@
+{
+  "conversation_id": "7",
+  "conversation": [
+    {
+      "speaker": "A",
+      "utterance": "3週間以内、いつにする、、？"
+    },
+    {
+      "speaker": "B",
+      "utterance": "年末年始忙しい人いる？"
+    },
+    {
+      "speaker": "C",
+      "utterance": "毎日卒論"
+    },
+    {
+      "speaker": "A",
+      "utterance": "4日から仕事始まる🥺"
+    },
+    {
+      "speaker": "D",
+      "utterance": "研究以外はそんなだね"
+    },
+    {
+      "speaker": "C",
+      "utterance": "で忙しい"
+    },
+    {
+      "speaker": "A",
+      "utterance": "土日の方が行きやすいかもですね"
+    },
+    {
+      "speaker": "D",
+      "utterance": "わかる"
+    },
+    {
+      "speaker": "E",
+      "utterance": "帰省はする"
+    },
+    {
+      "speaker": "A",
+      "utterance": "あれは？"
+    },
+    {
+      "speaker": "B",
+      "utterance": "30~3か一部土日の夜ならいける"
+    },
+    {
+      "speaker": "A",
+      "utterance": "成人の日ある土日\n7-9\nのどこか"
+    },
+    {
+      "speaker": "E",
+      "utterance": "あり"
+    },
+    {
+      "speaker": "B",
+      "utterance": "8行ける"
+    },
+    {
+      "speaker": "A",
+      "utterance": "いける"
+    },
+    {
+      "speaker": "D",
+      "utterance": "いけそう"
+    },
+    {
+      "speaker": "C",
+      "utterance": "夜でしょ？夜ならいつでも"
+    },
+    {
+      "speaker": "A",
+      "utterance": "おお"
+    },
+    {
+      "speaker": "E",
+      "utterance": "じゃあ8のよる？"
+    },
+    {
+      "speaker": "A",
+      "utterance": "そしよう！"
+    },
+    {
+      "speaker": "D",
+      "utterance": "8の夜了解"
+    },
+    {
+      "speaker": "E",
+      "utterance": "(スタンプ)"
+    },
+    {
+      "speaker": "D",
+      "utterance": "次の日仕事だけど大丈夫そう？"
+    },
+    {
+      "speaker": "A",
+      "utterance": "え、祝日？"
+    },
+    {
+      "speaker": "C",
+      "utterance": "(スタンプ)"
+    },
+    {
+      "speaker": "D",
+      "utterance": "あ、なるほど\n（何も理解してなかった顔）"
+    },
+    {
+      "speaker": "A",
+      "utterance": "ｗｗｗｗ"
+    },
+    {
+      "speaker": "E",
+      "utterance": "時間決めよ"
+    },
+    {
+      "speaker": "A",
+      "utterance": "普通に19:00とか？"
+    },
+    {
+      "speaker": "B",
+      "utterance": "おｋ"
+    },
+    {
+      "speaker": "A",
+      "utterance": "まる"
+    },
+    {
+      "speaker": "D",
+      "utterance": "二次会とか行くなら\n早めてもいい気もするが"
+    },
+    {
+      "speaker": "A",
+      "utterance": "意識高い"
+    },
+    {
+      "speaker": "D",
+      "utterance": "笑う"
+    },
+    {
+      "speaker": "B",
+      "utterance": "1800Hか"
+    },
+    {
+      "speaker": "D",
+      "utterance": "最近飲みモチベ高い"
+    },
+    {
+      "speaker": "A",
+      "utterance": "18:00\nそね\nｗｗｗｗ"
+    },
+    {
+      "speaker": "C",
+      "utterance": "りょーかい！"
+    },
+    {
+      "speaker": "A",
+      "utterance": "8日(日) 18:00\nよし"
+    },
+    {
+      "speaker": "E",
+      "utterance": "(スタンプ)"
+    },
+    {
+      "speaker": "A",
+      "utterance": "どのへんにするーー？"
+    },
+    {
+      "speaker": "D",
+      "utterance": "何食べたいとかある？\n猛烈に肉貪りたいとか"
+    },
+    {
+      "speaker": "B",
+      "utterance": "これ"
+    },
+    {
+      "speaker": "A",
+      "utterance": "どれ？\nあ、肉か\nそれなら肉にしよう"
+    },
+    {
+      "speaker": "C",
+      "utterance": "そう言われちゃうと、食いたくなる"
+    },
+    {
+      "speaker": "E",
+      "utterance": "相模原からなので、東京の西側だと助かる\n新宿渋谷池袋あたり"
+    },
+    {
+      "speaker": "D",
+      "utterance": "肉だったらもうエリア決めちゃっても良さそう\nうんうん"
+    },
+    {
+      "speaker": "A",
+      "utterance": "新幹線で行くから東京駅か品川から行きやすいと助かる\n新宿？になりそだけどおいしい店あるかね、、"
+    },
+    {
+      "speaker": "D",
+      "utterance": "あれ、年明けても実家からリモート？"
+    },
+    {
+      "speaker": "A",
+      "utterance": "5,6は名古屋で働く！"
+    },
+    {
+      "speaker": "D",
+      "utterance": "なるほど！"
+    },
+    {
+      "speaker": "A",
+      "utterance": "(写真)\nうまそう"
+    },
+    {
+      "speaker": "B",
+      "utterance": "\"https://tabelog.com/tokyo/A1310/A131001/13171553/\nこの前行っておいしかったところ\""
+    },
+    {
+      "speaker": "A",
+      "utterance": "暴走熟成肉庫ｗｗｗｗ\nおいしそう"
+    },
+    {
+      "speaker": "E",
+      "utterance": "アバンギャルドうまそう"
+    },
+    {
+      "speaker": "D",
+      "utterance": "\"NO MEAT, NO LIFE. 5go.\n050-5595-7825\n東京都新宿区西新宿7-16-4 Concierge髙橋 1F"
+    },
+    {
+      "speaker": "https",
+      "utterance": "//tabelog.com/tokyo/A1304/A130401/13222895/\nこれも美味しそう\""
+    },
+    {
+      "speaker": "B",
+      "utterance": "ほら他3人も案出せ\nお\nいいお値段"
+    },
+    {
+      "speaker": "D",
+      "utterance": "あんまみてなかったけど結構するな"
+    },
+    {
+      "speaker": "C",
+      "utterance": "https://kfoodinnovation.com/shibuya-meatdress\nただ、席少ないだよね。。。。"
+    },
+    {
+      "speaker": "E",
+      "utterance": "\"ねぎし 新宿エルタワー店\n03-3348-2255"
+    },
+    {
+      "speaker": "https",
+      "utterance": "//maps.app.goo.gl/FD6z1sz4bX6BN3e1A?g_st=il\""
+    },
+    {
+      "speaker": "A",
+      "utterance": "\"０秒レモンサワー 仙台ホルモン焼肉酒場 ときわ亭 新宿三丁目店\n03-5925-8636\n東京都新宿区新宿3-7-3 丸中ビル 3F"
+    },
+    {
+      "speaker": "https",
+      "utterance": "//tabelog.com/tokyo/A1304/A130401/13250694/\""
+    },
+    {
+      "speaker": "A",
+      "utterance": "安いならここよね、、"
+    },
+    {
+      "speaker": "B",
+      "utterance": "エルタワーのねぎしじゃん"
+    },
+    {
+      "speaker": "E",
+      "utterance": "ねぎし大好き❤"
+    },
+    {
+      "speaker": "A",
+      "utterance": "ねぎしって"
+    },
+    {
+      "speaker": "B",
+      "utterance": "0秒レモンサワー好きだな"
+    },
+    {
+      "speaker": "A",
+      "utterance": "焼けたっけ？\n安いから常連"
+    },
+    {
+      "speaker": "B",
+      "utterance": "それ2次会やろ"
+    },
+    {
+      "speaker": "A",
+      "utterance": "まちがいない"
+    },
+    {
+      "speaker": "D",
+      "utterance": "ねぎし焼けたやつが出てくるイメージ"
+    },
+    {
+      "speaker": "B",
+      "utterance": "ここで挙手？"
+    },
+    {
+      "speaker": "E",
+      "utterance": "そだね"
+    },
+    {
+      "speaker": "A",
+      "utterance": "\"焼肉一心たん助 旦 有楽町\n050-5890-2972\n東京都千代田区有楽町1-2-11 オーキッドスクエア 1F"
+    },
+    {
+      "speaker": "https",
+      "utterance": "//tabelog.com/tokyo/A1301/A130102/13258460/\""
+    },
+    {
+      "speaker": "A",
+      "utterance": "ここめちゃくちゃ行きたいかも\n食べ放題\nどするーー？"
+    },
+    {
+      "speaker": "C",
+      "utterance": "合わせます\nどこも美味しそう"
+    },
+    {
+      "speaker": "B",
+      "utterance": "考えろ"
+    },
+    {
+      "speaker": "D",
+      "utterance": "わかる"
+    },
+    {
+      "speaker": "C",
+      "utterance": "はい、、、、"
+    },
+    {
+      "speaker": "E",
+      "utterance": "暴走機関車が一番きになる"
+    },
+    {
+      "speaker": "D",
+      "utterance": "0秒サワー行ったことないから行ってみたいんだよな"
+    },
+    {
+      "speaker": "A",
+      "utterance": "名前変わってて草"
+    },
+    {
+      "speaker": "D",
+      "utterance": "そう暴走機関車もよい"
+    },
+    {
+      "speaker": "A",
+      "utterance": "0秒は普通にめちゃうまいよあと安い"
+    },
+    {
+      "speaker": "B",
+      "utterance": "名前のわりに普通にレストラン～酒場の内装で雰囲気いい\n食べ放題もあり"
+    },
+    {
+      "speaker": "A",
+      "utterance": "ほう"
+    },
+    {
+      "speaker": "D",
+      "utterance": "最強じゃん"
+    },
+    {
+      "speaker": "E",
+      "utterance": "これはどのみせ？"
+    },
+    {
+      "speaker": "D",
+      "utterance": "暴走"
+    },
+    {
+      "speaker": "B",
+      "utterance": "アバンギャルド"
+    },
+    {
+      "speaker": "D",
+      "utterance": "アバンギャルド行ってから2件目サワーはきつそうよな"
+    },
+    {
+      "speaker": "A",
+      "utterance": "口コミもいいのね\n肉は焼けなさそう？"
+    },
+    {
+      "speaker": "B",
+      "utterance": "焼けない\n自分で焼きたいの？"
+    },
+    {
+      "speaker": "A",
+      "utterance": "焼いた熱々がたべたい"
+    },
+    {
+      "speaker": "C",
+      "utterance": "まぁ、スーパー個人的には秋葉原だと電子部品見てから、食べにいけるので、やや微妙にありがたかったりする"
+    },
+    {
+      "speaker": "A",
+      "utterance": "みんな焼くことにこだわりないならどっちでもいいよ"
+    },
+    {
+      "speaker": "E",
+      "utterance": "おれは焼きにはこだわりない！"
+    },
+    {
+      "speaker": "D",
+      "utterance": "俺もこだわりないな"
+    },
+    {
+      "speaker": "B",
+      "utterance": "0秒って新宿しかないんだっけ"
+    },
+    {
+      "speaker": "A",
+      "utterance": "なら焼かないでいいですね笑笑\nんー\nしらべる"
+    },
+    {
+      "speaker": "E",
+      "utterance": "上野もあるよ"
+    },
+    {
+      "speaker": "C",
+      "utterance": "今から新規の店候補大丈夫なんか笑"
+    },
+    {
+      "speaker": "A",
+      "utterance": "秋葉原店あった\n二次会だからあり、、？"
+    },
+    {
+      "speaker": "D",
+      "utterance": "系列だし二次会だしいいんじゃない？"
+    },
+    {
+      "speaker": "A",
+      "utterance": "暴走機関車かな"
+    },
+    {
+      "speaker": "B",
+      "utterance": "有楽町のでもいいよ"
+    },
+    {
+      "speaker": "A",
+      "utterance": "あそこは一生行きたいって言ってるとこ\nこれ"
+    },
+    {
+      "speaker": "D",
+      "utterance": "なんか\n口コミ微妙でちょっと気が引ける"
+    },
+    {
+      "speaker": "A",
+      "utterance": "ぬ\nそなのか\nあとたかいね"
+    },
+    {
+      "speaker": "D",
+      "utterance": "通っぽい人が文句言ってた\nそれだけだけど"
+    },
+    {
+      "speaker": "B",
+      "utterance": "「食べ放題だから仕方ないよね。タンって謳ってるのにタンが一番微妙なのはなんとかした方がいい。スタッフによる厚切りタンの焼きももーちょっと上手に焼けるはず。できれば自分で焼きたかった。ハラミだけでいいや。」"
+    },
+    {
+      "speaker": "D",
+      "utterance": "そうそれ"
+    },
+    {
+      "speaker": "A",
+      "utterance": "ｗｗｗｗｗｗｗｗ\nあ、目の前で知らん人に焼かれるのか..."
+    },
+    {
+      "speaker": "D",
+      "utterance": "いや\n多分厚切りたんだけだと思う"
+    },
+    {
+      "speaker": "B",
+      "utterance": "\"【注文内容/コース詳細】\n・タン盛り合わせ\n厚切りタンがかなり微妙。\n火入れのせいもあると思うが、とにかく硬い。そしてちょっとで良いから下味で塩とか振ってほしかった。\n薄切りはサッと焼けば柔らかく食べられるけど、ちょっと臭いが強いのでレモン必須。\n・ハラミ タレ\nちょっと臭いはあるけど、そこまで気にならないかな。\n正直頼むのハラミだけでいいレベル。\nもちろん両面しっかり焼きで。厚みはそこそこなので良い。\n・ロース\nサッと焼いて食べたいけど、思ったより厚みがあるので結構焼かないといけない。鮮度も微妙なので、レアは怖いかなぁ...\nベースのタレは普通なので、別途タレをつけてお召し上がりください。\n・ハラミ 塩\nタレじゃないとにおいがきつい。\n塩で勝負できるレベルでは無い。\n・レバ\nちょっと角が立ってて良さそうだけど、流石に他の肉見る限りしっかり焼かないと怖すぎた。\n甘味はあんまりないけど全然いけるレベル。\n・炙り肉寿司\nかなり無し。味もしないし、シンプルに美味しくない。\n・豚タン刺し\nこれも頼まないことを推奨。凍ってた。\n最後焼いてなんとか食べきった。\n・ハンバーグ\nおまけでもらえるちっこいハンバーグ。\nなぜかちょっと冷たい。\n自分で焼き直してから食べることを推奨。\nそしてこの微妙に食欲そそらない色はなんとかした方がいい。\""
+    },
+    {
+      "speaker": "A",
+      "utterance": "めっちゃネガあるやん"
+    },
+    {
+      "speaker": "B",
+      "utterance": "辛口"
+    },
+    {
+      "speaker": "A",
+      "utterance": "やめましょう"
+    },
+    {
+      "speaker": "D",
+      "utterance": "この人特定の人が辛口なだけな気もする\nがまあどうせお金出すなら他がいいかも"
+    },
+    {
+      "speaker": "B",
+      "utterance": "上2人はおいしいらしい"
+    },
+    {
+      "speaker": "A",
+      "utterance": "冷静に飲みほつけると8000なるから\n価格渋いかも"
+    },
+    {
+      "speaker": "D",
+      "utterance": "わかる"
+    },
+    {
+      "speaker": "A",
+      "utterance": "機関車にしよう"
+    },
+    {
+      "speaker": "D",
+      "utterance": "やっぱり暴走がよくない？\n(スタンプ)"
+    },
+    {
+      "speaker": "A",
+      "utterance": "そんなきがする"
+    },
+    {
+      "speaker": "C",
+      "utterance": "話題作りに暴走機関車一票"
+    },
+    {
+      "speaker": "E",
+      "utterance": "暴走機関車にするとしたら"
+    },
+    {
+      "speaker": "B",
+      "utterance": "おｋ"
+    },
+    {
+      "speaker": "E",
+      "utterance": "4900円のコース？"
+    },
+    {
+      "speaker": "A",
+      "utterance": "ん、\nコースじゃないとだめなんけ？"
+    },
+    {
+      "speaker": "E",
+      "utterance": "コースじゃなくてもいいかも\nBは前どんな感じだった？"
+    },
+    {
+      "speaker": "D",
+      "utterance": "コースなしで飲み放題つけられるならそれがいい"
+    },
+    {
+      "speaker": "B",
+      "utterance": "コース飲み放題だった。"
+    },
+    {
+      "speaker": "A",
+      "utterance": "5人いるならみんなでワインボトル開けるとかでも良くない？\n単品のみほもありそう"
+    },
+    {
+      "speaker": "D",
+      "utterance": "ワイン苦手な人がいないならあり"
+    },
+    {
+      "speaker": "E",
+      "utterance": "あり"
+    },
+    {
+      "speaker": "C",
+      "utterance": "赤なら問題ない、白も多分大丈夫"
+    },
+    {
+      "speaker": "A",
+      "utterance": "Cアリならみんなありなきがする\nいけそうですね"
+    },
+    {
+      "speaker": "B",
+      "utterance": "はい"
+    },
+    {
+      "speaker": "D",
+      "utterance": "一軒目はワインとかシェアして、死にたい人がいたら2件目で死のう"
+    },
+    {
+      "speaker": "A",
+      "utterance": "ｗｗｗｗ\nそしましょう"
+    },
+    {
+      "speaker": "C",
+      "utterance": "みんな死のう"
+    },
+    {
+      "speaker": "A",
+      "utterance": "(スタンプ)\nじゃあ手あげていいかしらね"
+    },
+    {
+      "speaker": "D",
+      "utterance": "じゃあ一次会暴走→二次会サワーって感じ？"
+    },
+    {
+      "speaker": "C",
+      "utterance": "(スタンプ)"
+    },
+    {
+      "speaker": "E",
+      "utterance": "(スタンプ)"
+    }
+  ],
+  "info": [
+    {
+      "website": "https://tabelog.com/tokyo/A1310/A131001/13171553/",
+      "restaurant": "暴走熟成肉庫　肉アバンギャルド 秋葉原（ボウソウジュクセイニクコミートアバンギャルド）"
+    },
+    {
+      "website": "https://tabelog.com/tokyo/A1304/A130401/13000802/",
+      "restaurant": "ねぎし エルタワー店"
+    },
+    {
+      "website": "https://tabelog.com/tokyo/A1304/A130401/13162573/",
+      "restaurant": "NO MEAT, NO LIFE.1st （ノーミート ノーライフ ファースト）"
+    },
+    {
+      "website": "https://tabelog.com/tokyo/A1320/A132001/13214209/",
+      "restaurant": "吉祥寺 肉ドレス海鮮丼 本店"
+    },
+    {
+      "website": "https://tabelog.com/tokyo/A1304/A130401/13250694/",
+      "restaurant": "０秒レモンサワー 仙台ホルモン焼肉酒場 ときわ亭 新宿三丁目店"
+    },
+    {
+      "website": "https://tabelog.com/tokyo/A1301/A130102/13258460/",
+      "restaurant": "焼肉一心たん助 旦 有楽町（dan）"
+    }
+  ]
+}

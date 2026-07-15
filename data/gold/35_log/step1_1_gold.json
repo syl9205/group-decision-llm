@@ -1,0 +1,15 @@
+{
+  "participants": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "restaurant_brands": [
+    "海底撈火鍋 新宿店（カイテイロウヒナベ）",
+    "もんじゃ 蔵（くら）",
+    "チェルシー マーケット 秋葉原（CHELSEA MARKET）",
+    "ファイヤーハウス（FIRE HOUSE）"
+  ],
+  "final_restaurant": "もんじゃ 蔵（くら）"
+}

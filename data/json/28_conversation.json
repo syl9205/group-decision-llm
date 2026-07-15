@@ -1,0 +1,195 @@
+{
+  "conversation_id": "28",
+  "conversation": [
+    {
+      "speaker": "A",
+      "utterance": "行ける日を各自であげていきましょうか"
+    },
+    {
+      "speaker": "B",
+      "utterance": "了解👌"
+    },
+    {
+      "speaker": "A",
+      "utterance": "12/2までで！"
+    },
+    {
+      "speaker": "C",
+      "utterance": "\"空いてる日(2週間以内)\n19 20 30 12/1 12/2\""
+    },
+    {
+      "speaker": "A",
+      "utterance": "(19),21,30,12/1"
+    },
+    {
+      "speaker": "B",
+      "utterance": "\"いける日\n19 20 21 23 25 28〜2\""
+    },
+    {
+      "speaker": "A",
+      "utterance": "19,30,12/1のどれかだね\n12/1は本郷に行く予定があるから嬉しい"
+    },
+    {
+      "speaker": "B",
+      "utterance": "じゃあ12/1にするか"
+    },
+    {
+      "speaker": "A",
+      "utterance": "おふたりが問題なければ！"
+    },
+    {
+      "speaker": "C",
+      "utterance": "いいよ！ラボ駒場だけど"
+    },
+    {
+      "speaker": "B",
+      "utterance": "問題ない"
+    },
+    {
+      "speaker": "A",
+      "utterance": "5限まであるんだけどそのあとでいいかな"
+    },
+    {
+      "speaker": "C",
+      "utterance": "大丈夫"
+    },
+    {
+      "speaker": "B",
+      "utterance": "大丈夫"
+    },
+    {
+      "speaker": "A",
+      "utterance": "ありがとうございます泣\nじゃあ場所にもよるけど19時くらい？"
+    },
+    {
+      "speaker": "B",
+      "utterance": "かな"
+    },
+    {
+      "speaker": "C",
+      "utterance": "時間の融通は効くから19時からでいいよ"
+    },
+    {
+      "speaker": "A",
+      "utterance": "じゃあ12/1の19時～ということで\n決まりました\nhttps://tabelog.com/tokyo/A1305/A130501/13264052/\nhttps://tabelog.com/tokyo/A1305/A130503/13264973/"
+    },
+    {
+      "speaker": "B",
+      "utterance": "https://s.tabelog.com/tokyo/A1311/A131104/13012243/"
+    },
+    {
+      "speaker": "C",
+      "utterance": "https://tabelog.com/tokyo/A1305/A130501/13164146/"
+    },
+    {
+      "speaker": "A",
+      "utterance": "自分は以上です"
+    },
+    {
+      "speaker": "B",
+      "utterance": "自分も以上です"
+    },
+    {
+      "speaker": "C",
+      "utterance": "以上です"
+    },
+    {
+      "speaker": "A",
+      "utterance": "どうやって決めようか\n鶯谷園は行きたいけど予約難易度が、、って感じ\n個人的には行ったことないお店に行ってみたい"
+    },
+    {
+      "speaker": "B",
+      "utterance": "鶯谷園の予約難易度高そうなのわかる。"
+    },
+    {
+      "speaker": "C",
+      "utterance": "たしかに、行ってもかなり並びそう\n駒場から電車に乗って行くから今回は駒場(東北沢)から乗り換え少なめな駅だと嬉しいな"
+    },
+    {
+      "speaker": "A",
+      "utterance": "家はいまも東池袋？"
+    },
+    {
+      "speaker": "C",
+      "utterance": "そう"
+    },
+    {
+      "speaker": "A",
+      "utterance": "ごはん食べたら帰る？\nそれともラボ？"
+    },
+    {
+      "speaker": "C",
+      "utterance": "ご飯食べたら家帰る"
+    },
+    {
+      "speaker": "A",
+      "utterance": "この３人的には池袋がいいのかなーと思ってその辺で探してみた\n帰りやすいかなって"
+    },
+    {
+      "speaker": "B",
+      "utterance": "確かに池袋が無難そうかな"
+    },
+    {
+      "speaker": "A",
+      "utterance": "やまやと中華は池袋で、ウズベキスタン料理は高田馬場ですね"
+    },
+    {
+      "speaker": "C",
+      "utterance": "ウズベキスタン料理はいいかな…あんまり攻める気にならない"
+    },
+    {
+      "speaker": "B",
+      "utterance": "やまやと中華のどっちかかな"
+    },
+    {
+      "speaker": "A",
+      "utterance": "九州ならしょっちゅう行けるけどウズベキスタン、中国はなかなか行けなさそうなので推したい"
+    },
+    {
+      "speaker": "C",
+      "utterance": "たしかに"
+    },
+    {
+      "speaker": "B",
+      "utterance": "チャイ語クラスだし、中華食べに行くの順当感はある"
+    },
+    {
+      "speaker": "A",
+      "utterance": "中華いっていいすか"
+    },
+    {
+      "speaker": "C",
+      "utterance": "たしかに、他のメンバーだといかないからアリかも\n中華アリかも"
+    },
+    {
+      "speaker": "B",
+      "utterance": "アリです"
+    },
+    {
+      "speaker": "C",
+      "utterance": "では中華の店に決定ということで"
+    },
+    {
+      "speaker": "A",
+      "utterance": "(スタンプ)\nhttps://tabelog.com/tokyo/A1305/A130501/13264052/dtlrvwlst/"
+    }
+  ],
+  "info": [
+    {
+      "website": "https://tabelog.com/tokyo/A1305/A130501/13264052/",
+      "restaurant": "沸騰小吃城"
+    },
+    {
+      "website": "https://tabelog.com/tokyo/A1305/A130501/13164146/",
+      "restaurant": "博多もつ鍋 やまや 池袋店"
+    },
+    {
+      "website": "https://tabelog.com/tokyo/A1311/A131104/13012243/",
+      "restaurant": "焼肉 鶯谷園（ウグイスダニエン）"
+    },
+    {
+      "website": "https://tabelog.com/tokyo/A1305/A130503/13264973/",
+      "restaurant": "SAMARKAND TERRACE（サマルカンド テラス）"
+    }
+  ]
+}

@@ -1,0 +1,383 @@
+{
+  "conversation_id": "18",
+  "conversation": [
+    {
+      "speaker": "A",
+      "utterance": "まずは、日時を決めたいです\n17時以降の都合が良い日をそれぞれ出しましょうか"
+    },
+    {
+      "speaker": "B",
+      "utterance": "本日から2週間以内の空いてる夜、だしていきますね"
+    },
+    {
+      "speaker": "C",
+      "utterance": "\"できれば、土日の夜がありがたいのだが、\n29(土)はすでに埋まっている状態😇\""
+    },
+    {
+      "speaker": "B",
+      "utterance": "🫣\n日曜は？？\n23,30あいてます！"
+    },
+    {
+      "speaker": "A",
+      "utterance": "22,23,29,30全部いけます"
+    },
+    {
+      "speaker": "D",
+      "utterance": "22-23は帰省してるので29 or 30が助かります"
+    },
+    {
+      "speaker": "B",
+      "utterance": "30だ"
+    },
+    {
+      "speaker": "C",
+      "utterance": "おけー！"
+    },
+    {
+      "speaker": "B",
+      "utterance": "時間はどうですか？"
+    },
+    {
+      "speaker": "C",
+      "utterance": "時間が多分18:30くらいだったら行けると思う！"
+    },
+    {
+      "speaker": "A",
+      "utterance": "\"その日は、16時くらいまで横浜にいますね\n都内なら18時以降が嬉しいです\""
+    },
+    {
+      "speaker": "D",
+      "utterance": "自分は何時頃でも大丈夫です！"
+    },
+    {
+      "speaker": "B",
+      "utterance": "🙆‍♀️\nCさん、18:30は、場所の指定ありますか？"
+    },
+    {
+      "speaker": "C",
+      "utterance": "私も17時くらいまで東村山で試合があるから\n終わりが確定できないのだけど"
+    },
+    {
+      "speaker": "B",
+      "utterance": "東村山がわからない笑"
+    },
+    {
+      "speaker": "C",
+      "utterance": "18時半頃に都内なら行けそう！"
+    },
+    {
+      "speaker": "A",
+      "utterance": "余裕を見て19時開始にしますか？"
+    },
+    {
+      "speaker": "C",
+      "utterance": "あ、東村山は東京の西の方笑"
+    },
+    {
+      "speaker": "B",
+      "utterance": "奥多摩ですね"
+    },
+    {
+      "speaker": "C",
+      "utterance": "\"そうね！\nそれだとありがたいです！\""
+    },
+    {
+      "speaker": "B",
+      "utterance": "19じ！おけです🙆‍♀️"
+    },
+    {
+      "speaker": "A",
+      "utterance": "じゃあ、30日の19時から23区内の良さそうな場所に集合ということで"
+    },
+    {
+      "speaker": "C",
+      "utterance": "おけです！"
+    },
+    {
+      "speaker": "B",
+      "utterance": "何食べたいですかね\n🤔"
+    },
+    {
+      "speaker": "C",
+      "utterance": "実は、その前日に壇太に行ってしまっていて…"
+    },
+    {
+      "speaker": "D",
+      "utterance": "だんたは日曜定休ですね"
+    },
+    {
+      "speaker": "B",
+      "utterance": "ざんねん！！！！！！！"
+    },
+    {
+      "speaker": "C",
+      "utterance": "あ、そうだった"
+    },
+    {
+      "speaker": "A",
+      "utterance": "\"この間行った上野の中華屋さん美味しかったです"
+    },
+    {
+      "speaker": "https",
+      "utterance": "//www.maradaigaku.com/\""
+    },
+    {
+      "speaker": "C",
+      "utterance": "中華いいね"
+    },
+    {
+      "speaker": "A",
+      "utterance": "みなさん一人ずつおすすめを出していきましょう！"
+    },
+    {
+      "speaker": "B",
+      "utterance": "サイトがおしゃれ"
+    },
+    {
+      "speaker": "A",
+      "utterance": "これは、辛いのが苦手だと厳しいかも"
+    },
+    {
+      "speaker": "B",
+      "utterance": "都内のことわかってないから頑張ってググります\n\"こないだインスタで発見した、めっちゃおしゃれなレストランです、有楽町にあります🙆‍♀️"
+    },
+    {
+      "speaker": "https",
+      "utterance": "//www.6thbyorientalhotel.com/\""
+    },
+    {
+      "speaker": "D",
+      "utterance": "Cとときどき行ってる串揚げのお店何だっけ？"
+    },
+    {
+      "speaker": "C",
+      "utterance": "https://s.tabelog.com/tokyo/A1311/A131104/13012243\nこの焼肉屋さんに行ってみたかったんだけど、鶯谷にあって、価格とも相談かな🤔"
+    },
+    {
+      "speaker": "D",
+      "utterance": "https://tabelog.com/tokyo/A1304/A130401/13011911/"
+    },
+    {
+      "speaker": "B",
+      "utterance": "ちょいお高めですね"
+    },
+    {
+      "speaker": "C",
+      "utterance": "それそれ"
+    },
+    {
+      "speaker": "D",
+      "utterance": "立吉だった！"
+    },
+    {
+      "speaker": "C",
+      "utterance": "Bのとこ、おしゃれね！！！"
+    },
+    {
+      "speaker": "A",
+      "utterance": "もう少し候補出したいですね"
+    },
+    {
+      "speaker": "D",
+      "utterance": "そうですね〜"
+    },
+    {
+      "speaker": "C",
+      "utterance": "\"そうだね！\nもう少し出そう！\nみんな何食べたいかだね！\"\n私は嫌いなものはないんだけど、辛いものは苦手かも…"
+    },
+    {
+      "speaker": "B",
+      "utterance": "辛いのは苦手です\nあっいっしょ"
+    },
+    {
+      "speaker": "A",
+      "utterance": "昔、新大久保のエスニック料理をたくさん食べていたんですが、久しぶりに行ってみたいなと思っています。中華韓国インドネシアタイベトナムなど"
+    },
+    {
+      "speaker": "B",
+      "utterance": "家では作れないものがいいです！\n（作るのが面倒なもの）\nパクチー以外で🙋‍♀️"
+    },
+    {
+      "speaker": "C",
+      "utterance": "同じく！パクチー以外で🙋‍♀️"
+    },
+    {
+      "speaker": "B",
+      "utterance": "韓国………"
+    },
+    {
+      "speaker": "C",
+      "utterance": "エスニック系は好きです！"
+    },
+    {
+      "speaker": "B",
+      "utterance": "本郷三丁目の、サムギョプサルおいしいですよ"
+    },
+    {
+      "speaker": "A",
+      "utterance": "\"サムギョプサルならここいきたい"
+    },
+    {
+      "speaker": "https",
+      "utterance": "//rtrp.jp/spots/45848914-b47c-4272-8385-7fee4de068f3/\""
+    },
+    {
+      "speaker": "B",
+      "utterance": "\"https://tabelog.com/tokyo/A1310/A131004/13042693/\n本郷のサムギョプサル\""
+    },
+    {
+      "speaker": "C",
+      "utterance": "うわー、おいしそう！！！"
+    },
+    {
+      "speaker": "B",
+      "utterance": "サイト見てみる\nhttps://tabelog.com/tokyo/A1304/A130404/13042278/\nこれ？"
+    },
+    {
+      "speaker": "A",
+      "utterance": "それ"
+    },
+    {
+      "speaker": "C",
+      "utterance": "どっちも美味しそうね"
+    },
+    {
+      "speaker": "B",
+      "utterance": "新大久保行ったことないので、いってみたいです〜〜〜〜\n本郷はいつでも行ける。。。笑"
+    },
+    {
+      "speaker": "C",
+      "utterance": "お！じゃあ新大久保にする？\nそれはそう笑"
+    },
+    {
+      "speaker": "B",
+      "utterance": "Dさんどうですか！"
+    },
+    {
+      "speaker": "D",
+      "utterance": "OKです！"
+    },
+    {
+      "speaker": "A",
+      "utterance": "(スタンプ)"
+    },
+    {
+      "speaker": "B",
+      "utterance": "(スタンプ)\n\"では最後に、実際に会食するお店を決めてください。\nこちらも先ほどに続いて、調整はzoom・対面等で口に出して発言はせず、このLINEトークルームで相談を行ってください。\nそれでは、LINEでの議論を始めてください。\""
+    },
+    {
+      "speaker": "A",
+      "utterance": "エスニック系かつ普段行かない場所ということで、新大久保のサムギョプサルでいいですかね？\n気になる点がある方は教えて下さい！"
+    },
+    {
+      "speaker": "D",
+      "utterance": "よいです！予約だけ取れるかどうか確認して確定にできれば！"
+    },
+    {
+      "speaker": "B",
+      "utterance": "\"10月30日（日）19:00〜\nでりかおんどる"
+    },
+    {
+      "speaker": "https",
+      "utterance": "//tabelog.com/tokyo/A1304/A130404/13042278/\""
+    },
+    {
+      "speaker": "C",
+      "utterance": "\"大丈夫です！\nまとめてれてありがとう！\""
+    },
+    {
+      "speaker": "A",
+      "utterance": "定休日ではなさそうですね"
+    },
+    {
+      "speaker": "D",
+      "utterance": "100席あるからどちらにせよ大丈夫そうですね笑"
+    },
+    {
+      "speaker": "B",
+      "utterance": "100席笑\n電話予約みたいですね"
+    },
+    {
+      "speaker": "C",
+      "utterance": "電話する？"
+    },
+    {
+      "speaker": "A",
+      "utterance": "お願いしても良いですか？取れるなら確定しましょう！"
+    },
+    {
+      "speaker": "D",
+      "utterance": "皆さんよければ電話しちゃおうと思います．どうですか？"
+    },
+    {
+      "speaker": "B",
+      "utterance": "🙏🙏🙏🙏"
+    },
+    {
+      "speaker": "D",
+      "utterance": "じゃあかけてみます〜"
+    },
+    {
+      "speaker": "B",
+      "utterance": "(スタンプ)"
+    },
+    {
+      "speaker": "C",
+      "utterance": "電話したけど通話中だった"
+    },
+    {
+      "speaker": "D",
+      "utterance": "自分もダメでした"
+    },
+    {
+      "speaker": "B",
+      "utterance": "予約殺到してるんですかね"
+    },
+    {
+      "speaker": "A",
+      "utterance": "それはないと思うが・・・"
+    },
+    {
+      "speaker": "D",
+      "utterance": "暫定でここっていうことにしておいていいかもしれないですね"
+    },
+    {
+      "speaker": "A",
+      "utterance": "そうしましょう！"
+    },
+    {
+      "speaker": "B",
+      "utterance": "よいとおもいます！"
+    },
+    {
+      "speaker": "C",
+      "utterance": "うん！"
+    }
+  ],
+  "info": [
+    {
+      "website": "https://tabelog.com/tokyo/A1304/A130404/13042278/",
+      "restaurant": "でりかおんどる 新大久保本店（【旧店名】おんどる）"
+    },
+    {
+      "website": "https://tabelog.com/tokyo/A1311/A131101/13210767/",
+      "restaurant": "麻辣大学 上野本店"
+    },
+    {
+      "website": "https://tabelog.com/tokyo/A1301/A130102/13140616/",
+      "restaurant": "シクスバイオリエンタルホテル（6th by ORIENTAL HOTEL）"
+    },
+    {
+      "website": "https://s.tabelog.com/tokyo/A1311/A131104/13012243",
+      "restaurant": "焼肉 鶯谷園（ウグイスダニエン）"
+    },
+    {
+      "website": "https://tabelog.com/tokyo/A1304/A130401/13011911/",
+      "restaurant": "新宿 立吉（しんじゅくたつきち）"
+    },
+    {
+      "website": "https://tabelog.com/tokyo/A1310/A131004/13042693/",
+      "restaurant": "トンテジ 本郷店"
+    }
+  ]
+}

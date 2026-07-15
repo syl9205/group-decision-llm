@@ -1,0 +1,154 @@
+{
+  "mentioned_table": [
+    {
+      "participant": "A",
+      "restaurant": "暴走熟成肉庫　肉アバンギャルド 秋葉原（ボウソウジュクセイニクコミートアバンギャルド）",
+      "mention": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "NO MEAT, NO LIFE.1st （ノーミート ノーライフ ファースト）",
+      "mention": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "吉祥寺 肉ドレス海鮮丼 本店",
+      "mention": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "ねぎし エルタワー店",
+      "mention": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "０秒レモンサワー 仙台ホルモン焼肉酒場 ときわ亭 新宿三丁目店",
+      "mention": "Mentioned"
+    },
+    {
+      "participant": "A",
+      "restaurant": "焼肉一心たん助 旦 有楽町（dan）",
+      "mention": "Mentioned"
+    },
+    {
+      "participant": "B",
+      "restaurant": "暴走熟成肉庫　肉アバンギャルド 秋葉原（ボウソウジュクセイニクコミートアバンギャルド）",
+      "mention": "Mentioned"
+    },
+    {
+      "participant": "B",
+      "restaurant": "NO MEAT, NO LIFE.1st （ノーミート ノーライフ ファースト）",
+      "mention": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "吉祥寺 肉ドレス海鮮丼 本店",
+      "mention": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "ねぎし エルタワー店",
+      "mention": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "０秒レモンサワー 仙台ホルモン焼肉酒場 ときわ亭 新宿三丁目店",
+      "mention": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "焼肉一心たん助 旦 有楽町（dan）",
+      "mention": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "暴走熟成肉庫　肉アバンギャルド 秋葉原（ボウソウジュクセイニクコミートアバンギャルド）",
+      "mention": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "NO MEAT, NO LIFE.1st （ノーミート ノーライフ ファースト）",
+      "mention": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "吉祥寺 肉ドレス海鮮丼 本店",
+      "mention": "Mentioned"
+    },
+    {
+      "participant": "C",
+      "restaurant": "ねぎし エルタワー店",
+      "mention": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "０秒レモンサワー 仙台ホルモン焼肉酒場 ときわ亭 新宿三丁目店",
+      "mention": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "焼肉一心たん助 旦 有楽町（dan）",
+      "mention": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "暴走熟成肉庫　肉アバンギャルド 秋葉原（ボウソウジュクセイニクコミートアバンギャルド）",
+      "mention": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "NO MEAT, NO LIFE.1st （ノーミート ノーライフ ファースト）",
+      "mention": "Mentioned"
+    },
+    {
+      "participant": "D",
+      "restaurant": "吉祥寺 肉ドレス海鮮丼 本店",
+      "mention": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "ねぎし エルタワー店",
+      "mention": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "０秒レモンサワー 仙台ホルモン焼肉酒場 ときわ亭 新宿三丁目店",
+      "mention": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "焼肉一心たん助 旦 有楽町（dan）",
+      "mention": "None"
+    },
+    {
+      "participant": "E",
+      "restaurant": "暴走熟成肉庫　肉アバンギャルド 秋葉原（ボウソウジュクセイニクコミートアバンギャルド）",
+      "mention": "None"
+    },
+    {
+      "participant": "E",
+      "restaurant": "NO MEAT, NO LIFE.1st （ノーミート ノーライフ ファースト）",
+      "mention": "None"
+    },
+    {
+      "participant": "E",
+      "restaurant": "吉祥寺 肉ドレス海鮮丼 本店",
+      "mention": "None"
+    },
+    {
+      "participant": "E",
+      "restaurant": "ねぎし エルタワー店",
+      "mention": "Mentioned"
+    },
+    {
+      "participant": "E",
+      "restaurant": "０秒レモンサワー 仙台ホルモン焼肉酒場 ときわ亭 新宿三丁目店",
+      "mention": "None"
+    },
+    {
+      "participant": "E",
+      "restaurant": "焼肉一心たん助 旦 有楽町（dan）",
+      "mention": "None"
+    }
+  ]
+}

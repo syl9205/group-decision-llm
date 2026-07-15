@@ -1,0 +1,723 @@
+{
+  "conversation_id": "21",
+  "conversation": [
+    {
+      "speaker": "A",
+      "utterance": "よろしくお願いします。"
+    },
+    {
+      "speaker": "B",
+      "utterance": "よろしくお願いします"
+    },
+    {
+      "speaker": "C",
+      "utterance": "よろしくお願いします"
+    },
+    {
+      "speaker": "D",
+      "utterance": "よろしくお願いします"
+    },
+    {
+      "speaker": "E",
+      "utterance": "よろしくお願いします"
+    },
+    {
+      "speaker": "C",
+      "utterance": "まずいける曜日決めたい"
+    },
+    {
+      "speaker": "D",
+      "utterance": "日程ね"
+    },
+    {
+      "speaker": "A",
+      "utterance": "あれですか、まず各人の差支え日を聞いて行った方がいいのでは"
+    },
+    {
+      "speaker": "B",
+      "utterance": "2週間なので列挙しよう"
+    },
+    {
+      "speaker": "C",
+      "utterance": "27まで？"
+    },
+    {
+      "speaker": "D",
+      "utterance": "っぽいね"
+    },
+    {
+      "speaker": "E",
+      "utterance": "列挙を、します"
+    },
+    {
+      "speaker": "B",
+      "utterance": "14,16,17,21,23,27(と一応18,19,20,26)が可"
+    },
+    {
+      "speaker": "E",
+      "utterance": "16.17.22.23.26が少なくとも差支え日です"
+    },
+    {
+      "speaker": "A",
+      "utterance": "\"私の差支え日（現時点）\n14、24、25、26\""
+    },
+    {
+      "speaker": "D",
+      "utterance": "17, 18, 19, 24 が無理です"
+    },
+    {
+      "speaker": "A",
+      "utterance": "（今思ったけどこれクリぼっち炙り出しだ）"
+    },
+    {
+      "speaker": "D",
+      "utterance": "思った"
+    },
+    {
+      "speaker": "A",
+      "utterance": "（なお僕のクリスマスの予定は予備校の授業です）"
+    },
+    {
+      "speaker": "B",
+      "utterance": "21,27は今のとこ大丈夫そうかな"
+    },
+    {
+      "speaker": "C",
+      "utterance": "差し支え日は17、20、24です"
+    },
+    {
+      "speaker": "B",
+      "utterance": "おっ"
+    },
+    {
+      "speaker": "C",
+      "utterance": "あと26だ"
+    },
+    {
+      "speaker": "B",
+      "utterance": "そういえば27は別のグループでこれをするので21が良いです"
+    },
+    {
+      "speaker": "E",
+      "utterance": "よろしそう"
+    },
+    {
+      "speaker": "D",
+      "utterance": "確定かな"
+    },
+    {
+      "speaker": "C",
+      "utterance": "おっけーです"
+    },
+    {
+      "speaker": "A",
+      "utterance": "大丈夫\n次は時刻ですか"
+    },
+    {
+      "speaker": "B",
+      "utterance": "本郷4限までなので18時ならだいたいどこでも"
+    },
+    {
+      "speaker": "E",
+      "utterance": "マジでいつでもいい"
+    },
+    {
+      "speaker": "C",
+      "utterance": "5限あるので19時以降がいいです"
+    },
+    {
+      "speaker": "A",
+      "utterance": "順番前後しちゃいそうだけどある程度店の見当をつけないと営業時間がわからない？"
+    },
+    {
+      "speaker": "C",
+      "utterance": "いやでも19時なら大体やってそう"
+    },
+    {
+      "speaker": "A",
+      "utterance": "確かに"
+    },
+    {
+      "speaker": "D",
+      "utterance": "19時以降ならいつでも"
+    },
+    {
+      "speaker": "B",
+      "utterance": "19時からにしましょう"
+    },
+    {
+      "speaker": "C",
+      "utterance": "了解"
+    },
+    {
+      "speaker": "E",
+      "utterance": "よい"
+    },
+    {
+      "speaker": "A",
+      "utterance": "https://s.tabelog.com/tokyo/A1303/A130301/13109540/"
+    },
+    {
+      "speaker": "D",
+      "utterance": "https://tabelog.com/tokyo/A1302/A130202/13004098/"
+    },
+    {
+      "speaker": "A",
+      "utterance": "これとりあえず何も考えずに候補を投げればいいやつっぽいね？"
+    },
+    {
+      "speaker": "C",
+      "utterance": "https://s.tabelog.com/tokyo/A1303/A130301/13115272/"
+    },
+    {
+      "speaker": "E",
+      "utterance": "https://s.tabelog.com/tokyo/A1311/A131106/13194441/"
+    },
+    {
+      "speaker": "A",
+      "utterance": "https://s.tabelog.com/tokyo/A1311/A131101/13023713/"
+    },
+    {
+      "speaker": "B",
+      "utterance": "\"https://s.tabelog.com/tokyo/A1310/A131004/13257584/"
+    },
+    {
+      "speaker": "https",
+      "utterance": "//s.tabelog.com/tokyo/A1318/A131801/13151514/\""
+    },
+    {
+      "speaker": "D",
+      "utterance": "https://tabelog.com/tokyo/A1318/A131811/13103794/"
+    },
+    {
+      "speaker": "C",
+      "utterance": "https://s.tabelog.com/tokyo/A1303/A130301/13160341/"
+    },
+    {
+      "speaker": "E",
+      "utterance": "https://s.tabelog.com/tokyo/A1318/A131802/13163326/"
+    },
+    {
+      "speaker": "A",
+      "utterance": "https://s.tabelog.com/tokyo/A1320/A132001/13038750/"
+    },
+    {
+      "speaker": "B",
+      "utterance": "https://s.tabelog.com/tokyo/A1318/A131802/13150917/"
+    },
+    {
+      "speaker": "A",
+      "utterance": "（これいつ終わるの？）"
+    },
+    {
+      "speaker": "E",
+      "utterance": "https://s.tabelog.com/tokyo/A1305/A130503/13124219/"
+    },
+    {
+      "speaker": "D",
+      "utterance": "一人2-3つとか"
+    },
+    {
+      "speaker": "C",
+      "utterance": "僕もう終わりにしときます"
+    },
+    {
+      "speaker": "A",
+      "utterance": "僕もう終わりにしときます2"
+    },
+    {
+      "speaker": "B",
+      "utterance": "3"
+    },
+    {
+      "speaker": "E",
+      "utterance": "4"
+    },
+    {
+      "speaker": "D",
+      "utterance": "4\nくっ\n5"
+    },
+    {
+      "speaker": "E",
+      "utterance": "勝った"
+    },
+    {
+      "speaker": "B",
+      "utterance": "終了で\n下北沢の印度って移転中とかじゃなかったっけ"
+    },
+    {
+      "speaker": "E",
+      "utterance": "さすがに終わってない？"
+    },
+    {
+      "speaker": "A",
+      "utterance": "よろしくお願いします"
+    },
+    {
+      "speaker": "B",
+      "utterance": "よろしくお願いします2"
+    },
+    {
+      "speaker": "E",
+      "utterance": "対戦よろしくお願いします"
+    },
+    {
+      "speaker": "C",
+      "utterance": "よろしくお願いします"
+    },
+    {
+      "speaker": "D",
+      "utterance": "よろしくお願いします"
+    },
+    {
+      "speaker": "B",
+      "utterance": "まず @C の5限って駒場？"
+    },
+    {
+      "speaker": "C",
+      "utterance": "そう"
+    },
+    {
+      "speaker": "D",
+      "utterance": "代表者の画面共有が要りそう"
+    },
+    {
+      "speaker": "A",
+      "utterance": "いやまだ\n一つあとじゃない"
+    },
+    {
+      "speaker": "D",
+      "utterance": "失礼"
+    },
+    {
+      "speaker": "C",
+      "utterance": "なので渋谷下北だとありがたい"
+    },
+    {
+      "speaker": "D",
+      "utterance": "どこでも可"
+    },
+    {
+      "speaker": "C",
+      "utterance": "それか吉祥寺のロシアのやつ"
+    },
+    {
+      "speaker": "E",
+      "utterance": "場所どこでも可2"
+    },
+    {
+      "speaker": "A",
+      "utterance": "私は駒場か本郷の図書館で勉強してるつもりなので、皆さんの都合に合わせます。マクドナルド理論的最低値は春日亭渋谷店です。"
+    },
+    {
+      "speaker": "E",
+      "utterance": "ガスト、だろ"
+    },
+    {
+      "speaker": "B",
+      "utterance": "上がってる場所ならどこでも都合は良い"
+    },
+    {
+      "speaker": "C",
+      "utterance": "渋谷か下北でいいですか"
+    },
+    {
+      "speaker": "E",
+      "utterance": "是"
+    },
+    {
+      "speaker": "B",
+      "utterance": "良さげ"
+    },
+    {
+      "speaker": "E",
+      "utterance": "吉祥寺まで広げてもよくない？"
+    },
+    {
+      "speaker": "C",
+      "utterance": "それもOK"
+    },
+    {
+      "speaker": "D",
+      "utterance": "東北沢は下北沢に含みますか"
+    },
+    {
+      "speaker": "C",
+      "utterance": "含みます"
+    },
+    {
+      "speaker": "A",
+      "utterance": "まあ一旦何食いたいかにシフトしませんか\nまず酒飲む気があるかどうかじゃない、デカいのは"
+    },
+    {
+      "speaker": "E",
+      "utterance": "酒、液体としてのコスパ悪くない？"
+    },
+    {
+      "speaker": "C",
+      "utterance": "ないですねぇ"
+    },
+    {
+      "speaker": "D",
+      "utterance": "なし"
+    },
+    {
+      "speaker": "C",
+      "utterance": "モロッコ気になる"
+    },
+    {
+      "speaker": "B",
+      "utterance": "このメンツで飲む気はあまりなし"
+    },
+    {
+      "speaker": "A",
+      "utterance": "じゃ無し"
+    },
+    {
+      "speaker": "E",
+      "utterance": "せっかくなので変なの食べませんか"
+    },
+    {
+      "speaker": "C",
+      "utterance": "それモロッコ"
+    },
+    {
+      "speaker": "E",
+      "utterance": "変なの(ロシア、モロッコ、虫)"
+    },
+    {
+      "speaker": "D",
+      "utterance": "いいね"
+    },
+    {
+      "speaker": "C",
+      "utterance": "むし！？"
+    },
+    {
+      "speaker": "B",
+      "utterance": "下北沢のカレー、変なのもある"
+    },
+    {
+      "speaker": "A",
+      "utterance": "なんか上原らへんにあるモスクの周りって\"変なの\"多いよね、モロッコもその関連なのかしら"
+    },
+    {
+      "speaker": "E",
+      "utterance": "高田馬場だけど、米とサーカスって店で虫が食えます\nごめん、渋谷店あるわ"
+    },
+    {
+      "speaker": "D",
+      "utterance": "いい話"
+    },
+    {
+      "speaker": "A",
+      "utterance": "(写真)\n辛そうなのかしら"
+    },
+    {
+      "speaker": "C",
+      "utterance": "虫＜モロッコ"
+    },
+    {
+      "speaker": "E",
+      "utterance": "漢なら虫を食え"
+    },
+    {
+      "speaker": "A",
+      "utterance": "まず虫かモロッコで決めようとしてるのは、みなさんいいんですか？？？？？"
+    },
+    {
+      "speaker": "E",
+      "utterance": "ロシアはあまりにもメジャーすぎないですか"
+    },
+    {
+      "speaker": "A",
+      "utterance": "わかる"
+    },
+    {
+      "speaker": "C",
+      "utterance": "せっかく行くなら北アフリカ"
+    },
+    {
+      "speaker": "A",
+      "utterance": "モロッコ、夜6000〜8000円みたいなこと書いてあるけど"
+    },
+    {
+      "speaker": "D",
+      "utterance": "そうなんだよね"
+    },
+    {
+      "speaker": "C",
+      "utterance": "わあ"
+    },
+    {
+      "speaker": "A",
+      "utterance": "4000円に収めたいモチベがある"
+    },
+    {
+      "speaker": "B",
+      "utterance": "そこですね"
+    },
+    {
+      "speaker": "E",
+      "utterance": "(写真)\nこんなのもあります"
+    },
+    {
+      "speaker": "A",
+      "utterance": "昆虫食「挑戦」とか書いてあってビビる（都会育ちなので昆虫をあまり食べたことがない）"
+    },
+    {
+      "speaker": "E",
+      "utterance": "やっぱり新たな食の開墾をね"
+    },
+    {
+      "speaker": "B",
+      "utterance": "普通に美味そう"
+    },
+    {
+      "speaker": "C",
+      "utterance": "あーでもジビエは食べたい\n虫は食べないにしても"
+    },
+    {
+      "speaker": "D",
+      "utterance": "別にジビエ屋なら虫を食べないこともできる"
+    },
+    {
+      "speaker": "E",
+      "utterance": "https://asia-tokyo-world.com/wp-content/uploads/202104_FOOD-2.pdf\nメニューです\nジビエとか普通の食べ物もあるよ"
+    },
+    {
+      "speaker": "A",
+      "utterance": "冷奴以外の全メニューのクセが強くない？？？？？"
+    },
+    {
+      "speaker": "C",
+      "utterance": "（微妙に高そう）"
+    },
+    {
+      "speaker": "A",
+      "utterance": "どうしましょうか（だいぶ時間が押していて申し訳なさがある）"
+    },
+    {
+      "speaker": "C",
+      "utterance": "あれこれ鍋はない？"
+    },
+    {
+      "speaker": "E",
+      "utterance": "吉祥寺のロシアも結構ありでは？"
+    },
+    {
+      "speaker": "C",
+      "utterance": "そっちもあり"
+    },
+    {
+      "speaker": "E",
+      "utterance": "鍋は季節限定らしい"
+    },
+    {
+      "speaker": "D",
+      "utterance": "三軒茶屋にもモロッコあるな\nまあもう選択肢いじれない（のかな）"
+    },
+    {
+      "speaker": "C",
+      "utterance": "実はロシア料理をあまり食べたことないのでロシアも行ってみたい"
+    },
+    {
+      "speaker": "B",
+      "utterance": "ロシアはあり"
+    },
+    {
+      "speaker": "A",
+      "utterance": "吉祥寺のロシアもそこそこ高かった記憶ある（うろ覚え）\nhttps://caferussia.web.fc2.com/drinkandfood_compressed.pdf\nカフェロシア　メニュー"
+    },
+    {
+      "speaker": "E",
+      "utterance": "価格帯はロシアと虫近そう"
+    },
+    {
+      "speaker": "A",
+      "utterance": "わかる"
+    },
+    {
+      "speaker": "D",
+      "utterance": "ロシアか、虫か"
+    },
+    {
+      "speaker": "C",
+      "utterance": "ロシア..."
+    },
+    {
+      "speaker": "A",
+      "utterance": "カフェロシア、そこそこ人気店なので予約今から取れるかわからないな\n（ガスト4000円ガチャしたい気もしてきた）"
+    },
+    {
+      "speaker": "B",
+      "utterance": "\"決まらなかったらチーズナン食べ放題がいいです"
+    },
+    {
+      "speaker": "https",
+      "utterance": "//s.tabelog.com/tokyo/A1318/A131802/13111701/\""
+    },
+    {
+      "speaker": "E",
+      "utterance": "どちらかと言えば虫を推します(人のお金じゃないとわざわざ食べないので)"
+    },
+    {
+      "speaker": "B",
+      "utterance": "サイゼリヤ4000円チャレンジできるのか"
+    },
+    {
+      "speaker": "C",
+      "utterance": "虫でもいいよ"
+    },
+    {
+      "speaker": "D",
+      "utterance": "虫行くかあ"
+    },
+    {
+      "speaker": "B",
+      "utterance": "ジビエ良いと思います ロシアとは普通に迷う"
+    },
+    {
+      "speaker": "E",
+      "utterance": "マ？"
+    },
+    {
+      "speaker": "C",
+      "utterance": "予約取れるんだったらロシアだったけど"
+    },
+    {
+      "speaker": "D",
+      "utterance": "いま電話することもできる\n誰かが"
+    },
+    {
+      "speaker": "C",
+      "utterance": "@B おなしゃす\nそれか虫でも"
+    },
+    {
+      "speaker": "B",
+      "utterance": "かけてみます"
+    },
+    {
+      "speaker": "D",
+      "utterance": "これで虫が満員だったら笑う"
+    },
+    {
+      "speaker": "E",
+      "utterance": "見たけどスカスカだった"
+    },
+    {
+      "speaker": "A",
+      "utterance": "ちなみにE氏は虫食べに行ったことがあるんですか？あるなら新たな食の開墾にならないのでは。"
+    },
+    {
+      "speaker": "E",
+      "utterance": "ないです"
+    },
+    {
+      "speaker": "A",
+      "utterance": "なるほど"
+    },
+    {
+      "speaker": "E",
+      "utterance": "フォロワーから送られてきたコオロギは食べたことある"
+    },
+    {
+      "speaker": "B",
+      "utterance": "空いてました 確かに混んでるようなので押さえてあります"
+    },
+    {
+      "speaker": "E",
+      "utterance": "最高"
+    },
+    {
+      "speaker": "A",
+      "utterance": "有能"
+    },
+    {
+      "speaker": "D",
+      "utterance": "素晴らしい"
+    },
+    {
+      "speaker": "C",
+      "utterance": "じゃあロシア？"
+    },
+    {
+      "speaker": "B",
+      "utterance": "改めて"
+    },
+    {
+      "speaker": "D",
+      "utterance": "承知です"
+    },
+    {
+      "speaker": "E",
+      "utterance": "天がロシアに味方している"
+    },
+    {
+      "speaker": "A",
+      "utterance": "(スタンプ)"
+    }
+  ],
+  "info": [
+    {
+      "website": "https://s.tabelog.com/tokyo/A1320/A132001/13038750/",
+      "restaurant": "Cafe RUSSIA 吉祥寺"
+    },
+    {
+      "website": "https://tabelog.com/tokyo/A1303/A130301/13240389/",
+      "restaurant": "獣肉酒家 米とサーカス 渋谷パルコ店"
+    },
+    {
+      "website": "https://tabelog.com/tokyo/A1318/A131811/13103794/",
+      "restaurant": "モロッコ料理の台所　エンリケマルエコス"
+    },
+    {
+      "website": "https://s.tabelog.com/tokyo/A1303/A130301/13109540/",
+      "restaurant": "油そば 春日亭 渋谷店"
+    },
+    {
+      "website": "https://tabelog.com/tokyo/A1302/A130202/13004098/",
+      "restaurant": "Dobro （ドブロ）"
+    },
+    {
+      "website": "https://s.tabelog.com/tokyo/A1303/A130301/13115272/",
+      "restaurant": "ガスト 渋谷道玄坂店"
+    },
+    {
+      "website": "https://s.tabelog.com/tokyo/A1311/A131106/13194441/",
+      "restaurant": "あひーじょバル＆ごはん 山ぶどう"
+    },
+    {
+      "website": "https://s.tabelog.com/tokyo/A1311/A131101/13023713/",
+      "restaurant": "マトリョーシカ マルイシティ上野店"
+    },
+    {
+      "website": "https://s.tabelog.com/tokyo/A1310/A131004/13257584/",
+      "restaurant": "欧風カレー ル・ムーラン"
+    },
+    {
+      "website": "https://s.tabelog.com/tokyo/A1318/A131801/13151514/",
+      "restaurant": "ムスカン （MUSKAN）"
+    },
+    {
+      "website": "https://s.tabelog.com/tokyo/A1303/A130301/13160341/",
+      "restaurant": "上等カレー 渋谷本店"
+    },
+    {
+      "website": "https://s.tabelog.com/tokyo/A1318/A131802/13163326/",
+      "restaurant": "印度 下北沢店 （インド）"
+    },
+    {
+      "website": "https://s.tabelog.com/tokyo/A1318/A131802/13150917/",
+      "restaurant": "一心 （いっしん）"
+    },
+    {
+      "website": "https://s.tabelog.com/tokyo/A1305/A130503/13124219/",
+      "restaurant": "米とサーカス 高田馬場店"
+    },
+    {
+      "website": "https://s.tabelog.com/tokyo/A1318/A131802/13111701/",
+      "restaurant": "NAN STATION （ナンステーション）"
+    }
+  ]
+}

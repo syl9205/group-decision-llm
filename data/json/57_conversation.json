@@ -1,0 +1,295 @@
+{
+  "conversation_id": "57",
+  "conversation": [
+    {
+      "speaker": "A",
+      "utterance": "20, 23, 24, 25, 26, 27, 28"
+    },
+    {
+      "speaker": "B",
+      "utterance": "19、20、26"
+    },
+    {
+      "speaker": "C",
+      "utterance": "26まで学校andテストあるから厳しい"
+    },
+    {
+      "speaker": "A",
+      "utterance": "終わった"
+    },
+    {
+      "speaker": "B",
+      "utterance": "くさ"
+    },
+    {
+      "speaker": "C",
+      "utterance": "26の夜なら譲歩"
+    },
+    {
+      "speaker": "B",
+      "utterance": "譲歩しろ\n26の19時以降可"
+    },
+    {
+      "speaker": "D",
+      "utterance": "26大丈夫"
+    },
+    {
+      "speaker": "A",
+      "utterance": "ちなみに26ならモリスは行けるのか？"
+    },
+    {
+      "speaker": "B",
+      "utterance": "いけますね"
+    },
+    {
+      "speaker": "A",
+      "utterance": "じゃあそっちでいっか"
+    },
+    {
+      "speaker": "C",
+      "utterance": "おけ"
+    },
+    {
+      "speaker": "A",
+      "utterance": "決まり！"
+    },
+    {
+      "speaker": "B",
+      "utterance": "はいけえってい"
+    },
+    {
+      "speaker": "C",
+      "utterance": "頑張る"
+    },
+    {
+      "speaker": "B",
+      "utterance": "19時以降でおねがいしたい"
+    },
+    {
+      "speaker": "A",
+      "utterance": "19:00~でよければそれで"
+    },
+    {
+      "speaker": "D",
+      "utterance": "オッケー"
+    },
+    {
+      "speaker": "B",
+      "utterance": "@C ?"
+    },
+    {
+      "speaker": "C",
+      "utterance": "場所によるけど17:00くらいまでテスト（ワンチャン伸びるかも）\n遠すぎなければ行ける！"
+    },
+    {
+      "speaker": "B",
+      "utterance": "19時で大丈夫だろう"
+    },
+    {
+      "speaker": "A",
+      "utterance": "行けるね"
+    },
+    {
+      "speaker": "B",
+      "utterance": "決定で"
+    },
+    {
+      "speaker": "A",
+      "utterance": "決まり"
+    },
+    {
+      "speaker": "B",
+      "utterance": "横浜駅周辺を希望しています"
+    },
+    {
+      "speaker": "A",
+      "utterance": "\"かつみどり（寿司）"
+    },
+    {
+      "speaker": "https",
+      "utterance": "//tabelog.com/kanagawa/A1401/A140101/14041492/\""
+    },
+    {
+      "speaker": "C",
+      "utterance": "自分も横浜駅周辺ありがたいわ"
+    },
+    {
+      "speaker": "A",
+      "utterance": "\"串揚げ（ヨドバシちか）"
+    },
+    {
+      "speaker": "https",
+      "utterance": "//tabelog.com/kanagawa/A1401/A140101/14062853/\""
+    },
+    {
+      "speaker": "D",
+      "utterance": "https://www.gyukatsu-motomura.com"
+    },
+    {
+      "speaker": "C",
+      "utterance": "https://r.gnavi.co.jp/g046203/?utm_id=bnk2022rktn_tenpodsa_undercv11_g_lis&gclid=Cj0KCQiAqOucBhDrARIsAPCQL1YrB5iiGm3tyMd2BE8UpBTIe6qDtga1VAr3IbjeWGGsiRTE7Q-TbAUaAlrPEALw_wcB"
+    },
+    {
+      "speaker": "B",
+      "utterance": "https://hungrytiger.co.jp/location/mores.html"
+    },
+    {
+      "speaker": "C",
+      "utterance": "https://s.tabelog.com/kanagawa/A1401/A140307/14001013/?cid=yo_g_dsa_shop&gclid=Cj0KCQiAqOucBhDrARIsAPCQL1Y8ddnAwx1R9ZZSSYJHRL0nk93YaWA4wBn4vYQkMgbh2rHlfda9pGwaAk7NEALw_wcB"
+    },
+    {
+      "speaker": "B",
+      "utterance": "https://www.ebisu-toraji.com/shop/kanagawa/yokohama-kawasaki/yokohama_mores/\nhttps://tabelog.com/kanagawa/A1401/A140101/14041492/"
+    },
+    {
+      "speaker": "C",
+      "utterance": "http://www.morismoris.com/"
+    },
+    {
+      "speaker": "D",
+      "utterance": "https://tabelog.com/kanagawa/A1401/A140212/14031548/"
+    },
+    {
+      "speaker": "B",
+      "utterance": "こんなもん？"
+    },
+    {
+      "speaker": "A",
+      "utterance": "おけ"
+    },
+    {
+      "speaker": "B",
+      "utterance": "以上で"
+    },
+    {
+      "speaker": "C",
+      "utterance": "おけ"
+    },
+    {
+      "speaker": "B",
+      "utterance": "横浜駅は確定？\nでよいい？"
+    },
+    {
+      "speaker": "C",
+      "utterance": "おけ"
+    },
+    {
+      "speaker": "D",
+      "utterance": "よい"
+    },
+    {
+      "speaker": "B",
+      "utterance": "肉がいい感じっすかね？"
+    },
+    {
+      "speaker": "C",
+      "utterance": "まあ、肉の方が多いな"
+    },
+    {
+      "speaker": "A",
+      "utterance": "割とどれでも嬉しい"
+    },
+    {
+      "speaker": "C",
+      "utterance": "これ5000円超えてくる"
+    },
+    {
+      "speaker": "B",
+      "utterance": "しゃぶしゃぶかこれ"
+    },
+    {
+      "speaker": "A",
+      "utterance": "もとむらいこうぜ"
+    },
+    {
+      "speaker": "C",
+      "utterance": "\"すき焼きしゃぶしゃぶ\nコース料理\""
+    },
+    {
+      "speaker": "B",
+      "utterance": "やすくね？\n2000円くらいだよなここ"
+    },
+    {
+      "speaker": "A",
+      "utterance": "じゃあくしや"
+    },
+    {
+      "speaker": "D",
+      "utterance": "まあまあ安い\n安めがいい？\n揚げ物？"
+    },
+    {
+      "speaker": "C",
+      "utterance": "まあ、正直どっちでも"
+    },
+    {
+      "speaker": "D",
+      "utterance": "同じく"
+    },
+    {
+      "speaker": "A",
+      "utterance": "じゃあもとむらで豪遊したい感じはする"
+    },
+    {
+      "speaker": "B",
+      "utterance": "おけ\n承諾"
+    },
+    {
+      "speaker": "C",
+      "utterance": "本村いったことないからあり"
+    },
+    {
+      "speaker": "D",
+      "utterance": "決まり"
+    },
+    {
+      "speaker": "A",
+      "utterance": "あざす"
+    },
+    {
+      "speaker": "B",
+      "utterance": "もとむら"
+    },
+    {
+      "speaker": "C",
+      "utterance": "おけ"
+    }
+  ],
+  "info": [
+    {
+      "website": "https://tabelog.com/kanagawa/A1401/A140101/14041492/",
+      "restaurant": "かつみどり"
+    },
+    {
+      "website": "https://tabelog.com/kanagawa/A1401/A140101/14062853/",
+      "restaurant": "串揚げ"
+    },
+    {
+      "website": "https://tabelog.com/kanagawa/A1401/A140101/14077543/",
+      "restaurant": "牛かつ もと村 横浜ジョイナス店"
+    },
+    {
+      "website": "https://r.gnavi.co.jp/g046203/",
+      "restaurant": "季彩膳 酔心横浜スカイビル店"
+    },
+    {
+      "website": "https://hungrytiger.co.jp/location/mores.html",
+      "restaurant": "ハングリータイガー 横浜モアーズ店"
+    },
+    {
+      "website": "https://tabelog.com/kanagawa/A1401/A140307/14001013/?cid=yo_g_dsa_shop&gclid=Cj0KCQiAqOucBhDrARIsAPCQL1Y8ddnAwx1R9ZZSSYJHRL0nk93YaWA4wBn4vYQkMgbh2rHlfda9pGwaAk7NEALw_wcB",
+      "restaurant": "炭火焼鳥　まるざ"
+    },
+    {
+      "website": "https://tabelog.com/kanagawa/A1401/A140101/14061465/",
+      "restaurant": "焼肉トラジ 横浜モアーズ店"
+    },
+    {
+      "website": "https://www.morismoris.com/",
+      "restaurant": "kitchen&bar MORIS"
+    },
+    {
+      "website": "https://tabelog.com/kanagawa/A1401/A140212/14031548/",
+      "restaurant": "カネセイ"
+    }
+  ]
+}

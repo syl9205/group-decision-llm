@@ -1,0 +1,96 @@
+{
+  "preference_table": [
+    {
+      "participant": "A",
+      "restaurant": "ウダガワ 成ル",
+      "preferences": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "串若丸 本店（くしわかまる）",
+      "preferences": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "牛角 渋谷店（ギュウカク）",
+      "preferences": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "ウダガワ 成ル",
+      "preferences": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "串若丸 本店（くしわかまる）",
+      "preferences": "A1"
+    },
+    {
+      "participant": "B",
+      "restaurant": "牛角 渋谷店（ギュウカク）",
+      "preferences": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "ウダガワ 成ル",
+      "preferences": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "串若丸 本店（くしわかまる）",
+      "preferences": "A1,A5"
+    },
+    {
+      "participant": "C",
+      "restaurant": "牛角 渋谷店（ギュウカク）",
+      "preferences": "None"
+    }
+  ],
+  "constraint_table": [
+    {
+      "participant": "A",
+      "restaurant": "ウダガワ 成ル",
+      "constraints": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "串若丸 本店（くしわかまる）",
+      "constraints": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "牛角 渋谷店（ギュウカク）",
+      "constraints": "A5"
+    },
+    {
+      "participant": "B",
+      "restaurant": "ウダガワ 成ル",
+      "constraints": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "串若丸 本店（くしわかまる）",
+      "constraints": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "牛角 渋谷店（ギュウカク）",
+      "constraints": "A5"
+    },
+    {
+      "participant": "C",
+      "restaurant": "ウダガワ 成ル",
+      "constraints": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "串若丸 本店（くしわかまる）",
+      "constraints": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "牛角 渋谷店（ギュウカク）",
+      "constraints": "None"
+    }
+  ]
+}

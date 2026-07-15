@@ -1,0 +1,73 @@
+# CONVERSATION PART
+
+A	みんな木曜練習来るっけ？
+B	行く
+C	いくよー
+A	じゃあその後で
+C	OK
+B	うい
+A	どこ行く？
+A	何時だっけ
+B	木曜日の21時くらい
+A	普段もうちょい遅くね
+A	21:30かな
+B	うん
+A	じゃあ木曜の21:30でいい？
+C	下北でいいよね？
+A	うん！
+A	店決めるか
+	8日か15日どちらでしょうか
+A	8日です
+A	しずる
+B	"餃子の王将 下北沢店
+03-3419-6955
+https://maps.app.goo.gl/knGyK6ixHw7zJ69S8?g_st=il"
+B	王将で爆食したい
+A	https://s.tabelog.com/tokyo/A1318/A131802/13228564/?svd=20221206&svt=1900&svps=2&default_yoyaku_condition=1
+A	ありやね
+A	最近行ってないわ
+C	"ステーキ屋 松 下北沢店
+03-6805-2954
+東京都世田谷区北沢2-14-2 ジョー3ビル 2F
+https://tabelog.com/tokyo/A1318/A131802/13239558/"
+B	つい最近行ったやん。
+B	ミカンの店行ってみたいかも
+A	直近すぎて却下
+C	いついってもうまい
+A	ベトナムのやつ？
+A	ピザ？
+A	ハンバーガー？
+B	両方閉まってると思うで
+B	トリのとこだけ開いてるとおもう
+A	あー
+A	トリフターズだっけ
+B	"鶏肉食堂 ザ・トリフターズ
+03-5787-5748
+https://maps.app.goo.gl/BYMhg9s4B6m7AaUz6?g_st=il"
+B	ここ行きたい
+C	こんなんあったっけ？
+C	いってみたいかも
+B	"ピッツェリアエイト 下北沢
+03-6450-7887
+https://maps.app.goo.gl/TAPWZjuYYzXZAJgV9?g_st=il"
+A	居酒屋だけどそれでもよければ
+A	ここ行ったことある
+B	こっちも開いてるやん
+A	男だけで行くとちょい場違いwww
+B	じゃあトリで
+A	トリ行くか
+C	いいよー
+B	トリ行こ
+A	ここでいいよな？
+C	いってみたい
+
+====================
+
+# INFORMATION PART
+
+`Website Link`	`Restaurant`
+https://tabelog.com/tokyo/A1318/A131802/13273836/	鶏肉食堂 ザ・トリフターズ ミカン下北店
+https://tabelog.com/tokyo/A1318/A131802/13268127/	ピッツェリアエイト 下北沢
+https://tabelog.com/tokyo/A1318/A131802/13239558/	ステーキ屋 松 下北沢店
+https://s.tabelog.com/tokyo/A1318/A131802/13228564/?svd=20221206&svt=1900&svps=2&default_yoyaku_condition=1	下北しずる
+https://tabelog.com/tokyo/A1318/A131802/13053832/	餃子の王将 下北沢店

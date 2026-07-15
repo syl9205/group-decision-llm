@@ -1,0 +1,187 @@
+{
+  "conversation_id": "13",
+  "conversation": [
+    {
+      "speaker": "A",
+      "utterance": "みんな木曜練習来るっけ？"
+    },
+    {
+      "speaker": "B",
+      "utterance": "行く"
+    },
+    {
+      "speaker": "C",
+      "utterance": "いくよー"
+    },
+    {
+      "speaker": "A",
+      "utterance": "じゃあその後で"
+    },
+    {
+      "speaker": "C",
+      "utterance": "OK"
+    },
+    {
+      "speaker": "B",
+      "utterance": "うい"
+    },
+    {
+      "speaker": "A",
+      "utterance": "どこ行く？\n何時だっけ"
+    },
+    {
+      "speaker": "B",
+      "utterance": "木曜日の21時くらい"
+    },
+    {
+      "speaker": "A",
+      "utterance": "普段もうちょい遅くね\n21:30かな"
+    },
+    {
+      "speaker": "B",
+      "utterance": "うん"
+    },
+    {
+      "speaker": "A",
+      "utterance": "じゃあ木曜の21:30でいい？"
+    },
+    {
+      "speaker": "C",
+      "utterance": "下北でいいよね？"
+    },
+    {
+      "speaker": "A",
+      "utterance": "うん！\n店決めるか\n8日か15日どちらでしょうか\n8日です\nしずる"
+    },
+    {
+      "speaker": "B",
+      "utterance": "\"餃子の王将 下北沢店\n03-3419-6955"
+    },
+    {
+      "speaker": "https",
+      "utterance": "//maps.app.goo.gl/knGyK6ixHw7zJ69S8?g_st=il\""
+    },
+    {
+      "speaker": "B",
+      "utterance": "王将で爆食したい"
+    },
+    {
+      "speaker": "A",
+      "utterance": "https://s.tabelog.com/tokyo/A1318/A131802/13228564/?svd=20221206&svt=1900&svps=2&default_yoyaku_condition=1\nありやね\n最近行ってないわ"
+    },
+    {
+      "speaker": "C",
+      "utterance": "\"ステーキ屋 松 下北沢店\n03-6805-2954\n東京都世田谷区北沢2-14-2 ジョー3ビル 2F"
+    },
+    {
+      "speaker": "https",
+      "utterance": "//tabelog.com/tokyo/A1318/A131802/13239558/\""
+    },
+    {
+      "speaker": "B",
+      "utterance": "つい最近行ったやん。\nミカンの店行ってみたいかも"
+    },
+    {
+      "speaker": "A",
+      "utterance": "直近すぎて却下"
+    },
+    {
+      "speaker": "C",
+      "utterance": "いついってもうまい"
+    },
+    {
+      "speaker": "A",
+      "utterance": "ベトナムのやつ？\nピザ？\nハンバーガー？"
+    },
+    {
+      "speaker": "B",
+      "utterance": "両方閉まってると思うで\nトリのとこだけ開いてるとおもう"
+    },
+    {
+      "speaker": "A",
+      "utterance": "あー\nトリフターズだっけ"
+    },
+    {
+      "speaker": "B",
+      "utterance": "\"鶏肉食堂 ザ・トリフターズ\n03-5787-5748"
+    },
+    {
+      "speaker": "https",
+      "utterance": "//maps.app.goo.gl/BYMhg9s4B6m7AaUz6?g_st=il\""
+    },
+    {
+      "speaker": "B",
+      "utterance": "ここ行きたい"
+    },
+    {
+      "speaker": "C",
+      "utterance": "こんなんあったっけ？\nいってみたいかも"
+    },
+    {
+      "speaker": "B",
+      "utterance": "\"ピッツェリアエイト 下北沢\n03-6450-7887"
+    },
+    {
+      "speaker": "https",
+      "utterance": "//maps.app.goo.gl/TAPWZjuYYzXZAJgV9?g_st=il\""
+    },
+    {
+      "speaker": "A",
+      "utterance": "居酒屋だけどそれでもよければ\nここ行ったことある"
+    },
+    {
+      "speaker": "B",
+      "utterance": "こっちも開いてるやん"
+    },
+    {
+      "speaker": "A",
+      "utterance": "男だけで行くとちょい場違いwww"
+    },
+    {
+      "speaker": "B",
+      "utterance": "じゃあトリで"
+    },
+    {
+      "speaker": "A",
+      "utterance": "トリ行くか"
+    },
+    {
+      "speaker": "C",
+      "utterance": "いいよー"
+    },
+    {
+      "speaker": "B",
+      "utterance": "トリ行こ"
+    },
+    {
+      "speaker": "A",
+      "utterance": "ここでいいよな？"
+    },
+    {
+      "speaker": "C",
+      "utterance": "いってみたい"
+    }
+  ],
+  "info": [
+    {
+      "website": "https://tabelog.com/tokyo/A1318/A131802/13273836/",
+      "restaurant": "鶏肉食堂 ザ・トリフターズ ミカン下北店"
+    },
+    {
+      "website": "https://tabelog.com/tokyo/A1318/A131802/13268127/",
+      "restaurant": "ピッツェリアエイト 下北沢"
+    },
+    {
+      "website": "https://tabelog.com/tokyo/A1318/A131802/13239558/",
+      "restaurant": "ステーキ屋 松 下北沢店"
+    },
+    {
+      "website": "https://s.tabelog.com/tokyo/A1318/A131802/13228564/?svd=20221206&svt=1900&svps=2&default_yoyaku_condition=1",
+      "restaurant": "下北しずる"
+    },
+    {
+      "website": "https://tabelog.com/tokyo/A1318/A131802/13053832/",
+      "restaurant": "餃子の王将 下北沢店"
+    }
+  ]
+}

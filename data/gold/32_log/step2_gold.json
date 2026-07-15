@@ -1,0 +1,94 @@
+{
+  "mentioned_table": [
+    {
+      "participant": "A",
+      "restaurant": "鳥貴族 上野中央通り店",
+      "mention": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "しゃぶしゃぶ 温野菜 上野駅前店",
+      "mention": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "韓国式居酒屋 トンマッコル 上野店",
+      "mention": "Mentioned"
+    },
+    {
+      "participant": "A",
+      "restaurant": "オイスターテーブル 上野さくらテラス店（OysterTable）",
+      "mention": "Mentioned"
+    },
+    {
+      "participant": "A",
+      "restaurant": "本格シュラスコ×肉バル Gabutto 新宿本店",
+      "mention": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "ピアンタモッチ（【旧店名】コッコピア）",
+      "mention": "Mentioned"
+    },
+    {
+      "participant": "B",
+      "restaurant": "鳥貴族 上野中央通り店",
+      "mention": "Mentioned"
+    },
+    {
+      "participant": "B",
+      "restaurant": "しゃぶしゃぶ 温野菜 上野駅前店",
+      "mention": "Mentioned"
+    },
+    {
+      "participant": "B",
+      "restaurant": "韓国式居酒屋 トンマッコル 上野店",
+      "mention": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "オイスターテーブル 上野さくらテラス店（OysterTable）",
+      "mention": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "本格シュラスコ×肉バル Gabutto 新宿本店 ",
+      "mention": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "ピアンタモッチ（【旧店名】コッコピア）",
+      "mention": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "鳥貴族 上野中央通り店",
+      "mention": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "しゃぶしゃぶ 温野菜 上野駅前店",
+      "mention": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "韓国式居酒屋 トンマッコル 上野店",
+      "mention": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "オイスターテーブル 上野さくらテラス店（OysterTable）",
+      "mention": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "本格シュラスコ×肉バル Gabutto 新宿本店 ",
+      "mention": "Mentioned"
+    },
+    {
+      "participant": "C",
+      "restaurant": "ピアンタモッチ（【旧店名】コッコピア）",
+      "mention": "None"
+    }
+  ]
+}

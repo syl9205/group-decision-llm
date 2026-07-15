@@ -1,0 +1,79 @@
+{
+  "mentioned_table": [
+    {
+      "participant": "A",
+      "restaurant": "つばめグリル 新宿ルミネ店",
+      "mention": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "新宿ぱすたかん",
+      "mention": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "グッドモーニングカフェ 早稲田",
+      "mention": "Mentioned"
+    },
+    {
+      "participant": "A",
+      "restaurant": "らぁ麺やまぐち",
+      "mention": "Mentioned"
+    },
+    {
+      "participant": "A",
+      "restaurant": "おぼんdeごはん 新宿ミロード店",
+      "mention": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "つばめグリル 新宿ルミネ店",
+      "mention": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "新宿ぱすたかん",
+      "mention": "Mentioned"
+    },
+    {
+      "participant": "B",
+      "restaurant": "グッドモーニングカフェ 早稲田",
+      "mention": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "らぁ麺やまぐち",
+      "mention": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "おぼんdeごはん 新宿ミロード店",
+      "mention": "Mentioned"
+    },
+    {
+      "participant": "C",
+      "restaurant": "つばめグリル 新宿ルミネ店",
+      "mention": "Mentioned"
+    },
+    {
+      "participant": "C",
+      "restaurant": "新宿ぱすたかん",
+      "mention": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "グッドモーニングカフェ 早稲田",
+      "mention": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "らぁ麺やまぐち",
+      "mention": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "おぼんdeごはん 新宿ミロード店",
+      "mention": "None"
+    }
+  ]
+}

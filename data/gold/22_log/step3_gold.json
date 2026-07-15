@@ -1,0 +1,64 @@
+{
+  "perception_table": [
+    {
+      "participant": "A",
+      "restaurant": "BOILING POINT（ボイリングポイント）",
+      "perception": "Mix"
+    },
+    {
+      "participant": "A",
+      "restaurant": "シェーキーズ 渋谷店（Shakey's）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "A",
+      "restaurant": "ハヌリ 渋谷",
+      "perception": "Negative"
+    },
+    {
+      "participant": "A",
+      "restaurant": "小割烹おはし 渋谷",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "B",
+      "restaurant": "BOILING POINT（ボイリングポイント）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "B",
+      "restaurant": "シェーキーズ 渋谷店（Shakey's）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "B",
+      "restaurant": "ハヌリ 渋谷",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "B",
+      "restaurant": "小割烹おはし 渋谷",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "C",
+      "restaurant": "BOILING POINT（ボイリングポイント）",
+      "perception": "Positive"
+    },
+    {
+      "participant": "C",
+      "restaurant": "シェーキーズ 渋谷店（Shakey's）",
+      "perception": "Positive"
+    },
+    {
+      "participant": "C",
+      "restaurant": "ハヌリ 渋谷",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "C",
+      "restaurant": "小割烹おはし 渋谷",
+      "perception": "Negative"
+    }
+  ]
+}

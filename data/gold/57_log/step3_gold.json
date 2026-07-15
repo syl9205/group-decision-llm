@@ -1,0 +1,184 @@
+{
+  "perception_table": [
+    {
+      "participant": "A",
+      "restaurant": "串揚げ",
+      "perception": "Positive"
+    },
+    {
+      "participant": "A",
+      "restaurant": "牛かつ もと村 横浜ジョイナス店",
+      "perception": "Positive"
+    },
+    {
+      "participant": "A",
+      "restaurant": "季彩膳 酔心横浜スカイビル店",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "A",
+      "restaurant": "ハングリータイガー 横浜モアーズ店",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "A",
+      "restaurant": "炭火焼鳥 まるざ",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "A",
+      "restaurant": "焼肉トラジ 横浜モアーズ店",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "A",
+      "restaurant": "回し寿司 活 活美登利 横浜スカイビル店",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "A",
+      "restaurant": "kitchen&bar MORIS",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "A",
+      "restaurant": "カネセイ",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "B",
+      "restaurant": "串揚げ",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "B",
+      "restaurant": "牛かつ もと村 横浜ジョイナス店",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "B",
+      "restaurant": "季彩膳 酔心横浜スカイビル店",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "B",
+      "restaurant": "ハングリータイガー 横浜モアーズ店",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "B",
+      "restaurant": "炭火焼鳥 まるざ",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "B",
+      "restaurant": "焼肉トラジ 横浜モアーズ店",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "B",
+      "restaurant": "回し寿司 活 活美登利 横浜スカイビル店",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "B",
+      "restaurant": "kitchen&bar MORIS",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "B",
+      "restaurant": "カネセイ",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "C",
+      "restaurant": "串揚げ",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "C",
+      "restaurant": "牛かつ もと村 横浜ジョイナス店",
+      "perception": "Positive"
+    },
+    {
+      "participant": "C",
+      "restaurant": "季彩膳 酔心横浜スカイビル店",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "C",
+      "restaurant": "ハングリータイガー 横浜モアーズ店",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "C",
+      "restaurant": "炭火焼鳥 まるざ",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "C",
+      "restaurant": "焼肉トラジ 横浜モアーズ店",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "C",
+      "restaurant": "回し寿司 活 活美登利 横浜スカイビル店",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "C",
+      "restaurant": "kitchen&bar MORIS",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "C",
+      "restaurant": "カネセイ",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "D",
+      "restaurant": "串揚げ",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "D",
+      "restaurant": "牛かつ もと村 横浜ジョイナス店",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "D",
+      "restaurant": "季彩膳 酔心横浜スカイビル店",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "D",
+      "restaurant": "ハングリータイガー 横浜モアーズ店",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "D",
+      "restaurant": "炭火焼鳥 まるざ",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "D",
+      "restaurant": "焼肉トラジ 横浜モアーズ店",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "D",
+      "restaurant": "回し寿司 活 活美登利 横浜スカイビル店",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "D",
+      "restaurant": "kitchen&bar MORIS",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "D",
+      "restaurant": "カネセイ",
+      "perception": "Neutral"
+    }
+  ]
+}

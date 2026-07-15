@@ -1,0 +1,124 @@
+{
+  "perception_table": [
+    {
+      "participant": "A",
+      "restaurant": "フランス大衆食堂ブイヨン本郷3",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "A",
+      "restaurant": "上野 アクアリウムレストラン Nautilus（ノーチラス）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "A",
+      "restaurant": "希和味（KIWAMI）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "A",
+      "restaurant": "伊勢ろく 本店（いせろく）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "A",
+      "restaurant": "アクアリウムダイニングバー銀座ライム（LIME）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "A",
+      "restaurant": "小岩井農場TOKYO （【旧店名】小岩井フレミナール）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "B",
+      "restaurant": "フランス大衆食堂ブイヨン本郷3",
+      "perception": "Positive"
+    },
+    {
+      "participant": "B",
+      "restaurant": "上野 アクアリウムレストラン Nautilus（ノーチラス）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "B",
+      "restaurant": "希和味（KIWAMI）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "B",
+      "restaurant": "伊勢ろく 本店（いせろく）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "B",
+      "restaurant": "アクアリウムダイニングバー銀座ライム（LIME）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "B",
+      "restaurant": "小岩井農場TOKYO （【旧店名】小岩井フレミナール）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "C",
+      "restaurant": "フランス大衆食堂ブイヨン本郷3",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "C",
+      "restaurant": "上野 アクアリウムレストラン Nautilus（ノーチラス）",
+      "perception": "Positive"
+    },
+    {
+      "participant": "C",
+      "restaurant": "希和味（KIWAMI）",
+      "perception": "Positive"
+    },
+    {
+      "participant": "C",
+      "restaurant": "伊勢ろく 本店（いせろく）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "C",
+      "restaurant": "アクアリウムダイニングバー銀座ライム（LIME）",
+      "perception": "Negative"
+    },
+    {
+      "participant": "C",
+      "restaurant": "小岩井農場TOKYO （【旧店名】小岩井フレミナール）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "D",
+      "restaurant": "フランス大衆食堂ブイヨン本郷3",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "D",
+      "restaurant": "上野 アクアリウムレストラン Nautilus（ノーチラス）",
+      "perception": "Positive"
+    },
+    {
+      "participant": "D",
+      "restaurant": "希和味（KIWAMI）",
+      "perception": "Positive"
+    },
+    {
+      "participant": "D",
+      "restaurant": "伊勢ろく 本店（いせろく）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "D",
+      "restaurant": "アクアリウムダイニングバー銀座ライム（LIME）",
+      "perception": "Positive"
+    },
+    {
+      "participant": "D",
+      "restaurant": "小岩井農場TOKYO （【旧店名】小岩井フレミナール）",
+      "perception": "Neutral"
+    }
+  ]
+}

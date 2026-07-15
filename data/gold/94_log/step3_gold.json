@@ -1,0 +1,129 @@
+{
+  "perception_table": [
+    {
+      "participant": "A",
+      "restaurant": "和酒処 純吟",
+      "perception": "Mix"
+    },
+    {
+      "participant": "A",
+      "restaurant": "鮪専門店 MEGRO（メグロ）",
+      "perception": "Positive"
+    },
+    {
+      "participant": "A",
+      "restaurant": "ラッフルズ カリー（raffles curry）",
+      "perception": "Mix"
+    },
+    {
+      "participant": "A",
+      "restaurant": "再来宴 上野仲町通り店（サイライエン）",
+      "perception": "Mix"
+    },
+    {
+      "participant": "A",
+      "restaurant": "スペインバル カリエンテ（Spain bar Caliente）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "B",
+      "restaurant": "和酒処 純吟",
+      "perception": "Positive"
+    },
+    {
+      "participant": "B",
+      "restaurant": "鮪専門店 MEGRO（メグロ）",
+      "perception": "Mix"
+    },
+    {
+      "participant": "B",
+      "restaurant": "ラッフルズ カリー（raffles curry）",
+      "perception": "Mix"
+    },
+    {
+      "participant": "B",
+      "restaurant": "再来宴 上野仲町通り店（サイライエン）",
+      "perception": "Negative"
+    },
+    {
+      "participant": "B",
+      "restaurant": "スペインバル カリエンテ（Spain bar Caliente）",
+      "perception": "Positive"
+    },
+    {
+      "participant": "C",
+      "restaurant": "和酒処 純吟",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "C",
+      "restaurant": "鮪専門店 MEGRO（メグロ）",
+      "perception": "Positive"
+    },
+    {
+      "participant": "C",
+      "restaurant": "ラッフルズ カリー（raffles curry）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "C",
+      "restaurant": "再来宴 上野仲町通り店（サイライエン）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "C",
+      "restaurant": "スペインバル カリエンテ（Spain bar Caliente）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "D",
+      "restaurant": "和酒処 純吟",
+      "perception": "Negative"
+    },
+    {
+      "participant": "D",
+      "restaurant": "鮪専門店 MEGRO（メグロ）",
+      "perception": "Positive"
+    },
+    {
+      "participant": "D",
+      "restaurant": "ラッフルズ カリー（raffles curry）",
+      "perception": "Positive"
+    },
+    {
+      "participant": "D",
+      "restaurant": "再来宴 上野仲町通り店（サイライエン）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "D",
+      "restaurant": "スペインバル カリエンテ（Spain bar Caliente）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "E",
+      "restaurant": "和酒処 純吟",
+      "perception": "Positive"
+    },
+    {
+      "participant": "E",
+      "restaurant": "鮪専門店 MEGRO（メグロ）",
+      "perception": "Positive"
+    },
+    {
+      "participant": "E",
+      "restaurant": "ラッフルズ カリー（raffles curry）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "E",
+      "restaurant": "再来宴 上野仲町通り店（サイライエン）",
+      "perception": "Positive"
+    },
+    {
+      "participant": "E",
+      "restaurant": "スペインバル カリエンテ（Spain bar Caliente）",
+      "perception": "Neutral"
+    }
+  ]
+}

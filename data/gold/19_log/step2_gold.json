@@ -1,0 +1,84 @@
+{
+  "mentioned_table": [
+    {
+      "participant": "A",
+      "restaurant": "ジョーズ シャンハイ ニューヨーク 池袋店（JOE'S SHANGHAI NEWYORK）",
+      "mention": "Mentioned"
+    },
+    {
+      "participant": "A",
+      "restaurant": "味ちゃん 2号店（マッチャン）",
+      "mention": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "和食 個室居酒屋 美味か 新宿南口店（UMAKA【旧店名】うまかばる）",
+      "mention": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "焼肉ホルモンたけ田 高田馬場店",
+      "mention": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "ジョーズ シャンハイ ニューヨーク 池袋店（JOE'S SHANGHAI NEWYORK）",
+      "mention": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "味ちゃん 2号店（マッチャン）",
+      "mention": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "和食 個室居酒屋 美味か 新宿南口店（UMAKA【旧店名】うまかばる）",
+      "mention": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "焼肉ホルモンたけ田 高田馬場店",
+      "mention": "Mentioned"
+    },
+    {
+      "participant": "C",
+      "restaurant": "ジョーズ シャンハイ ニューヨーク 池袋店（JOE'S SHANGHAI NEWYORK）",
+      "mention": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "味ちゃん 2号店（マッチャン）",
+      "mention": "Mentioned"
+    },
+    {
+      "participant": "C",
+      "restaurant": "和食 個室居酒屋 美味か 新宿南口店（UMAKA【旧店名】うまかばる）",
+      "mention": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "焼肉ホルモンたけ田 高田馬場店",
+      "mention": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "ジョーズ シャンハイ ニューヨーク 池袋店（JOE'S SHANGHAI NEWYORK）",
+      "mention": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "味ちゃん 2号店（マッチャン）",
+      "mention": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "和食 個室居酒屋 美味か 新宿南口店（UMAKA【旧店名】うまかばる）",
+      "mention": "Mentioned"
+    },
+    {
+      "participant": "D",
+      "restaurant": "焼肉ホルモンたけ田 高田馬場店",
+      "mention": "None"
+    }
+  ]
+}

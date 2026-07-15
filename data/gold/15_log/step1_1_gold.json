@@ -1,0 +1,13 @@
+{
+  "participants": [
+    "A",
+    "B",
+    "C"
+  ],
+  "restaurant_brands": [
+    "木村屋本店 北千住",
+    "牛太 プラーレ松戸店",
+    "串かつ でんがな 松戸店"
+  ],
+  "final_restaurant": "串かつ でんがな 松戸店"
+}

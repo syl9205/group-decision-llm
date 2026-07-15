@@ -1,0 +1,154 @@
+{
+  "perception_table": [
+    {
+      "participant": "A",
+      "restaurant": "明憩（めい）",
+      "perception": "Positive"
+    },
+    {
+      "participant": "A",
+      "restaurant": "麻辣大学 上野本店",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "A",
+      "restaurant": "角源",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "A",
+      "restaurant": "築地玉寿司 浅草エキミセ店",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "A",
+      "restaurant": "立食い寿司 根室花まる 東京ミッドタウン八重洲店",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "A",
+      "restaurant": "回転寿し トリトン 東京ソラマチ店",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "A",
+      "restaurant": "築地寿司清 築地本店（つきじすしせい）",
+      "perception": "Mix"
+    },
+    {
+      "participant": "A",
+      "restaurant": "おかめ",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "A",
+      "restaurant": "すしざんまい 奥の院（すしざんまい おくのいん）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "A",
+      "restaurant": "江戸富士",
+      "perception": "Mix"
+    },
+    {
+      "participant": "B",
+      "restaurant": "明憩（めい）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "B",
+      "restaurant": "麻辣大学 上野本店",
+      "perception": "Positive"
+    },
+    {
+      "participant": "B",
+      "restaurant": "角源",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "B",
+      "restaurant": "築地玉寿司 浅草エキミセ店",
+      "perception": "Mix"
+    },
+    {
+      "participant": "B",
+      "restaurant": "立食い寿司 根室花まる 東京ミッドタウン八重洲店",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "B",
+      "restaurant": "回転寿し トリトン 東京ソラマチ店",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "B",
+      "restaurant": "築地寿司清 築地本店（つきじすしせい）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "B",
+      "restaurant": "おかめ",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "B",
+      "restaurant": "すしざんまい 奥の院（すしざんまい おくのいん）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "B",
+      "restaurant": "江戸富士",
+      "perception": "Positive"
+    },
+    {
+      "participant": "C",
+      "restaurant": "明憩（めい）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "C",
+      "restaurant": "麻辣大学 上野本店",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "C",
+      "restaurant": "角源",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "C",
+      "restaurant": "築地玉寿司 浅草エキミセ店",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "C",
+      "restaurant": "立食い寿司 根室花まる 東京ミッドタウン八重洲店",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "C",
+      "restaurant": "回転寿し トリトン 東京ソラマチ店",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "C",
+      "restaurant": "築地寿司清 築地本店（つきじすしせい）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "C",
+      "restaurant": "おかめ",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "C",
+      "restaurant": "すしざんまい 奥の院（すしざんまい おくのいん）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "C",
+      "restaurant": "江戸富士",
+      "perception": "Positive"
+    }
+  ]
+}

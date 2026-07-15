@@ -1,0 +1,49 @@
+{
+  "perception_table": [
+    {
+      "participant": "A",
+      "restaurant": "京鼎樓 そごう横浜店（京鼎楼　ジンディンロウ）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "A",
+      "restaurant": "横濱小籠包マニア",
+      "perception": "Positive"
+    },
+    {
+      "participant": "A",
+      "restaurant": "鼎泰豐 高島屋横浜店（ディンタイフォン）",
+      "perception": "Positive"
+    },
+    {
+      "participant": "B",
+      "restaurant": "京鼎樓 そごう横浜店（京鼎楼　ジンディンロウ）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "B",
+      "restaurant": "横濱小籠包マニア",
+      "perception": "Negative"
+    },
+    {
+      "participant": "B",
+      "restaurant": "鼎泰豐 高島屋横浜店（ディンタイフォン）",
+      "perception": "Positive"
+    },
+    {
+      "participant": "C",
+      "restaurant": "京鼎樓 そごう横浜店（京鼎楼　ジンディンロウ）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "C",
+      "restaurant": "横濱小籠包マニア",
+      "perception": "Negative"
+    },
+    {
+      "participant": "C",
+      "restaurant": "鼎泰豐 高島屋横浜店（ディンタイフォン）",
+      "perception": "Positive"
+    }
+  ]
+}

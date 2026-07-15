@@ -1,0 +1,411 @@
+{
+  "conversation_id": "12",
+  "conversation": [
+    {
+      "speaker": "A",
+      "utterance": "10の夜何時からにする？\n7時とか？"
+    },
+    {
+      "speaker": "B",
+      "utterance": "私は"
+    },
+    {
+      "speaker": "A",
+      "utterance": "もうちょい遅めの方が良い？\nうん"
+    },
+    {
+      "speaker": "C",
+      "utterance": "\"前日に成人式あって、多分地元帰ってるんだよね〜\n遅い方が嬉しいかも\""
+    },
+    {
+      "speaker": "B",
+      "utterance": "18：30以降大丈夫！\n私もそう笑笑10まだ学校ないの？"
+    },
+    {
+      "speaker": "C",
+      "utterance": "\"まぁでも8時とか？\n新幹線とか何も取ってないから合わせられる\""
+    },
+    {
+      "speaker": "B",
+      "utterance": "私は普通に授業"
+    },
+    {
+      "speaker": "A",
+      "utterance": "あ、そうか\n普通に授業あるのか"
+    },
+    {
+      "speaker": "C",
+      "utterance": "いや火曜は出席取らないやつだからもういいかなって笑"
+    },
+    {
+      "speaker": "B",
+      "utterance": "あっまって\n20時からズームだわ🥹"
+    },
+    {
+      "speaker": "A",
+      "utterance": "うわお"
+    },
+    {
+      "speaker": "C",
+      "utterance": "まじか〜"
+    },
+    {
+      "speaker": "A",
+      "utterance": "他の日にする？"
+    },
+    {
+      "speaker": "B",
+      "utterance": "🥲🥲🥲🥲🥲"
+    },
+    {
+      "speaker": "C",
+      "utterance": "そうね〜"
+    },
+    {
+      "speaker": "B",
+      "utterance": "12は？"
+    },
+    {
+      "speaker": "C",
+      "utterance": "空いてる〜"
+    },
+    {
+      "speaker": "A",
+      "utterance": "空いてる！"
+    },
+    {
+      "speaker": "B",
+      "utterance": "お！\nきた"
+    },
+    {
+      "speaker": "C",
+      "utterance": "お、じゃあ12か！！"
+    },
+    {
+      "speaker": "B",
+      "utterance": "なんじがよい？"
+    },
+    {
+      "speaker": "C",
+      "utterance": "何時でも！7時とか？"
+    },
+    {
+      "speaker": "A",
+      "utterance": "午前で終わるから何時でもいいわ"
+    },
+    {
+      "speaker": "B",
+      "utterance": "おけおけ\n私も19おけ"
+    },
+    {
+      "speaker": "A",
+      "utterance": "じゃあ19時からにしよか"
+    },
+    {
+      "speaker": "C",
+      "utterance": "おけー"
+    },
+    {
+      "speaker": "B",
+      "utterance": "あでも1930のがいいかも"
+    },
+    {
+      "speaker": "A",
+      "utterance": "おけ"
+    },
+    {
+      "speaker": "C",
+      "utterance": "じゃあ19:30で"
+    },
+    {
+      "speaker": "A",
+      "utterance": "(スタンプ)"
+    },
+    {
+      "speaker": "B",
+      "utterance": "場所にもよるが！\nなんかさっきストーリーで見つけたところが"
+    },
+    {
+      "speaker": "A",
+      "utterance": "\"サーモンパンチ 渋谷店\n03-5456-9858\n東京都渋谷区道玄坂2-25-6 ホリウチビル B1F"
+    },
+    {
+      "speaker": "https",
+      "utterance": "//tabelog.com/tokyo/A1303/A130301/13258915/\""
+    },
+    {
+      "speaker": "A",
+      "utterance": "うんうん"
+    },
+    {
+      "speaker": "B",
+      "utterance": "おお！\n場所って\nあ\nそこ行ってみたかったとこかもしれん笑笑"
+    },
+    {
+      "speaker": "A",
+      "utterance": "\"北海道スープカレー Suage 渋谷店\n03-6803-8270\n東京都渋谷区渋谷 2-22-11 渋谷フランセ奥野ビル B1F"
+    },
+    {
+      "speaker": "https",
+      "utterance": "//tabelog.com/tokyo/A1303/A130301/13234526/\""
+    },
+    {
+      "speaker": "A",
+      "utterance": "これも美味しそう"
+    },
+    {
+      "speaker": "C",
+      "utterance": "\"カンボジアンレストラン！！？↓\nアンコール・ワット\n03-3370-3019\n東京都渋谷区代々木1-38-13 住研ビル　１Ｆ"
+    },
+    {
+      "speaker": "https",
+      "utterance": "//tabelog.com/tokyo/A1304/A130403/13001035/\""
+    },
+    {
+      "speaker": "C",
+      "utterance": "そうね、場所固定にする？\n渋谷とか新宿とか"
+    },
+    {
+      "speaker": "A",
+      "utterance": "そうね"
+    },
+    {
+      "speaker": "B",
+      "utterance": "\"麺散\n03-6427-9898\n東京都渋谷区神宮前6-13-7"
+    },
+    {
+      "speaker": "https",
+      "utterance": "//tabelog.com/tokyo/A1306/A130601/13225567/\""
+    },
+    {
+      "speaker": "A",
+      "utterance": "お腹減ってきた"
+    },
+    {
+      "speaker": "C",
+      "utterance": "\"焼売酒場 道玄坂\n03-3770-0711\n東京都渋谷区道玄坂2-29-8 道玄坂センタービル 2F"
+    },
+    {
+      "speaker": "https",
+      "utterance": "//tabelog.com/tokyo/A1303/A130301/13265062/\""
+    },
+    {
+      "speaker": "C",
+      "utterance": "それな\nもう候補あげ終えたでいいかな？"
+    },
+    {
+      "speaker": "A",
+      "utterance": "そろそろ候補いいか\nそだね"
+    },
+    {
+      "speaker": "B",
+      "utterance": "\"自然薯 tororo\n03-3499-7870\n東京都渋谷区渋谷1-1-3 荒井ビル Ｂ１Ｆ"
+    },
+    {
+      "speaker": "https",
+      "utterance": "//tabelog.com/tokyo/A1303/A130301/13094629/\""
+    },
+    {
+      "speaker": "B",
+      "utterance": "うんうん"
+    },
+    {
+      "speaker": "A",
+      "utterance": "てあげるね"
+    },
+    {
+      "speaker": "C",
+      "utterance": "はーい"
+    },
+    {
+      "speaker": "B",
+      "utterance": "渋谷かなあ\n渋谷新宿あたり？\nあ\nチャット来てたの気づかなかった笑笑"
+    },
+    {
+      "speaker": "A",
+      "utterance": "どうしよか"
+    },
+    {
+      "speaker": "B",
+      "utterance": "うむ\n渋谷の方が\nこうほてきにはおおいね"
+    },
+    {
+      "speaker": "A",
+      "utterance": "そうね"
+    },
+    {
+      "speaker": "B",
+      "utterance": "ちなみに"
+    },
+    {
+      "speaker": "A",
+      "utterance": "近いしね\nうん"
+    },
+    {
+      "speaker": "B",
+      "utterance": "行ったことあるとこあげたひといる？\n私はない"
+    },
+    {
+      "speaker": "A",
+      "utterance": "どこも行ったことない"
+    },
+    {
+      "speaker": "C",
+      "utterance": "俺もないー"
+    },
+    {
+      "speaker": "B",
+      "utterance": "おお\nここは知り合いが行ってた気がする"
+    },
+    {
+      "speaker": "C",
+      "utterance": "へー"
+    },
+    {
+      "speaker": "A",
+      "utterance": "そうなんだ"
+    },
+    {
+      "speaker": "C",
+      "utterance": "感想はどんな感じだった？"
+    },
+    {
+      "speaker": "B",
+      "utterance": "めちゃ健康的\n定食\n美味しそう"
+    },
+    {
+      "speaker": "A",
+      "utterance": "写真からも伝わるわ"
+    },
+    {
+      "speaker": "B",
+      "utterance": "笑笑笑笑\n忘れた笑笑"
+    },
+    {
+      "speaker": "C",
+      "utterance": "あー確かに健康的"
+    },
+    {
+      "speaker": "B",
+      "utterance": "Cくんの\nカンボジアもなかなかいいよ笑笑"
+    },
+    {
+      "speaker": "A",
+      "utterance": "Cくん異国料理好みがちじゃね"
+    },
+    {
+      "speaker": "C",
+      "utterance": "それな、何出てくるか分からんし笑笑\nあれ、そうだっけ？"
+    },
+    {
+      "speaker": "A",
+      "utterance": "浅草の時なんか食べてなかったっけ"
+    },
+    {
+      "speaker": "C",
+      "utterance": "あーケバブ一人で食べたやつか笑"
+    },
+    {
+      "speaker": "B",
+      "utterance": "笑笑笑笑笑笑"
+    },
+    {
+      "speaker": "C",
+      "utterance": "なついわ"
+    },
+    {
+      "speaker": "A",
+      "utterance": "ごめんまじで店決め関係ないわ笑笑笑笑"
+    },
+    {
+      "speaker": "B",
+      "utterance": "これもよき\n評価高い"
+    },
+    {
+      "speaker": "A",
+      "utterance": "美味しそうだよね"
+    },
+    {
+      "speaker": "C",
+      "utterance": "あ、確かに評価高いね"
+    },
+    {
+      "speaker": "B",
+      "utterance": "うん\n私はこれあり\nカレー好きだし笑笑"
+    },
+    {
+      "speaker": "A",
+      "utterance": "カレーいいよな"
+    },
+    {
+      "speaker": "B",
+      "utterance": "カレー食べたことないしA\n（たぶん）"
+    },
+    {
+      "speaker": "C",
+      "utterance": "おーカレーにしちゃう？"
+    },
+    {
+      "speaker": "A",
+      "utterance": "店内もなんか良さげ"
+    },
+    {
+      "speaker": "B",
+      "utterance": "うん\nよい？"
+    },
+    {
+      "speaker": "C",
+      "utterance": "スープカレーいいよね"
+    },
+    {
+      "speaker": "B",
+      "utterance": "わかる\nよきかな"
+    },
+    {
+      "speaker": "C",
+      "utterance": "なんかめちゃくちゃオシャレじゃん\nいいなー\nここにしちゃう？"
+    },
+    {
+      "speaker": "A",
+      "utterance": "クチコミも良さそう"
+    },
+    {
+      "speaker": "B",
+      "utterance": "賛成🙋‍♀️"
+    },
+    {
+      "speaker": "A",
+      "utterance": "ここにしよか"
+    },
+    {
+      "speaker": "C",
+      "utterance": "おけ！！"
+    }
+  ],
+  "info": [
+    {
+      "website": "https://tabelog.com/tokyo/A1303/A130301/13234526/",
+      "restaurant": "北海道スープカレー Suage 渋谷店"
+    },
+    {
+      "website": "https://tabelog.com/tokyo/A1304/A130403/13001035/",
+      "restaurant": "アンコール・ワット"
+    },
+    {
+      "website": "https://tabelog.com/tokyo/A1303/A130301/13258915/",
+      "restaurant": "サーモンパンチ 渋谷店"
+    },
+    {
+      "website": "https://tabelog.com/tokyo/A1306/A130601/13225567/",
+      "restaurant": "麺散"
+    },
+    {
+      "website": "https://tabelog.com/tokyo/A1303/A130301/13265062/",
+      "restaurant": "焼売酒場 道玄坂"
+    },
+    {
+      "website": "https://tabelog.com/tokyo/A1303/A130301/13094629/",
+      "restaurant": "自然薯 tororo（ジネンジョ トロロ）"
+    }
+  ]
+}

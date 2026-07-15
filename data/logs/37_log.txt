@@ -1,0 +1,72 @@
+# CONVERSATION PART
+
+A	いつがいい？
+B	カレンダー確認します
+A	可能であれば、23以降だとありがたいっす
+C	23以外ならいつでもいいですー
+D	2週間以内だと、17、18以外がいいっす
+B	同D
+D	2週間以内だと29まで？
+B	あ、26．27以外で
+A	２９までだね
+A	じゃあ、２８か２９？
+D	そうね
+B	👍
+D	Aくんいつかえる？
+D	実家
+A	31かな
+D	俺は未定
+D	OK
+A	早めで28にする？
+D	じゃあ28 or 29
+D	おす
+C	どちらかといえば28がいいですー
+A	Bくん、28でもいい？
+B	👍
+D	よしゃ
+D	では28っすね
+A	ほんじゃあ、時間決めよう
+D	時間いつでもOK
+A	おれもいつでもOKっす
+C	20:30まで授業す…
+D	わあ
+A	じゃあ21時からにするかい？
+D	そうしましょう
+C	そうしましょう
+C	:bow:
+B	オッケーです
+A	じゃあ、28日の21時からで！
+A	"https://tabelog.com/tokyo/A1310/A131004/13150422/
+https://tabelog.com/tokyo/A1311/A131106/13008474/"
+D	https://tabelog.com/tokyo/A1314/A131401/13193659/
+C	"山崎が飲めるぞ
+https://tabelog.com/tokyo/A1310/A131004/13163582/"
+B	https://tabelog.com/tokyo/A1310/A131004/13083141/
+D	場所の制約を忘れてた、ラボから近いほうがいいっすね
+A	そうね
+A	一番行きたいとこ、どこ投票した？
+D	マツヨシ
+A	おれは新龍門
+C	縁
+B	縁
+A	お
+D	多数決〜
+A	多数決的には縁？
+B	お酒たくさんあるらしいですよ
+B	日本酒
+C	(スタンプ)
+A	23時までやってるんで、21時から行っても大丈夫そうだね
+D	さすがすぎる
+B	👍
+D	そうしましょう
+
+====================
+
+# INFORMATION PART
+
+`Website Link`	`Restaurant`
+https://tabelog.com/tokyo/A1310/A131004/13150422/	和食ごはんと酒 縁 本郷三丁目店（yukari）
+https://tabelog.com/tokyo/A1311/A131106/13008474/	松好（まつよし）
+https://tabelog.com/tokyo/A1314/A131401/13193659/	RISE & WIN Brewing Co. KAMIKATZ TAPROOM（ライズアンドウィンブルーイングカンパニー カミカツタップルーム）
+https://tabelog.com/tokyo/A1310/A131004/13163582/	新龍門
+https://tabelog.com/tokyo/A1310/A131004/13083141/	羅針盤

@@ -1,0 +1,216 @@
+{
+  "preference_table": [
+    {
+      "participant": "A",
+      "restaurant": "一番餃子",
+      "preferences": "A1"
+    },
+    {
+      "participant": "A",
+      "restaurant": "ファイヤーハウス（FIRE HOUSE）",
+      "preferences": "A1"
+    },
+    {
+      "participant": "A",
+      "restaurant": "キッチンセブン街のハンバーグ屋さん 本郷3丁目店",
+      "preferences": "A1,A6"
+    },
+    {
+      "participant": "A",
+      "restaurant": "根津 釜竹（かまちく）",
+      "preferences": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "食堂もり川（もりかわ）",
+      "preferences": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "蓬溪閣（ホウケイカク）",
+      "preferences": "A1"
+    },
+    {
+      "participant": "A",
+      "restaurant": "二代目 甚八",
+      "preferences": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "一番餃子",
+      "preferences": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "ファイヤーハウス（FIRE HOUSE）",
+      "preferences": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "キッチンセブン街のハンバーグ屋さん 本郷3丁目店",
+      "preferences": "A7"
+    },
+    {
+      "participant": "B",
+      "restaurant": "根津 釜竹（かまちく）",
+      "preferences": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "食堂もり川（もりかわ）",
+      "preferences": "A1"
+    },
+    {
+      "participant": "B",
+      "restaurant": "蓬溪閣（ホウケイカク）",
+      "preferences": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "二代目 甚八",
+      "preferences": "A7"
+    },
+    {
+      "participant": "C",
+      "restaurant": "一番餃子",
+      "preferences": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "ファイヤーハウス（FIRE HOUSE）",
+      "preferences": "A7"
+    },
+    {
+      "participant": "C",
+      "restaurant": "キッチンセブン街のハンバーグ屋さん 本郷3丁目店",
+      "preferences": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "根津 釜竹（かまちく）",
+      "preferences": "A7"
+    },
+    {
+      "participant": "C",
+      "restaurant": "食堂もり川（もりかわ）",
+      "preferences": "A1"
+    },
+    {
+      "participant": "C",
+      "restaurant": "蓬溪閣（ホウケイカク）",
+      "preferences": "A1"
+    },
+    {
+      "participant": "C",
+      "restaurant": "二代目 甚八",
+      "preferences": "None"
+    }
+  ],
+  "constraint_table": [
+    {
+      "participant": "A",
+      "restaurant": "一番餃子",
+      "constraints": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "ファイヤーハウス（FIRE HOUSE）",
+      "constraints": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "キッチンセブン街のハンバーグ屋さん 本郷3丁目店",
+      "constraints": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "根津 釜竹（かまちく）",
+      "constraints": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "食堂もり川（もりかわ）",
+      "constraints": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "蓬溪閣（ホウケイカク）",
+      "constraints": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "二代目 甚八",
+      "constraints": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "一番餃子",
+      "constraints": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "ファイヤーハウス（FIRE HOUSE）",
+      "constraints": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "キッチンセブン街のハンバーグ屋さん 本郷3丁目店",
+      "constraints": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "根津 釜竹（かまちく）",
+      "constraints": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "食堂もり川（もりかわ）",
+      "constraints": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "蓬溪閣（ホウケイカク）",
+      "constraints": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "二代目 甚八",
+      "constraints": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "一番餃子",
+      "constraints": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "ファイヤーハウス（FIRE HOUSE）",
+      "constraints": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "キッチンセブン街のハンバーグ屋さん 本郷3丁目店",
+      "constraints": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "根津 釜竹（かまちく）",
+      "constraints": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "食堂もり川（もりかわ）",
+      "constraints": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "蓬溪閣（ホウケイカク）",
+      "constraints": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "二代目 甚八",
+      "constraints": "None"
+    }
+  ]
+}

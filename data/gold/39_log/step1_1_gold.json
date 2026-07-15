@@ -1,0 +1,19 @@
+{
+  "participants": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "restaurant_brands": [
+    "三島（みしま）",
+    "陳家私菜 渋谷店",
+    "つるとんたん UDON NOODLE Brasserie 渋谷店",
+    "タイ料理 シブカーオ 宮下公園前店",
+    "山下本気うどん 渋谷並木橋",
+    "横浜家系 侍 池尻店（さむらい）",
+    "菱田屋（ヒシダヤ）",
+    "ムスカン（MUSKAN）"
+  ],
+  "final_restaurant": "つるとんたん UDON NOODLE Brasserie 渋谷店"
+}

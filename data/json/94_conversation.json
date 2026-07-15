@@ -1,0 +1,519 @@
+{
+  "conversation_id": "94",
+  "conversation": [
+    {
+      "speaker": "A",
+      "utterance": "(スタンプ)"
+    },
+    {
+      "speaker": "B",
+      "utterance": "とりあえず日程"
+    },
+    {
+      "speaker": "C",
+      "utterance": "12/1？"
+    },
+    {
+      "speaker": "A",
+      "utterance": "全然噛み合わない😣"
+    },
+    {
+      "speaker": "B",
+      "utterance": "そうだね"
+    },
+    {
+      "speaker": "C",
+      "utterance": "あ❌いるのか"
+    },
+    {
+      "speaker": "A",
+      "utterance": "ひとりおる"
+    },
+    {
+      "speaker": "D",
+      "utterance": "12/1は学会行くからきびしい\nCはバイト休めんの？"
+    },
+    {
+      "speaker": "C",
+      "utterance": "まあ"
+    },
+    {
+      "speaker": "A",
+      "utterance": "誰か1人❌のひと変えてもらわんときびいね"
+    },
+    {
+      "speaker": "D",
+      "utterance": "\"11/23か25のCか\n12/1の俺か\""
+    },
+    {
+      "speaker": "A",
+      "utterance": "11/23,25のどっちかCに調整してほし\nせやな"
+    },
+    {
+      "speaker": "B",
+      "utterance": "23か25日のCの☓がどうにかなるなら"
+    },
+    {
+      "speaker": "C",
+      "utterance": "うーむ"
+    },
+    {
+      "speaker": "A",
+      "utterance": "そうじゃなかったら2人❌のとこ変えるしかないわね"
+    },
+    {
+      "speaker": "B",
+      "utterance": "まあ全員参加きびしいかもなあ"
+    },
+    {
+      "speaker": "A",
+      "utterance": "とりま12/8までで調整してみよ"
+    },
+    {
+      "speaker": "B",
+      "utterance": "12/2〜8だと、3.4.6がng"
+    },
+    {
+      "speaker": "C",
+      "utterance": "2,4,7❌かな"
+    },
+    {
+      "speaker": "A",
+      "utterance": "わいは4,6,7だけいける"
+    },
+    {
+      "speaker": "E",
+      "utterance": "6,7いける"
+    },
+    {
+      "speaker": "B",
+      "utterance": "だめやん"
+    },
+    {
+      "speaker": "A",
+      "utterance": "www\n8夜もわんちゃん\nだけどEが6,7やからそれに合わせんとやな()"
+    },
+    {
+      "speaker": "E",
+      "utterance": "8もう飲みの予定あるから渋い"
+    },
+    {
+      "speaker": "D",
+      "utterance": "厳しいな"
+    },
+    {
+      "speaker": "A",
+      "utterance": "@B B6しんどい？"
+    },
+    {
+      "speaker": "C",
+      "utterance": "7ならまだ休める"
+    },
+    {
+      "speaker": "A",
+      "utterance": "あね"
+    },
+    {
+      "speaker": "D",
+      "utterance": "7いける"
+    },
+    {
+      "speaker": "A",
+      "utterance": "勝ち申してね"
+    },
+    {
+      "speaker": "B",
+      "utterance": "6はうごかない予定いれちったなあ"
+    },
+    {
+      "speaker": "D",
+      "utterance": "@C たのんだ"
+    },
+    {
+      "speaker": "A",
+      "utterance": "7にしよ"
+    },
+    {
+      "speaker": "C",
+      "utterance": "はい"
+    },
+    {
+      "speaker": "B",
+      "utterance": "みんな7は可？\nおーけー"
+    },
+    {
+      "speaker": "A",
+      "utterance": "時間何時推し〜〜？？"
+    },
+    {
+      "speaker": "B",
+      "utterance": "では12/7の夜で"
+    },
+    {
+      "speaker": "D",
+      "utterance": "本郷周辺よな"
+    },
+    {
+      "speaker": "B",
+      "utterance": "うん\n\"和酒処 純吟\n03-3868-0592"
+    },
+    {
+      "speaker": "https",
+      "utterance": "//maps.app.goo.gl/vziTjosjtY2GoWkU8\""
+    },
+    {
+      "speaker": "A",
+      "utterance": "https://s.tabelog.com/tokyo/A1310/A131004/13156657/"
+    },
+    {
+      "speaker": "E",
+      "utterance": "ここ行ったことある"
+    },
+    {
+      "speaker": "D",
+      "utterance": "\"ラッフルズ カリー\n03-3835-2712\n東京都台東区台東4-29-10 第二さたけビル 1F"
+    },
+    {
+      "speaker": "https",
+      "utterance": "//tabelog.com/tokyo/A1311/A131101/13033116/\""
+    },
+    {
+      "speaker": "C",
+      "utterance": "\"再来宴 上野仲町通り店\n050-5457-1472\n東京都台東区上野2-9-6 大和ビル　１Ｆ・２Ｆ"
+    },
+    {
+      "speaker": "https",
+      "utterance": "//tabelog.com/tokyo/A1311/A131101/13034317/\""
+    },
+    {
+      "speaker": "E",
+      "utterance": "\"スペインバル　カリエンテ\n050-5872-6505\n東京都文京区本郷2-39-10"
+    },
+    {
+      "speaker": "https",
+      "utterance": "//tabelog.com/tokyo/A1310/A131004/13162301/\""
+    },
+    {
+      "speaker": "B",
+      "utterance": "かれーうまそう"
+    },
+    {
+      "speaker": "A",
+      "utterance": "かれーもいいけど酒飲めるとこがええかも"
+    },
+    {
+      "speaker": "E",
+      "utterance": "マグロうまそう"
+    },
+    {
+      "speaker": "B",
+      "utterance": "スペインのところ、行ったことあるん？"
+    },
+    {
+      "speaker": "E",
+      "utterance": "おれはない"
+    },
+    {
+      "speaker": "A",
+      "utterance": "\"前行ったけど美味かったよー！\nめちゃデカマグロ出てくる\""
+    },
+    {
+      "speaker": "C",
+      "utterance": "マグロ良い"
+    },
+    {
+      "speaker": "E",
+      "utterance": "最高じゃあないっすか"
+    },
+    {
+      "speaker": "B",
+      "utterance": "でかマグロみたい"
+    },
+    {
+      "speaker": "A",
+      "utterance": "ちょま\n(写真)\nこんなゆ\nん"
+    },
+    {
+      "speaker": "D",
+      "utterance": "いいね\n赤"
+    },
+    {
+      "speaker": "C",
+      "utterance": "解剖を思い出した"
+    },
+    {
+      "speaker": "B",
+      "utterance": "映える"
+    },
+    {
+      "speaker": "D",
+      "utterance": "ちょい高そうだけど"
+    },
+    {
+      "speaker": "A",
+      "utterance": "店員のノリ陽キャ\nいくらだったっけな"
+    },
+    {
+      "speaker": "D",
+      "utterance": "コース以外も普通にある感じ？"
+    },
+    {
+      "speaker": "B",
+      "utterance": "たしかに、食べログ高め"
+    },
+    {
+      "speaker": "A",
+      "utterance": "𝓪̀ 𝓵𝓪 𝓬𝓪𝓻𝓽𝓮もあるよ"
+    },
+    {
+      "speaker": "D",
+      "utterance": "草"
+    },
+    {
+      "speaker": "B",
+      "utterance": "ちょっとこわい"
+    },
+    {
+      "speaker": "A",
+      "utterance": "コースだと5000円もするけどそんなしなかった希ガス"
+    },
+    {
+      "speaker": "B",
+      "utterance": "中華はいったことあるの？\n@C"
+    },
+    {
+      "speaker": "C",
+      "utterance": "ないけど聞いたことあった\nから"
+    },
+    {
+      "speaker": "B",
+      "utterance": "なる"
+    },
+    {
+      "speaker": "A",
+      "utterance": "ちゅうかもよき"
+    },
+    {
+      "speaker": "C",
+      "utterance": "中華不味いことないし的な"
+    },
+    {
+      "speaker": "A",
+      "utterance": "でもちょい高め？\nそんなことないか、"
+    },
+    {
+      "speaker": "B",
+      "utterance": "まあ中華にしては高いかもな"
+    },
+    {
+      "speaker": "A",
+      "utterance": "@B ここの魅力プレゼンしていいよ"
+    },
+    {
+      "speaker": "B",
+      "utterance": "普段行ってる中華とくらべると\n\"やったね、\n酒がうまい、めしがうまい\"\nあと近い"
+    },
+    {
+      "speaker": "A",
+      "utterance": "東大の近くか"
+    },
+    {
+      "speaker": "E",
+      "utterance": "弥生の近くだっけ"
+    },
+    {
+      "speaker": "A",
+      "utterance": "ほんとやな"
+    },
+    {
+      "speaker": "B",
+      "utterance": "@E 他に推せるポイントある？"
+    },
+    {
+      "speaker": "A",
+      "utterance": "農学部ワイ歓喜"
+    },
+    {
+      "speaker": "B",
+      "utterance": "弥生の門出てすぐ"
+    },
+    {
+      "speaker": "E",
+      "utterance": "女将さんにおすすめ酒聞きやすい"
+    },
+    {
+      "speaker": "B",
+      "utterance": "それあるね"
+    },
+    {
+      "speaker": "A",
+      "utterance": "日本酒？"
+    },
+    {
+      "speaker": "E",
+      "utterance": "いえす"
+    },
+    {
+      "speaker": "A",
+      "utterance": "悪ないな"
+    },
+    {
+      "speaker": "C",
+      "utterance": "4人席しかない(?)"
+    },
+    {
+      "speaker": "B",
+      "utterance": "まあ日本酒がメインだから好きじゃない人はつまらんかもな"
+    },
+    {
+      "speaker": "A",
+      "utterance": "1人ハブられるやん"
+    },
+    {
+      "speaker": "B",
+      "utterance": "それは対応してくれるんじゃない？"
+    },
+    {
+      "speaker": "A",
+      "utterance": "さすがにね()"
+    },
+    {
+      "speaker": "D",
+      "utterance": "日本酒の美味しさ一生わからん気がする\nそこでもいいんだけど"
+    },
+    {
+      "speaker": "A",
+      "utterance": "じゃあダメだwww"
+    },
+    {
+      "speaker": "B",
+      "utterance": "じゃあだめか"
+    },
+    {
+      "speaker": "A",
+      "utterance": "俺もそんなに"
+    },
+    {
+      "speaker": "C",
+      "utterance": "草"
+    },
+    {
+      "speaker": "A",
+      "utterance": "めっちゃ好きってわけじゃない\nそこにあったら飲むけど"
+    },
+    {
+      "speaker": "C",
+      "utterance": "じゃ別の機会に"
+    },
+    {
+      "speaker": "D",
+      "utterance": "あまいおさけしかのめません"
+    },
+    {
+      "speaker": "A",
+      "utterance": "かわちい\n@D カレープレゼンして"
+    },
+    {
+      "speaker": "D",
+      "utterance": "安い うまい 食べログ評価高い\n行ったことないけど\n飲みたいなら後で居酒屋行くのもありじゃね"
+    },
+    {
+      "speaker": "A",
+      "utterance": "確かし美味そう"
+    },
+    {
+      "speaker": "B",
+      "utterance": "いいけど、今回じゃなくてもいいかも感ある"
+    },
+    {
+      "speaker": "A",
+      "utterance": "とりあえず投票する？w"
+    },
+    {
+      "speaker": "D",
+      "utterance": "まぁそれはそうかも？\nそうするか"
+    },
+    {
+      "speaker": "B",
+      "utterance": "投票きのうあり？"
+    },
+    {
+      "speaker": "A",
+      "utterance": "あーどうなんやろ"
+    },
+    {
+      "speaker": "B",
+      "utterance": "じゃあ1つずつえらぶか"
+    },
+    {
+      "speaker": "A",
+      "utterance": "みんなの1推し2推し教えて\nうぬ\nワイ、マグロと中華推し"
+    },
+    {
+      "speaker": "E",
+      "utterance": "\"1.マグロ\n2.中華\""
+    },
+    {
+      "speaker": "B",
+      "utterance": "\"1.マグロ\n2.スペイン\""
+    },
+    {
+      "speaker": "D",
+      "utterance": "マグロかカレー"
+    },
+    {
+      "speaker": "C",
+      "utterance": "じゃマグロにしよう"
+    },
+    {
+      "speaker": "A",
+      "utterance": "マグロ大人気やん\nマグロで行こう"
+    },
+    {
+      "speaker": "B",
+      "utterance": "インパクトがあるからね"
+    },
+    {
+      "speaker": "A",
+      "utterance": "映ます"
+    },
+    {
+      "speaker": "B",
+      "utterance": "ではマグロ決定で"
+    },
+    {
+      "speaker": "A",
+      "utterance": "(スタンプ)"
+    },
+    {
+      "speaker": "B",
+      "utterance": "18時で良い？"
+    },
+    {
+      "speaker": "E",
+      "utterance": "多分大丈夫"
+    }
+  ],
+  "info": [
+    {
+      "website": "https://tabelog.com/tokyo/A1310/A131004/13199018/",
+      "restaurant": "和酒処 純吟"
+    },
+    {
+      "website": "https://s.tabelog.com/tokyo/A1310/A131004/13156657/",
+      "restaurant": "鮪専門店 MEGRO（メグロ）"
+    },
+    {
+      "website": "https://tabelog.com/tokyo/A1311/A131101/13033116/",
+      "restaurant": "ラッフルズ カリー（raffles curry）"
+    },
+    {
+      "website": "https://tabelog.com/tokyo/A1311/A131101/13034317/",
+      "restaurant": "再来宴 上野仲町通り店（サイライエン）"
+    },
+    {
+      "website": "https://tabelog.com/tokyo/A1310/A131004/13162301/",
+      "restaurant": "スペインバル　カリエンテ（Spain bar Caliente）"
+    }
+  ]
+}

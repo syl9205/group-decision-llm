@@ -1,0 +1,79 @@
+{
+  "perception_table": [
+    {
+      "participant": "A",
+      "restaurant": "つばめグリル 新宿ルミネ店",
+      "perception": "Negative"
+    },
+    {
+      "participant": "A",
+      "restaurant": "新宿ぱすたかん",
+      "perception": "Positive"
+    },
+    {
+      "participant": "A",
+      "restaurant": "グッドモーニングカフェ 早稲田",
+      "perception": "Negative"
+    },
+    {
+      "participant": "A",
+      "restaurant": "らぁ麺やまぐち",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "A",
+      "restaurant": "おぼんdeごはん 新宿ミロード店",
+      "perception": "Negative"
+    },
+    {
+      "participant": "B",
+      "restaurant": "つばめグリル 新宿ルミネ店",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "B",
+      "restaurant": "新宿ぱすたかん",
+      "perception": "Mix"
+    },
+    {
+      "participant": "B",
+      "restaurant": "グッドモーニングカフェ 早稲田",
+      "perception": "Positive"
+    },
+    {
+      "participant": "B",
+      "restaurant": "らぁ麺やまぐち",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "B",
+      "restaurant": "おぼんdeごはん 新宿ミロード店",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "C",
+      "restaurant": "つばめグリル 新宿ルミネ店",
+      "perception": "Positive"
+    },
+    {
+      "participant": "C",
+      "restaurant": "新宿ぱすたかん",
+      "perception": "Positive"
+    },
+    {
+      "participant": "C",
+      "restaurant": "グッドモーニングカフェ 早稲田",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "C",
+      "restaurant": "らぁ麺やまぐち",
+      "perception": "Mix"
+    },
+    {
+      "participant": "C",
+      "restaurant": "おぼんdeごはん 新宿ミロード店",
+      "perception": "Negative"
+    }
+  ]
+}

@@ -1,0 +1,429 @@
+{
+  "perception_table": [
+    {
+      "participant": "A",
+      "restaurant": "マクドナルド 駒場東大前店",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "A",
+      "restaurant": "武蔵野アブラ学会 吉祥寺店",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "A",
+      "restaurant": "一㐂",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "A",
+      "restaurant": "フィッシュ＆オイスターバー 西武渋谷店",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "A",
+      "restaurant": "レストラン ラタン",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "A",
+      "restaurant": "うさぎ",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "A",
+      "restaurant": "CONA BACCA 府中店",
+      "perception": "Positive"
+    },
+    {
+      "participant": "A",
+      "restaurant": "焼肉ホルモン 新井屋 渋谷",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "A",
+      "restaurant": "府中肉流通センター",
+      "perception": "Positive"
+    },
+    {
+      "participant": "A",
+      "restaurant": "パリのワイン食堂",
+      "perception": "Mix"
+    },
+    {
+      "participant": "A",
+      "restaurant": "カルーアクイーン",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "A",
+      "restaurant": "スパイスラーメン 点と線",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "A",
+      "restaurant": "千里眼",
+      "perception": "Negative"
+    },
+    {
+      "participant": "A",
+      "restaurant": "麺屋 蕃茄",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "A",
+      "restaurant": "麺ダイニング ととこ",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "A",
+      "restaurant": "貝麺 みかわ",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "A",
+      "restaurant": "ビストロ炭焼肉酒場 チキンレッグ 吉祥寺店",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "B",
+      "restaurant": "マクドナルド 駒場東大前店",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "B",
+      "restaurant": "武蔵野アブラ学会 吉祥寺店",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "B",
+      "restaurant": "一㐂",
+      "perception": "Negative"
+    },
+    {
+      "participant": "B",
+      "restaurant": "フィッシュ＆オイスターバー 西武渋谷店",
+      "perception": "Mix"
+    },
+    {
+      "participant": "B",
+      "restaurant": "レストラン ラタン",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "B",
+      "restaurant": "うさぎ",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "B",
+      "restaurant": "CONA BACCA 府中店",
+      "perception": "Negative"
+    },
+    {
+      "participant": "B",
+      "restaurant": "焼肉ホルモン 新井屋 渋谷",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "B",
+      "restaurant": "府中肉流通センター",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "B",
+      "restaurant": "パリのワイン食堂",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "B",
+      "restaurant": "カルーアクイーン",
+      "perception": "Negative"
+    },
+    {
+      "participant": "B",
+      "restaurant": "スパイスラーメン 点と線",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "B",
+      "restaurant": "千里眼",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "B",
+      "restaurant": "麺屋 蕃茄",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "B",
+      "restaurant": "麺ダイニング ととこ",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "B",
+      "restaurant": "貝麺 みかわ",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "B",
+      "restaurant": "ビストロ炭焼肉酒場 チキンレッグ 吉祥寺店",
+      "perception": "Negative"
+    },
+    {
+      "participant": "C",
+      "restaurant": "マクドナルド 駒場東大前店",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "C",
+      "restaurant": "武蔵野アブラ学会 吉祥寺店",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "C",
+      "restaurant": "一㐂",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "C",
+      "restaurant": "フィッシュ＆オイスターバー 西武渋谷店",
+      "perception": "Negative"
+    },
+    {
+      "participant": "C",
+      "restaurant": "レストラン ラタン",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "C",
+      "restaurant": "うさぎ",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "C",
+      "restaurant": "CONA BACCA 府中店",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "C",
+      "restaurant": "焼肉ホルモン 新井屋 渋谷",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "C",
+      "restaurant": "府中肉流通センター",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "C",
+      "restaurant": "パリのワイン食堂",
+      "perception": "Positive"
+    },
+    {
+      "participant": "C",
+      "restaurant": "カルーアクイーン",
+      "perception": "Negative"
+    },
+    {
+      "participant": "C",
+      "restaurant": "スパイスラーメン 点と線",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "C",
+      "restaurant": "千里眼",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "C",
+      "restaurant": "麺屋 蕃茄",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "C",
+      "restaurant": "麺ダイニング ととこ",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "C",
+      "restaurant": "貝麺 みかわ",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "C",
+      "restaurant": "ビストロ炭焼肉酒場 チキンレッグ 吉祥寺店",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "D",
+      "restaurant": "マクドナルド 駒場東大前店",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "D",
+      "restaurant": "武蔵野アブラ学会 吉祥寺店",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "D",
+      "restaurant": "一㐂",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "D",
+      "restaurant": "フィッシュ＆オイスターバー 西武渋谷店",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "D",
+      "restaurant": "レストラン ラタン",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "D",
+      "restaurant": "うさぎ",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "D",
+      "restaurant": "CONA BACCA 府中店",
+      "perception": "Positive"
+    },
+    {
+      "participant": "D",
+      "restaurant": "焼肉ホルモン 新井屋 渋谷",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "D",
+      "restaurant": "府中肉流通センター",
+      "perception": "Positive"
+    },
+    {
+      "participant": "D",
+      "restaurant": "パリのワイン食堂",
+      "perception": "Mix"
+    },
+    {
+      "participant": "D",
+      "restaurant": "カルーアクイーン",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "D",
+      "restaurant": "スパイスラーメン 点と線",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "D",
+      "restaurant": "千里眼",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "D",
+      "restaurant": "麺屋 蕃茄",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "D",
+      "restaurant": "麺ダイニング ととこ",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "D",
+      "restaurant": "貝麺 みかわ",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "D",
+      "restaurant": "ビストロ炭焼肉酒場 チキンレッグ 吉祥寺店",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "E",
+      "restaurant": "マクドナルド 駒場東大前店",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "E",
+      "restaurant": "武蔵野アブラ学会 吉祥寺店",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "E",
+      "restaurant": "一㐂",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "E",
+      "restaurant": "フィッシュ＆オイスターバー 西武渋谷店",
+      "perception": "Positive"
+    },
+    {
+      "participant": "E",
+      "restaurant": "レストラン ラタン",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "E",
+      "restaurant": "うさぎ",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "E",
+      "restaurant": "CONA BACCA 府中店",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "E",
+      "restaurant": "焼肉ホルモン 新井屋 渋谷",
+      "perception": "Positive"
+    },
+    {
+      "participant": "E",
+      "restaurant": "府中肉流通センター",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "E",
+      "restaurant": "パリのワイン食堂",
+      "perception": "Positive"
+    },
+    {
+      "participant": "E",
+      "restaurant": "カルーアクイーン",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "E",
+      "restaurant": "スパイスラーメン 点と線",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "E",
+      "restaurant": "千里眼",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "E",
+      "restaurant": "麺屋 蕃茄",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "E",
+      "restaurant": "麺ダイニング ととこ",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "E",
+      "restaurant": "貝麺 みかわ",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "E",
+      "restaurant": "ビストロ炭焼肉酒場 チキンレッグ 吉祥寺店",
+      "perception": "Neutral"
+    }
+  ]
+}

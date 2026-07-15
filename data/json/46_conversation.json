@@ -1,0 +1,203 @@
+{
+  "conversation_id": "46",
+  "conversation": [
+    {
+      "speaker": "A",
+      "utterance": "1/4までか\n27とか"
+    },
+    {
+      "speaker": "B",
+      "utterance": "おけ\nCさんどうですか"
+    },
+    {
+      "speaker": "C",
+      "utterance": "むりやーw"
+    },
+    {
+      "speaker": "B",
+      "utterance": "えぐし"
+    },
+    {
+      "speaker": "A",
+      "utterance": "おもいついたわ\n25や"
+    },
+    {
+      "speaker": "B",
+      "utterance": "24Cハブりかと思ったわ"
+    },
+    {
+      "speaker": "A",
+      "utterance": "でもいいよ"
+    },
+    {
+      "speaker": "C",
+      "utterance": "24じゃね"
+    },
+    {
+      "speaker": "A",
+      "utterance": "wwww"
+    },
+    {
+      "speaker": "C",
+      "utterance": "Cはぶりたいしな"
+    },
+    {
+      "speaker": "B",
+      "utterance": "実験ならしゃあないか"
+    },
+    {
+      "speaker": "C",
+      "utterance": "いたしかたなし"
+    },
+    {
+      "speaker": "A",
+      "utterance": "鍋とか全部やめてCはぶるか"
+    },
+    {
+      "speaker": "C",
+      "utterance": "ごめん"
+    },
+    {
+      "speaker": "B",
+      "utterance": "マジな話25だな\nクリパしよか"
+    },
+    {
+      "speaker": "A",
+      "utterance": "おけ"
+    },
+    {
+      "speaker": "C",
+      "utterance": "ありやな"
+    },
+    {
+      "speaker": "A",
+      "utterance": "25にすっか"
+    },
+    {
+      "speaker": "B",
+      "utterance": "決定しました"
+    },
+    {
+      "speaker": "C",
+      "utterance": "おけ"
+    },
+    {
+      "speaker": "A",
+      "utterance": "18:00とか？"
+    },
+    {
+      "speaker": "B",
+      "utterance": "おけ\n決定"
+    },
+    {
+      "speaker": "C",
+      "utterance": "うん\n完璧"
+    },
+    {
+      "speaker": "B",
+      "utterance": "25 18:00からです"
+    },
+    {
+      "speaker": "A",
+      "utterance": "\"アルデバラン\n03-6459-4888\n東京都港区麻布十番3-3-1 三喜ビル 3F"
+    },
+    {
+      "speaker": "https",
+      "utterance": "//tabelog.com/tokyo/A1307/A130702/13278678/\""
+    },
+    {
+      "speaker": "B",
+      "utterance": "\"ハヌリ 渋谷\n050-5868-7539\n東京都渋谷区道玄坂2-10-13 成瀬ビル　２Ｆ"
+    },
+    {
+      "speaker": "https",
+      "utterance": "//tabelog.com/tokyo/A1303/A130301/13043054/\""
+    },
+    {
+      "speaker": "A",
+      "utterance": "\"牛タン 夏火鉢\n050-3184-0803\n東京都世田谷区代沢5-36-13"
+    },
+    {
+      "speaker": "https",
+      "utterance": "//tabelog.com/tokyo/A1318/A131802/13141790/\""
+    },
+    {
+      "speaker": "C",
+      "utterance": "https://tabelog.com/tokyo/A1305/A130501/13170403/"
+    },
+    {
+      "speaker": "A",
+      "utterance": "出しました"
+    },
+    {
+      "speaker": "B",
+      "utterance": "あげおわりました"
+    },
+    {
+      "speaker": "C",
+      "utterance": "あげおわりました"
+    },
+    {
+      "speaker": "B",
+      "utterance": "ここにしましょう\n決定でいいですか？"
+    },
+    {
+      "speaker": "C",
+      "utterance": "www"
+    },
+    {
+      "speaker": "A",
+      "utterance": "いいと思います"
+    },
+    {
+      "speaker": "B",
+      "utterance": "決定です"
+    },
+    {
+      "speaker": "C",
+      "utterance": "wwww"
+    },
+    {
+      "speaker": "A",
+      "utterance": "Cくえるっけ\n牛タン"
+    },
+    {
+      "speaker": "B",
+      "utterance": "食えず\nしゃあなし決定で"
+    },
+    {
+      "speaker": "A",
+      "utterance": "あちゃー"
+    },
+    {
+      "speaker": "C",
+      "utterance": "(スタンプ)"
+    },
+    {
+      "speaker": "B",
+      "utterance": "Cの好み聞いてたら2時間コースよ\n決定しました"
+    },
+    {
+      "speaker": "A",
+      "utterance": "たしかにな"
+    }
+  ],
+  "info": [
+    {
+      "website": "https://tabelog.com/tokyo/A1307/A130702/13278678/",
+      "restaurant": "アルデバラン"
+    },
+    {
+      "website": "https://tabelog.com/tokyo/A1303/A130301/13043054/",
+      "restaurant": "ハヌリ 渋谷"
+    },
+    {
+      "website": "https://tabelog.com/tokyo/A1318/A131802/13141790/",
+      "restaurant": "牛タン 夏火鉢（ナツヒバチ）"
+    },
+    {
+      "website": "https://tabelog.com/tokyo/A1305/A130501/13170403/",
+      "restaurant": "PIZZA BORSA（ピッツァ ボルサ）"
+    }
+  ]
+}

@@ -1,0 +1,224 @@
+{
+  "mentioned_table": [
+    {
+      "participant": "A",
+      "restaurant": "博多串焼き・野菜巻き工房  渋谷宮益坂のごりょんさん",
+      "mention": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "赤から 新宿東口店",
+      "mention": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "純米酒専門YATA 新宿三丁目店（ヤタ）",
+      "mention": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "居酒屋 四谷 なごみ",
+      "mention": "Mentioned"
+    },
+    {
+      "participant": "A",
+      "restaurant": "赤から 渋谷本店",
+      "mention": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "おでんやden（おでんやでん）",
+      "mention": "Mentioned"
+    },
+    {
+      "participant": "A",
+      "restaurant": "Nihonbashi 1-1-1",
+      "mention": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "餃子専門店 藤井屋",
+      "mention": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "北丸 新宿南口店 （きたまる）",
+      "mention": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "牛たん酒場 たん之助 COMORE四谷店",
+      "mention": "Mentioned"
+    },
+    {
+      "participant": "A",
+      "restaurant": "赤から 赤坂TBS通り店",
+      "mention": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "博多串焼き・野菜巻き工房  渋谷宮益坂のごりょんさん",
+      "mention": "Mentioned"
+    },
+    {
+      "participant": "B",
+      "restaurant": "赤から 新宿東口店",
+      "mention": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "純米酒専門YATA 新宿三丁目店（ヤタ）",
+      "mention": "Mentioned"
+    },
+    {
+      "participant": "B",
+      "restaurant": "居酒屋 四谷 なごみ",
+      "mention": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "赤から 渋谷本店",
+      "mention": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "おでんやden（おでんやでん）",
+      "mention": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "Nihonbashi 1-1-1",
+      "mention": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "餃子専門店 藤井屋",
+      "mention": "Mentioned"
+    },
+    {
+      "participant": "B",
+      "restaurant": "北丸 新宿南口店 （きたまる）",
+      "mention": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "牛たん酒場 たん之助 COMORE四谷店",
+      "mention": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "赤から 赤坂TBS通り店",
+      "mention": "Mentioned"
+    },
+    {
+      "participant": "C",
+      "restaurant": "博多串焼き・野菜巻き工房  渋谷宮益坂のごりょんさん",
+      "mention": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "赤から 新宿東口店",
+      "mention": "Mentioned"
+    },
+    {
+      "participant": "C",
+      "restaurant": "純米酒専門YATA 新宿三丁目店（ヤタ）",
+      "mention": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "居酒屋 四谷 なごみ",
+      "mention": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "赤から 渋谷本店",
+      "mention": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "おでんやden（おでんやでん）",
+      "mention": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "Nihonbashi 1-1-1",
+      "mention": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "餃子専門店 藤井屋",
+      "mention": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "北丸 新宿南口店 （きたまる）",
+      "mention": "Mentioned"
+    },
+    {
+      "participant": "C",
+      "restaurant": "牛たん酒場 たん之助 COMORE四谷店",
+      "mention": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "赤から 赤坂TBS通り店",
+      "mention": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "博多串焼き・野菜巻き工房  渋谷宮益坂のごりょんさん",
+      "mention": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "赤から 新宿東口店",
+      "mention": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "純米酒専門YATA 新宿三丁目店（ヤタ）",
+      "mention": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "居酒屋 四谷 なごみ",
+      "mention": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "赤から 渋谷本店",
+      "mention": "Mentioned"
+    },
+    {
+      "participant": "D",
+      "restaurant": "おでんやden（おでんやでん）",
+      "mention": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "Nihonbashi 1-1-1",
+      "mention": "Mentioned"
+    },
+    {
+      "participant": "D",
+      "restaurant": "餃子専門店 藤井屋",
+      "mention": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "北丸 新宿南口店 （きたまる）",
+      "mention": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "牛たん酒場 たん之助 COMORE四谷店",
+      "mention": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "赤から 赤坂TBS通り店",
+      "mention": "None"
+    }
+  ]
+}

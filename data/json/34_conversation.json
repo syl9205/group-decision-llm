@@ -1,0 +1,403 @@
+{
+  "conversation_id": "34",
+  "conversation": [
+    {
+      "speaker": "A",
+      "utterance": "むずいな"
+    },
+    {
+      "speaker": "B",
+      "utterance": "金曜っすか？\n2週間以内ってのが"
+    },
+    {
+      "speaker": "A",
+      "utterance": "4日でいいんじゃない"
+    },
+    {
+      "speaker": "C",
+      "utterance": "たしかに\n四日あり"
+    },
+    {
+      "speaker": "D",
+      "utterance": "11金は？"
+    },
+    {
+      "speaker": "A",
+      "utterance": "俺はそれでもいい"
+    },
+    {
+      "speaker": "D",
+      "utterance": "じゃ11金で"
+    },
+    {
+      "speaker": "A",
+      "utterance": "報告会のある土曜か金曜がいいなあ"
+    },
+    {
+      "speaker": "B",
+      "utterance": "どっちかって言うと11の方がいいです\n賛成"
+    },
+    {
+      "speaker": "A",
+      "utterance": "@C @E"
+    },
+    {
+      "speaker": "C",
+      "utterance": "おけ"
+    },
+    {
+      "speaker": "B",
+      "utterance": "\"4日は報告会が午前で終わっちゃいますからね\n@E しっていたか？\""
+    },
+    {
+      "speaker": "E",
+      "utterance": "知らんかった"
+    },
+    {
+      "speaker": "B",
+      "utterance": "4日は報告会が金曜午前9時からに変更になっている"
+    },
+    {
+      "speaker": "A",
+      "utterance": "まあ4は○○と○○説あるし"
+    },
+    {
+      "speaker": "B",
+      "utterance": "てか12日（土）も報告会ないやん"
+    },
+    {
+      "speaker": "A",
+      "utterance": "マ？"
+    },
+    {
+      "speaker": "B",
+      "utterance": "(写真)"
+    },
+    {
+      "speaker": "A",
+      "utterance": "あーなんか学会とか言ってた気するわ\nでEは11どうなん"
+    },
+    {
+      "speaker": "E",
+      "utterance": "11いけます"
+    },
+    {
+      "speaker": "A",
+      "utterance": "じゃあ11で"
+    },
+    {
+      "speaker": "B",
+      "utterance": "ちょまって"
+    },
+    {
+      "speaker": "D",
+      "utterance": "ok"
+    },
+    {
+      "speaker": "E",
+      "utterance": "おけ"
+    },
+    {
+      "speaker": "A",
+      "utterance": "はい"
+    },
+    {
+      "speaker": "B",
+      "utterance": "まあいいか\nokです"
+    },
+    {
+      "speaker": "E",
+      "utterance": "確定？"
+    },
+    {
+      "speaker": "D",
+      "utterance": "確定！"
+    },
+    {
+      "speaker": "A",
+      "utterance": "11で確定な"
+    },
+    {
+      "speaker": "B",
+      "utterance": "時間は？"
+    },
+    {
+      "speaker": "A",
+      "utterance": "19とか？"
+    },
+    {
+      "speaker": "D",
+      "utterance": "ok"
+    },
+    {
+      "speaker": "C",
+      "utterance": "おけ"
+    },
+    {
+      "speaker": "E",
+      "utterance": "おけ"
+    },
+    {
+      "speaker": "B",
+      "utterance": "ok"
+    },
+    {
+      "speaker": "A",
+      "utterance": "じゃあ11(金)19時で\n場所は"
+    },
+    {
+      "speaker": "B",
+      "utterance": "いったん修了で鵜ね"
+    },
+    {
+      "speaker": "C",
+      "utterance": "わろた"
+    },
+    {
+      "speaker": "A",
+      "utterance": "https://tabelog.com/tokyo/A1310/A131004/13098248/"
+    },
+    {
+      "speaker": "B",
+      "utterance": "はや杉"
+    },
+    {
+      "speaker": "D",
+      "utterance": "https://tabelog.com/tokyo/A1311/A131101/13210392/"
+    },
+    {
+      "speaker": "B",
+      "utterance": "会食ってラーメン可？"
+    },
+    {
+      "speaker": "D",
+      "utterance": "もちろん"
+    },
+    {
+      "speaker": "A",
+      "utterance": "https://tabelog.com/tokyo/A1310/A131004/13022244/"
+    },
+    {
+      "speaker": "C",
+      "utterance": "5人きつくねあそこ"
+    },
+    {
+      "speaker": "E",
+      "utterance": "https://s.tabelog.com/tokyo/A1309/A130905/13165268/"
+    },
+    {
+      "speaker": "B",
+      "utterance": "https://tabelog.com/tokyo/A1311/A131101/13186202/"
+    },
+    {
+      "speaker": "C",
+      "utterance": "https://tabelog.com/tokyo/A1310/A131004/13160169/"
+    },
+    {
+      "speaker": "A",
+      "utterance": "https://tabelog.com/tokyo/A1310/A131004/13022244/"
+    },
+    {
+      "speaker": "B",
+      "utterance": "もつ食いたいです"
+    },
+    {
+      "speaker": "A",
+      "utterance": "https://s.tabelog.com/tokyo/A1311/A131101/13035264/"
+    },
+    {
+      "speaker": "D",
+      "utterance": "とりあえず候補は出たかな"
+    },
+    {
+      "speaker": "A",
+      "utterance": "雑にチェーン店しか上げてない\nまあいいんじゃない"
+    },
+    {
+      "speaker": "D",
+      "utterance": "ok"
+    },
+    {
+      "speaker": "A",
+      "utterance": "ぶっちゃけどこでもいいがせっかくならいってことないとこがいい"
+    },
+    {
+      "speaker": "B",
+      "utterance": "Eのところは予算どのくらいなん"
+    },
+    {
+      "speaker": "A",
+      "utterance": "夜は30-39やね"
+    },
+    {
+      "speaker": "E",
+      "utterance": "夜は2、3千ぐらいっすね"
+    },
+    {
+      "speaker": "B",
+      "utterance": "\"それは賛成\nバンギョとサイゼは若干渋い\"\nいったことあるん？"
+    },
+    {
+      "speaker": "E",
+      "utterance": "昼はたくさんある、夜は一、二回しかないはず\n俺もばんぎょとサイゼ以外がいいっす"
+    },
+    {
+      "speaker": "A",
+      "utterance": "これって神楽坂？"
+    },
+    {
+      "speaker": "C",
+      "utterance": "イタリアンより肉食いたいな"
+    },
+    {
+      "speaker": "E",
+      "utterance": "イエス"
+    },
+    {
+      "speaker": "A",
+      "utterance": "イタリアンバルだから肉料理もあるぞ"
+    },
+    {
+      "speaker": "C",
+      "utterance": "ま？"
+    },
+    {
+      "speaker": "A",
+      "utterance": "(写真)"
+    },
+    {
+      "speaker": "B",
+      "utterance": "(写真)\n(写真)"
+    },
+    {
+      "speaker": "C",
+      "utterance": "\"うまそう\nでも正直移動がだるい\""
+    },
+    {
+      "speaker": "E",
+      "utterance": "飲まなきゃそんなに高くないはず"
+    },
+    {
+      "speaker": "B",
+      "utterance": "チャリで10分くらいっすよ"
+    },
+    {
+      "speaker": "A",
+      "utterance": "チャリ持ちなんやから"
+    },
+    {
+      "speaker": "C",
+      "utterance": "え？"
+    },
+    {
+      "speaker": "E",
+      "utterance": "ちょっと駅からあるくっすね\n歩く"
+    },
+    {
+      "speaker": "C",
+      "utterance": "Bのモツはどうなの？"
+    },
+    {
+      "speaker": "E",
+      "utterance": "Bのもつのところは行ったことあるの\n？"
+    },
+    {
+      "speaker": "D",
+      "utterance": "じゃあEのところで決まりでいいかな？"
+    },
+    {
+      "speaker": "A",
+      "utterance": "(写真)"
+    },
+    {
+      "speaker": "B",
+      "utterance": "\"ごめんなさいグーグルによるとチャリ20分弱だった\n飛ばせばもうちょい近いと思うけど\""
+    },
+    {
+      "speaker": "A",
+      "utterance": "いうほど遠くねえ"
+    },
+    {
+      "speaker": "B",
+      "utterance": "\"ある\nここは安くてごみごみしてる\"\nせっかく行くんならEの綺麗なとこでいい気がする"
+    },
+    {
+      "speaker": "E",
+      "utterance": "いや、結構飯田橋まで行くのはだるいっすよ"
+    },
+    {
+      "speaker": "A",
+      "utterance": "せっかくなら高級感出していこうや"
+    },
+    {
+      "speaker": "B",
+      "utterance": "持つは今度安く済ませたい時にしましょう"
+    },
+    {
+      "speaker": "D",
+      "utterance": "ok. Eのところで"
+    },
+    {
+      "speaker": "B",
+      "utterance": "Dさん早く終わらせた杉でしょ"
+    },
+    {
+      "speaker": "C",
+      "utterance": "俺もEので賛成"
+    },
+    {
+      "speaker": "A",
+      "utterance": "じゃあピザやね\n草"
+    },
+    {
+      "speaker": "C",
+      "utterance": "それな笑"
+    },
+    {
+      "speaker": "B",
+      "utterance": "賛成"
+    },
+    {
+      "speaker": "D",
+      "utterance": "ok"
+    },
+    {
+      "speaker": "A",
+      "utterance": "https://s.tabelog.com/tokyo/A1309/A130905/13165268/\n再掲"
+    },
+    {
+      "speaker": "B",
+      "utterance": "Pc熱持って落ちちゃいました\nズーム追い出されたのでアンケートのリンクをこちらにも貼っていただきたいです"
+    }
+  ],
+  "info": [
+    {
+      "website": "https://tabelog.com/tokyo/A1310/A131004/13098248/",
+      "restaurant": "サイゼリヤ 本郷三丁目店"
+    },
+    {
+      "website": "https://tabelog.com/tokyo/A1311/A131101/13210392/",
+      "restaurant": "らーめん 鴨to葱"
+    },
+    {
+      "website": "https://tabelog.com/tokyo/A1310/A131004/13022244/",
+      "restaurant": "宮本（みやもと）"
+    },
+    {
+      "website": "https://s.tabelog.com/tokyo/A1309/A130905/13165268/",
+      "restaurant": "ピッツェリア トラットリア ニッターナ（NITTANA）"
+    },
+    {
+      "website": "https://tabelog.com/tokyo/A1311/A131101/13186202/",
+      "restaurant": "もつ焼き おとんば 上野店"
+    },
+    {
+      "website": "https://tabelog.com/tokyo/A1310/A131004/13160169/",
+      "restaurant": "一番餃子"
+    },
+    {
+      "website": "https://s.tabelog.com/tokyo/A1311/A131101/13035264/",
+      "restaurant": "しゃぶしゃぶ 温野菜 上野駅前店"
+    }
+  ]
+}

@@ -1,0 +1,139 @@
+{
+  "mentioned_table": [
+    {
+      "participant": "A",
+      "restaurant": "鳥貴族 渋谷センター街店",
+      "mention": "Mentioned"
+    },
+    {
+      "participant": "A",
+      "restaurant": "スシロー 渋谷駅前店",
+      "mention": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "無添くら寿司 渋谷駅前店",
+      "mention": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "goo ITALIANO 渋谷本店（グーイタリアーノ）",
+      "mention": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "ロイヤルホスト",
+      "mention": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "焼売",
+      "mention": "Mentioned"
+    },
+    {
+      "participant": "A",
+      "restaurant": "タイ料理",
+      "mention": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "BEE HOUSE 渋谷本店（ビーハウス 【旧店名】Piatto）",
+      "mention": "Mentioned"
+    },
+    {
+      "participant": "A",
+      "restaurant": "魚べい 渋谷道玄坂店（魚米）",
+      "mention": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "鳥貴族 渋谷センター街店",
+      "mention": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "スシロー 渋谷駅前店",
+      "mention": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "無添くら寿司 渋谷駅前店",
+      "mention": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "goo ITALIANO 渋谷本店（グーイタリアーノ）",
+      "mention": "Mentioned"
+    },
+    {
+      "participant": "B",
+      "restaurant": "ロイヤルホスト",
+      "mention": "Mentioned"
+    },
+    {
+      "participant": "B",
+      "restaurant": "焼売",
+      "mention": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "タイ料理",
+      "mention": "Mentioned"
+    },
+    {
+      "participant": "B",
+      "restaurant": "BEE HOUSE 渋谷本店（ビーハウス 【旧店名】Piatto）",
+      "mention": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "魚べい 渋谷道玄坂店（魚米）",
+      "mention": "Mentioned"
+    },
+    {
+      "participant": "C",
+      "restaurant": "鳥貴族 渋谷センター街店",
+      "mention": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "スシロー 渋谷駅前店",
+      "mention": "Mentioned"
+    },
+    {
+      "participant": "C",
+      "restaurant": "無添くら寿司 渋谷駅前店",
+      "mention": "Mentioned"
+    },
+    {
+      "participant": "C",
+      "restaurant": "goo ITALIANO 渋谷本店（グーイタリアーノ）",
+      "mention": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "ロイヤルホスト",
+      "mention": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "焼売",
+      "mention": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "タイ料理",
+      "mention": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "BEE HOUSE 渋谷本店（ビーハウス 【旧店名】Piatto）",
+      "mention": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "魚べい 渋谷道玄坂店（魚米）",
+      "mention": "None"
+    }
+  ]
+}

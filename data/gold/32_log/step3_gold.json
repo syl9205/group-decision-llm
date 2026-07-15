@@ -1,0 +1,94 @@
+{
+  "perception_table": [
+    {
+      "participant": "A",
+      "restaurant": "鳥貴族 上野中央通り店",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "A",
+      "restaurant": "しゃぶしゃぶ 温野菜 上野駅前店",
+      "perception": "Positive"
+    },
+    {
+      "participant": "A",
+      "restaurant": "韓国式居酒屋 トンマッコル 上野店",
+      "perception": "Mix"
+    },
+    {
+      "participant": "A",
+      "restaurant": "オイスターテーブル 上野さくらテラス店（OysterTable）",
+      "perception": "Negative"
+    },
+    {
+      "participant": "A",
+      "restaurant": "本格シュラスコ×肉バル Gabutto 新宿本店",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "A",
+      "restaurant": "ピアンタモッチ（【旧店名】コッコピア）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "B",
+      "restaurant": "鳥貴族 上野中央通り店",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "B",
+      "restaurant": "しゃぶしゃぶ 温野菜 上野駅前店",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "B",
+      "restaurant": "韓国式居酒屋 トンマッコル 上野店",
+      "perception": "Negative"
+    },
+    {
+      "participant": "B",
+      "restaurant": "オイスターテーブル 上野さくらテラス店（OysterTable）",
+      "perception": "Negative"
+    },
+    {
+      "participant": "B",
+      "restaurant": "本格シュラスコ×肉バル Gabutto 新宿本店 ",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "B",
+      "restaurant": "ピアンタモッチ（【旧店名】コッコピア）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "C",
+      "restaurant": "鳥貴族 上野中央通り店",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "C",
+      "restaurant": "しゃぶしゃぶ 温野菜 上野駅前店",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "C",
+      "restaurant": "韓国式居酒屋 トンマッコル 上野店",
+      "perception": "Positive"
+    },
+    {
+      "participant": "C",
+      "restaurant": "オイスターテーブル 上野さくらテラス店（OysterTable）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "C",
+      "restaurant": "本格シュラスコ×肉バル Gabutto 新宿本店 ",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "C",
+      "restaurant": "ピアンタモッチ（【旧店名】コッコピア）",
+      "perception": "Neutral"
+    }
+  ]
+}

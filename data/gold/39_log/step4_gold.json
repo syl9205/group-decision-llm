@@ -1,0 +1,326 @@
+{
+  "preference_table": [
+    {
+      "participant": "A",
+      "restaurant": "三島（みしま）",
+      "preferences": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "陳家私菜 渋谷店",
+      "preferences": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "つるとんたん UDON NOODLE Brasserie 渋谷店",
+      "preferences": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "タイ料理 シブカーオ 宮下公園前店",
+      "preferences": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "山下本気うどん 渋谷並木橋",
+      "preferences": "A5"
+    },
+    {
+      "participant": "A",
+      "restaurant": "横浜家系 侍 池尻店（さむらい）",
+      "preferences": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "菱田屋（ヒシダヤ）",
+      "preferences": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "ムスカン（MUSKAN）",
+      "preferences": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "三島（みしま）",
+      "preferences": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "陳家私菜 渋谷店",
+      "preferences": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "つるとんたん UDON NOODLE Brasserie 渋谷店",
+      "preferences": "A7"
+    },
+    {
+      "participant": "B",
+      "restaurant": "タイ料理 シブカーオ 宮下公園前店",
+      "preferences": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "山下本気うどん 渋谷並木橋",
+      "preferences": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "横浜家系 侍 池尻店（さむらい）",
+      "preferences": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "菱田屋（ヒシダヤ）",
+      "preferences": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "ムスカン（MUSKAN）",
+      "preferences": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "三島（みしま）",
+      "preferences": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "陳家私菜 渋谷店",
+      "preferences": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "つるとんたん UDON NOODLE Brasserie 渋谷店",
+      "preferences": "A7"
+    },
+    {
+      "participant": "C",
+      "restaurant": "タイ料理 シブカーオ 宮下公園前店",
+      "preferences": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "山下本気うどん 渋谷並木橋",
+      "preferences": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "横浜家系 侍 池尻店（さむらい）",
+      "preferences": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "菱田屋（ヒシダヤ）",
+      "preferences": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "ムスカン（MUSKAN）",
+      "preferences": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "三島（みしま）",
+      "preferences": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "陳家私菜 渋谷店",
+      "preferences": "A7"
+    },
+    {
+      "participant": "D",
+      "restaurant": "つるとんたん UDON NOODLE Brasserie 渋谷店",
+      "preferences": "A7"
+    },
+    {
+      "participant": "D",
+      "restaurant": "タイ料理 シブカーオ 宮下公園前店",
+      "preferences": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "山下本気うどん 渋谷並木橋",
+      "preferences": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "横浜家系 侍 池尻店（さむらい）",
+      "preferences": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "菱田屋（ヒシダヤ）",
+      "preferences": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "ムスカン（MUSKAN）",
+      "preferences": "None"
+    }
+  ],
+  "constraint_table": [
+    {
+      "participant": "A",
+      "restaurant": "三島（みしま）",
+      "constraints": "A3"
+    },
+    {
+      "participant": "A",
+      "restaurant": "陳家私菜 渋谷店",
+      "constraints": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "つるとんたん UDON NOODLE Brasserie 渋谷店",
+      "constraints": "A1,A6"
+    },
+    {
+      "participant": "A",
+      "restaurant": "タイ料理 シブカーオ 宮下公園前店",
+      "constraints": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "山下本気うどん 渋谷並木橋",
+      "constraints": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "横浜家系 侍 池尻店（さむらい）",
+      "constraints": "A3"
+    },
+    {
+      "participant": "A",
+      "restaurant": "菱田屋（ヒシダヤ）",
+      "constraints": "A7"
+    },
+    {
+      "participant": "A",
+      "restaurant": "ムスカン（MUSKAN）",
+      "constraints": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "三島（みしま）",
+      "constraints": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "陳家私菜 渋谷店",
+      "constraints": "A5"
+    },
+    {
+      "participant": "B",
+      "restaurant": "つるとんたん UDON NOODLE Brasserie 渋谷店",
+      "constraints": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "タイ料理 シブカーオ 宮下公園前店",
+      "constraints": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "山下本気うどん 渋谷並木橋",
+      "constraints": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "横浜家系 侍 池尻店（さむらい）",
+      "constraints": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "菱田屋（ヒシダヤ）",
+      "constraints": "A7"
+    },
+    {
+      "participant": "B",
+      "restaurant": "ムスカン（MUSKAN）",
+      "constraints": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "三島（みしま）",
+      "constraints": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "陳家私菜 渋谷店",
+      "constraints": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "つるとんたん UDON NOODLE Brasserie 渋谷店",
+      "constraints": "A6"
+    },
+    {
+      "participant": "C",
+      "restaurant": "タイ料理 シブカーオ 宮下公園前店",
+      "constraints": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "山下本気うどん 渋谷並木橋",
+      "constraints": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "横浜家系 侍 池尻店（さむらい）",
+      "constraints": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "菱田屋（ヒシダヤ）",
+      "constraints": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "ムスカン（MUSKAN）",
+      "constraints": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "三島（みしま）",
+      "constraints": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "陳家私菜 渋谷店",
+      "constraints": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "つるとんたん UDON NOODLE Brasserie 渋谷店",
+      "constraints": "A6"
+    },
+    {
+      "participant": "D",
+      "restaurant": "タイ料理 シブカーオ 宮下公園前店",
+      "constraints": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "山下本気うどん 渋谷並木橋",
+      "constraints": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "横浜家系 侍 池尻店（さむらい）",
+      "constraints": "None"
+    },
+    {
+      "participant": "D",
+      "restaurant": "菱田屋（ヒシダヤ）",
+      "constraints": "A3"
+    },
+    {
+      "participant": "D",
+      "restaurant": "ムスカン（MUSKAN）",
+      "constraints": "None"
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "perception_table": [
+    {
+      "participant": "A",
+      "restaurant": "和食ごはんと酒 縁 本郷三丁目店（yukari）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "A",
+      "restaurant": "松好（まつよし）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "A",
+      "restaurant": "RISE & WIN Brewing Co. KAMIKATZ TAPROOM（ライズアンドウィンブルーイングカンパニー カミカツタップルーム）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "A",
+      "restaurant": "新龍門",
+      "perception": "Positive"
+    },
+    {
+      "participant": "A",
+      "restaurant": "羅針盤",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "B",
+      "restaurant": "和食ごはんと酒 縁 本郷三丁目店（yukari）",
+      "perception": "Positive"
+    },
+    {
+      "participant": "B",
+      "restaurant": "松好（まつよし）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "B",
+      "restaurant": "RISE & WIN Brewing Co. KAMIKATZ TAPROOM（ライズアンドウィンブルーイングカンパニー カミカツタップルーム）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "B",
+      "restaurant": "新龍門",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "B",
+      "restaurant": "羅針盤",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "C",
+      "restaurant": "和食ごはんと酒 縁 本郷三丁目店（yukari）",
+      "perception": "Positive"
+    },
+    {
+      "participant": "C",
+      "restaurant": "松好（まつよし）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "C",
+      "restaurant": "RISE & WIN Brewing Co. KAMIKATZ TAPROOM（ライズアンドウィンブルーイングカンパニー カミカツタップルーム）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "C",
+      "restaurant": "新龍門",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "C",
+      "restaurant": "羅針盤",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "D",
+      "restaurant": "和食ごはんと酒 縁 本郷三丁目店（yukari）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "D",
+      "restaurant": "松好（まつよし）",
+      "perception": "Positive"
+    },
+    {
+      "participant": "D",
+      "restaurant": "RISE & WIN Brewing Co. KAMIKATZ TAPROOM（ライズアンドウィンブルーイングカンパニー カミカツタップルーム）",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "D",
+      "restaurant": "新龍門",
+      "perception": "Neutral"
+    },
+    {
+      "participant": "D",
+      "restaurant": "羅針盤",
+      "perception": "Neutral"
+    }
+  ]
+}

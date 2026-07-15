@@ -1,0 +1,96 @@
+{
+  "preference_table": [
+    {
+      "participant": "A",
+      "restaurant": "ホルモン千葉 渋谷店",
+      "preferences": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "小野田商店 学芸大学店",
+      "preferences": "A7"
+    },
+    {
+      "participant": "A",
+      "restaurant": "炭焼 金竜山（キンリュウサン）",
+      "preferences": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "ホルモン千葉 渋谷店",
+      "preferences": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "小野田商店 学芸大学店",
+      "preferences": "A2"
+    },
+    {
+      "participant": "B",
+      "restaurant": "炭焼 金竜山（キンリュウサン）",
+      "preferences": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "ホルモン千葉 渋谷店",
+      "preferences": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "小野田商店 学芸大学店",
+      "preferences": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "炭焼 金竜山（キンリュウサン）",
+      "preferences": "None"
+    }
+  ],
+  "constraint_table": [
+    {
+      "participant": "A",
+      "restaurant": "ホルモン千葉 渋谷店",
+      "constraints": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "小野田商店 学芸大学店",
+      "constraints": "None"
+    },
+    {
+      "participant": "A",
+      "restaurant": "炭焼 金竜山（キンリュウサン）",
+      "constraints": "A6"
+    },
+    {
+      "participant": "B",
+      "restaurant": "ホルモン千葉 渋谷店",
+      "constraints": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "小野田商店 学芸大学店",
+      "constraints": "None"
+    },
+    {
+      "participant": "B",
+      "restaurant": "炭焼 金竜山（キンリュウサン）",
+      "constraints": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "ホルモン千葉 渋谷店",
+      "constraints": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "小野田商店 学芸大学店",
+      "constraints": "None"
+    },
+    {
+      "participant": "C",
+      "restaurant": "炭焼 金竜山（キンリュウサン）",
+      "constraints": "None"
+    }
+  ]
+}
