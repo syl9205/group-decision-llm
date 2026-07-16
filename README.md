@@ -24,6 +24,15 @@ analysis and a qualitative error analysis.
 
 ## The four-step framework
 
+The chats are ultimately meant to feed **utility-based (discrete) choice models**
+of group decision-making. What such models require is exactly what the framework
+extracts: the **decision-makers**, the **alternatives** and how the **choice
+set** forms, the **final decision**, and the **alternative-specific attributes**
+that enter each member's utility. The extraction is organized as
+**knowledge-graph construction** — Entity Discovery → Coreference Resolution →
+Relation Extraction — so the study evaluates whether an LLM can read
+within-group interactions well enough to supply these modeling ingredients.
+
 Each conversation is analyzed in four sequential steps. Outputs of earlier steps
 are cumulatively fed into later steps (**Prompt Chaining**), and the system
 prompt designates the model as a *"Japan Conversation Analyst"* (**Role
@@ -38,29 +47,36 @@ Prompting**).
 | **3**   | Relation Extraction | `Perception Table` | `Positive` / `Negative` / `Neutral` / `Mix` |
 | **4**   | Relation Extraction | `Interpretation Table` | `A1`, `A2`, …, `A7` / `None` |
 
-**What each output contains**
+**What each output represents (in choice-modeling terms)**
 
-- `Participant Lists` — every participant in the chat (anonymized as A, B, C, …)
-- `Restaurant Lists` — every restaurant alternative raised in the conversation, resolved to its
-  official name via the chat's link table
-- `Chosen Restaurant` — the alternative the group finally selects
-- `Suggestion Lists` — per participant, how strongly they push their own preference (egocentrism)
-- `Response Lists` — per participant, how they react to others' proposals (egocentrism)
-- `Mentioned Table` — participant × restaurant grid; a cell is `Mentioned` when that participant
-  was the first to propose that restaurant
-- `Perception Table` — each participant's overall emotional tone toward each restaurant
-  (`Mix` when the tone changed over the conversation)
-- `Interpretation Table` — the preference / constraint factor codes behind each perception
-  (union of both factor sets per cell)
+- `Participant Lists` — the **decision-makers** of the group choice (anonymized as A, B, C, …)
+- `Restaurant Lists` — the **alternatives** raised in the conversation, resolved to official
+  names via the chat's link table
+- `Chosen Restaurant` — the **final decision** (the observed choice outcome)
+- `Suggestion Lists` / `Response Lists` — **latent individual traits of the decision-makers**
+  (egocentrism in proposing one's own preference vs. responding to others'), typically
+  unobservable in traditional surveys
+- `Mentioned Table` — **choice-set formation**: who first introduced each alternative,
+  capturing how the group's choice set emerges dynamically rather than being fixed a priori
+- `Perception Table` — each decision-maker's **preference polarity** toward each alternative
+- `Interpretation Table` — the **alternative-specific attributes** behind those preferences —
+  the factors that would enter a utility specification (union of preference and constraint
+  factor sets per cell)
 
 **Step 4 factor codes** — `A1` Restaurant Quality · `A2` Accessibility & Location ·
 `A3` Schedule Constraints · `A4` Social Utility for Consensus · `A5` Inertia ·
 `A6` Economic Considerations · `A7` Others
 
-**Prompting techniques compared**
+**Prompting techniques — a dual-process design (Kahneman)**
 
-- Step 1 (*fast thinking*): `ND` (no delimiters), `ZS` (zero-shot with delimiters), `CoT`
-- Steps 2–4 (*slow thinking*): `CoT`, `SR` (Self-Refine), `PD` (Prompt Decomposition), `MoRE` (Mixture of Reasoning Experts)
+The prompt design follows **dual-process theory**: extracting explicit
+choice-model elements (who, which alternatives, what was chosen) is a
+**fast-thinking** task suited to simple prompts, while inferring the implicit
+reasoning inside the group — up to the alternative-specific attributes — is a
+**slow-thinking** task requiring structured reasoning prompts.
+
+- Step 1 (*fast thinking* — explicit elements): `ND` (no delimiters), `ZS` (zero-shot with delimiters), `CoT`
+- Steps 2–4 (*slow thinking* — implicit interpretation): `CoT`, `SR` (Self-Refine), `PD` (Prompt Decomposition), `MoRE` (Mixture of Reasoning Experts)
 
 ![Four-step prompting framework with the techniques applied at each step](figures/fig3_four_step_framework.png)
 
