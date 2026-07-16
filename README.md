@@ -29,13 +29,33 @@ are cumulatively fed into later steps (**Prompt Chaining**), and the system
 prompt designates the model as a *"Japan Conversation Analyst"* (**Role
 Prompting**).
 
-| Step | Knowledge-acquisition stage | Output |
-|------|-----------------------------|--------|
-| **1.1** | Entity Discovery | Participant Lists, Restaurant Lists, Chosen Restaurant |
-| **1.2** | Entity Discovery | Egocentrism: Suggestion Lists (Strong/Moderate/Weak) and Response Lists (Agreeable/Moderate/Disagreeable) |
-| **2**   | Coreference Resolution | Mentioned Table — who first proposed each restaurant |
-| **3**   | Relation Extraction | Perception Table — sentiment per (participant, restaurant) pair (Positive/Negative/Neutral/Mix) |
-| **4**   | Relation Extraction | Interpretation Table — preference/constraint factor codes `A1`–`A7` per pair |
+| Step | Knowledge-acquisition stage | Output | Values |
+|------|-----------------------------|--------|--------|
+| **1.1** | Entity Discovery | `Participant Lists` · `Restaurant Lists` · `Chosen Restaurant` | extracted names |
+| **1.2** | Entity Discovery | `Suggestion Lists` | `Strong` / `Moderate` / `Weak` |
+| **1.2** | Entity Discovery | `Response Lists` | `Agreeable` / `Moderate` / `Disagreeable` |
+| **2**   | Coreference Resolution | `Mentioned Table` | `Mentioned` / `None` |
+| **3**   | Relation Extraction | `Perception Table` | `Positive` / `Negative` / `Neutral` / `Mix` |
+| **4**   | Relation Extraction | `Interpretation Table` | `A1`, `A2`, …, `A7` / `None` |
+
+**What each output contains**
+
+- `Participant Lists` — every participant in the chat (anonymized as A, B, C, …)
+- `Restaurant Lists` — every restaurant alternative raised in the conversation, resolved to its
+  official name via the chat's link table
+- `Chosen Restaurant` — the alternative the group finally selects
+- `Suggestion Lists` — per participant, how strongly they push their own preference (egocentrism)
+- `Response Lists` — per participant, how they react to others' proposals (egocentrism)
+- `Mentioned Table` — participant × restaurant grid; a cell is `Mentioned` when that participant
+  was the first to propose that restaurant
+- `Perception Table` — each participant's overall emotional tone toward each restaurant
+  (`Mix` when the tone changed over the conversation)
+- `Interpretation Table` — the preference / constraint factor codes behind each perception
+  (union of both factor sets per cell)
+
+**Step 4 factor codes** — `A1` Restaurant Quality · `A2` Accessibility & Location ·
+`A3` Schedule Constraints · `A4` Social Utility for Consensus · `A5` Inertia ·
+`A6` Economic Considerations · `A7` Others
 
 **Prompting techniques compared**
 
