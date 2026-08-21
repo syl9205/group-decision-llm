@@ -1,5 +1,9 @@
 # Interpreting Group Decision-Making Conversations with LLMs
 
+> 📄 **Published:** Lim, S.-Y., Sato, K., Takami, K., Parady, G., Kim, E.-J. (2027),
+> *Travel Behaviour and Society*, 46, 101374 —
+> <https://doi.org/10.1016/j.tbs.2026.101374>
+
 Code, data, and evaluation results for a **four-step prompting framework** that
 uses large language models (GPT-4o and GPT-5) to convert unstructured group-chat
 dialogues into structured tables of decision-making factors. The case study is
@@ -207,24 +211,26 @@ format, the gold-annotation schema, and the Step 4 factor codes.
 
 If you use this code or data, please cite:
 
-> Lim, S.Y., Sato, K., Takami, K., Parady, G., Kim, E.J.\* (2026). Can Large Language Models
-> Interpret Unstructured Chat Data on Dynamic Group Decision-Making Processes? Evidence on Joint
-> Destination Choice. *arXiv preprint* arXiv:2601.05582.
-> <https://arxiv.org/abs/2601.05582> — currently under revision in *Travel Behaviour and Society*.
+> Lim, S.-Y., Sato, K., Takami, K., Parady, G., Kim, E.-J. (2027). Can large language models
+> interpret unstructured chat data on dynamic group decision-making processes? Evidence on joint
+> destination choice. *Travel Behaviour and Society*, 46, 101374.
+> <https://doi.org/10.1016/j.tbs.2026.101374>
 
 ```bibtex
-@article{lim2026llmgroupdecision,
-  title   = {Can Large Language Models Interpret Unstructured Chat Data on Dynamic
-             Group Decision-Making Processes? Evidence on Joint Destination Choice},
-  author  = {Lim, S.Y. and Sato, K. and Takami, K. and Parady, G. and Kim, E.J.},
-  journal = {arXiv preprint arXiv:2601.05582},
-  year    = {2026},
-  url     = {https://arxiv.org/abs/2601.05582},
-  note    = {Under revision in Travel Behaviour and Society}
+@article{lim2027llmgroupdecision,
+  title   = {Can large language models interpret unstructured chat data on dynamic
+             group decision-making processes? Evidence on joint destination choice},
+  author  = {Lim, Sung-Yoo and Sato, Koki and Takami, Kiyoshi and Parady, Giancarlos
+             and Kim, Eui-Jin},
+  journal = {Travel Behaviour and Society},
+  volume  = {46},
+  pages   = {101374},
+  year    = {2027},
+  issn    = {2214-367X},
+  doi     = {10.1016/j.tbs.2026.101374},
+  url     = {https://doi.org/10.1016/j.tbs.2026.101374}
 }
 ```
-
-*(This section will be updated with the journal citation upon publication.)*
 
 If you use the conversation data, please also cite the data-collection
 methodology:

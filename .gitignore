@@ -23,3 +23,9 @@ name_variations.xlsx
 
 # --- Manuscript (do not publish with the repo) ---
 Manuscript_*.docx
+
+# --- Publisher files & figure sources (keep local only) ---
+1-s2.0-*.pdf
+figures/*.tif
+figures/*.pptx
+figures/pagination_*.pdf
